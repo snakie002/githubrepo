@@ -1,0 +1,283 @@
+---
+title: "【POE】版本限定崩壞流派！俠客負電盾靈投擲 Raider Spectral Shield Throw | 奴隸式只為精雕細琢 | 訓練模式 | 流亡黯道 遊戲攻略 | Path of Exile"
+date: "2023-05-03"
+categories: 
+  - "path-of-exile-流亡黯道"
+  - "pc"
+  - "poe"
+  - "poe-3-21"
+  - "poe-build-guide"
+  - "poe-遠程"
+  - "guide"
+  - "遊戲評測"
+  - "遊戲雜談"
+tags: 
+  - "poe"
+  - "poe-3-21"
+  - "poe-3-21-攻略"
+  - "poe-raider"
+  - "poe-spectral-shield-throw"
+  - "poe-俠客"
+  - "poe-合成"
+  - "poe-崩壞"
+  - "poe-攻略"
+  - "poe-流派"
+  - "poe-盾靈投擲"
+  - "poe-負電"
+  - "poe-限定"
+  - "snakie"
+  - "snakie-何師傅"
+  - "snakie002"
+  - "torchlight-infinite"
+  - "何師傅"
+  - "流亡黯道"
+  - "流亡黯道-3-21"
+  - "流亡黯道-3-21-攻略"
+  - "流亡黯道-raider"
+  - "流亡黯道-spectral-shield-throw"
+  - "流亡黯道-俠客"
+  - "流亡黯道-合成"
+  - "流亡黯道-崩壞"
+  - "流亡黯道-攻略"
+  - "流亡黯道-流派"
+  - "流亡黯道-盾靈投擲"
+  - "流亡黯道-負電"
+  - "流亡黯道-限定"
+  - "火炬之光"
+  - "遊戲介紹"
+  - "遊戲攻略"
+  - "遊戲評價"
+coverImage: "thumbnail.jpg"
+---
+
+### 【POE】版本限定崩壞流派！俠客負電盾靈投擲 Raider Spectral Shield Throw  
+奴隸式只為精雕細琢 | 訓練模式 | 流亡黯道 遊戲攻略 | Path of Exile
+
+  
+   
+
+  
+大家好，又是我Snakie何師傅。  
+
+  
+這次跟大家分享的是開季前有不少人討論過的熔火限定  
+傳奇熔火天賦做成1000能量護盾 帝王的戒心  
+配合負電甲造成機體既有一定坦度及破壞性傷害  
+雖然想比真正破壞遊戲的爆炸圖騰傷害還差一點  
+但整體也是一個非常爽快的流派  
+雖然沒啥教育意義  
+但習慣性還是需要分享一下基本配置各樣  
+
+  
+   
+
+  
+希望這能幫到有興趣了解負電盾投的朋友們！  
+
+  
+![](WordPress/thumbnail-1024x576.jpg)  
+
+  
+   
+
+  
+文字補完 [原文連結](https://snakie002hosifu.blog/3-21-sst) (關於影片沒有提供的內容)：  
+
+  
+圖片只在Blog上提供，不便之處敬請留意！  
+
+  
+俠客負電甲盾靈投擲100等 : [https://pobb.in/19g8DyjIRxOi](https://pobb.in/19g8DyjIRxOi)  
+
+  
+以上均為3.21天賦路線  
+
+  
+以下為附圖方便各位：  
+
+  
+![](WordPress/p1-1024x891.png)  
+![](WordPress/p2.png)  
+
+  
+這種流派就沒有必要說等級需要  
+反正完全壓裝，裝備不定位就不像樣  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+<table style="height: 409px;" width="850"><tbody><tr><td colspan="2" width="517"><strong>專精部份</strong></td></tr><tr><td width="97">盾牌</td><td width="420">每10點能量護盾增加1% 暴擊加成</td></tr><tr><td width="97">格檔</td><td width="420">每5% 格檔機率有 3% 攻擊傷害</td></tr><tr><td width="97">偷取</td><td width="420">10% 立即偷取</td></tr><tr><td width="97">生命</td><td width="420">+50 最大生命</td></tr><tr><td width="97">魔力保留</td><td width="420">12% 魔力保留效能</td></tr><tr><td width="97">球</td><td width="420">每顆球增加3% 傷害</td></tr></tbody></table>
+
+  
+   
+
+  
+**技能連結**  
+
+  
+   
+
+  
+由於開始使用中文化POB  
+以下技能連結將會使用貼圖更易理解！  
+
+  
+基本上標配 只有四顆可轉換的技能  
+其中活力，冰閃現，盾衝都可以自由更換，  
+理論上可以再多放增幅在詛咒上會有差距，  
+不過已經足夠了，所以沒差  
+
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+<table style="height: 855px;" width="849"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-1826 size-large" src="WordPress/S1-1024x337.png" alt="" width="858" height="282"></td></tr><tr><td colspan="2" width="604">基本上綁定 必需要幻影版本 增加暴傷<br>分裂只是聊勝於無 因為都沒甚麼好插了</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-1829 size-large" src="WordPress/S4-1024x340.png" alt="" width="858" height="285"></td></tr><tr><td colspan="2" width="604">光環串</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-1827 size-large" src="WordPress/S2-1024x341.png" alt="" width="858" height="286"></td></tr><tr><td colspan="2" width="604">光環 ＋ 雜項串</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-1828 size-large" src="WordPress/S3-1024x332.png" alt="" width="858" height="278"></td></tr><tr><td colspan="2" width="604">增傷串 沒有增幅會有５％的區別</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-1830 size-large" src="WordPress/S5-1024x343.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">位移 ＋ 堅吼 堅吼是為了打王前儲滿怒氣直接開狂戰</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-1831 size-large" src="WordPress/S6-1024x349.png" alt="" width="858" height="292"></td></tr><tr><td colspan="2" width="604">增傷串</td></tr></tbody></table>
+
+  
+   
+
+  
+**裝備選擇**  
+
+  
+   
+
+  
+裝備就不一一詳述，詳情可點擊ＰＯＢ連結看到實際裝備  
+要留意戒指上的-6消耗不是-7  
+是因為要有效觸法啟法球而作用的  
+身上最差的就是戒指 其實是有重做的必要  
+直接上圖算了  
+
+  
+![](WordPress/E1.png)  
+
+  
+![](WordPress/E6.png)  
+![](WordPress/E5.png)  
+![](WordPress/E4.png)  
+![](WordPress/E3.png)  
+![](WordPress/E2.png)  
+
+  
+![](WordPress/1.png)  
+
+  
+![](WordPress/3.png)  
+![](WordPress/4.png)  
+
+### **感想心得**
+
+  
+   
+
+  
+這就是POE高階玩家所追求的極致類別  
+如果沒有所有星團武器及詞綴配合  
+單純1000能盾只是很暴力  
+但沒有這種能打能抗的感覺  
+把盾投這類不是爆炸性傷害的流派玩到這種傷害  
+也是POE最有趣同時最變態的地方  
+還是補上一句 以上僅供參考  
+當多看一種玩法就對了  
+
+  
+差不多這樣了，希望可以幫到各位有興趣的玩家！  
+
+  
+希望可以幫到大家！謝謝你！  
+如果想繼續看到遊戲攻略評價，各式各樣遊戲影片，  
+請訂閱小弟Snakie何師傅的YouTube頻道！  
+謝謝你！  
+
+  
+By Snakie何師傅  
+
+  
+YouTube: [Snakie002](https://www.youtube.com/channel/UCDOMLG_RBSoqVHK3sIYJeLA)  
+
+  
+Twitch: [Snakie002](https://www.twitch.tv/snakie002/)  
+
+  
+Blog: [Snakie002hosifu](https://snakie002hosifu.blog/)  
+
+  
+FB Page: [Snakie002](https://www.facebook.com/Snakie002/)  
+
+  
+IG Page: [Snakie002](https://www.instagram.com/snakie002/)

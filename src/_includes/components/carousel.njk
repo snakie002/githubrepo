@@ -1,0 +1,24 @@
+<section id="main-carousel" class="splide mb-4">
+    <div class="splide__track">
+        <ul class="splide__list">
+            {% for featuredPost in collections.featuredPosts %}
+                {% if featuredPost.data.coverImage %}
+                    <li class="splide__slide">{% coverimage featuredPost, featuredPost.data.title %}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+<section id="thumbnail-carousel" class="splide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            {% for featuredPost in collections.featuredPosts %}
+                {% if featuredPost.data.coverImage %}
+                    <li class="splide__slide">
+                        {% coverimage featuredPost, featuredPost.data.title %}
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>

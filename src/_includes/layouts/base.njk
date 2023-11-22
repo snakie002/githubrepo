@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="{{ metadata.language }}" data-theme="snakieDark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.8">
+        <title>{{ title or metadata.title }}</title>
+        <meta
+        name="description" content="{{ description or metadata.description }}"> {#- Atom and JSON feeds included by default #}
+        <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+        <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
+        <link rel="stylesheet" type="text/css" href="/assets/css/index.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;700&display=swap" rel="stylesheet">
+        <script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js "></script>
+        <link
+            href=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css "
+            rel="stylesheet">
+        <style>{% getBundle "css" %}</style>
+    </head>
+    <body>
+        <div class="py-8 bg-base-200">
+            <div class="py-4 lg:py-8 px-1 lg:px-4 container max-w-[1200px] mx-auto">
+                {% include "../components/topnav.njk" %}
+            </div>
+            {% include "../components/category.njk" %}
+            <main class="container max-w-[1200px] mx-auto px-4">
+                {{ content | safe }}
+            </main>
+        </div>
+        <!-- Current page: {{ page.url | htmlBaseUrl }} -->
+    </body>
+</html>
