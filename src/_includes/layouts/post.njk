@@ -3,23 +3,29 @@ layout: layouts/base.njk
 ---
 
 <div class="flex flex-col lg:flex-row space-x-6">
-  <div class="post-content">
-    <h1>{{ title }}</h1>
-    <div class="post-metadata mt-4 mb-8 space-y-2">
-      <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-      <div>
-        {%- for tag in tags | filterTagList %}
-          {%- set tagUrl %}/tags/{{ tag }}/{% endset %}
-          <div class="badge badge-secondary badge-lg mb-1">
-            <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
-            {%- if not loop.last %}{% endif %}
-          </div>
-        {%- endfor %}
+  <div>
+    <main class="post-content">
+
+      <h1>{{ title }}</h1>
+      <div class="post-metadata mt-4 mb-8 space-y-2">
+        <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+        <div>
+          {%- for tag in tags | filterTagList %}
+            {%- set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <div class="badge badge-secondary badge-lg mb-1">
+              <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+              {%- if not loop.last %}{% endif %}
+            </div>
+          {%- endfor %}
+        </div>
       </div>
-    </div>
-    <main>
+      
       {{ content | safe }}
     </main>
+
+    <div class="my-12">
+      {% include "../components/author-card.njk" %}
+    </div>
 
     {% include "../components/related.njk" %}
   </div>
