@@ -20,26 +20,10 @@ layout: layouts/base.njk
     <main>
       {{ content | safe }}
     </main>
-    {%- if collections.posts %}
-      {%- set previousPost = collections.posts | getPreviousCollectionItem %}
-      {%- set nextPost = collections.posts | getNextCollectionItem %}
-      {%- if nextPost or previousPost %}
-        <ul class="links-nextprev">
-          {%- if previousPost %}
-            <li>Previous:
-              <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
-            </li>
-          {% endif %}
-          {%- if nextPost %}
-            <li>Next:
-              <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-            </li>
-          {% endif %}
-        </ul>
-      {%- endif %}
-    {%- endif %}
+
+    {% include "../components/related.njk" %}
   </div>
-  <div class="min-w-[350px] w-[350px]">
+  <div class="min-w-[350px] w-[350px] hidden lg:block">
     <div class="sticky top-20">
       {% set postslistTitle = "最近更新" %}
       {% set postslist = collections.recentPosts %}

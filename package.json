@@ -8,7 +8,7 @@
 		"build:css": "tailwindcss -i src/public/css/index.css -o _site/assets/css/index.css --postcss",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
 		"start": "npm-run-all -p dev:*",
-		"dev:11ty": "npx @11ty/eleventy --serve --incremental",
+		"dev:11ty": "npx @11ty/eleventy --serve --quiet --incremental",
 		"dev:css": "tailwindcss -i src/public/css/index.css -o _site/assets/css/index.css --watch --postcss",
 		"dev:server": "node server.js",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",

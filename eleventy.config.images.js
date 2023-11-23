@@ -33,22 +33,41 @@ module.exports = (eleventyConfig) => {
 				decoding: "async",
 			};
 			return eleventyImage.generateHTML(metadata, imageAttributes);
-		}
+		},
+	);
+
+	eleventyConfig.addAsyncShortcode(
+		"coverrimage",
+		async function coverrImageShortcode(post, alt, widths, sizes) {
+			try {
+				const src = `${process.env.MEDIA_SERVER}/${path.join(
+					"public/WordPress",
+					post.fileSlug,
+					post.data.coverImage,
+				)}`;
+				return `<img loading="lazy" src="${src}" />`;
+			} catch (err) {
+				console.error(err);
+			}
+		},
 	);
 
 	eleventyConfig.addAsyncShortcode(
 		"coverimage",
-		async function imageShortcode(post, alt, widths, sizes) {
-			const src = `${process.env.MEDIA_SERVER}/${path.join(
-				"public/WordPress",
-				post.fileSlug,
-				post.data.coverImage
-			)}`;
-			return `<img loading="lazy" src="${src}" />`;
+		async function coverImageShortcode(post, alt, widths, sizes) {
+			try {
+				const src = `${process.env.MEDIA_SERVER}/${path.join(
+					"public/WordPress",
+					post.fileSlug,
+					post.data.coverImage,
+				)}`;
+				return `<img loading="lazy" src="${src}" />`;
+			} catch (err) {
+				console.error(err);
+			}
+
 			// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
 			// Warning: Avif can be resource-intensive so take care!
-
-			return "<div></div>";
 			/*
 			let formats = ["avif", "webp", "auto"];
 
@@ -77,6 +96,6 @@ module.exports = (eleventyConfig) => {
 			};
 			return eleventyImage.generateHTML(metadata, imageAttributes);
 			*/
-		}
+		},
 	);
 };

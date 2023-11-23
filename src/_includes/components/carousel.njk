@@ -1,4 +1,29 @@
-<section id="main-carousel" class="splide mb-4">
+{% css %}
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+{% endcss %}
+
+<div class="embla mb-4">
+  <div class="embla__container">
+    {% for featuredPost in collections.featuredPosts %}
+        {% if featuredPost.data.coverImage %}
+            <div class="embla__slide">
+                <a href="{{ featuredPost.url | url }}">{% coverimage featuredPost, featuredPost.data.title %}</a>
+            </div>
+        {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{# <section id="main-carousel" class="splide mb-4">
     <div class="splide__track">
         <ul class="splide__list">
             {% for featuredPost in collections.featuredPosts %}
@@ -23,4 +48,4 @@
             {% endfor %}
         </ul>
     </div>
-</section>
+</section> #}

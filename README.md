@@ -34,7 +34,7 @@ npm i
 npm start
 ```
 
-Now browser the website in http://localhost:1313
+Now browser the website in http://localhost:8080
 
 ## Deployment
 
