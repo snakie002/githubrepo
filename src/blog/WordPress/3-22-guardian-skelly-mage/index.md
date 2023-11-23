@@ -54,7 +54,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 # 【POE】重現T0拓荒流派！守護者召喚骷髏 Guardian Skelly Mage | 輕鬆擊殺Uber 85級頭目 | 優雅的傲慢配合紋身系統解說 | 流亡黯道 遊戲攻略 | Path of Exile
@@ -96,8 +96,8 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
    
 
   
-![](WordPress/P1-1024x598.png)  
-![](WordPress/P2-1024x749.png)  
+![](post_assets/P1-1024x598.png)  
+![](post_assets/P2-1024x749.png)  
 
   
 流派約92級成型，其中優雅的傲慢帶來的召喚物傷害  
@@ -112,7 +112,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
 必定有更好發揮！  
 
   
-![](WordPress/P3-1024x797.png)  
+![](post_assets/P3-1024x797.png)  
 
   
    
@@ -152,7 +152,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
    
 
   
-![](WordPress/P4.png)  
+![](post_assets/P4.png)  
 
   
    
@@ -228,7 +228,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
   
   
 
-<table style="height: 955px;" width="843"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;&nbsp;<img class="alignnone wp-image-2534 size-full" src="WordPress/S4.png" alt="" width="689" height="309"></td></tr><tr><td colspan="2" width="604">師傅身上的裝備把召喚骷髏增加到31等 傷害相當足夠<br>打王用 慢速投射 + 返回輔助 配合狙擊者印記 傷害有明顯提高<br>清圖用 高階投射 + 穿透 打圖舒服得多<br>下棋用 致盲 + 擊退 + 高階 + 穿透 有效得多<br>所以如果可以的話請找六白洞 方面換技 如果不能 那唯有自行安排插糟了</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2533 size-full" src="WordPress/S3.png" alt="" width="690" height="263"></td></tr><tr><td colspan="2" width="604">魔像提供豢養狂熱 同時神聖祝福觸發迅捷</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2535 size-full" src="WordPress/S5.png" alt="" width="692" height="236"></td></tr><tr><td colspan="2" width="604">光環串及位移</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2536 size-full" src="WordPress/S6.png" alt="" width="684" height="221"></td></tr><tr><td colspan="2" width="604">召喚物串</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2532 size-full" src="WordPress/S2.png" alt="" width="674" height="198"></td></tr><tr><td colspan="2" width="604">自動觸發類別 因為用上異能魔力 魔力必定足夠 非常便利</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-2531 size-full" style="font-family: inherit; font-size: inherit;" src="WordPress/S1.png" alt="" width="681" height="195"></td></tr><tr><td colspan="2" width="604">和善光環及盾衝 基本上不需要快速攻擊 因為召喚物攻速 ＝ 機體攻速 已經足夠有餘</td></tr></tbody></table>
+<table style="height: 955px;" width="843"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;&nbsp;<img class="alignnone wp-image-2534 size-full" src="post_assets/S4.png" alt="" width="689" height="309"></td></tr><tr><td colspan="2" width="604">師傅身上的裝備把召喚骷髏增加到31等 傷害相當足夠<br>打王用 慢速投射 + 返回輔助 配合狙擊者印記 傷害有明顯提高<br>清圖用 高階投射 + 穿透 打圖舒服得多<br>下棋用 致盲 + 擊退 + 高階 + 穿透 有效得多<br>所以如果可以的話請找六白洞 方面換技 如果不能 那唯有自行安排插糟了</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2533 size-full" src="post_assets/S3.png" alt="" width="690" height="263"></td></tr><tr><td colspan="2" width="604">魔像提供豢養狂熱 同時神聖祝福觸發迅捷</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2535 size-full" src="post_assets/S5.png" alt="" width="692" height="236"></td></tr><tr><td colspan="2" width="604">光環串及位移</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2536 size-full" src="post_assets/S6.png" alt="" width="684" height="221"></td></tr><tr><td colspan="2" width="604">召喚物串</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2532 size-full" src="post_assets/S2.png" alt="" width="674" height="198"></td></tr><tr><td colspan="2" width="604">自動觸發類別 因為用上異能魔力 魔力必定足夠 非常便利</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-2531 size-full" style="font-family: inherit; font-size: inherit;" src="post_assets/S1.png" alt="" width="681" height="195"></td></tr><tr><td colspan="2" width="604">和善光環及盾衝 基本上不需要快速攻擊 因為召喚物攻速 ＝ 機體攻速 已經足夠有餘</td></tr></tbody></table>
 
   
    
@@ -249,7 +249,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
    
 
   
-![](WordPress/EA-984x1024.png)  
+![](post_assets/EA-984x1024.png)  
 
   
    
@@ -267,7 +267,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
 彈性裝備是其賣點，按個人進度換取即可！  
 
   
-![](WordPress/A2.png)  
+![](post_assets/A2.png)  
 
   
    
@@ -283,7 +283,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
    
 
   
-![](WordPress/A3.png)  
+![](post_assets/A3.png)  
 
   
    
@@ -465,13 +465,13 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
   
   
 
-<table style="height: 3319px;" width="844"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Fleshcrafter">人體匠師</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><strong><u>綁定 請確定自身機體不論天賦或裝備都不能有任何召喚物混抗</u></strong><strong><u><br>否則所有召喚物都會爆炸！切記！</u></strong><br><div></div><br>&nbsp;<br><div></div><br>同時因為無視抗性 所以詛咒或暴曬也沒有效果 請留意！<br><div></div><br>&nbsp;</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">紅詞為召喚物生命 藍詞為魔力保留</td><td width="187">召喚骷髏傷害４０％</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone size-medium wp-image-2518" src="WordPress/E2-197x300.png" alt="" width="197" height="300"><br><div></div><br>&nbsp;<br><div></div><br>找個混抗破裂，點上魔保精髓，有抗有血<br>工藝上加一骷髏即可</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">紅詞召喚物傷害 藍詞印記效果</td><td width="187"></td></tr><tr><td colspan="4" width="670"><img class="alignnone size-medium wp-image-2519" style="font-family: inherit; font-size: inherit;" src="WordPress/E3-300x243.png" alt="" width="300" height="243"><br><div></div><br>同樣找個混抗破裂 點上召喚物精髓 有抗有血<br>後詞空一 打上飛羽祝福 工藝上＋１範圍增加光環等級</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone size-medium wp-image-2520" style="font-family: inherit; font-size: inherit;" src="WordPress/E4-244x300.png" alt="" width="244" height="300"><br><div></div><br>&nbsp;<br><div></div><br>補抗即可</td></tr><tr><td width="54">武器</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone wp-image-2517 size-full" style="font-family: inherit; font-size: inherit;" src="WordPress/E1.png" alt="" width="393" height="379"><br><div></div><br><strong><u>可用四洞化石洗出，分別是顫慄化石—斑駁化石—金鋼化石—鋸齒化石</u></strong><br>前綴 — 召喚物傷害 ＋１全法術 ＋１召喚技能<br>後綴 — 召喚物攻速 工藝上觸發插糟技能<br>找個破裂召喚物傷害比較好做！<br><div></div><br>&nbsp;<br><div></div><br>&nbsp;</td></tr><tr><td width="54">副手</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2522 size-full" src="WordPress/E6.png" alt="" width="242" height="330"><br><div></div><br>&nbsp;<br><div></div><br>這個。。。真的沒辦法 師傅都是買現成<br>目標為召喚物傷害 召喚物等級 血量 混性等<br>其他能有則好，除了化石沒別的選擇了</td></tr><tr><td width="54">項鍊</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Replica_Dragonfangs_Flight">贗品．龍牙翱翔</a></td><td width="187">塗上亡靈諧曲</td></tr><tr><td colspan="4" width="670">在這流派比星塵要好用 +3骷髏 同時有魔力保留及抗性<br>傷害會有明顯增加 也不用糾結在轉品質問題</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone size-full wp-image-2523" src="WordPress/E7.png" alt="" width="258" height="241"><br><div></div><br>&nbsp;<br><div></div><br>兩只戒指首要為召喚物傷害 其次為抗性<br>若資源許可 請找召喚物攻速及施速<br>反正都是較豐儉由人的裝備欄<br>若沒有資源 找血抗裝湊著用即可</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">／</td></tr><tr><td colspan="4" width="670">兩只戒指首要為召喚物傷害 其次為抗性<br>若資源許可 請找召喚物攻速及施速<br>反正都是較豐儉由人的裝備欄<br>若沒有資源 找血抗裝湊著用即可</td></tr><tr><td width="54">皮帶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Darkness_Enthroned">夜惡降臨</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">配合召喚珠寶會有極大的傷害影響<br>盡量找最近使用召喚物技能增加傷害，召喚物施速，生命<br>多一點傷為完美</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１０％召喚物傷害</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2524 size-full" src="WordPress/E8.png" alt="" width="341" height="438"><br><div></div><br>&nbsp;<br><div></div><br>如圖</td></tr><tr><td width="54">珠寶</td><td width="73">軍團珠寶</td><td width="357"><a href="https://poedb.tw/tw/Elegant_Hubris">優雅的高傲</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">目標為至高炫耀＋避免感電＋召喚物傷害<br><div></div><br>可在<a href="https://poedb.tw/tw/TimelessJewel">這裡</a>查找軍團珠寶！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">看守之眼</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">堅定增加物格，或迅捷等等，<br>其實不太需要 反正有辦法滿物格法格即可</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Stormshroud">風暴籠罩</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">其實這顆真的非常萬用。。。師傅已經是第４個流派有用到，太好用了<br>全元素免疫必備</td></tr><tr><td width="54">珠寶</td><td width="73">中型星團</td><td width="357">召喚物生命</td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2525 size-full" src="WordPress/E9.png" alt="" width="358" height="356"><br><div></div><br>&nbsp;<br><div></div><br>最主要為祝禱重生，為了４秒無敵及召喚物滿血增傷<br>下棋也有奇效！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Impossible_Escape">逃脫不能</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">選擇不平衡守衛，<br>用上後可省下幾點天賦點上主要最大抗性，<br>這個是很貴，待有資源才購入較好，<br>也不是綁定，但也不騙你，天賦能省就是好。。。</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Quickening_Covenant">復甦誓約</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">增傷 請放到星團內 確保沒有任何負面效果！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Fortress_Covenant">堅壁誓約</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">增傷 請放到星團內 確保沒有任何負面效果！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Dead_Reckoning">死亡清算</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">綁定</td></tr></tbody></table>
+<table style="height: 3319px;" width="844"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Fleshcrafter">人體匠師</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><strong><u>綁定 請確定自身機體不論天賦或裝備都不能有任何召喚物混抗</u></strong><strong><u><br>否則所有召喚物都會爆炸！切記！</u></strong><br><div></div><br>&nbsp;<br><div></div><br>同時因為無視抗性 所以詛咒或暴曬也沒有效果 請留意！<br><div></div><br>&nbsp;</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">紅詞為召喚物生命 藍詞為魔力保留</td><td width="187">召喚骷髏傷害４０％</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone size-medium wp-image-2518" src="post_assets/E2-197x300.png" alt="" width="197" height="300"><br><div></div><br>&nbsp;<br><div></div><br>找個混抗破裂，點上魔保精髓，有抗有血<br>工藝上加一骷髏即可</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">紅詞召喚物傷害 藍詞印記效果</td><td width="187"></td></tr><tr><td colspan="4" width="670"><img class="alignnone size-medium wp-image-2519" style="font-family: inherit; font-size: inherit;" src="post_assets/E3-300x243.png" alt="" width="300" height="243"><br><div></div><br>同樣找個混抗破裂 點上召喚物精髓 有抗有血<br>後詞空一 打上飛羽祝福 工藝上＋１範圍增加光環等級</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone size-medium wp-image-2520" style="font-family: inherit; font-size: inherit;" src="post_assets/E4-244x300.png" alt="" width="244" height="300"><br><div></div><br>&nbsp;<br><div></div><br>補抗即可</td></tr><tr><td width="54">武器</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone wp-image-2517 size-full" style="font-family: inherit; font-size: inherit;" src="post_assets/E1.png" alt="" width="393" height="379"><br><div></div><br><strong><u>可用四洞化石洗出，分別是顫慄化石—斑駁化石—金鋼化石—鋸齒化石</u></strong><br>前綴 — 召喚物傷害 ＋１全法術 ＋１召喚技能<br>後綴 — 召喚物攻速 工藝上觸發插糟技能<br>找個破裂召喚物傷害比較好做！<br><div></div><br>&nbsp;<br><div></div><br>&nbsp;</td></tr><tr><td width="54">副手</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2522 size-full" src="post_assets/E6.png" alt="" width="242" height="330"><br><div></div><br>&nbsp;<br><div></div><br>這個。。。真的沒辦法 師傅都是買現成<br>目標為召喚物傷害 召喚物等級 血量 混性等<br>其他能有則好，除了化石沒別的選擇了</td></tr><tr><td width="54">項鍊</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Replica_Dragonfangs_Flight">贗品．龍牙翱翔</a></td><td width="187">塗上亡靈諧曲</td></tr><tr><td colspan="4" width="670">在這流派比星塵要好用 +3骷髏 同時有魔力保留及抗性<br>傷害會有明顯增加 也不用糾結在轉品質問題</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone size-full wp-image-2523" src="post_assets/E7.png" alt="" width="258" height="241"><br><div></div><br>&nbsp;<br><div></div><br>兩只戒指首要為召喚物傷害 其次為抗性<br>若資源許可 請找召喚物攻速及施速<br>反正都是較豐儉由人的裝備欄<br>若沒有資源 找血抗裝湊著用即可</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">／</td></tr><tr><td colspan="4" width="670">兩只戒指首要為召喚物傷害 其次為抗性<br>若資源許可 請找召喚物攻速及施速<br>反正都是較豐儉由人的裝備欄<br>若沒有資源 找血抗裝湊著用即可</td></tr><tr><td width="54">皮帶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Darkness_Enthroned">夜惡降臨</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">配合召喚珠寶會有極大的傷害影響<br>盡量找最近使用召喚物技能增加傷害，召喚物施速，生命<br>多一點傷為完美</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１０％召喚物傷害</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2524 size-full" src="post_assets/E8.png" alt="" width="341" height="438"><br><div></div><br>&nbsp;<br><div></div><br>如圖</td></tr><tr><td width="54">珠寶</td><td width="73">軍團珠寶</td><td width="357"><a href="https://poedb.tw/tw/Elegant_Hubris">優雅的高傲</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">目標為至高炫耀＋避免感電＋召喚物傷害<br><div></div><br>可在<a href="https://poedb.tw/tw/TimelessJewel">這裡</a>查找軍團珠寶！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">看守之眼</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">堅定增加物格，或迅捷等等，<br>其實不太需要 反正有辦法滿物格法格即可</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Stormshroud">風暴籠罩</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">其實這顆真的非常萬用。。。師傅已經是第４個流派有用到，太好用了<br>全元素免疫必備</td></tr><tr><td width="54">珠寶</td><td width="73">中型星團</td><td width="357">召喚物生命</td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-2525 size-full" src="post_assets/E9.png" alt="" width="358" height="356"><br><div></div><br>&nbsp;<br><div></div><br>最主要為祝禱重生，為了４秒無敵及召喚物滿血增傷<br>下棋也有奇效！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Impossible_Escape">逃脫不能</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">選擇不平衡守衛，<br>用上後可省下幾點天賦點上主要最大抗性，<br>這個是很貴，待有資源才購入較好，<br>也不是綁定，但也不騙你，天賦能省就是好。。。</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Quickening_Covenant">復甦誓約</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">增傷 請放到星團內 確保沒有任何負面效果！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Fortress_Covenant">堅壁誓約</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">增傷 請放到星團內 確保沒有任何負面效果！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Dead_Reckoning">死亡清算</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">綁定</td></tr></tbody></table>
 
   
    
 
   
-![](WordPress/thumbnail-1-1024x576.jpg)  
+![](post_assets/thumbnail-1-1024x576.jpg)  
 
   
    
@@ -533,7 +533,7 @@ Any肥 希望可以幫到有興趣了解佐為召喚骷髏的朋友們！
    
 
   
-![](WordPress/1.mp4_snapshot_14.38.444-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_14.38.444-1024x576.jpg)  
 
   
    

@@ -28,7 +28,7 @@ tags:
   - "喚醒玉"
   - "喚醒玉-教學"
   - "遊戲攻略"
-coverImage: "thumbnail-19.jpg"
+coverImage: "post_assets/thumbnail-19.jpg"
 ---
 
 ### 【POE】3.11 中階農場造裝教程 (2) Awakener’s Orb Crafting Guide | 自己裝備自己賭  
@@ -45,13 +45,13 @@ coverImage: "thumbnail-19.jpg"
 這一次就會造一件在豐收聯盟中差不多是全民標配的爆炸甲多一詛咒胸甲，還有喚醒者之玉的的試範給大家，希望可以幫到各位！  
 
   
-![](WordPress/DETAIL-1-1024x576.jpg)  
+![](post_assets/DETAIL-1-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/DETAIL-3-1024x576.jpg)  
+![](post_assets/DETAIL-3-1024x576.jpg)  
 
   
 文字補完：  
@@ -129,10 +129,10 @@ C 在農場中物理重鑄及移除非物理打入物理，強制出爆炸詞
 賣掉吧這件胸甲是給詛咒了。  
 
   
-![](WordPress/DETAIL-4-1024x576.jpg)  
+![](post_assets/DETAIL-4-1024x576.jpg)  
 
   
-![](WordPress/DETAIL-5-1024x576.jpg)  
+![](post_assets/DETAIL-5-1024x576.jpg)  
 
   
    

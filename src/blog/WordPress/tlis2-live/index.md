@@ -37,7 +37,7 @@ tags:
   - "火炬之光：無限-s2"
   - "火炬之光：無限-破滅的黑帆"
   - "遊戲攻略"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【火炬之光：無限】破滅的黑帆 S2 新賽季速報懶人包 | 黑帆賽季大戰鬼海新娘  
@@ -69,7 +69,7 @@ Any肥希望可以幫到有興趣了解火炬之光無限Season 2 破滅的黑�
    
 
   
-![](WordPress/0-1024x576.jpg)  
+![](post_assets/0-1024x576.jpg)  
 
   
    
@@ -96,8 +96,8 @@ Any肥希望可以幫到有興趣了解火炬之光無限Season 2 破滅的黑�
 也肯定的就是，熱門類別的遺物及追憶，必然是較為貴價。。。  
 
   
-![](WordPress/2-1024x576.png)  
-![](WordPress/1-1024x576.png)  
+![](post_assets/2-1024x576.png)  
+![](post_assets/1-1024x576.png)  
 
   
 開發者日誌中以致命掠影為例，可以看到投射物數量會＋１  
@@ -109,8 +109,8 @@ Any肥希望可以幫到有興趣了解火炬之光無限Season 2 破滅的黑�
 所以理論值上遊戲耐玩程度應該更高！  
 
   
-![](WordPress/3-1024x576.png)  
-![](WordPress/4-1024x576.png)  
+![](post_assets/3-1024x576.png)  
+![](post_assets/4-1024x576.png)  
 
   
 **新契靈**  
@@ -125,8 +125,8 @@ Any肥希望可以幫到有興趣了解火炬之光無限Season 2 破滅的黑�
 起碼來說，抽中新契靈對於機體或流派影響沒有想像中大就是了  
 
   
-![](WordPress/5-1024x576.jpg)  
-![](WordPress/6-1024x576.jpg)  
+![](post_assets/5-1024x576.jpg)  
+![](post_assets/6-1024x576.jpg)  
 
   
 **稅收問題**  

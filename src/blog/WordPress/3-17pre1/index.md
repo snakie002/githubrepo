@@ -23,7 +23,7 @@ tags:
   - "流亡黯道-拓荒"
   - "流亡黯道-毒旋武"
   - "遊戲攻略"
-coverImage: "thumbnailASS.png"
+coverImage: "post_assets/thumbnailASS.png"
 ---
 
 ### 【POE】3.17 三大輕鬆紅圖拓荒推薦 刺客毒旋武 文字補完版本
@@ -69,10 +69,10 @@ coverImage: "thumbnailASS.png"
 以下為附圖方便各位：  
 
   
-![](WordPress/5.png)  
+![](post_assets/5.png)  
 
   
-![](WordPress/4-815x1024.png)  
+![](post_assets/4-815x1024.png)  
   
   
   
@@ -137,10 +137,10 @@ coverImage: "thumbnailASS.png"
 有興趣朋友可留意以下連結參考完作者影片！  
 
   
-![](WordPress/3.png)  
+![](post_assets/3.png)  
 
   
-![](WordPress/2.png)  
+![](post_assets/2.png)  
 
   
 **技能連結**  

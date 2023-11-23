@@ -36,7 +36,7 @@ tags:
   - "流亡黯道-旋風斬"
   - "流亡黯道-毒雨"
   - "遊戲攻略"
-coverImage: "thumbnail-35.jpg"
+coverImage: "post_assets/thumbnail-35.jpg"
 ---
 
 ### 【POE】三大必勝拓荒推薦 處刑者旋風斬 詐欺師毒雨 聖宗圖騰 | 正宗平靚正 拓荒必定嬴  
@@ -58,7 +58,7 @@ coverImage: "thumbnail-35.jpg"
 文字補完 (關於影片沒有提供的內容)：  
 
   
-![](WordPress/Slayer-1-1024x765.jpg)  
+![](post_assets/Slayer-1-1024x765.jpg)  
 
   
 先附上三個不同的詳細文字補完版本：  
@@ -72,13 +72,13 @@ coverImage: "thumbnail-35.jpg"
 所以會分開三個文章，希望各位諒解！  
 
   
-![](WordPress/pic0-1024x576.jpg)  
+![](post_assets/pic0-1024x576.jpg)  
 
   
-![](WordPress/PIC2-1024x576.jpg)  
+![](post_assets/PIC2-1024x576.jpg)  
 
   
-![](WordPress/pic1-1024x576.jpg)  
+![](post_assets/pic1-1024x576.jpg)  
 
   
 這次的文字補完將會補完拓荒轉營到通關的分享，  

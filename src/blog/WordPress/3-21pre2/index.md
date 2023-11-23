@@ -56,7 +56,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "2.1.jpg"
+coverImage: "post_assets/2.1.jpg"
 ---
 
 ### 【POE】3.21 熔火冥獄三大推薦拓荒 追獵天譴之箭文字補完版本
@@ -82,7 +82,7 @@ coverImage: "2.1.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/2.1-1024x576.jpg)  
+![](post_assets/2.1-1024x576.jpg)  
 
   
    
@@ -121,10 +121,10 @@ coverImage: "2.1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-1-653x1024.png)  
+![](post_assets/1-1-653x1024.png)  
 
   
-![](WordPress/2-1.png)  
+![](post_assets/2-1.png)  
 
   
    
@@ -196,15 +196,15 @@ coverImage: "2.1.jpg"
 也是快刷黃圖或低階紅圖較好選擇！  
 
   
-![](WordPress/6-1-1024x580.png)  
+![](post_assets/6-1-1024x580.png)  
 
   
 **技能連結**  
 
   
 **  
-![](WordPress/4-1-1024x639.png)  
-![](WordPress/3-1-1024x627.png)**  
+![](post_assets/4-1-1024x639.png)  
+![](post_assets/3-1-1024x627.png)**  
   
   
   

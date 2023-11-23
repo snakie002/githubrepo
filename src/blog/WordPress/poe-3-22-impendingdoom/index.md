@@ -51,7 +51,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-3.jpg"
+coverImage: "post_assets/thumbnail-3.jpg"
 ---
 
 # 【POE】祖靈版本限定極致末日厄運！秘術師暴擊末日厄運 Occultist Impending Doom | 精雕細琢紋身冷卻大抗最大化 | 流亡黯道 遊戲攻略 | Path of Exile
@@ -84,7 +84,7 @@ coverImage: "thumbnail-3.jpg"
    
 
   
-![](WordPress/thumbnail-3-1024x576.jpg)  
+![](post_assets/thumbnail-3-1024x576.jpg)  
 
   
    
@@ -99,10 +99,10 @@ coverImage: "thumbnail-3.jpg"
 秘術師暴擊末日厄運100等 : [https://pobb.in/fuRHgwJ6IX6l](https://pobb.in/fuRHgwJ6IX6l)  
 
   
-![](WordPress/P2-1-1024x597.png)  
+![](post_assets/P2-1-1024x597.png)  
 
   
-![](WordPress/P3-1.png)  
+![](post_assets/P3-1.png)  
 
   
 以上均為3.22天賦路線  
@@ -111,7 +111,7 @@ coverImage: "thumbnail-3.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/P1-1-1024x763.png)  
+![](post_assets/P1-1-1024x763.png)  
 
   
 流派成型跟完全體分別太大太大了，  
@@ -142,7 +142,7 @@ coverImage: "thumbnail-3.jpg"
 終於可以直接上圖  
 
   
-![](WordPress/P4-2.png)  
+![](post_assets/P4-2.png)  
 
   
 **技能連結**  
@@ -163,7 +163,7 @@ coverImage: "thumbnail-3.jpg"
 胸甲光環，其他隨意  
 
   
-![](WordPress/S1-2.png)  
+![](post_assets/S1-2.png)  
 
   
    
@@ -180,8 +180,8 @@ coverImage: "thumbnail-3.jpg"
 補能力補傷害，僅只於此了  
 
   
-![](WordPress/E1-1024x576.jpg)  
-![](WordPress/E2-1024x576.jpg)  
+![](post_assets/E1-1024x576.jpg)  
+![](post_assets/E2-1024x576.jpg)  
 
   
    
@@ -190,7 +190,7 @@ coverImage: "thumbnail-3.jpg"
 **感想心得**  
 
   
-![](WordPress/I2-1024x576.jpg)  
+![](post_assets/I2-1024x576.jpg)  
 
   
 因為官方已經稱明一定會更改，  
@@ -203,7 +203,7 @@ coverImage: "thumbnail-3.jpg"
 若有興趣的朋友們可以把握在完季前嘗試的機會了！  
 
   
-![](WordPress/I1-1024x576.jpg)  
+![](post_assets/I1-1024x576.jpg)  
 
   
 差不多這樣了，希望可以幫到各位有興趣的玩家！  

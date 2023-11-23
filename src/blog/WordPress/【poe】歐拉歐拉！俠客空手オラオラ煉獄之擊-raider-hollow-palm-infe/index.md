@@ -37,7 +37,7 @@ tags:
   - "流亡黯道-俠客"
   - "流亡黯道-歐拉歐拉"
   - "遊戲攻略"
-coverImage: "thumbnail-44.jpg"
+coverImage: "post_assets/thumbnail-44.jpg"
 ---
 
 ### 【POE】歐拉歐拉！俠客空手オラオラ煉獄之擊 | Raider Hollow Palm Infernal blow  
@@ -55,7 +55,7 @@ Raider Hollow Palm Trinity Infernal blow俠客空手オラオラ煉獄之擊，
 希望可以幫到有興趣玩另類空手近戰的朋友們！  
 
   
-![](WordPress/2.mp4_snapshot_00.44.170-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_00.44.170-1024x576.jpg)  
 
   
 文字補完：  
@@ -68,7 +68,7 @@ Pastebin: [https://pastebin.com/T49tnEkc](https://pastebin.com/T49tnEkc)
 天賦樹縮圖:  
 
   
-![](WordPress/PASSIVE-5-1024x929.png)  
+![](post_assets/PASSIVE-5-1024x929.png)  
 
   
 **整體思路：**  
@@ -89,7 +89,7 @@ Pastebin: [https://pastebin.com/T49tnEkc](https://pastebin.com/T49tnEkc)
 也是一個，沒甚麼好討論／解釋的流派就是了  
 
   
-![](WordPress/gear-1.png)  
+![](post_assets/gear-1.png)  
 
   
 **技能配置：**  

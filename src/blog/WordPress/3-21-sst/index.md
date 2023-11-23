@@ -47,7 +47,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【POE】版本限定崩壞流派！俠客負電盾靈投擲 Raider Spectral Shield Throw  
@@ -75,7 +75,7 @@ coverImage: "thumbnail.jpg"
 希望這能幫到有興趣了解負電盾投的朋友們！  
 
   
-![](WordPress/thumbnail-1024x576.jpg)  
+![](post_assets/thumbnail-1024x576.jpg)  
 
   
    
@@ -96,8 +96,8 @@ coverImage: "thumbnail.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/p1-1024x891.png)  
-![](WordPress/p2.png)  
+![](post_assets/p1-1024x891.png)  
+![](post_assets/p2.png)  
 
   
 這種流派就沒有必要說等級需要  
@@ -205,7 +205,7 @@ coverImage: "thumbnail.jpg"
   
   
 
-<table style="height: 855px;" width="849"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-1826 size-large" src="WordPress/S1-1024x337.png" alt="" width="858" height="282"></td></tr><tr><td colspan="2" width="604">基本上綁定 必需要幻影版本 增加暴傷<br>分裂只是聊勝於無 因為都沒甚麼好插了</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-1829 size-large" src="WordPress/S4-1024x340.png" alt="" width="858" height="285"></td></tr><tr><td colspan="2" width="604">光環串</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-1827 size-large" src="WordPress/S2-1024x341.png" alt="" width="858" height="286"></td></tr><tr><td colspan="2" width="604">光環 ＋ 雜項串</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-1828 size-large" src="WordPress/S3-1024x332.png" alt="" width="858" height="278"></td></tr><tr><td colspan="2" width="604">增傷串 沒有增幅會有５％的區別</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-1830 size-large" src="WordPress/S5-1024x343.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">位移 ＋ 堅吼 堅吼是為了打王前儲滿怒氣直接開狂戰</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-1831 size-large" src="WordPress/S6-1024x349.png" alt="" width="858" height="292"></td></tr><tr><td colspan="2" width="604">增傷串</td></tr></tbody></table>
+<table style="height: 855px;" width="849"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-1826 size-large" src="post_assets/S1-1024x337.png" alt="" width="858" height="282"></td></tr><tr><td colspan="2" width="604">基本上綁定 必需要幻影版本 增加暴傷<br>分裂只是聊勝於無 因為都沒甚麼好插了</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-1829 size-large" src="post_assets/S4-1024x340.png" alt="" width="858" height="285"></td></tr><tr><td colspan="2" width="604">光環串</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-1827 size-large" src="post_assets/S2-1024x341.png" alt="" width="858" height="286"></td></tr><tr><td colspan="2" width="604">光環 ＋ 雜項串</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-1828 size-large" src="post_assets/S3-1024x332.png" alt="" width="858" height="278"></td></tr><tr><td colspan="2" width="604">增傷串 沒有增幅會有５％的區別</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-1830 size-large" src="post_assets/S5-1024x343.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">位移 ＋ 堅吼 堅吼是為了打王前儲滿怒氣直接開狂戰</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-1831 size-large" src="post_assets/S6-1024x349.png" alt="" width="858" height="292"></td></tr><tr><td colspan="2" width="604">增傷串</td></tr></tbody></table>
 
   
    
@@ -224,21 +224,21 @@ coverImage: "thumbnail.jpg"
 直接上圖算了  
 
   
-![](WordPress/E1.png)  
+![](post_assets/E1.png)  
 
   
-![](WordPress/E6.png)  
-![](WordPress/E5.png)  
-![](WordPress/E4.png)  
-![](WordPress/E3.png)  
-![](WordPress/E2.png)  
+![](post_assets/E6.png)  
+![](post_assets/E5.png)  
+![](post_assets/E4.png)  
+![](post_assets/E3.png)  
+![](post_assets/E2.png)  
 
   
-![](WordPress/1.png)  
+![](post_assets/1.png)  
 
   
-![](WordPress/3.png)  
-![](WordPress/4.png)  
+![](post_assets/3.png)  
+![](post_assets/4.png)  
 
 ### **感想心得**
 

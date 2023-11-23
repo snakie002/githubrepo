@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-流血"
   - "流亡黯道-漩渦"
   - "遊戲攻略"
-coverImage: "thumbnail-50.jpg"
+coverImage: "post_assets/thumbnail-50.jpg"
 ---
 
 ### 【POE】三大爆炸拓荒推薦 秘術家漩渦 文字補完版本
@@ -70,7 +70,7 @@ coverImage: "thumbnail-50.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/Capture-1-1024x513.jpg)  
+![](post_assets/Capture-1-1024x513.jpg)  
 
   
 昇華先拿到兩個冰冷傷害加成，在通關後取得爆炸效果，  
@@ -83,7 +83,7 @@ coverImage: "thumbnail-50.jpg"
 但通常都是在打圖，所以快跟懶才是重點！  
 
   
-![](WordPress/1-5.png)  
+![](post_assets/1-5.png)  
 
   
    

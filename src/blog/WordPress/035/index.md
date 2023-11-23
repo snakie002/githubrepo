@@ -34,7 +34,7 @@ tags:
   - "流亡黯道-處刑者"
   - "流亡黯道-處刑者旋風斬"
   - "流亡黯道-賽勒斯"
-coverImage: "thumbnail1-5.jpg"
+coverImage: "post_assets/thumbnail1-5.jpg"
 ---
 
 ### 【POE】續．必勝拓荒流派完整教學 處刑者旋風斬 Slayer Cyclone | 核星版本賽勒斯實機示範  
@@ -70,10 +70,10 @@ coverImage: "thumbnail1-5.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/Passive-2-1-1024x562.png)  
+![](post_assets/Passive-2-1-1024x562.png)  
 
   
-![](WordPress/passive-8-1024x973.png)  
+![](post_assets/passive-8-1024x973.png)  
 
   
    
@@ -112,7 +112,7 @@ coverImage: "thumbnail1-5.jpg"
 還是算了吧～～  
 
   
-![](WordPress/gear-3.png)  
+![](post_assets/gear-3.png)  
 
   
 **技能連結****主技能組—３Ｒ２Ｇ１Ｂ****旋風斬—穿刺—注入引導輔助—覺醒殘虐—護體—覺醒近戰物理／磨鍊**  
@@ -155,7 +155,7 @@ coverImage: "thumbnail1-5.jpg"
 建議癱瘓  
 
   
-![](WordPress/gear2.png)  
+![](post_assets/gear2.png)  
 
   
 **裝備選擇**  
@@ -245,7 +245,7 @@ coverImage: "thumbnail1-5.jpg"
 珠寶 — 看守之眼**（穿刺＋１）**珠寶 — 超凡之體**（４９的暴擊加成）**珠寶 — 黃裝＊４　（補抗補血補三圍，有傷害暴擊加成更好）  
 
   
-![](WordPress/1.mp4_snapshot_12.13.000-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_12.13.000-1024x576.jpg)  
 
   
 **感想心得****輸出：７／１０**  

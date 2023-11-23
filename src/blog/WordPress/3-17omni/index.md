@@ -44,7 +44,7 @@ tags:
   - "流亡黯道-穿透效益"
   - "流亡黯道-解說"
   - "遊戲攻略"
-coverImage: "thumbnail-3.jpg"
+coverImage: "post_assets/thumbnail-3.jpg"
 ---
 
 ### 【POE】暴力解決 俠客全知三體審問暴風雷雨 Raider Omniscience Storm Rain  
@@ -81,10 +81,10 @@ coverImage: "thumbnail-3.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-6-783x1024.png)  
+![](post_assets/1-6-783x1024.png)  
 
   
-![](WordPress/2-5.png)  
+![](post_assets/2-5.png)  
 
   
 **流派特點**  
@@ -155,7 +155,7 @@ coverImage: "thumbnail-3.jpg"
 <table style="height: 722px;" width="846"><tbody><tr><td colspan="2" width="517"><strong>專精部份</strong></td></tr><tr><td width="97">匕首</td><td width="420">暴擊帶有撲殺</td></tr><tr><td width="97">爪</td><td width="420">暴擊有２０％機率致盲</td></tr><tr><td width="97">生命</td><td width="420">１０％最大生命 １０％減少生命回復</td></tr><tr><td width="97">魔力保留</td><td width="420">１５％魔力保留效能</td></tr><tr><td width="97">閃避</td><td width="420">優雅２５％魔力保留效能</td></tr><tr><td width="97">法術抑制</td><td width="420">暴擊率因應法術抑制上昇</td></tr><tr><td width="97">暴擊</td><td width="420">５０％增加暴擊引起的非傷害狀態效果</td></tr><tr><td width="97">命中</td><td width="420">精準１００％魔力保留效能</td></tr><tr><td width="97">弓</td><td width="420">增加或減少投射物速度影響傷害</td></tr><tr><td width="97">投射物</td><td width="420">１５％更多投射物速度</td></tr><tr><td width="97">元素</td><td width="420">４０％非傷害狀態效果</td></tr></tbody></table>
 
   
-![](WordPress/3-4-1024x462.png)  
+![](post_assets/3-4-1024x462.png)  
 
   
 **技能連結**  
@@ -225,13 +225,13 @@ coverImage: "thumbnail-3.jpg"
    
 
   
-\[caption id="attachment\_1073" align="alignnone" width="804"\]![](WordPress/5-3.png) 沒有全知的情況下，穿透只有43%，傷害大打折扣\[/caption\]  
+\[caption id="attachment\_1073" align="alignnone" width="804"\]![](post_assets/5-3.png) 沒有全知的情況下，穿透只有43%，傷害大打折扣\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_1072" align="alignnone" width="900"\]![](WordPress/4-3.png) 用上全知後，穿抗翻倍讓傷害提升112%！\[/caption\]  
+\[caption id="attachment\_1072" align="alignnone" width="900"\]![](post_assets/4-3.png) 用上全知後，穿抗翻倍讓傷害提升112%！\[/caption\]  
 
   
    
@@ -426,7 +426,7 @@ Min-maxing 就非常非常重要了；
 <table style="height: 2827px;" width="859"><tbody><tr><td colspan="4" width="667"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">黃裝</td><td width="351">／</td><td width="189">狩獵 ＋ 督軍基底</td></tr><tr><td colspan="4" width="667">插糟技能 – 20消耗 + 攻擊暴擊底率，合起來後鎖後花園法術Ｃ骰出加一詛咒即可<br>有要求的朋友們可以再慢慢弄下去 （師傅當然是懶的，撿來的還弄幹嘛～～）</td></tr><tr><td width="54">頭部</td><td width="73">黑陽之冠</td><td width="351"><a href="https://poedb.tw/tw/Black_Sun_Crest">https://poedb.tw/tw/Black_Sun_Crest</a></td><td width="189">暴風雷雨增加 40% 光束頻率</td></tr><tr><td colspan="4" width="667">要求１３％加就可以了，全１５１５１５的價錢太太太太貴了，自己神聖可能3.19也沒看到，所以湊著用就好<br>也是主要的全知來源</td></tr><tr><td width="54">手套</td><td width="73">聖宗神手</td><td width="351"><a href="https://poedb.tw/tw/Hands_of_the_High_Templar">https://poedb.tw/tw/Hands_of_the_High_Templar</a></td><td width="189">元素要害及＋１插糟</td></tr><tr><td colspan="4" width="667">只是為了元素要害及＋１插糟為了提升啟蒙等級，說白了，就是省錢買等級４，沒太大特別的；</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="351">／</td><td width="189">狩獵＋救贖基底</td></tr><tr><td colspan="4" width="667">流順之風 ＋非傷害型異常狀態效果 合起來，<br>後綴無法被變更 -&gt; 花園暴擊C 出靈巧 -&gt; 後綴無法被變更 -&gt; 愛絲琳 -&gt; 洗掉靈巧 再來<br>不變公式</td></tr><tr><td width="54">武器</td><td width="73">脊弓</td><td width="351">／</td><td width="189"></td></tr><tr><td colspan="4" width="667">前綴 — 三色元素傷愈高愈好<br>後綴 — ＋２箭 攻速 投射物速度<br>就是錢了</td></tr><tr><td width="54">副手</td><td width="73">箭袋</td><td width="351">／</td><td width="189">隨意基底</td></tr><tr><td colspan="4" width="667">前綴 — 生命／元素攻擊傷害／元素點傷<br>後綴 — ＋１箭／暴擊加成／命中／個人喜愛<br>也是錢了</td></tr><tr><td width="54">項鍊</td><td width="73">晶化全知</td><td width="351"><a href="https://poedb.tw/tw/Crystallised_Omniscience">https://poedb.tw/tw/Crystallised_Omniscience</a></td><td width="189">塗油是隨意</td></tr><tr><td colspan="4" width="667">綁定傳奇，其中上油方面，其實有很多很多不同的方法<br>可以點出增加％敏捷再一步增加全知，也可以點出其他，師傅只是懶惰用上傳統的狂怒球傷害罷了</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="351">隨意</td><td width="189">追憶出威嚇更好</td></tr><tr><td colspan="4" width="667">前綴 — 生命／元素攻擊傷害／元素點傷<br>後綴 — 盡量高的力敏智<br>兩顆戒指都是標配，上綴沒太大影響，混抗底會比較通用</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="351">隨意</td><td width="189">混抗底更好</td></tr><tr><td colspan="4" width="667">前綴 — 生命／元素攻擊傷害／元素點傷<br>後綴 — 盡量高的力敏智<br>兩顆戒指都是標配，上綴沒太大影響，混抗底會比較通用</td></tr><tr><td width="54">皮帶</td><td width="73">獵首</td><td width="351"><a href="https://poedb.tw/tw/Headhunter">https://poedb.tw/tw/Headhunter</a></td><td width="189">／</td></tr><tr><td colspan="4" width="667">速刷好幫手，而且現今全知上更有全知加成，不用獵首就用敏捷精髓點重革皮帶拿最大三圍</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌烈焰</td><td width="351"><a href="https://poedb.tw/tw/Forbidden_Flame">https://poedb.tw/tw/Forbidden_Flame</a></td><td width="189">／</td></tr><tr><td colspan="4" width="667">需要配合另外一顆禁忌血肉，這流派需要投射物，配上後打圖打王效果更佳<br><strong><u>不是綁定，只是更好，記得必需有一對才可發揮作用！</u></strong></td></tr><tr><td width="54">珠寶</td><td width="73">禁忌血肉</td><td width="351"><a href="https://poedb.tw/tw/Forbidden_Flesh">https://poedb.tw/tw/Forbidden_Flesh</a></td><td width="189">一顆</td></tr><tr><td colspan="4" width="667">需要配合另外一顆禁忌烈焰，這流派需要投射物，配上後打圖打王效果更佳<br><strong><u>不是綁定，只是更好，記得必需有一對才可發揮作用！</u></strong></td></tr><tr><td width="54">珠寶</td><td width="73">大型星團</td><td width="351">１０％攻擊傷害／持弓／元素傷害也可以</td><td width="189">兩顆</td></tr><tr><td colspan="4" width="667">災難＋豢養狂怒＋武術英勇 ／啟發壓迫＋多稜之心＋毀滅擴散<br>因為等級不夠只點前５個，所以用別的也行，反正只需要５個來開中型跟小型跟珠寶洞</td></tr><tr><td width="54">珠寶</td><td width="73">中型星團</td><td width="351">投射物傷害</td><td width="189">／</td></tr><tr><td colspan="4" width="667">對視＋背誦者</td></tr><tr><td width="54">珠寶</td><td width="73">審問</td><td width="351"><a href="https://poedb.tw/tw/The_Interrogation">https://poedb.tw/tw/The_Interrogation</a></td><td width="189">小型星團</td></tr><tr><td colspan="4" width="667">綁定珠寶發動磨難秘辛效果</td></tr><tr><td width="54">珠寶</td><td width="73">致命的驕傲</td><td width="351"><a href="https://poedb.tw/tw/Lethal_Pride">https://poedb.tw/tw/Lethal_Pride</a></td><td width="189">一顆</td></tr><tr><td colspan="4" width="667">放到右面狂怒球插糟，目標拿到５％力量或機率兩倍傷害<br>既能拿到全知，亦能拿到機率雙倍傷，可以用神聖石或多買幾顆裝在身上看看效果&nbsp;</td></tr><tr><td width="54">珠寶</td><td width="73">獅眼的隕落</td><td width="351"><a href="https://poedb.tw/tw/Lioneyes_Fall">https://poedb.tw/tw/Lioneyes_Fall</a></td><td width="189">一顆</td></tr><tr><td colspan="4" width="667">放到匕首及爪部份換成弓矢傷害 沒有必要瓦出魔保</td></tr><tr><td width="54">珠寶</td><td width="73">黃裝</td><td width="351">黃裝</td><td width="189">一顆</td></tr><tr><td colspan="4" width="667">生命<br>持弓攻速<br>全域暴擊加成<br>有資源的可換上看守之眼，需要精準攻速＋憤怒暴擊／活力擊回也是非常不錯，太貴了哈哈&nbsp;</td></tr></tbody></table>
 
   
-\[caption id="attachment\_1074" align="alignnone" width="899"\]![](WordPress/6-1.png) 重點是骰出/買到雙倍傷害及5%力量以增加全知！\[/caption\]  
+\[caption id="attachment\_1074" align="alignnone" width="899"\]![](post_assets/6-1.png) 重點是骰出/買到雙倍傷害及5%力量以增加全知！\[/caption\]  
 
   
    

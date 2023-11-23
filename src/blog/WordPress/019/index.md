@@ -46,7 +46,7 @@ tags:
   - "流亡黯道-輿圖"
   - "流亡黯道-點燃"
   - "遊戲攻略"
-coverImage: "thumbnail-40.jpg"
+coverImage: "post_assets/thumbnail-40.jpg"
 ---
 
 ### 【POE】3.13 150場收益實測 吉利守望石 Auspicious Platinum Valdo's Rest Test  
@@ -98,7 +98,7 @@ coverImage: "thumbnail-40.jpg"
 
   
 **  
-![](WordPress/11-1024x587.png)  
+![](post_assets/11-1024x587.png)  
 **  
 
   

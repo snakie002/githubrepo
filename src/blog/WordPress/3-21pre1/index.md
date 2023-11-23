@@ -57,7 +57,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "1.1.jpg"
+coverImage: "post_assets/1.1.jpg"
 ---
 
 ### 【POE】3.21 熔火冥獄三大推薦拓荒 死靈暗夜血契 文字補完版本
@@ -83,7 +83,7 @@ coverImage: "1.1.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/1.1-1024x576.jpg)  
+![](post_assets/1.1-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-21pre/) (關於影片沒有提供的內容)：  
@@ -115,8 +115,8 @@ coverImage: "1.1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-2-1024x556.png)  
-![](WordPress/2-2.png)  
+![](post_assets/1-2-1024x556.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -186,7 +186,7 @@ coverImage: "1.1.jpg"
 以達至更快增加骷髏生命值！  
 
   
-![](WordPress/7-1024x483.png)  
+![](post_assets/7-1024x483.png)  
 
   
 前期已經足夠應付，到後期裝備需要人手打造才能有更理想效果  
@@ -207,11 +207,11 @@ coverImage: "1.1.jpg"
 後期需要大量更改才可用上幻化守衛！  
 
   
-![](WordPress/6-2.png)  
+![](post_assets/6-2.png)  
 
   
-![](WordPress/4-2-1024x581.png)  
-![](WordPress/3-2-1024x597.png)  
+![](post_assets/4-2-1024x581.png)  
+![](post_assets/3-2-1024x597.png)  
 
   
 **感想心得**  

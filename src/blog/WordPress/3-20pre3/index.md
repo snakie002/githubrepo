@@ -36,7 +36,7 @@ tags:
   - "流亡黯道-處刑者"
   - "流亡黯道-詐欺師"
   - "流亡黯道盾投"
-coverImage: "thumbnail-3.jpg"
+coverImage: "post_assets/thumbnail-3.jpg"
 ---
 
 ### 【POE】3.20 三大實而不華拓荒推薦 處刑旋風斬 文字補完版本
@@ -95,8 +95,8 @@ coverImage: "thumbnail-3.jpg"
    
 
   
-![](WordPress/1-3-971x1024.png)  
-![](WordPress/2-2.png)  
+![](post_assets/1-3-971x1024.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -153,8 +153,8 @@ coverImage: "thumbnail-3.jpg"
 也不用特意點出天賦，會是一個不錯的選擇！  
 
   
-![](WordPress/3-3.png)  
-![](WordPress/4-3.png)  
+![](post_assets/3-3.png)  
+![](post_assets/4-3.png)  
 
   
    

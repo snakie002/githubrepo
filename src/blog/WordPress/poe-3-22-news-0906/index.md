@@ -39,13 +39,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-2.jpg"
+coverImage: "post_assets/Title-2.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.1 更新公告 | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/1-1-1-1024x576.png)  
+![](post_assets/1-1-1-1024x576.png)  
 
   
 喂 早晨我是hfok  
@@ -66,7 +66,7 @@ coverImage: "Title-2.jpg"
    
 
   
-![](WordPress/1-2-1.png)  
+![](post_assets/1-2-1.png)  
 
   
    
@@ -80,7 +80,7 @@ coverImage: "Title-2.jpg"
 因為之前他們的價值實在太昂貴了  
 
   
-![](WordPress/1-4.png)  
+![](post_assets/1-4.png)  
 
   
 而且有些技能到畫面太亂  
@@ -94,7 +94,7 @@ coverImage: "Title-2.jpg"
 修正了瑪塔藤蔓技能,它的傷害太少的問題  
 
   
-![](WordPress/1-5.png)  
+![](post_assets/1-5.png)  
 
   
    
@@ -114,7 +114,7 @@ coverImage: "Title-2.jpg"
 修正了一些酋長的道具 在開場之前已經自動觸發的問題  
 
   
-![](WordPress/2-4.png)  
+![](post_assets/2-4.png)  
 
   
 然後就到了一般改善部分了  
@@ -127,7 +127,7 @@ coverImage: "Title-2.jpg"
 令我們更容易避開這種技能  
 
   
-![](WordPress/3-4.png)  
+![](post_assets/3-4.png)  
 
   
 然後就到了手把相關的改善了  
@@ -146,7 +146,7 @@ coverImage: "Title-2.jpg"
 最後他們也改善了不可以創建倉庫的文件夾的問題  
 
   
-![](WordPress/4-5.png)  
+![](post_assets/4-5.png)  
 
   
 下一部分就是殘暴模式相關的了  
@@ -157,7 +157,7 @@ coverImage: "Title-2.jpg"
 現在就會正常地運作  
 
   
-![](WordPress/5-1-1.png)  
+![](post_assets/5-1-1.png)  
 
   
 最後就是錯誤修正的部份  
@@ -174,7 +174,7 @@ coverImage: "Title-2.jpg"
 這個昇華所給你的能力全部都是無效的問題得以修正  
 
   
-![](WordPress/5-2-2.png)  
+![](post_assets/5-2-2.png)  
 
   
 在預判模式裡面有時候圖騰會錯誤地雙重使用  
@@ -189,7 +189,7 @@ coverImage: "Title-2.jpg"
 這條腰帶就不會你造成混沌的持續傷害  
 
   
-![](WordPress/5-3-2.png)  
+![](post_assets/5-3-2.png)  
 
   
 然後它們也修正了在地圖倉庫頁裡  

@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-13.jpg"
+coverImage: "post_assets/Title-13.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.0b 更新公告 & 3.23 Nerf 末日厄運  
@@ -52,13 +52,13 @@ coverImage: "Title-13.jpg"
    
 
   
-![](WordPress/Title-13-1024x576.jpg)  
+![](post_assets/Title-13-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-1-Patch-Note-1024x576.png)  
+![](post_assets/1-1-Patch-Note-1024x576.png)  
 
   
    
@@ -76,7 +76,7 @@ coverImage: "Title-13.jpg"
    
 
   
-![](WordPress/2-1-Improvements.png)  
+![](post_assets/2-1-Improvements.png)  
 
   
    
@@ -102,7 +102,7 @@ coverImage: "Title-13.jpg"
    
 
   
-![](WordPress/3-1-Changes.png)  
+![](post_assets/3-1-Changes.png)  
 
   
    
@@ -137,7 +137,7 @@ GGG他們就說了
    
 
   
-![](WordPress/4-1-bugfix.png)  
+![](post_assets/4-1-bugfix.png)  
 
   
    
@@ -191,10 +191,10 @@ GGG他們就說了
    
 
   
-![](WordPress/5-1-extras.png)  
+![](post_assets/5-1-extras.png)  
 
   
-![](WordPress/5-2-extras-2.png)  
+![](post_assets/5-2-extras-2.png)  
 
   
    
@@ -223,7 +223,7 @@ A: 他們正在調查和嘗試修正
 以上就是今天的消息  
 
   
-![](WordPress/6-impending-doom.png)  
+![](post_assets/6-impending-doom.png)  
 
   
 在開季不久之後  

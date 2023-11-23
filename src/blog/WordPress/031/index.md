@@ -37,7 +37,7 @@ tags:
   - "流亡黯道-裂地之擊"
   - "流亡黯道-體檢"
   - "遊戲攻略"
-coverImage: "thumbnail-52.jpg"
+coverImage: "post_assets/thumbnail-52.jpg"
 ---
 
 ### 【POE】暴徒失敗之擊 Fail Ground Slam | 反面教材 忍者網 抄襲流派 體檢三步曲  
@@ -57,7 +57,7 @@ POE 通識 - 完全新手食用教程 (3) | 流亡黯道 遊戲攻略 | Path of 
 希望可以讓碰過坑的觀眾朋友們避免再被坑一次！  
 
   
-![](WordPress/2021-04-29-20-00-07_5.gif)  
+![](post_assets/2021-04-29-20-00-07_5.gif)  
 
   
 [文字補完](https://snakie002hosifu.blogspot.com/2021/05/poe-fail-ground-slam-poe-3-path-of-exile.html#more)：  
@@ -102,7 +102,7 @@ POB只是數據 客觀的 可操控的，
 在抄襲的時候請留意留意！  
 
   
-![](WordPress/1.mp4_snapshot_02.05.444-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_02.05.444-1024x576.jpg)  
 
   
 **忍者網不能告訴你**  
@@ -140,7 +140,7 @@ COC就是要暴力，裝備沒上去之前就龜，上去就亂來
 很大可能就是團隊了，所以要去背後的運作才可以完美複製！  
 
   
-![](WordPress/2-3-1024x626.png)  
+![](post_assets/2-3-1024x626.png)  
 
   
 **中手上路的障礙**  

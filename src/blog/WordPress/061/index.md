@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-譫妄四溢"
   - "流亡黯道-輿圖侵略"
   - "遊戲攻略"
-coverImage: "thumbnail-56.jpg"
+coverImage: "post_assets/thumbnail-56.jpg"
 ---
 
 ### 【POE】年底競賽抽箱活動 遊玩後感 Dec 2021 Event | 無限礦車 無盡劫盜 輿圖侵略 譫妄四溢  
@@ -58,7 +58,7 @@ coverImage: "thumbnail-56.jpg"
 分別是**競賽聯盟差別及建議，自力模式感想！**  
 
   
-![](WordPress/35-1024x450.png)  
+![](post_assets/35-1024x450.png)  
 
   
 2. **競賽聯盟差別**
@@ -90,7 +90,7 @@ coverImage: "thumbnail-56.jpg"
 以一個練習拓荒的心態去玩感覺就對了！  
 
   
-![](WordPress/3-18-1024x899.png)  
+![](post_assets/3-18-1024x899.png)  
 
   
 3. **自力模式感想**
@@ -126,7 +126,7 @@ coverImage: "thumbnail-56.jpg"
 他日新聯盟拓荒的時候也會有很大的進步！  
 
   
-![](WordPress/HeistEventPrizepool-709x1024.png)  
+![](post_assets/HeistEventPrizepool-709x1024.png)  
 
   
 個人感想  

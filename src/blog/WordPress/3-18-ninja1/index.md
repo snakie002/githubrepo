@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 ### 【POE】警世影片！忍者ＤＰＳ冠軍光環電球實機測試 Ninja#1 DPS Testing  
@@ -78,7 +78,7 @@ Any肥希望可以幫到想了解忍者網排名的朋友們！
 相關裝備技能等不會提供，敬請留意！  
 
   
-![](WordPress/1-4-1024x569.png)  
+![](post_assets/1-4-1024x569.png)  
 
   
 這次主要分**忍者網弊病**及**傷害部份解讀**補完：  
@@ -113,7 +113,7 @@ POE Ninja 的上榜條件只是等級足夠就可以，
    
 
   
-![](WordPress/5-2-1024x729.png)  
+![](post_assets/5-2-1024x729.png)  
 
   
    
@@ -144,7 +144,7 @@ POE Ninja 的上榜條件只是等級足夠就可以，
 真的打圖都會偶爾爆死，一千血真的太屌了  
 
   
-![](WordPress/1.mp4_snapshot_06.31.468-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_06.31.468-1024x576.jpg)  
 
   
    

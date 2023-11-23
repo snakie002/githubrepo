@@ -48,7 +48,7 @@ tags:
   - "流亡黯道-輿圖"
   - "流亡黯道-點燃"
   - "遊戲攻略"
-coverImage: "thumbnail-39.jpg"
+coverImage: "post_assets/thumbnail-39.jpg"
 ---
 
 ### 【POE】 3.13 擊倒A9賽勒斯 元素使魔像完全體 Elementalist Hexblast Ignite Build  
@@ -85,7 +85,7 @@ Pastebin: [https://pastebin.com/wsxQA5ih](https://pastebin.com/wsxQA5ih)
 天賦樹縮圖:  
 
   
-![](WordPress/PASSIVE-2-1024x717.png)  
+![](post_assets/PASSIVE-2-1024x717.png)  
 
   
 **整體思路：**  
@@ -121,7 +121,7 @@ Pastebin: [https://pastebin.com/wsxQA5ih](https://pastebin.com/wsxQA5ih)
    
 
   
-![](WordPress/Capture-5-1024x465.png)  
+![](post_assets/Capture-5-1024x465.png)  
 
   
    

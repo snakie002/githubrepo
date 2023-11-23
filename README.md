@@ -5,18 +5,18 @@
 
 ## Getting started
 
-1. Clone media folder from s3 to your PC
-
-```sh
-cd your-media-folder
-aws s3 sync s3://snakie002-blog-media ./
-```
-
-2. Clone this repo
+1. Clone this repo
 
 ```sh
 git clone git@github.com:snakie002/snakie002-blog-11ty.git
 cd snakie002-blog-11ty
+```
+
+2. Clone media folder from s3 to your PC
+
+```sh
+cd ./src/blog
+aws s3 sync s3://snakie002-blog-media ./
 ```
 
 3. Create file `.env` and update the variable
@@ -24,8 +24,6 @@ cd snakie002-blog-11ty
 ```sh
 cp .env.example .env
 ```
-
-update `<YOUR-MEDIA-PATH>` value in `MEDIA_DIR` to the root path of your media folder created in step 1
 
 4. Start the server
 
@@ -49,6 +47,6 @@ git push -u origin main
 To sync the media to S3
 
 ```sh
-cd your-media-folder
-aws s3 sync ./ s3://snakie002-blog-media
+cd ./src/
+aws s3 sync ./blog s3://snakie002-blog-media --exclude '*' --include '**/post_assets/*'
 ```

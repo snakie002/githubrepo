@@ -31,7 +31,7 @@ tags:
   - "遊戲攻略"
   - "香港"
   - "黑帝斯"
-coverImage: "P3-2.jpg"
+coverImage: "post_assets/P3-2.jpg"
 ---
 
 ### 【遊戲評測】Rogue-Lite 《Hades》近年小數爽快ARPG作品 | 何謂搶先體驗?
@@ -51,7 +51,7 @@ coverImage: "P3-2.jpg"
    
 
   
-\[caption id="attachment\_66" align="alignnone" width="1024"\]![](WordPress/P1-1.jpg) Game of The Year《隻狼》，唔係個個受得起。\[/caption\]  
+\[caption id="attachment\_66" align="alignnone" width="1024"\]![](post_assets/P1-1.jpg) Game of The Year《隻狼》，唔係個個受得起。\[/caption\]  
 
   
    
@@ -68,7 +68,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_67" align="alignnone" width="631"\]![](WordPress/P2.png) Early Access的確係對有誠意既廠商有好大幫助，不過奸商亦都可以從中搞事。\[/caption\]  
+\[caption id="attachment\_67" align="alignnone" width="631"\]![](post_assets/P2.png) Early Access的確係對有誠意既廠商有好大幫助，不過奸商亦都可以從中搞事。\[/caption\]  
 
   
    
@@ -81,13 +81,13 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_68" align="alignnone" width="460"\]![](WordPress/P3-1.jpg) 《Hades》終於係Dec 2019擺脫Epic Store既魔掌加入Steam。\[/caption\]  
+\[caption id="attachment\_68" align="alignnone" width="460"\]![](post_assets/P3-1.jpg) 《Hades》終於係Dec 2019擺脫Epic Store既魔掌加入Steam。\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_69" align="alignnone" width="848"\]![](WordPress/P4.png) 小弟有玩過《Bastion》，絕對值回票價有餘既好遊戲之一。\[/caption\]  
+\[caption id="attachment\_69" align="alignnone" width="848"\]![](post_assets/P4.png) 小弟有玩過《Bastion》，絕對值回票價有餘既好遊戲之一。\[/caption\]  
 
   
    
@@ -101,7 +101,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_70" align="alignnone" width="1024"\]![](WordPress/P5.jpg) 鬼妹同日本妹，係難簡既。\[/caption\]  
+\[caption id="attachment\_70" align="alignnone" width="1024"\]![](post_assets/P5.jpg) 鬼妹同日本妹，係難簡既。\[/caption\]  
 
   
 遊戲由地獄開始，一路打到上山頂，最後嬴左老豆之後，主角就會**唔知點解**死左然後再去返地獄，**無限淪回**。  
@@ -113,7 +113,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 聽落去好似好無厘頭，遊戲重點就係在於，**無限淪回**。  
 
   
-\[caption id="attachment\_71" align="alignnone" width="858"\]![](WordPress/P6-1024x576.jpg) 第一次爆機然後再被自殺真係唔知咩事。\[/caption\]  
+\[caption id="attachment\_71" align="alignnone" width="858"\]![](post_assets/P6-1024x576.jpg) 第一次爆機然後再被自殺真係唔知咩事。\[/caption\]  
 
   
 我地一步一步探討哩個遊戲既深度，先講解遊戲特式，暫時有五樣武器比玩家選擇，其中包括：  
@@ -134,7 +134,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 操作方面每款都有不同，大致上可分為普攻，重擊及Dash，各種武器有特別Skill Set等等。  
 
   
-\[caption id="attachment\_72" align="alignnone" width="858"\]![](WordPress/P7-1024x576.jpg) 鎗係一月份既更新既武器，證明製作團隊更新速度有一定保證。\[/caption\]  
+\[caption id="attachment\_72" align="alignnone" width="858"\]![](post_assets/P7-1024x576.jpg) 鎗係一月份既更新既武器，證明製作團隊更新速度有一定保證。\[/caption\]  
 
   
 簡好武器之後就可以開始逃生。遊戲每一層有特定怪物及陷阱，清場後可以選擇下一關既報酬，  
@@ -145,7 +145,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_73" align="alignnone" width="858"\]![](WordPress/P8-1024x576.jpg) 最後樓層就會打自己老豆，戰勝之後，就會返到地獄入口。\[/caption\]  
+\[caption id="attachment\_73" align="alignnone" width="858"\]![](post_assets/P8-1024x576.jpg) 最後樓層就會打自己老豆，戰勝之後，就會返到地獄入口。\[/caption\]  
 
   
 遊戲除左爽快度極高之外，重點就係Rogue-Lite玩法。作為Rogue-Lite遊戲，每一次既逃生都會同上次唔一樣，  
@@ -153,7 +153,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 例如攻速較高既劍，強化後可以變為攻速較慢既重攻擊，改變角色打法。  
 
   
-\[caption id="attachment\_74" align="alignnone" width="1024"\]![](WordPress/P9.jpg) 遠距離既弓，強化後可以將儲箭變成連射瞬發，可以將由遠距離遊擊打法變成近距離靈活走位。\[/caption\]  
+\[caption id="attachment\_74" align="alignnone" width="1024"\]![](post_assets/P9.jpg) 遠距離既弓，強化後可以將儲箭變成連射瞬發，可以將由遠距離遊擊打法變成近距離靈活走位。\[/caption\]  
 
   
 每一層都有機會遇到之前所講既希臘神，會賦予不同既技能，從而改變武器打法，令遊戲變化更大更有趣，  
@@ -163,7 +163,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 除此之外，仲有各式各樣技能加強或者改變武器動作，令到每一次既遊戲都有唔同既攻擊模式！  
 
   
-\[caption id="attachment\_75" align="alignnone" width="1024"\]![](WordPress/P10.jpg) 由一個普通既Dash變左一個有反彈盾既Dash絕對可以由走路變成追\[/caption\]  
+\[caption id="attachment\_75" align="alignnone" width="1024"\]![](post_assets/P10.jpg) 由一個普通既Dash變左一個有反彈盾既Dash絕對可以由走路變成追\[/caption\]  
 
   
 每一個技能都有分稀有度（Rarity），同抽蛋一樣，每一次都好似神Up一樣可能會有驚喜。  
@@ -174,7 +174,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_76" align="alignnone" width="858"\]![](WordPress/P11-1024x574.png) 圖中就係一個尷尬既Legendary Boon，因為打尾王既時候魅惑（Charm）可能真係用唔著。\[/caption\]  
+\[caption id="attachment\_76" align="alignnone" width="858"\]![](post_assets/P11-1024x574.png) 圖中就係一個尷尬既Legendary Boon，因為打尾王既時候魅惑（Charm）可能真係用唔著。\[/caption\]  
 
   
 技能以外就係武器既分別，上述所講既五種武器（暫時），通關之後可以作進一步強化，  
@@ -182,7 +182,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 就會因為強化成關刀變成一個儲氣吸血既流派。  
 
   
-\[caption id="attachment\_77" align="alignnone" width="858"\]![](WordPress/P12-1024x553.png) 可以見到矛暫時有四個形態比玩家選擇，都係會改變武器打法。 關刀可以用特定招數吸血，但係血量上限會有下降，想無缺點咁用關刀就要不停打材料升級！\[/caption\]  
+\[caption id="attachment\_77" align="alignnone" width="858"\]![](post_assets/P12-1024x553.png) 可以見到矛暫時有四個形態比玩家選擇，都係會改變武器打法。 關刀可以用特定招數吸血，但係血量上限會有下降，想無缺點咁用關刀就要不停打材料升級！\[/caption\]  
 
   
 **簡單黎講，每次既逃走，都會因為玩家選擇唔同既武器，同埋每遇到唔同既神比你既不同技能，  
@@ -194,7 +194,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 或者有機會遇到更難既試鍊，從而獲得更多既貨幣或者道具再一次強化。  
 
   
-\[caption id="attachment\_78" align="alignnone" width="858"\]![](WordPress/P13-1024x576.jpg) 除左可以提升死亡次數同血之外，仲可以調整運氣等自己整一個岩用既神Up出黎！\[/caption\]  
+\[caption id="attachment\_78" align="alignnone" width="858"\]![](post_assets/P13-1024x576.jpg) 除左可以提升死亡次數同血之外，仲可以調整運氣等自己整一個岩用既神Up出黎！\[/caption\]  
 
   
 製作團體都知道現今遊戲要整到長壽襟玩，就咁Rogue-Lite已經唔足夠。所以遊戲通關後就會開放Hell Mode，  
@@ -202,7 +202,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
 可以練到主角同超人一樣咁好打黎虐殺敵人，亦到可以將敵人變到石頭一樣咁硬淨黎自虐自己。  
 
   
-\[caption id="attachment\_79" align="alignnone" width="858"\]![](WordPress/P14-1024x576.jpg) 愈大獲愈快樂，因應Heat Gauge Level，可以得到既報酬亦都會相應提高。\[/caption\]  
+\[caption id="attachment\_79" align="alignnone" width="858"\]![](post_assets/P14-1024x576.jpg) 愈大獲愈快樂，因應Heat Gauge Level，可以得到既報酬亦都會相應提高。\[/caption\]  
 
   
 每一次既逃走，如果順利由頭打到尾，其實大約都係半個鐘倒，暫時小弟買左兩日都已經打左十八個鐘，  
@@ -213,7 +213,7 @@ Early Access既玩家可能會承受一個風險：遊戲因為各種問題無�
    
 
   
-\[caption id="attachment\_80" align="alignnone" width="858"\]![](WordPress/P15-1024x576.jpg) 幾經艱辛，小弟打左十八個鐘終於用弓嬴到第一次！\[/caption\]  
+\[caption id="attachment\_80" align="alignnone" width="858"\]![](post_assets/P15-1024x576.jpg) 幾經艱辛，小弟打左十八個鐘終於用弓嬴到第一次！\[/caption\]  
 
   
 Rogue-Lite類ARPG遊戲需要愈黎愈多，然而有質素同畫風比較有水準既其實唔算太多。小弟認為《Hades》既PROS / CONS可以分為：  
@@ -237,7 +237,7 @@ PROs：
    
 
   
-\[caption id="attachment\_81" align="alignnone" width="858"\]![](WordPress/P16-1024x228.png) $109，邊爐口罩洗手液都買唔到啦。\[/caption\]  
+\[caption id="attachment\_81" align="alignnone" width="858"\]![](post_assets/P16-1024x228.png) $109，邊爐口罩洗手液都買唔到啦。\[/caption\]  
 
   
 CONs:  
@@ -264,7 +264,7 @@ CONs:
 小弟極力推薦《Hades》。其實隻Game係有殘體版，但係小弟就寧願睇英文都唔想見到甩皮甩骨既文字，大家可以自行斟酌。  
 
   
-\[caption id="attachment\_82" align="alignnone" width="858"\]![](WordPress/P17-1024x576.jpg) 《Hades》其實語言問題不大，坦白講以前唔識字去玩日文FF7都一樣會流眼淚啦。\[/caption\]  
+\[caption id="attachment\_82" align="alignnone" width="858"\]![](post_assets/P17-1024x576.jpg) 《Hades》其實語言問題不大，坦白講以前唔識字去玩日文FF7都一樣會流眼淚啦。\[/caption\]  
 
   
 當然，如文中開頭所講，問完你都係唔會去玩既，咁咪，  

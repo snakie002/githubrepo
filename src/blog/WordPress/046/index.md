@@ -31,7 +31,7 @@ tags:
   - "流亡黯道-雷鎚"
   - "流亡黯道-魔能束縛"
   - "遊戲攻略"
-coverImage: "thumbnail1-15.jpg"
+coverImage: "post_assets/thumbnail1-15.jpg"
 ---
 
 ### 【POE】手速剋星 垃圾平衡！聖宗雷鎚魔能束縛 Hierophant Mjölner Manabond  
@@ -66,8 +66,8 @@ coverImage: "thumbnail1-15.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/11-2-1024x539.png)  
-![](WordPress/22.png)  
+![](post_assets/11-2-1024x539.png)  
+![](post_assets/22.png)  
 
   
    
@@ -102,7 +102,7 @@ coverImage: "thumbnail1-15.jpg"
 暴擊難起動，高天花，所以還是建議量力而為是最好！  
 
   
-![](WordPress/6-1.png)  
+![](post_assets/6-1.png)  
 
   
 **控魔問題**  
@@ -120,7 +120,7 @@ coverImage: "thumbnail1-15.jpg"
 所以要玩比較久才可以上手的流派  
 
   
-![](WordPress/5-2-261x300.png)  
+![](post_assets/5-2-261x300.png)  
 
   
 **技能連結****胸甲—３Ｇ２Ｂ１Ｒ****旋風斬—覺醒引導施放—電弧—覺醒連鎖—覺醒閃電穿透—快速攻擊＊**  
@@ -173,10 +173,10 @@ coverImage: "thumbnail1-15.jpg"
    
 
   
-![](WordPress/4-6.png)  
+![](post_assets/4-6.png)  
 
   
-![](WordPress/3-8-286x300.png)![](WordPress/2-11-235x300.png)  
+![](post_assets/3-8-286x300.png)![](post_assets/2-11-235x300.png)  
 
   
 **裝備****選擇**  
@@ -243,7 +243,7 @@ coverImage: "thumbnail1-15.jpg"
 把雷鎚的輸出進一步提升！  
 
   
-![](WordPress/1-15-218x300.png)  
+![](post_assets/1-15-218x300.png)  
 
   
 武器 — 沉默之雷  

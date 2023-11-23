@@ -26,7 +26,7 @@ tags:
   - "電馭叛客-2077系統"
   - "電馭叛客-2077評價"
   - "電馭叛客-2077評測"
-coverImage: "thumbnail-33.jpg"
+coverImage: "post_assets/thumbnail-33.jpg"
 ---
 
 ### 【電馭叛客 2077】Cyberpunk 2077評價 | 優秀架構 承諾跳票 | 沉浸劇情 崩壞系統 | 遊戲評測
@@ -60,10 +60,10 @@ Reddit 跳票列表：[https://www.reddit.com/r/cyberpunkgame/comments/kcve8s/pr
 ２０１８年４８分鐘實機影片：[https://www.youtube.com/watch?v=vjF9GgrY9c0&t=2363s](https://www.youtube.com/watch?v=vjF9GgrY9c0&t=2363s)  
 
   
-![](WordPress/photomode_14122020_035209-1024x576.png)  
+![](post_assets/photomode_14122020_035209-1024x576.png)  
 
   
-![](WordPress/photomode_15122020_160327-1024x576.png)  
+![](post_assets/photomode_15122020_160327-1024x576.png)  
 
   
 文字補完：  
@@ -131,10 +131,10 @@ Reddit 跳票列表：[https://www.reddit.com/r/cyberpunkgame/comments/kcve8s/pr
    
 
   
-**![](WordPress/Cyberpunk-glitch-1536x864-1-1024x576.png)**  
+**![](post_assets/Cyberpunk-glitch-1536x864-1-1024x576.png)**  
 
   
-**![](WordPress/Cyberpunk-Keanu-1024x577.jpg)**  
+**![](post_assets/Cyberpunk-Keanu-1024x577.jpg)**  
 
   
 個人感想  

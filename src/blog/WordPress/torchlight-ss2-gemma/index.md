@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 # 【火炬之光：無限】歡愉之焰 一鍵掃蕩 伏流煉獄泥頭車 三票頭目全通 | Gemma Undercurrent Reap | 詳盡流派圖文並茂解說 | 永恆迷城 Torchlight:Infinite
@@ -74,13 +74,13 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 有需要的朋友們請移玉步到blog上查閱，謝謝！  
 
   
-![](WordPress/6-9-1024x632.png)  
+![](post_assets/6-9-1024x632.png)  
 
   
 天賦路線，以下為附圖方便各位：  
 
   
-![](WordPress/Passive-1024x576.jpg)  
+![](post_assets/Passive-1024x576.jpg)  
 
   
    
@@ -129,8 +129,8 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
   
 
   
-![](WordPress/R8.png)  
-![](WordPress/R7.png)  
+![](post_assets/R8.png)  
+![](post_assets/R7.png)  
 
   
 新賽季魂觸系統T0詞綴雖然強大，  
@@ -150,8 +150,8 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 **英雄特性**  
 
   
-![](WordPress/H2.png)  
-![](WordPress/H5.png)  
+![](post_assets/H2.png)  
+![](post_assets/H5.png)  
 基本選擇為１１１１２  
 
   
@@ -181,8 +181,8 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 按個人要求就好！  
 
   
-![](WordPress/H4.png)  
-![](WordPress/H3.png)  
+![](post_assets/H4.png)  
+![](post_assets/H3.png)  
 
   
    
@@ -194,20 +194,20 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
    
 
   
-![](WordPress/S1-1-1024x788.png)  
+![](post_assets/S1-1-1024x788.png)  
 
   
    
 
   
-![](WordPress/S9-958x1024.png)  
-![](WordPress/S8-941x1024.png)  
-![](WordPress/S7-961x1024.png)  
-![](WordPress/S6-1-1024x953.png)  
-![](WordPress/S5-1-1001x1024.png)  
-![](WordPress/S4-1.png)  
-![](WordPress/S3-1-853x1024.png)  
-![](WordPress/S2-1-875x1024.png)  
+![](post_assets/S9-958x1024.png)  
+![](post_assets/S8-941x1024.png)  
+![](post_assets/S7-961x1024.png)  
+![](post_assets/S6-1-1024x953.png)  
+![](post_assets/S5-1-1001x1024.png)  
+![](post_assets/S4-1.png)  
+![](post_assets/S3-1-853x1024.png)  
+![](post_assets/S2-1-875x1024.png)  
 
   
 因為要兩個六連，最完美情況是需要５２５能量，  
@@ -229,7 +229,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
    
 
   
-![](WordPress/E0-1024x975.png)  
+![](post_assets/E0-1024x975.png)  
 
   
    
@@ -238,7 +238,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 九件裝備要打造五件裝備 將會每件裝備分析一下：  
 
   
-![](WordPress/E1-1.png)  
+![](post_assets/E1-1.png)  
 
   
 頭部  
@@ -248,7 +248,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 是有需要＋２的  
 
   
-![](WordPress/E2-1.png)  
+![](post_assets/E2-1.png)  
 
   
 胸甲  
@@ -265,7 +265,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 所以說如果閣下裝備可以再提升一定會比我們好，  
 
   
-![](WordPress/E3-1.png)  
+![](post_assets/E3-1.png)  
 
   
 項鍊 隨意  
@@ -278,7 +278,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
    
 
   
-![](WordPress/E4-1-458x1024.png)  
+![](post_assets/E4-1-458x1024.png)  
 
   
    
@@ -291,7 +291,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 當然＋２法術手套也是一個方向，反正Ｔ０只是時間問題  
 
   
-![](WordPress/E5-1.png)  
+![](post_assets/E5-1.png)  
 
   
 腰帶 隨意  
@@ -301,7 +301,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 後詞 — 加劇效果＞抗性  
 
   
-![](WordPress/E6-1-493x1024.png)  
+![](post_assets/E6-1-493x1024.png)  
 
   
 腳部 君王恩賜  
@@ -309,8 +309,8 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 不喜歡的可以Ｔ０火焰技能，冷卻時間等  
 
   
-![](WordPress/E7-1.png)  
-![](WordPress/E8-1.png)  
+![](post_assets/E7-1.png)  
+![](post_assets/E8-1.png)  
 
   
 戒指 隨意  
@@ -329,12 +329,12 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
 伏流 綁定 當然需要灼熱波紋  
 
   
-![](WordPress/R6.png)  
-![](WordPress/R5.png)  
-![](WordPress/R4.png)  
-![](WordPress/R3.png)  
-![](WordPress/R2.png)  
-![](WordPress/R1.png)  
+![](post_assets/R6.png)  
+![](post_assets/R5.png)  
+![](post_assets/R4.png)  
+![](post_assets/R3.png)  
+![](post_assets/R2.png)  
+![](post_assets/R1.png)  
 
   
 還有七巧板等 主要拿綁定類別及火焰技能  
@@ -352,7 +352,7 @@ Any肥希望幫助對伏流泥頭車感興趣的朋友們！
    
 
   
-![](WordPress/1-8-1024x514.png)  
+![](post_assets/1-8-1024x514.png)  
 
   
    

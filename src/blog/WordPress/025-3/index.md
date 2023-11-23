@@ -31,7 +31,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail1.jpg"
+coverImage: "post_assets/thumbnail1.jpg"
 ---
 
 ### 【勇氣默示錄 2】攻略技巧整合 | 一小時全職業滿等 兩分鐘99饅頭刷法 | 遊戲攻略 Bravely Default II
@@ -101,7 +101,7 @@ coverImage: "thumbnail1.jpg"
   
 
   
-![](WordPress/1-2-1024x576.png)  
+![](post_assets/1-2-1024x576.png)  
 
   
 解鎖職業：盜賊，魔獸使，吟游詩人，賭徒  
@@ -111,7 +111,7 @@ coverImage: "thumbnail1.jpg"
 而且不可以偷到，只可以掉落，所以要點時間運氣  
 
   
-![](WordPress/2-2-1024x576.png)  
+![](post_assets/2-2-1024x576.png)  
 
   
 解鎖職業：黑魔道士、處刑者、勇者  
@@ -122,7 +122,7 @@ coverImage: "thumbnail1.jpg"
 2\. 魔法學院之國  
 
   
-![](WordPress/3-1-1024x576.png)  
+![](post_assets/3-1-1024x576.png)  
 
   
 解鎖職業：龍騎士、導師、預言者  
@@ -131,7 +131,7 @@ coverImage: "thumbnail1.jpg"
 3\. 沙漠綠洲之國莎法隆  
 
   
-![](WordPress/4-1-1024x576.png)  
+![](post_assets/4-1-1024x576.png)  
 
   
 解鎖職業：盾衛、劍聖、藥師  
@@ -143,13 +143,13 @@ coverImage: "thumbnail1.jpg"
 4\. 冰天雪地之國  
 
   
-![](WordPress/5-1024x576.png)  
+![](post_assets/5-1024x576.png)  
 
   
 解鎖職業：狂戰士、畫家、魔人  
 
   
-![](WordPress/6-1024x576.png)  
+![](post_assets/6-1024x576.png)  
 
   
 解鎖職業：武僧、幻影、魔劍士  
@@ -161,7 +161,7 @@ coverImage: "thumbnail1.jpg"
 5\. 軍事霸權帝國  
 
   
-![](WordPress/7-1024x576.png)  
+![](post_assets/7-1024x576.png)  
 
   
 解鎖職業：白魔道士、紅魔道士、衛士、獵人  
@@ -175,7 +175,7 @@ coverImage: "thumbnail1.jpg"
 當然慢慢打才是最好玩的部份！  
 
   
-![](WordPress/1.mp4_snapshot_04.27.324-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_04.27.324-1024x576.jpg)  
 
   
    
@@ -224,7 +224,7 @@ coverImage: "thumbnail1.jpg"
 基本上不會有卡住的問題！  
 
   
-![](WordPress/1.mp4_snapshot_06.52.559-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_06.52.559-1024x576.jpg)  
 
   
 **刷饅頭重點：**  
@@ -421,7 +421,7 @@ coverImage: "thumbnail1.jpg"
 那拏天，魔導研究所東棟  
 
   
-![](WordPress/thumbnail1-1024x576.jpg)  
+![](post_assets/thumbnail1-1024x576.jpg)  
 
   
    

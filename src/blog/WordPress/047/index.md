@@ -29,7 +29,7 @@ tags:
   - "流亡黯道-感動"
   - "流亡黯道-正義之火"
   - "遊戲攻略"
-coverImage: "thumbnail1-16.jpg"
+coverImage: "post_assets/thumbnail1-16.jpg"
 ---
 
 ### 【POE】找回最初的感動！判官正義之火 Inquisitor Righteous Fire  
@@ -63,7 +63,7 @@ coverImage: "thumbnail1-16.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/2-12-891x1024.png)  
+![](post_assets/2-12-891x1024.png)  
 
   
 如果沒有安定權杖的元素之相，只需要放棄左面的珠寶位置，  
@@ -103,7 +103,7 @@ coverImage: "thumbnail1-16.jpg"
 另外附上秒回跟火抗關係貼圖：  
 
   
-![](WordPress/RF-SUB-1.png)  
+![](post_assets/RF-SUB-1.png)  
 
   
 **技能連結**  

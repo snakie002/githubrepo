@@ -43,7 +43,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-9.jpg"
+coverImage: "post_assets/thumbnail-9.jpg"
 ---
 
 ## 【火炬之光：無限】SS2 新賽季永恆迷城直播前瞻懶人包 | 新英雄 遺世魔靈 新特性 歡愉之焰  
@@ -74,7 +74,7 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
    
 
   
-![](WordPress/thumbnail-9-1024x576.jpg)  
+![](post_assets/thumbnail-9-1024x576.jpg)  
 
   
 文字補完 [(原文連結)](https://snakie002hosifu.blog/torchlight-ss2-intro)：  
@@ -88,8 +88,8 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
    
 
   
-![](WordPress/2-3-1024x576.jpg)  
-![](WordPress/5-2-1024x576.jpg)  
+![](post_assets/2-3-1024x576.jpg)  
+![](post_assets/5-2-1024x576.jpg)  
 
   
    
@@ -113,7 +113,7 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
 實際操作只能等待過後的更新及更多資料釋出才能作出判斷  
 
   
-![](WordPress/cal-1024x681.png)  
+![](post_assets/cal-1024x681.png)  
 
   
 沒想到去到第四季 居然還有新的裝備物品道具加入  
@@ -134,7 +134,7 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
    
 
   
-![](WordPress/6-1-1024x576.jpg)  
+![](post_assets/6-1-1024x576.jpg)  
 
   
 **遊戲本體機制及****混亂****侵襲**  
@@ -155,7 +155,7 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
 還是有點看頭的  
 
   
-![](WordPress/3-2-1024x576.jpg)  
+![](post_assets/3-2-1024x576.jpg)  
 
   
 另外混亂侵襲有點玄，  
@@ -177,8 +177,8 @@ Any肥 希望可以幫到有興趣了解火炬之光無限SS2 永恆迷城的朋
 希望是平衡較佳的方向，畢竟這是對遊戲長遠發展最好的出發點  
 
   
-![](WordPress/1-4-1024x576.jpg)  
-![](WordPress/4-2-1024x576.jpg)  
+![](post_assets/1-4-1024x576.jpg)  
+![](post_assets/4-2-1024x576.jpg)  
 
   
 **個人感想**  

@@ -39,7 +39,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### **【POE】3.17 強襲宿敵 首三天拓荒進度報告 四石獲取 | 輿圖大幅簡化 輿圖天賦配搭任意地圖 制定個人耕種路線**  
@@ -72,7 +72,7 @@ coverImage: "thumbnail.jpg"
 分別是**新頭目機制****，****輿圖天賦****，以及聯盟機制感想**  
 
   
-![](WordPress/2022-02-06-18-54-35.mp4_snapshot_01.17.230-1024x576.jpg)  
+![](post_assets/2022-02-06-18-54-35.mp4_snapshot_01.17.230-1024x576.jpg)  
 
   
 **新頭目機制**  
@@ -111,14 +111,14 @@ coverImage: "thumbnail.jpg"
 然後沒有太大的威脅的技能；  
 
   
-![](WordPress/2022-02-06-02-03-21.mp4_snapshot_05.53.429-1024x576.jpg)  
+![](post_assets/2022-02-06-02-03-21.mp4_snapshot_05.53.429-1024x576.jpg)  
 
   
 **灼烙大頭目也有方法，玩家可以拿上冰牆，在保齡球階段可以用在擋球，****或是召喚物也可以擋球，也是半個外鄉人做法**其他都是站在王的後方以及留意地版，在首戰對戰沒有詞綴的時候，  
 強度不會太大，反而著重玩家對機制的處理；  
 
   
-![](WordPress/2022-02-07-22-24-06.mp4_snapshot_05.16.194-1024x576.jpg)  
+![](post_assets/2022-02-07-22-24-06.mp4_snapshot_05.16.194-1024x576.jpg)  
 
   
    
@@ -157,7 +157,7 @@ coverImage: "thumbnail.jpg"
 不過出來後適不適合大家，那就不一定了  
 
   
-![](WordPress/1-3-1024x577.png)  
+![](post_assets/1-3-1024x577.png)  
 
 ### **聯盟機制感想**
 
@@ -168,8 +168,8 @@ coverImage: "thumbnail.jpg"
 網上已經有配方圖，先附上文字版本：
 
   
-![](WordPress/unknown-1024x357.png)  
-![](WordPress/Screenshot_2022-02-08_at_1.png)  
+![](post_assets/unknown-1024x357.png)  
+![](post_assets/Screenshot_2022-02-08_at_1.png)  
 
   
 雖然有配方及流程等等，但重點還是能否撿到相關最低階材料，  

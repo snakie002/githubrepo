@@ -27,7 +27,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【艾爾登法環】菈妮支線 群星時代結局 簡易流程 附地圖路線  
@@ -59,10 +59,10 @@ coverImage: "thumbnail-2.jpg"
 以後再會有影片或攻略發佈，謝謝各位支持！  
 
   
-**![](WordPress/1-1024x576.jpg)**  
+**![](post_assets/1-1024x576.jpg)**  
 
   
-![](WordPress/2-1-1024x576.jpg)  
+![](post_assets/2-1-1024x576.jpg)  
 
 ### **先附上基本路線圖**
 
@@ -88,10 +88,10 @@ coverImage: "thumbnail-2.jpg"
 所以建議先完成魔法學院後再往卡利亞走較好！  
 
   
-![](WordPress/3-1-1024x588.jpg)  
+![](post_assets/3-1-1024x588.jpg)  
 
   
-![](WordPress/4-1-1024x576.jpg)  
+![](post_assets/4-1-1024x576.jpg)  
 
 ### **觸發戰鬥祭典劇情**
 
@@ -102,10 +102,10 @@ coverImage: "thumbnail-2.jpg"
 希芙拉河入口，狼哥位置，驛站都是圖中藍圈位置  
 
   
-![](WordPress/5-1-1024x588.png)  
+![](post_assets/5-1-1024x588.png)  
 
   
-![](WordPress/6-1-1024x591.png)  
+![](post_assets/6-1-1024x591.png)  
 
   
 假如去到橋頭部份傳送門沒有觸發，  
@@ -114,7 +114,7 @@ coverImage: "thumbnail-2.jpg"
 往山方向並有蝙蝠小怪的話就正確了  
 
   
-![](WordPress/8-1024x593.png)  
+![](post_assets/8-1024x593.png)  
 
   
 請注意如想完成賽爾維斯支線的話，  
@@ -124,7 +124,7 @@ coverImage: "thumbnail-2.jpg"
 所以最好先處理好賽爾維斯線比較好！  
 
   
-![](WordPress/19-1024x576.jpg)  
+![](post_assets/19-1024x576.jpg)  
 
 ### **獵殺指頭刀**
 
@@ -137,13 +137,13 @@ coverImage: "thumbnail-2.jpg"
 那麼在這裡該做的事情也差不多了  
 
   
-![](WordPress/9-2-1024x576.jpg)  
+![](post_assets/9-2-1024x576.jpg)  
 
   
-![](WordPress/10-1-1024x576.jpg)  
+![](post_assets/10-1-1024x576.jpg)  
 
   
-![](WordPress/11-1-1024x576.jpg)  
+![](post_assets/11-1-1024x576.jpg)  
 
 ### **蕾娜魔法塔到災厄影子**
 
@@ -160,8 +160,8 @@ coverImage: "thumbnail-2.jpg"
 卡任的朋友可以嘗試一下！  
 
   
-![](WordPress/12-1-1024x588.jpg)  
-![](WordPress/13-1-1024x576.jpg)  
+![](post_assets/12-1-1024x588.jpg)  
+![](post_assets/13-1-1024x576.jpg)  
 
 ### **腐敗湖到任務尾聲**
 
@@ -179,8 +179,8 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/14-1-1024x576.jpg)  
-![](WordPress/15-1-1024x576.jpg)  
+![](post_assets/14-1-1024x576.jpg)  
+![](post_assets/15-1-1024x576.jpg)  
 
 ### **後續劇情**
 
@@ -194,17 +194,17 @@ coverImage: "thumbnail-2.jpg"
 也有伊吉及狼哥的插曲可以幫忙了解劇情背景，  
 
   
-![](WordPress/17-1-1024x576.jpg)  
+![](post_assets/17-1-1024x576.jpg)  
 
   
-![](WordPress/18-1-1024x576.jpg)  
+![](post_assets/18-1-1024x576.jpg)  
 
   
 完成支線後回到主線劇情，直到推倒黃金律法可以選擇結局  
 就能夠召喚菈妮並解鎖菈妮結局的白金成就！  
 
   
-![](WordPress/16-1-1024x576.jpg)  
+![](post_assets/16-1-1024x576.jpg)  
 
   
 以上就是菈妮群星時代簡易路線，  

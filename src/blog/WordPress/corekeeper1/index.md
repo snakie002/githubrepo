@@ -9,7 +9,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "header_alt_assets_2.jpg"
+coverImage: "post_assets/header_alt_assets_2.jpg"
 ---
 
 ### 【遊戲評測】8人連線挖礦沙盒遊戲《Core Keeper》 推出兩日銷量破十萬
@@ -27,7 +27,7 @@ coverImage: "header_alt_assets_2.jpg"
    
 
   
-![](WordPress/photo1.png)  
+![](post_assets/photo1.png)  
 
   
    
@@ -45,13 +45,13 @@ coverImage: "header_alt_assets_2.jpg"
    
 
   
-![](WordPress/photo2.png)  
+![](post_assets/photo2.png)  
 
   
-\[caption id="attachment\_1112" align="alignnone" width="858"\]![](WordPress/photo4-1024x551.png) 遊戲設計為可供最多8人連線合作於同一世界內遊玩， 就如之前大熱生存遊戲《Valheim》一樣，玩家角色技能以及身上的物品都可帶隨著玩家穿梭不同世界；\[/caption\]  
+\[caption id="attachment\_1112" align="alignnone" width="858"\]![](post_assets/photo4-1024x551.png) 遊戲設計為可供最多8人連線合作於同一世界內遊玩， 就如之前大熱生存遊戲《Valheim》一樣，玩家角色技能以及身上的物品都可帶隨著玩家穿梭不同世界；\[/caption\]  
 
   
-![](WordPress/photo5-1024x576.png)  
+![](post_assets/photo5-1024x576.png)  
 
   
 小師弟暫時遇到第一只頭目，但身上裝備及食物不足導致直接死亡．．．  
@@ -63,7 +63,7 @@ coverImage: "header_alt_assets_2.jpg"
    
 
   
-![](WordPress/photo6-1024x576.png)  
+![](post_assets/photo6-1024x576.png)  
 
   
    

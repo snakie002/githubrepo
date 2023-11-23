@@ -43,7 +43,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【POE】3.18三大重覆拓荒推薦 暴徒將軍戰吼 秘術師漩渦 元素師爆炸箭  
@@ -93,8 +93,8 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/unknown1.png)  
-![](WordPress/unknown-1024x576.png)  
+![](post_assets/unknown1.png)  
+![](post_assets/unknown-1024x576.png)  
 
   
 **流派選擇 2.0**  
@@ -131,8 +131,8 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/IMG_2006.jpg)  
-![](WordPress/FB_IMG_1652311940603.jpg)  
+![](post_assets/IMG_2006.jpg)  
+![](post_assets/FB_IMG_1652311940603.jpg)  
 
   
    

@@ -45,7 +45,7 @@ tags:
   - "流亡黯道-追蹤"
   - "流亡黯道-銳眼"
   - "遊戲攻略"
-coverImage: "thumbnail-41.jpg"
+coverImage: "post_assets/thumbnail-41.jpg"
 ---
 
 ### 【POE】自動追蹤！ 3.13 銳眼三體元素打擊 X 水弒界 | Deadeye Trinity Elemental Hit X Hydrosphere  
@@ -81,7 +81,7 @@ Pastebin: [https://pastebin.com/qHzgzLrT](https://pastebin.com/qHzgzLrT)
 天賦樹縮圖:  
 
   
-![](WordPress/passive-3-917x1024.png)  
+![](post_assets/passive-3-917x1024.png)  
 
   
    
@@ -120,7 +120,7 @@ Pastebin: [https://pastebin.com/qHzgzLrT](https://pastebin.com/qHzgzLrT)
    
 
   
-![](WordPress/Capture-6.png)  
+![](post_assets/Capture-6.png)  
 
   
 **技能配置：**  
@@ -196,7 +196,7 @@ Pastebin: [https://pastebin.com/qHzgzLrT](https://pastebin.com/qHzgzLrT)
 待成型後再自由組合更好！  
 
   
-![](WordPress/043.-POE-Deadeye-EHit.mp4_snapshot_04.49.412-1024x576.jpg)  
+![](post_assets/043.-POE-Deadeye-EHit.mp4_snapshot_04.49.412-1024x576.jpg)  
 
   
 **裝備要求**師傅會盡量把國際服價錢列下，  

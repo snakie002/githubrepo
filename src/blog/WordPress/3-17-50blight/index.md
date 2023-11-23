@@ -37,7 +37,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【POE】掛機專用 50 凋落地圖收益實測 50 Blighted-Map Testing  
@@ -60,7 +60,7 @@ TFT Bulk Selling Tool 介紹 | 流亡黯道 遊戲攻略 | Path of Exile
 結果也算是蠻合理的，希望可以幫到對打油圖有迷惑的朋友們！  
 
   
-![](WordPress/1-5-1024x527.png)  
+![](post_assets/1-5-1024x527.png)  
 
   
    
@@ -79,7 +79,7 @@ TFT Bulk Selling Tool 介紹 | 流亡黯道 遊戲攻略 | Path of Exile
    
 
   
-![](WordPress/3-3-1024x548.png)  
+![](post_assets/3-3-1024x548.png)  
 
   
    
@@ -115,7 +115,7 @@ TFT Bulk Selling Tool 介紹 | 流亡黯道 遊戲攻略 | Path of Exile
    
 
   
-![](WordPress/2-4-1024x606.png)  
+![](post_assets/2-4-1024x606.png)  
 
   
 
@@ -149,7 +149,7 @@ TFT Bulk Selling Tool 介紹 | 流亡黯道 遊戲攻略 | Path of Exile
 掛機糊口就變相被動收入，感覺還是不錯！  
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
 ### **個人感想**
 

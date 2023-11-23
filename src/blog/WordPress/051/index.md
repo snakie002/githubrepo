@@ -36,7 +36,7 @@ tags:
   - "流亡黯道-預測"
   - "遊戲介紹"
   - "遊戲攻略"
-coverImage: "thumbnail1-19.jpg"
+coverImage: "post_assets/thumbnail1-19.jpg"
 ---
 
 ### 【POE】POE 3.16 新賽季更新速報！POE 3.16 Scourge League 轉世災魘  
@@ -58,7 +58,7 @@ POE 3.16更新將會在10月23日港台時間凌晨4點鐘正式上市，
 圖片只在BLOG上提供，有意朋友請到BLOG上瀏覽，謝謝你！  
 
   
-![](WordPress/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_20.08.239-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_20.08.239-1024x576.jpg)  
 
   
 主要是補完影片中沒有提及的更新，  
@@ -100,7 +100,7 @@ BLOG上有提供全部新技能的英文大圖，
 從而增加成就感，這樣更有效留住玩家，希望不要再錯了ＧＧＧ～～  
 
   
-![](WordPress/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_25.42.825-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_25.42.825-1024x576.jpg)  
 
   
 **角色機體技能觀望**  
@@ -140,13 +140,13 @@ BLOG上有提供全部新技能的英文大圖，
 應該如可是好？  
 
   
-![](WordPress/6-PL-272x300.png) ![](WordPress/5-SL-291x300.png)  
+![](post_assets/6-PL-272x300.png) ![](post_assets/5-SL-291x300.png)  
 
   
-![](WordPress/4-PC-300x297.png) ![](WordPress/3-TRRR-300x251.png)  
+![](post_assets/4-PC-300x297.png) ![](post_assets/3-TRRR-300x251.png)  
 
   
-![](WordPress/2-TR-271x300.png) ![](WordPress/1-EB-300x297.png) ![](WordPress/7-IL-217x300.png)  
+![](post_assets/2-TR-271x300.png) ![](post_assets/1-EB-300x297.png) ![](post_assets/7-IL-217x300.png)  
 
   
 **個人感想**  
@@ -180,7 +180,7 @@ BLOG上有提供全部新技能的英文大圖，
 一萬多字跟一個直播，有點飽。。。  
 
   
-![](WordPress/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_25.42.825-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Scourge-Livestream-October-2021.mp4_snapshot_25.42.825-1024x576.jpg)  
 
   
 差不多這樣了，希望可以幫到各位有興趣的玩家！  

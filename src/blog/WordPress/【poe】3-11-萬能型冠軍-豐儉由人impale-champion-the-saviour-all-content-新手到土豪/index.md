@@ -29,7 +29,7 @@ tags:
   - "何師傅"
   - "救世主劍"
   - "遊戲攻略"
-coverImage: "thumbnail-16.jpg"
+coverImage: "post_assets/thumbnail-16.jpg"
 ---
 
 ### 【POE】3.11 萬能型冠軍 豐儉由人Impale Champion The Saviour All Content | 新手到土豪 招式任你舞  
@@ -46,7 +46,7 @@ coverImage: "thumbnail-16.jpg"
 但字幕，文字跟附圖方面都儘量用上中文版本讓大家可以看得舒服一點，希望可以幫到大家！  
 
   
-![](WordPress/thumbnail-16-1024x576.jpg)  
+![](post_assets/thumbnail-16-1024x576.jpg)  
 
   
 文字補完：  
@@ -78,7 +78,7 @@ Champion (冠軍) 94 耐抗版本: [https://pastebin.com/0gwYTAP9](https://paste
    
 
   
-![](WordPress/BLOOD.png)  
+![](post_assets/BLOOD.png)  
 
   
    
@@ -112,7 +112,7 @@ Champion (冠軍) 94 耐抗版本: [https://pastebin.com/0gwYTAP9](https://paste
 所以又會是另外一個題目，在這就不作介紹。  
 
   
-![](WordPress/52e0a9faa1f646d38790554251cafd48-300x199.gif)  
+![](post_assets/52e0a9faa1f646d38790554251cafd48-300x199.gif)  
 
   
    
@@ -175,7 +175,7 @@ Champion (冠軍) 94 耐抗版本: [https://pastebin.com/0gwYTAP9](https://paste
 這個Build就是以彈性見稱，選你喜歡的就好！  
 
   
-![](WordPress/RUN.png)  
+![](post_assets/RUN.png)  
 
   
    
@@ -211,7 +211,7 @@ Champion (冠軍) 94 耐抗版本: [https://pastebin.com/0gwYTAP9](https://paste
 因為可以隨時轉換技能，也是對新手沒試過各技能的一個好Build，  
 
   
-![](WordPress/2.mp4_snapshot_05.51.329-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_05.51.329-1024x576.jpg)  
 
   
 缺點是，比較悶，因為過份平衡的結果是，  

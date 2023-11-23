@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-衛士"
   - "流亡黯道-追獵者"
   - "遊戲攻略"
-coverImage: "3-2.jpg"
+coverImage: "post_assets/3-2.jpg"
 ---
 
 ### 【POE】3.16三大穩健拓荒推薦 破壞者天雷地雷 文字補完版本
@@ -76,10 +76,10 @@ coverImage: "3-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-18-1024x516.png)  
+![](post_assets/1-18-1024x516.png)  
 
   
-![](WordPress/2-14.png)  
+![](post_assets/2-14.png)  
 
   
 7點專精  
@@ -109,7 +109,7 @@ coverImage: "3-2.jpg"
 實測後請按個人喜愛調配！  
 
   
-![](WordPress/3-10.png)  
+![](post_assets/3-10.png)  
 
   
 **裝備選擇**地雷拓荒最大問題就是如何快速拿到地雷杖，  
@@ -152,7 +152,7 @@ coverImage: "3-2.jpg"
 剩下的就是位移技能，個人喜愛吧！  
 
   
-![](WordPress/4-7.png)  
+![](post_assets/4-7.png)  
 
   
 **感想心得**天雷地雷基本上不會輸，只是玩家能有多快拿到地雷杖的區別而已，  

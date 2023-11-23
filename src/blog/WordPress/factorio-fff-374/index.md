@@ -37,13 +37,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Factorio.jpg"
+coverImage: "post_assets/Factorio.jpg"
 ---
 
 # \[Factorio\] FFF #374 - 無人機 & 調度站優化 | 異星工廠 | Space Age
 
   
-![](WordPress/1-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -66,7 +66,7 @@ coverImage: "Factorio.jpg"
    
 
   
-![](WordPress/2-1024x576.jpg)  
+![](post_assets/2-1024x576.jpg)  
 
   
 但是他們就絕對相信  
@@ -88,8 +88,8 @@ coverImage: "Factorio.jpg"
    
 
   
-![](WordPress/3-1-1024x576.jpg)  
-![](WordPress/3-2-1024x576.jpg)  
+![](post_assets/3-1-1024x576.jpg)  
+![](post_assets/3-2-1024x576.jpg)  
 
   
 這就是他們先用遊戲體驗的東西打頭陣的原因  
@@ -109,7 +109,7 @@ coverImage: "Factorio.jpg"
    
 
   
-![](WordPress/5-1024x576.jpg)  
+![](post_assets/5-1024x576.jpg)  
 
   
 由最基本的說起  
@@ -131,8 +131,8 @@ coverImage: "Factorio.jpg"
    
 
   
-![](WordPress/6-1-1024x576.jpg)  
-![](WordPress/6-2-1024x576.jpg)  
+![](post_assets/6-1-1024x576.jpg)  
+![](post_assets/6-2-1024x576.jpg)  
 
   
 話說系統裡面其實就是一個清單  
@@ -166,7 +166,7 @@ coverImage: "Factorio.jpg"
    
 
   
-![](WordPress/7-1024x576.jpg)  
+![](post_assets/7-1024x576.jpg)  
 
   
 都是由一些在基地比較遠的建設機械人飛過來幫你拆走  

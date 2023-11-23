@@ -39,13 +39,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-POE.jpg"
+coverImage: "post_assets/Title-POE.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.1d 更新公告 (已經推出) | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-POE-1024x576.jpg)  
+![](post_assets/Title-POE-1024x576.jpg)  
 
   
 GGG推出了3.22.1d這個更新  
@@ -57,7 +57,7 @@ GGG推出了3.22.1d這個更新
 改善的部分  
 
   
-![](WordPress/1.png)  
+![](post_assets/1.png)  
 
   
 在聖域裡面新增了聖物的儲物櫃，這為玩家提供了更多儲存聖物的選擇。  
@@ -66,14 +66,14 @@ GGG推出了3.22.1d這個更新
 在聖域中，現在可以使用機制相關的快捷鍵（通常是V鍵）來開啟聖域的地圖。  
 
   
-![](WordPress/2-1024x576.png)  
+![](post_assets/2-1024x576.png)  
 
   
 大藍王的觸手對你進行攻擊時，現在視作為藍王對你作出攻擊，這影響到焚木輔助。  
 神聖石和祝福石的描述獲得了更新，以更準確地反映它們的功能。  
 
   
-![](WordPress/3.png)  
+![](post_assets/3.png)  
 
   
 高級倉庫現在在定價物品時會顯示通貨名稱的圖示，提高了交易的便利性。  

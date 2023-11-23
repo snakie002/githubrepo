@@ -16,7 +16,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail-9.jpg"
+coverImage: "post_assets/thumbnail-9.jpg"
 ---
 
 ### 【遊戲介紹】《Terraria 泰拉瑞亞》經歷九年更新終於到達旅程的終點 | 四人合作遊戲總係新不如舊
@@ -33,7 +33,7 @@ coverImage: "thumbnail-9.jpg"
 名為旅途的終點，究竟一隻8bit 2D 有咩吸引到一間廠商同玩家願意九年都斷斷續續咁玩哩個遊戲？請收睇：  
 
   
-\[caption id="attachment\_163" align="alignnone" width="728"\]![](WordPress/P1.jpeg) 能夠上到第3位仲要衝上黎，就算好多新Game都未必做到。\[/caption\]  
+\[caption id="attachment\_163" align="alignnone" width="728"\]![](post_assets/P1.jpeg) 能夠上到第3位仲要衝上黎，就算好多新Game都未必做到。\[/caption\]  
 
   
 **影片以外評論** **–** **四人合作遊戲總係新不如舊**  
@@ -43,7 +43,7 @@ coverImage: "thumbnail-9.jpg"
 係剛剛五月十三正式推出‧係Steam平台上面係大獲好評，所以師傅先忍唔住要去試一試。  
 
   
-\[caption id="attachment\_164" align="alignnone" width="858"\]![](WordPress/P2-2-1024x534.png) 3萬幾個Overwhelmingly Positive，雖然其實係beta已經儲落但高分程度真係會好吸引人一試。\[/caption\]  
+\[caption id="attachment\_164" align="alignnone" width="858"\]![](post_assets/P2-2-1024x534.png) 3萬幾個Overwhelmingly Positive，雖然其實係beta已經儲落但高分程度真係會好吸引人一試。\[/caption\]  
 
   
 初玩頭三四個Mission既時侯其實覺得好新鮮，的確完美做到FPS X 《Left 4 Dead》X 《Minecraft》既感覺出黎，  
@@ -54,7 +54,7 @@ coverImage: "thumbnail-9.jpg"
 太早比玩家覺得有一種過份Grinding既感覺出黎，其實會好吃力同相對期待值會好快下降。  
 
   
-\[caption id="attachment\_165" align="alignnone" width="858"\]![](WordPress/P3-7-1024x576.jpg) 第一次見到隻Boss只有失望可言，佢只係一隻大隻好多，有名同有HP Bar顯示出黎既雜魚黎，完全無驚喜可言。\[/caption\]  
+\[caption id="attachment\_165" align="alignnone" width="858"\]![](post_assets/P3-7-1024x576.jpg) 第一次見到隻Boss只有失望可言，佢只係一隻大隻好多，有名同有HP Bar顯示出黎既雜魚黎，完全無驚喜可言。\[/caption\]  
 
   
 完全無驚喜可言。  
@@ -71,13 +71,13 @@ coverImage: "thumbnail-9.jpg"
 《Deep Rock Galactic》，十個字，無人同你玩，千奇唔好簡。  
 
   
-\[caption id="attachment\_166" align="alignnone" width="858"\]![](WordPress/P4-4-1024x576.jpg) 《Deep Rock Galactic》入面的確有好長既Skill Tree各樣既深度玩法，可惜師傅真係無耐性打到個個位去試。\[/caption\]  
+\[caption id="attachment\_166" align="alignnone" width="858"\]![](post_assets/P4-4-1024x576.jpg) 《Deep Rock Galactic》入面的確有好長既Skill Tree各樣既深度玩法，可惜師傅真係無耐性打到個個位去試。\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_167" align="alignnone" width="963"\]![](WordPress/P5.png) 職業分配之餘要設計到恰到好處之餘的確好難，轉職可能要重新升過更容易令到玩家卻步。\[/caption\]  
+\[caption id="attachment\_167" align="alignnone" width="963"\]![](post_assets/P5.png) 職業分配之餘要設計到恰到好處之餘的確好難，轉職可能要重新升過更容易令到玩家卻步。\[/caption\]  
 
   
 《Left 4 Dead》當年推出將四人合作遊戲推到一個合作遊戲既高峰，往後都好多作品係有參考哩一類四人合作，逃生，  
@@ -91,13 +91,13 @@ coverImage: "thumbnail-9.jpg"
 四人合作新不如舊，問題係出至於廠商無新意，抑或係玩家要求愈黎愈高及取態改變導致如此局面？  
 
   
-\[caption id="attachment\_168" align="alignnone" width="858"\]![](WordPress/P6-4-1024x512.jpg) 《Payday 2》上手的確好困難，唔淨止射射射，仲有場景同設定各種問題，新手上路係比較崎驅。\[/caption\]  
+\[caption id="attachment\_168" align="alignnone" width="858"\]![](post_assets/P6-4-1024x512.jpg) 《Payday 2》上手的確好困難，唔淨止射射射，仲有場景同設定各種問題，新手上路係比較崎驅。\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_169" align="alignnone" width="700"\]![](WordPress/P7-3.jpg) 四人合作芒亨真係無對手可言，不過唔應該將佢列入討論範圍，因為對其他作品太唔公平喇。\[/caption\]  
+\[caption id="attachment\_169" align="alignnone" width="700"\]![](post_assets/P7-3.jpg) 四人合作芒亨真係無對手可言，不過唔應該將佢列入討論範圍，因為對其他作品太唔公平喇。\[/caption\]  
 
   
 如果想繼續看到遊戲攻略評價，各式各樣遊戲影片，請訂閱小弟Snakie何師傅的YouTube頻道！多謝收睇，謝謝你，再見諸位！  

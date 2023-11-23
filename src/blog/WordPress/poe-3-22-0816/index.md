@@ -37,7 +37,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-8.jpg"
+coverImage: "post_assets/Title-8.jpg"
 ---
 
 # \[POE 3.22 消息\] 元素聖物光環資料, 交易網改善 & 戰友裝備  
@@ -50,7 +50,7 @@ coverImage: "Title-8.jpg"
    
 
   
-![](WordPress/Title-8-1024x576.jpg)  
+![](post_assets/Title-8-1024x576.jpg)  
 今天有很多消息 首先先說一下常見問題的部分  
 然後我會補充一下我上條影片說漏了的資訊  
 
@@ -58,7 +58,7 @@ coverImage: "Title-8.jpg"
    
 
   
-![](WordPress/1-RAQ-1024x576.png)  
+![](post_assets/1-RAQ-1024x576.png)  
 Q: 昨天官方展示了給大家看守護者的Elemental Relic  
 他們每一個元素都有相關的光環  
 那些光環的能力值會不會跟著什麼東西而上升呢?  
@@ -86,7 +86,7 @@ A: 沒有變的 不會短了
    
 
   
-![](WordPress/2-Equip-300x169.png)  
+![](post_assets/2-Equip-300x169.png)  
 
   
 然後下一個消息  
@@ -108,7 +108,7 @@ A: 沒有變的 不會短了
    
 
   
-![](WordPress/3-Trade.png)  
+![](post_assets/3-Trade.png)  
 
   
 很多時候在交易網上搜尋的時候 放在最高的位置就是最便宜的一個  
@@ -118,7 +118,7 @@ A: 沒有變的 不會短了
 只顯示用C或者D標價的物品 這樣就可以避免剛剛所說的問題  
 
   
-![](WordPress/4-3.21.0C-PN-1024x509.png)  
+![](post_assets/4-3.21.0C-PN-1024x509.png)  
 
   
    
@@ -131,8 +131,8 @@ A: 沒有變的 不會短了
 水晶精晶 火焰精晶 岩礦 和史前遺跡 全部都會被移除  
 
   
-![](WordPress/5-2-Filter-1024x375.png)  
-![](WordPress/5-3-Filter-300x136.png)  
+![](post_assets/5-2-Filter-1024x375.png)  
+![](post_assets/5-3-Filter-300x136.png)  
 
   
 再下一個比較少人會說的資訊 但是是一個非常重要的資訊  

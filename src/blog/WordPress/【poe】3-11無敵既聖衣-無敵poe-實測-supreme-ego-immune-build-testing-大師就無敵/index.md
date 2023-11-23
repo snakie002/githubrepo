@@ -28,7 +28,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-20.jpg"
+coverImage: "post_assets/thumbnail-20.jpg"
 ---
 
 ### 【POE】3.11無敵既聖衣 無敵POE 實測 Supreme Ego Immune Build Testing  
@@ -64,7 +64,7 @@ coverImage: "thumbnail-20.jpg"
 Ascendant (昇華使徒) 93: [https://pastebin.com/4v8v2D6B](https://pastebin.com/4v8v2D6B)  
 
   
-![](WordPress/thumbnail-20-1024x576.jpg)  
+![](post_assets/thumbnail-20-1024x576.jpg)  
 
   
 盜賊頭目：  
@@ -141,7 +141,7 @@ Ascendant (昇華使徒) 93: [https://pastebin.com/4v8v2D6B](https://pastebin.co
    
 
   
-![](WordPress/ad-1024x576.jpg)  
+![](post_assets/ad-1024x576.jpg)  
 
   
    
@@ -200,7 +200,7 @@ Ascendant (昇華使徒) 93: [https://pastebin.com/4v8v2D6B](https://pastebin.co
    
 
   
-![](WordPress/Shroud_of_the_Lightless_inventory_icon.png) ![](WordPress/SupremeEgo_passive_skill_icon.png)  
+![](post_assets/Shroud_of_the_Lightless_inventory_icon.png) ![](post_assets/SupremeEgo_passive_skill_icon.png)  
 
   
    

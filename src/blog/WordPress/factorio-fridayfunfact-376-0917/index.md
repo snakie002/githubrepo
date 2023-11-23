@@ -36,19 +36,19 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-Factorio.jpg"
+coverImage: "post_assets/Title-Factorio.jpg"
 ---
 
 # \[Factorio\] Friday Fun Fact (FFF) #376 - 研究與科技 | 異星工廠 | Space Age
 
   
-![](WordPress/Title-Factorio-1024x576.jpg)  
+![](post_assets/Title-Factorio-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-9.png)  
+![](post_assets/1-9.png)  
 
   
    
@@ -66,7 +66,7 @@ coverImage: "Title-Factorio.jpg"
    
 
   
-![](WordPress/2-10-1024x559.png)  
+![](post_assets/2-10-1024x559.png)  
 
   
 研究排程  
@@ -74,10 +74,10 @@ coverImage: "Title-Factorio.jpg"
 Space Age裡只有排程的研究  
 
   
-![](WordPress/3-1-2-1024x491.png)  
+![](post_assets/3-1-2-1024x491.png)  
 
   
-![](WordPress/3-2-2.png)  
+![](post_assets/3-2-2.png)  
 
   
 早期科技改動  
@@ -85,7 +85,7 @@ Space Age裡只有排程的研究
 條件是合成鐵和銅  
 
   
-![](WordPress/4-11.png)  
+![](post_assets/4-11.png)  
 
   
 中期科技改動  
@@ -94,7 +94,7 @@ Space Age裡只有排程的研究
 
   
   
-![](WordPress/5-7.png)  
+![](post_assets/5-7.png)  
 
   
   

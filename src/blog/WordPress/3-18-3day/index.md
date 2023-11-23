@@ -36,7 +36,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【POE】3.18 守望號令 進度報告 | 惡夢哨兵宿敵難度 五天兩度熱修 警世近戰起手  
@@ -70,7 +70,7 @@ coverImage: "thumbnail-2.jpg"
 分別是**難度及報酬以及****Uber****難度初見及賽季感想**  
 
   
-![](WordPress/e1ansj82acz81.png)  
+![](post_assets/e1ansj82acz81.png)  
 
   
 **難度及報酬**由更新發佈直到開季前，本以為是一般性增強黃怪金怪難度，  
@@ -99,7 +99,7 @@ coverImage: "thumbnail-2.jpg"
 當然官方會不會理會就再說罷了；  
 
   
-**![](WordPress/4dhrtnd71mz81-1024x768.png)  
+**![](post_assets/4dhrtnd71mz81-1024x768.png)  
 
   
 **  
@@ -139,7 +139,7 @@ Uber難度最大問題是70%更少傷害部份，
 這改版的確是失敗中的失敗；  
 
   
-![](WordPress/1-3-752x1024.png)  
+![](post_assets/1-3-752x1024.png)  
 
   
    

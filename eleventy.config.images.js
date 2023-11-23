@@ -33,23 +33,7 @@ module.exports = (eleventyConfig) => {
 				decoding: "async",
 			};
 			return eleventyImage.generateHTML(metadata, imageAttributes);
-		},
-	);
-
-	eleventyConfig.addAsyncShortcode(
-		"coverrimage",
-		async function coverrImageShortcode(post, alt, widths, sizes) {
-			try {
-				const src = `${process.env.MEDIA_SERVER}/${path.join(
-					"public/WordPress",
-					post.fileSlug,
-					post.data.coverImage,
-				)}`;
-				return `<img loading="lazy" src="${src}" />`;
-			} catch (err) {
-				console.error(err);
-			}
-		},
+		}
 	);
 
 	eleventyConfig.addAsyncShortcode(
@@ -57,9 +41,8 @@ module.exports = (eleventyConfig) => {
 		async function coverImageShortcode(post, alt, widths, sizes) {
 			try {
 				const src = `${process.env.MEDIA_SERVER}/${path.join(
-					"public/WordPress",
-					post.fileSlug,
-					post.data.coverImage,
+					post.filePathStem.replace("/blog/", "").replace("/index", ""),
+					post.data.coverImage
 				)}`;
 				return `<img loading="lazy" src="${src}" />`;
 			} catch (err) {
@@ -96,6 +79,6 @@ module.exports = (eleventyConfig) => {
 			};
 			return eleventyImage.generateHTML(metadata, imageAttributes);
 			*/
-		},
+		}
 	);
 };

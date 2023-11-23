@@ -38,7 +38,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【Diablo 4】一頭兩用速刷精選 風暴狼閃電風暴龍捲風 | Werewolf Tornado Druid Build  
@@ -115,11 +115,11 @@ Any肥 希望這能幫助對愛情來得太快的朋友們！
 [暗黑編年史](https://diablo4.cc/tw/)方便查詢精華詞綴及獨特裝備！  
 
   
-![](WordPress/S1-1024x933.png)  
+![](post_assets/S1-1024x933.png)  
 
   
-![](WordPress/S2-1024x1020.png)  
-![](WordPress/S3-1007x1024.png)  
+![](post_assets/S2-1024x1020.png)  
+![](post_assets/S3-1007x1024.png)  
 
   
    
@@ -148,7 +148,7 @@ Any肥 希望這能幫助對愛情來得太快的朋友們！
 ## 職業特性
 
   
-![](WordPress/M1-667x1024.png)  
+![](post_assets/M1-667x1024.png)  
 
   
 要觸發兩個貪蛇，變形技能回血以及冷卻，  
@@ -165,9 +165,9 @@ Any肥 希望這能幫助對愛情來得太快的朋友們！
 ## 顛峰等級
 
   
-![](WordPress/P1-1009x1024.png)![](WordPress/P2-1024x523.png)  
-![](WordPress/P3-1024x536.png)  
-![](WordPress/P4-1024x575.png)  
+![](post_assets/P1-1009x1024.png)![](post_assets/P2-1024x523.png)  
+![](post_assets/P3-1024x536.png)  
+![](post_assets/P4-1024x575.png)  
 
   
 優先獲得 先祖引導 -> 雷霆轟擊 -> 屠殺之慾 -> 束縛根鬚 (不會點的)  
@@ -257,7 +257,7 @@ Any肥 希望這能幫助對愛情來得太快的朋友們！
   
   
 
-<table style="height: 3616px;" width="857"><tbody><tr><td width="189"><u>裝備部位</u></td><td width="95"><u>精華詞綴</u></td><td width="340"><u>裝備詞綴</u></td></tr><tr><td width="189">單手斧<br><img class="alignnone wp-image-1941 size-full" src="WordPress/G6.png" alt="" width="523" height="977"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 易傷傷害<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 核心傷害<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 爆擊增傷<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 其他增傷 （中毒，近距遠距等）<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 意志<br><div></div><br>插槽‍ 皇家綠寶石<br><div></div><br>有以上4條即可，其中要留意，<br>緩速，昏迷等條件性傷害，在打王時是無法正確觸發，<br>因為頭目大多為無阻狀態，不吃以上傷害，<br>且因為物品強度難以要求，所以其實目標有兩條較重要<br>如核心爆擊及爆擊傷害等常駐型，<br>一條不太重要如近距遠距緩速，一條附魔成其他已經非常不錯了，<br>不要強求完美裝備，先求穩定輸出再求極致更佳<br><div></div><br>&nbsp;</td></tr><tr><td width="189">副手<br><img class="alignnone wp-image-1945 size-full" src="WordPress/G10.png" alt="" width="531" height="968"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 冷卻時間減少<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 靈力消耗減少<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 幸運觸發機率<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 爆擊機率<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 幸運觸發回復主要資源<br><div></div><br>唯二冷卻時間減少的來源，十分重要<br>並且物品強度影響最終輸出，務必推高<br><div></div><br>&nbsp;</td></tr><tr><td width="189">頭盔<br><img class="alignnone wp-image-1936 size-full" src="WordPress/G1.png" alt="" width="518" height="1007"></td><td width="95"><a href="https://diablo4.cc/tw/Tempest_Roar">風暴怒號</a></td><td width="340">綁定 最佳裝備<br>插槽‍ 皇家藍寶石</td></tr><tr><td width="189">胸部<br><img class="alignnone wp-image-1937 size-full" src="WordPress/G2.png" alt="" width="532" height="887"></td><td width="95">不服從<br>50%為佳或其他防禦精華</td><td width="340">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 狼人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="189">手套<br><img class="alignnone wp-image-1938 size-full" src="WordPress/G3.png" alt="" width="527" height="738"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 龍捲風 ／ 閃電風暴等級 (遠古裝才能出+3 升滿才可變+4)<br>2. 幸運觸發機率<br>3. 攻擊速度 / 暴擊率<br>4. 意志力必須留意技能需要+4要遠古裝+3升級後才可到4<br>沒到世4難度朋友追求有粉碎增加即可(反正後期都要換)個人認為最好詞綴還是幸運觸發機率<br>對清圖有明顯幫助<br>攻速及暴擊率也可以考慮<br>意志對最終推高意志傷害也是不錯<br><div></div><br>&nbsp;</td></tr><tr><td width="189">褲子<br><img class="alignnone wp-image-1939 size-full" src="WordPress/G4.png" alt="" width="535" height="897"></td><td width="95">癒傷石之 精華<br><div></div><br>或其他防禦精華</td><td width="340">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 狼人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果&nbsp;</td></tr><tr><td width="189">靴子<br><img class="alignnone wp-image-1940 size-full" src="WordPress/G5.png" alt="" width="527" height="835"></td><td width="95">魂行者 精華<br>25%為佳</td><td width="340">1. 移動速度<br>2. 靈力消耗減少<br>3. 意志力 / 其他屬性<br>4. 擊殺精英增加移速個人認為只有移速及靈力為最佳詞綴<br>抗性在暗黑內沒太大作用，<br>同時意志可以增傷，以及速刷用的移速也十分明顯</td></tr><tr><td width="189">護身符<br><img class="alignnone wp-image-1942 size-full" src="WordPress/G7.png" alt="" width="540" height="933"></td><td width="95">恐狼之 精華<br>(愈高愈好)</td><td width="340">1. 冷卻時間減少<br>2. 靈力消耗減少<br>3. % 意志力 (前題是其他裝備有推高意志力)<br>4. 毒化 / 反抗 等級<br>5. 移動速度<br>6. 減傷類技能插槽‍ 皇家骷髏個人感覺護身符是最難拿到的部位，<br>建議先處理冷卻及靈力消耗，其他能有則有，<br>因為冷卻及靈力消耗最為有感，<br>其他都是增傷或減傷部份，<br>另外％意志需要角色有特別推高意志才有明顯感覺，<br>所以在選擇裝備時要留意<br><div></div><br>&nbsp;</td></tr><tr><td width="189">戒指１<br><img class="alignnone wp-image-1944 size-full" src="WordPress/G9.png" alt="" width="526" height="856"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 爆擊機率<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 狼人技能的暴擊傷害<br>4. 任何增傷詞綴 (易傷 物傷 減速 近遠距 受控)<br>插槽‍ 皇家骷髏幸運觸發機率十分罕有，<br>如果想打後期的話可能需要考慮生命詞<br>有兩條傷害詞綴後盡量砌出傷害詞綴已經算成型了<br><div></div><br>&nbsp;</td></tr><tr><td width="189">戒指２<br><img class="alignnone wp-image-1943 size-full" src="WordPress/G8.png" alt="" width="538" height="808"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 爆擊機率<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 狼人技能的暴擊傷害<br>4. 任何增傷詞綴 (易傷 物傷 減速 近遠距 受控)<br>插槽‍ 皇家骷髏幸運觸發機率十分罕有，<br>如果想打後期的話可能需要考慮生命詞<br>有兩條傷害詞綴後盡量砌出傷害詞綴已經算成型了</td></tr></tbody></table>
+<table style="height: 3616px;" width="857"><tbody><tr><td width="189"><u>裝備部位</u></td><td width="95"><u>精華詞綴</u></td><td width="340"><u>裝備詞綴</u></td></tr><tr><td width="189">單手斧<br><img class="alignnone wp-image-1941 size-full" src="post_assets/G6.png" alt="" width="523" height="977"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 易傷傷害<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 核心傷害<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 爆擊增傷<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 其他增傷 （中毒，近距遠距等）<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 意志<br><div></div><br>插槽‍ 皇家綠寶石<br><div></div><br>有以上4條即可，其中要留意，<br>緩速，昏迷等條件性傷害，在打王時是無法正確觸發，<br>因為頭目大多為無阻狀態，不吃以上傷害，<br>且因為物品強度難以要求，所以其實目標有兩條較重要<br>如核心爆擊及爆擊傷害等常駐型，<br>一條不太重要如近距遠距緩速，一條附魔成其他已經非常不錯了，<br>不要強求完美裝備，先求穩定輸出再求極致更佳<br><div></div><br>&nbsp;</td></tr><tr><td width="189">副手<br><img class="alignnone wp-image-1945 size-full" src="post_assets/G10.png" alt="" width="531" height="968"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 冷卻時間減少<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 靈力消耗減少<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 幸運觸發機率<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 爆擊機率<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 幸運觸發回復主要資源<br><div></div><br>唯二冷卻時間減少的來源，十分重要<br>並且物品強度影響最終輸出，務必推高<br><div></div><br>&nbsp;</td></tr><tr><td width="189">頭盔<br><img class="alignnone wp-image-1936 size-full" src="post_assets/G1.png" alt="" width="518" height="1007"></td><td width="95"><a href="https://diablo4.cc/tw/Tempest_Roar">風暴怒號</a></td><td width="340">綁定 最佳裝備<br>插槽‍ 皇家藍寶石</td></tr><tr><td width="189">胸部<br><img class="alignnone wp-image-1937 size-full" src="post_assets/G2.png" alt="" width="532" height="887"></td><td width="95">不服從<br>50%為佳或其他防禦精華</td><td width="340">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 狼人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="189">手套<br><img class="alignnone wp-image-1938 size-full" src="post_assets/G3.png" alt="" width="527" height="738"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 龍捲風 ／ 閃電風暴等級 (遠古裝才能出+3 升滿才可變+4)<br>2. 幸運觸發機率<br>3. 攻擊速度 / 暴擊率<br>4. 意志力必須留意技能需要+4要遠古裝+3升級後才可到4<br>沒到世4難度朋友追求有粉碎增加即可(反正後期都要換)個人認為最好詞綴還是幸運觸發機率<br>對清圖有明顯幫助<br>攻速及暴擊率也可以考慮<br>意志對最終推高意志傷害也是不錯<br><div></div><br>&nbsp;</td></tr><tr><td width="189">褲子<br><img class="alignnone wp-image-1939 size-full" src="post_assets/G4.png" alt="" width="535" height="897"></td><td width="95">癒傷石之 精華<br><div></div><br>或其他防禦精華</td><td width="340">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 狼人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果&nbsp;</td></tr><tr><td width="189">靴子<br><img class="alignnone wp-image-1940 size-full" src="post_assets/G5.png" alt="" width="527" height="835"></td><td width="95">魂行者 精華<br>25%為佳</td><td width="340">1. 移動速度<br>2. 靈力消耗減少<br>3. 意志力 / 其他屬性<br>4. 擊殺精英增加移速個人認為只有移速及靈力為最佳詞綴<br>抗性在暗黑內沒太大作用，<br>同時意志可以增傷，以及速刷用的移速也十分明顯</td></tr><tr><td width="189">護身符<br><img class="alignnone wp-image-1942 size-full" src="post_assets/G7.png" alt="" width="540" height="933"></td><td width="95">恐狼之 精華<br>(愈高愈好)</td><td width="340">1. 冷卻時間減少<br>2. 靈力消耗減少<br>3. % 意志力 (前題是其他裝備有推高意志力)<br>4. 毒化 / 反抗 等級<br>5. 移動速度<br>6. 減傷類技能插槽‍ 皇家骷髏個人感覺護身符是最難拿到的部位，<br>建議先處理冷卻及靈力消耗，其他能有則有，<br>因為冷卻及靈力消耗最為有感，<br>其他都是增傷或減傷部份，<br>另外％意志需要角色有特別推高意志才有明顯感覺，<br>所以在選擇裝備時要留意<br><div></div><br>&nbsp;</td></tr><tr><td width="189">戒指１<br><img class="alignnone wp-image-1944 size-full" src="post_assets/G9.png" alt="" width="526" height="856"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 爆擊機率<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 狼人技能的暴擊傷害<br>4. 任何增傷詞綴 (易傷 物傷 減速 近遠距 受控)<br>插槽‍ 皇家骷髏幸運觸發機率十分罕有，<br>如果想打後期的話可能需要考慮生命詞<br>有兩條傷害詞綴後盡量砌出傷害詞綴已經算成型了<br><div></div><br>&nbsp;</td></tr><tr><td width="189">戒指２<br><img class="alignnone wp-image-1943 size-full" src="post_assets/G8.png" alt="" width="538" height="808"></td><td width="95">龍捲風<br>狂暴獸人<br>加速<br>報復<br>夜嚎</td><td width="340">1. 爆擊機率<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 狼人技能的暴擊傷害<br>4. 任何增傷詞綴 (易傷 物傷 減速 近遠距 受控)<br>插槽‍ 皇家骷髏幸運觸發機率十分罕有，<br>如果想打後期的話可能需要考慮生命詞<br>有兩條傷害詞綴後盡量砌出傷害詞綴已經算成型了</td></tr></tbody></table>
 
   
    

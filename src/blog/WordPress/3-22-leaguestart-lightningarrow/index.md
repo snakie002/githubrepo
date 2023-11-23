@@ -58,7 +58,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-6.jpg"
+coverImage: "post_assets/thumbnail-6.jpg"
 ---
 
 # 【POE】3.22 祖靈聯盟 三大推薦拓荒 銳眼魔改閃電箭 文字補完版本
@@ -85,7 +85,7 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/thumbnail-6-1024x576.jpg)  
+![](post_assets/thumbnail-6-1024x576.jpg)  
 
   
    
@@ -135,8 +135,8 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/1-2-794x1024.png)  
-![](WordPress/2-2-300x293.png)  
+![](post_assets/1-2-794x1024.png)  
+![](post_assets/2-2-300x293.png)  
 
   
    
@@ -193,8 +193,8 @@ coverImage: "thumbnail-6.jpg"
 也是一個方向  
 
   
-![](WordPress/E1-2-1024x663.png)  
-![](WordPress/E2-1024x381.png)  
+![](post_assets/E1-2-1024x663.png)  
+![](post_assets/E2-1024x381.png)  
 
   
 頭：斯塔空加之首 ／ 血抗  
@@ -258,7 +258,7 @@ coverImage: "thumbnail-6.jpg"
   
   
 
-<table style="height: 827px;" width="807"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;<img class="alignnone wp-image-2233 size-full" src="WordPress/S1-2.png" alt="" width="701" height="239"></td></tr><tr><td colspan="2" width="604">炮台串，為了打王而已，<span style="text-decoration: underline;"><strong>記得還有憤怒和優雅光環</strong></span><br><div></div><br>其實五連在胸甲會較好，方便換弓，所以可跟武器串調換</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2235 size-full" src="WordPress/S3-2.png" alt="" width="697" height="217"></td></tr><tr><td colspan="2" width="604">位移詛咒串</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2236 size-full" src="WordPress/S4-2.png" alt="" width="693" height="237"></td></tr><tr><td colspan="2" width="604">魔改輸出串，如影片所說，改到全箭雨類別即可解決復仇浪湧問題</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2234 size-full" src="WordPress/S2-2.png" alt="" width="709" height="260"></td></tr><tr><td colspan="2" width="604">魔改增傷串，這樣組合則能自帶狂怒及暴擊球</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2237 size-full" src="WordPress/S5-2.png" alt="" width="712" height="265"></td></tr><tr><td colspan="2" width="604">閃電箭串，應該放在胸甲會較好，<br>其中六連可以是返回或啟發增傷等等，按個人要求即可</td></tr><tr><td width="59">盾牌</td><td width="545"></td></tr><tr><td colspan="2" width="604">沒有第三只手</td></tr></tbody></table>
+<table style="height: 827px;" width="807"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;<img class="alignnone wp-image-2233 size-full" src="post_assets/S1-2.png" alt="" width="701" height="239"></td></tr><tr><td colspan="2" width="604">炮台串，為了打王而已，<span style="text-decoration: underline;"><strong>記得還有憤怒和優雅光環</strong></span><br><div></div><br>其實五連在胸甲會較好，方便換弓，所以可跟武器串調換</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2235 size-full" src="post_assets/S3-2.png" alt="" width="697" height="217"></td></tr><tr><td colspan="2" width="604">位移詛咒串</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2236 size-full" src="post_assets/S4-2.png" alt="" width="693" height="237"></td></tr><tr><td colspan="2" width="604">魔改輸出串，如影片所說，改到全箭雨類別即可解決復仇浪湧問題</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2234 size-full" src="post_assets/S2-2.png" alt="" width="709" height="260"></td></tr><tr><td colspan="2" width="604">魔改增傷串，這樣組合則能自帶狂怒及暴擊球</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2237 size-full" src="post_assets/S5-2.png" alt="" width="712" height="265"></td></tr><tr><td colspan="2" width="604">閃電箭串，應該放在胸甲會較好，<br>其中六連可以是返回或啟發增傷等等，按個人要求即可</td></tr><tr><td width="59">盾牌</td><td width="545"></td></tr><tr><td colspan="2" width="604">沒有第三只手</td></tr></tbody></table>
 
   
    

@@ -34,7 +34,7 @@ tags:
   - "流亡黯道-旋風斬"
   - "流亡黯道-毒雨"
   - "遊戲攻略"
-coverImage: "thumbnai11l.jpg"
+coverImage: "post_assets/thumbnai11l.jpg"
 ---
 
 【POE】三大必勝拓荒推薦 處刑者旋風斬 文字補完版本  
@@ -70,7 +70,7 @@ coverImage: "thumbnai11l.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/HERO-1024x426.jpg)  
+![](post_assets/HERO-1024x426.jpg)  
 
   
 在拿到昇華之前先不急著用圖騰，  

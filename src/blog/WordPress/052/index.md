@@ -43,7 +43,7 @@ tags:
   - "流亡黯道-衛士"
   - "流亡黯道-追獵者"
   - "遊戲攻略"
-coverImage: "thumbnail2-3.jpg"
+coverImage: "post_assets/thumbnail2-3.jpg"
 ---
 
 ### 【POE】3.16三大穩健拓荒推薦 追獵者天譴之箭 破壞者天雷地雷 衛士流血破空斬  
@@ -85,7 +85,7 @@ coverImage: "thumbnail2-3.jpg"
 以下是針對3.16拓荒的建議及考慮：  
 
   
-![](WordPress/2021-10-21-22-04-57.mp4_snapshot_00.31.360-300x169.jpg)  
+![](post_assets/2021-10-21-22-04-57.mp4_snapshot_00.31.360-300x169.jpg)  
 
   
 2. **流派選擇**16 有別於近兩三聯盟，3.13 ~ 3.15 都有明顯削弱，  
@@ -125,7 +125,7 @@ coverImage: "thumbnail2-3.jpg"
 
   
 **  
-![](WordPress/2021-10-21-21-43-03.mp4_snapshot_01.54.016-300x169.jpg)  
+![](post_assets/2021-10-21-21-43-03.mp4_snapshot_01.54.016-300x169.jpg)  
 **  
 
   

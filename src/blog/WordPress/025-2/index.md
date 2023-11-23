@@ -30,7 +30,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail-46.jpg"
+coverImage: "post_assets/thumbnail-46.jpg"
 ---
 
 ### 【勇氣默示錄 2】60小時遊玩後感 職業戰鬥系統 遊戲感想 | 何謂經典場面？ | Bravely Default II
@@ -48,7 +48,7 @@ coverImage: "thumbnail-46.jpg"
 希望可以幫到有興趣了解勇氣默示錄的觀眾朋友們！  
 
   
-![](WordPress/2021031322233835.mp4_snapshot_00.54.14.286-1024x576.jpg)  
+![](post_assets/2021031322233835.mp4_snapshot_00.54.14.286-1024x576.jpg)  
 
   
 文字補完：  
@@ -103,7 +103,7 @@ coverImage: "thumbnail-46.jpg"
 Tifa****就是因為用拳套儘管攻擊力不高都要推上去，****在勇氣２就沒有這個煩惱，同時，也沒有這個感覺，****師傅覺得是個缺點，簡單說就沒有人物故事的特色了****道士升上去用點穴雖然是在點看頭。。。**  
 
   
-**![](WordPress/BravelyDefaultIISavalonAsteriskHolders-1024x805.jpg)**  
+**![](post_assets/BravelyDefaultIISavalonAsteriskHolders-1024x805.jpg)**  
 
   
 差不多這樣子，接下來會有解鎖真結局流程，快速升等及刷饅頭技巧攻略等等，  

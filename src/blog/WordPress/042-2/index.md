@@ -26,7 +26,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail1-11.jpg"
+coverImage: "post_assets/thumbnail1-11.jpg"
 ---
 
 ### 【Back 4 Blood】喋血復仇搶先體驗版感想 這真的是Left 4 Dead3???  
@@ -48,7 +48,7 @@ POE部份仍會繼續，不過突如其來兩款遊戲，
 圖片只在BLOG上提供，有意朋友請到ＢＬＯＧ上瀏覽，謝謝你！  
 
   
-![](WordPress/back-4-blood-ridden-1-900x506-1.jpg)  
+![](post_assets/back-4-blood-ridden-1-900x506-1.jpg)  
 
   
    
@@ -86,7 +86,7 @@ POE部份仍會繼續，不過突如其來兩款遊戲，
 希望這些都能在正式推出前改好吧；  
 
   
-![](WordPress/4_Back-4-Blood-Closed-Alpha-B4B-Alpha-Features-steamlists-com-1024x593.jpg)  
+![](post_assets/4_Back-4-Blood-Closed-Alpha-B4B-Alpha-Features-steamlists-com-1024x593.jpg)  
 
   
    
@@ -109,7 +109,7 @@ POE部份仍會繼續，不過突如其來兩款遊戲，
 到時候的耐玩度就可以提高幾個檔次了；  
 
   
-![](WordPress/download-1.jpg)  
+![](post_assets/download-1.jpg)  
 
   
 **個人感想**  

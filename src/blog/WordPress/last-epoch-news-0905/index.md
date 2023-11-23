@@ -38,7 +38,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "6.jpg"
+coverImage: "post_assets/6.jpg"
 ---
 
 # \[Last Epoch\] 畫質改善 & 3 件新傳奇 | 0.9.2 | 最後紀元 | Runes of Power
@@ -47,7 +47,7 @@ coverImage: "6.jpg"
    
 
   
-![](WordPress/1-1.jpeg)  
+![](post_assets/1-1.jpeg)  
 
   
 喂 早晨我是hfok  
@@ -111,7 +111,7 @@ Your browser does not support the video tag.
 在容器裡面或者是在一棺材上在動  
 
   
-![](WordPress/3.jpeg)  
+![](post_assets/3.jpeg)  
 
   
 其實在很的時候 已經有很多人希望  
@@ -151,7 +151,7 @@ Your browser does not support the video tag.
 那裡只會看到你隊伍裡面的角色  
 
   
-![](WordPress/5-1.jpeg)  
+![](post_assets/5-1.jpeg)  
 
   
 在0.9.2版本裡面  
@@ -185,7 +185,7 @@ Your browser does not support the video tag.
 Runebolt會做出什麼元素的傷害  
 
   
-![](WordPress/5-2-1.png)  
+![](post_assets/5-2-1.png)  
 
   
 但是為什麼這一點這麼重要呢  
@@ -202,7 +202,7 @@ Runebolt會做出什麼元素的傷害
 這些就是這法杖的能力了  
 
   
-![](WordPress/5-3-1.png)  
+![](post_assets/5-3-1.png)  
 
   
 最後右邊的一個  
@@ -222,7 +222,7 @@ Runebolt會做出什麼元素的傷害
 他們對你造成的傷害你就會承受到12%更少的傷害  
 
   
-![](WordPress/6-1024x576.jpg)  
+![](post_assets/6-1024x576.jpg)  
 
   
 去到最後這一部分他們就說  

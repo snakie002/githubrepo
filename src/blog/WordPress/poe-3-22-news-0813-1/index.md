@@ -35,13 +35,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Slide_16_9_-_53.jpg"
+coverImage: "post_assets/Slide_16_9_-_53.jpg"
 ---
 
 ### \[POE 3.22 消息\] 祖靈的試煉 & 核心禁忌聖域 - 季前機制詳解 | 流亡黯道 | Path of Exile
 
   
-![](WordPress/Slide_16_9_-_53-1024x576.jpg)  
+![](post_assets/Slide_16_9_-_53-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -54,8 +54,8 @@ ExileCon過後要處理的影片較多所以遲遲未有製作 3.22 先祖的試
 另外禁忌聖域進入核心後的改變也不少, 所以在這次的講解也會把改變的內容包括在內  
 
   
-![](WordPress/先祖的試煉-從何開始-1024x576.jpg)  
-![](WordPress/先祖的試煉-玩法-1024x576.jpg)  
+![](post_assets/先祖的試煉-從何開始-1024x576.jpg)  
+![](post_assets/先祖的試煉-玩法-1024x576.jpg)  
 
   
 先祖的試煉  
@@ -84,9 +84,9 @@ ExileCon過後要處理的影片較多所以遲遲未有製作 3.22 先祖的試
    
 
   
-![](WordPress/先祖的試煉-規則-1024x576.jpg)  
-![](WordPress/先祖的試煉-規則2-1024x576.jpg)  
-![](WordPress/先祖的試煉-規則3-1024x576.jpg)  
+![](post_assets/先祖的試煉-規則-1024x576.jpg)  
+![](post_assets/先祖的試煉-規則2-1024x576.jpg)  
+![](post_assets/先祖的試煉-規則3-1024x576.jpg)  
 
   
    
@@ -103,9 +103,9 @@ ExileCon過後要處理的影片較多所以遲遲未有製作 3.22 先祖的試
    
 
   
-![](WordPress/核心禁忌聖域-玩法改變1-1024x576.jpg)  
-![](WordPress/核心禁忌聖域-玩法改變2-1024x576.jpg)  
-![](WordPress/核心禁忌聖域-從何開始-1024x576.jpg)  
+![](post_assets/核心禁忌聖域-玩法改變1-1024x576.jpg)  
+![](post_assets/核心禁忌聖域-玩法改變2-1024x576.jpg)  
+![](post_assets/核心禁忌聖域-從何開始-1024x576.jpg)  
 
   
 核心禁忌聖域  

@@ -41,7 +41,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "5-3.jpg"
+coverImage: "post_assets/5-3.jpg"
 ---
 
 ### 【POE】3.18三大重複拓荒推薦 暴徒將軍戰吼 文字補完版本
@@ -92,8 +92,8 @@ coverImage: "5-3.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-2-1024x767.png)  
-![](WordPress/2-2.png)  
+![](post_assets/1-2-1024x767.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -142,7 +142,7 @@ coverImage: "5-3.jpg"
 缺點當然是傳奇數目多，補抗補三圍會比較麻煩；  
 
   
-![](WordPress/3-2.png)  
+![](post_assets/3-2.png)  
 
   
 由於武器，盾牌部份都是傳奇，  
@@ -152,7 +152,7 @@ coverImage: "5-3.jpg"
 要骰出來不會太困難，一步一步換裝升等就好  
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
   
 **技能連結**  

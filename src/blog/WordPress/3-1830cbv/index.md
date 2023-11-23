@@ -39,7 +39,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【POE】聯盟限定！30球秘術師冰冷飛刃風暴 30 Charges Cold Blade Vortex  
@@ -66,7 +66,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/4-1-1024x727.png)  
+![](post_assets/4-1-1024x727.png)  
 
   
    
@@ -90,10 +90,10 @@ coverImage: "thumbnail-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-2-1024x568.png)  
+![](post_assets/1-2-1024x568.png)  
 
   
-![](WordPress/2-2.png)  
+![](post_assets/2-2.png)  
 
   
 **冰BV基本上沒有成長曲線，儘管普通版本也極度吃裝備，  
@@ -154,7 +154,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/3-2.png)  
+![](post_assets/3-2.png)  
 
   
    
@@ -171,7 +171,7 @@ coverImage: "thumbnail-2.jpg"
 建議先想辦法全轉再調整裝備！  
 
   
-![](WordPress/6.png)  
+![](post_assets/6.png)  
 
   
 **魔力保留與爆炸問題**  
@@ -192,7 +192,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/5.png)  
+![](post_assets/5.png)  
 
   
    
@@ -273,7 +273,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/2022-06-04-16-22-59.mp4_snapshot_10.47.294-1024x576.jpg)  
+![](post_assets/2022-06-04-16-22-59.mp4_snapshot_10.47.294-1024x576.jpg)  
 
   
 **裝備選擇**雙暴擊球戒指及頭盔不是必備，有就更好系列，  
@@ -472,7 +472,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/AT-cm_Q0-nWgGSvDn9U2wZD_QbBQ.mp4_snapshot_00.02.412-1024x576.jpg)  
+![](post_assets/AT-cm_Q0-nWgGSvDn9U2wZD_QbBQ.mp4_snapshot_00.02.412-1024x576.jpg)  
 
   
    

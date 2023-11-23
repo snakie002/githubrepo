@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-9.jpg"
+coverImage: "post_assets/Title-9.jpg"
 ---
 
 # \[POE 3.22 消息\] GGG Fans會面 & 傳奇召喚單手鎚 | 流亡黯道  
@@ -49,7 +49,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/1-1-German-fans-meet-1024x576.png)  
+![](post_assets/1-1-German-fans-meet-1024x576.png)  
 喂 早晨我是hfok 今天有三個新消息  
 第一個消息就是在德國時間8月22日晚上7點的時候  
 在Gamescom完結後 到時候會有Chris Jonathan和一些遊戲設計師  
@@ -66,7 +66,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/2-1-Sceptre-1024x576.png)  
+![](post_assets/2-1-Sceptre-1024x576.png)  
 
   
 然後下一個消息 召喚物的喜訊 新的傳奇單手鎚  
@@ -86,7 +86,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/3-1-RAQ-300x54.png)  
+![](post_assets/3-1-RAQ-300x54.png)  
 
   
 然後最後一個消息就是跟剛剛那個單手鎚有關的  
@@ -100,7 +100,7 @@ A: 是可以的
    
 
   
-![](WordPress/4-1-300x130.png)  
+![](post_assets/4-1-300x130.png)  
 
   
 最後這部分就想說一下這個單手鎚為什麼這麼厲害  

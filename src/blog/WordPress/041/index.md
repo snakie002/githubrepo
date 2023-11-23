@@ -35,7 +35,7 @@ tags:
   - "流亡黯道spectral-shield-throw"
   - "流亡黯道全通"
   - "遊戲攻略"
-coverImage: "thumbnail1-10.jpg"
+coverImage: "post_assets/thumbnail1-10.jpg"
 ---
 
 ### 【POE】3.15 地獄模式盾投隊長全通！衛士穿刺滿格檔盾靈投擲  
@@ -70,10 +70,10 @@ Gladiator Impale Max Block Spectral Shield Throw | 流亡黯道 遊戲攻略 | P
 以下為附圖方便各位：  
 
   
-![](WordPress/1-11-1024x792.png)  
+![](post_assets/1-11-1024x792.png)  
 
   
-![](WordPress/2-7-1024x940.png)  
+![](post_assets/2-7-1024x940.png)  
 
   
 首先解釋一下昇華部份，其實還是建議如果在早期（Ａ８前）  
@@ -293,7 +293,7 @@ Gladiator Impale Max Block Spectral Shield Throw | 流亡黯道 遊戲攻略 | P
 成本已經是天價了（對我來說），造裝就是錢，所以師傅並沒有完美盾牌。  
 
   
-![](WordPress/SHILELD-1024x577.png)  
+![](post_assets/SHILELD-1024x577.png)  
 
   
 **感想心得****輸出：６／１０**  

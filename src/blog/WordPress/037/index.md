@@ -32,7 +32,7 @@ tags:
   - "最終幻想14-體驗心得"
   - "遊戲介紹"
   - "遊戲評測"
-coverImage: "thumbnail1-6.jpg"
+coverImage: "post_assets/thumbnail1-6.jpg"
 ---
 
 ### 【FFXIV】試玩到完整150小時足本體驗心得 | 休閒向MMORPG | 涯到最後的光之戰士  
@@ -59,7 +59,7 @@ POE今季後下季前還有遊戲恐慌的日子，
 希望可以幫到處於觀望狀態的觀眾朋友們！  
 
   
-![](WordPress/FINAL-FANTASY-XIV-ENDWALKER-Full-Trailer.mp4_snapshot_02.28.120-1024x576.jpg)  
+![](post_assets/FINAL-FANTASY-XIV-ENDWALKER-Full-Trailer.mp4_snapshot_02.28.120-1024x576.jpg)  
 
   
 文字補完 [(原文連結)](https://snakie002hosifu.blogspot.com/2021/07/ffxiv150-mmorpg-game-play-14-ffxiv.html)：  
@@ -97,7 +97,7 @@ POE今季後下季前還有遊戲恐慌的日子，
 如果因一時太累放棄了這麼好的遊戲是十分可惜；  
 
   
-\[caption id="attachment\_672" align="alignnone" width="687"\]![](WordPress/ffrdvnsbt8d51-687x1024.jpg) 作為勸退遊戲看到遊戲前期的確是一個惡夢。\[/caption\]  
+\[caption id="attachment\_672" align="alignnone" width="687"\]![](post_assets/ffrdvnsbt8d51-687x1024.jpg) 作為勸退遊戲看到遊戲前期的確是一個惡夢。\[/caption\]  
 
   
    
@@ -127,7 +127,7 @@ POE今季後下季前還有遊戲恐慌的日子，
 而不是背後對角色的塑造或改變而做成不一樣的效果；  
 
   
-![](WordPress/Ffxivtowowgoodluckintheshadowlands_57b9ae_7530779-576x1024.jpg)  
+![](post_assets/Ffxivtowowgoodluckintheshadowlands_57b9ae_7530779-576x1024.jpg)  
 
   
    
@@ -163,7 +163,7 @@ FFXIV沒有這種捆綁式工程，也是師傅覺得最為健康的重點，
 只要涯過地獄的跑腿郵差任務，最後也能成為光之戰士的！  
 
   
-![](WordPress/11.mp4_snapshot_15.20.724-1024x576.jpg)  
+![](post_assets/11.mp4_snapshot_15.20.724-1024x576.jpg)  
 
   
 差不多這樣了，希望可以幫到各位有興趣的玩家！  

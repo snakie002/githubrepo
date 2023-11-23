@@ -41,7 +41,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【POE】最速刷圖！元素使點燃跑跑爆炸客 Elementalist Self Chill Autobomer  
@@ -91,8 +91,8 @@ Elementalist Autobomer 元素跑跑流，
    
 
   
-![](WordPress/1-1-1024x760.png)  
-![](WordPress/2-1.png)  
+![](post_assets/1-1-1024x760.png)  
+![](post_assets/2-1.png)  
 
   
    
@@ -151,7 +151,7 @@ Elementalist Autobomer 元素跑跑流，
 針對能行動來說加起來１００％就好！  
 
   
-![](WordPress/5.png)  
+![](post_assets/5.png)  
 
   
    
@@ -222,7 +222,7 @@ Elementalist Autobomer 元素跑跑流，
 盡量獲得範圍對刷圖能力更有幫助  
 
   
-![](WordPress/3-1.png)  
+![](post_assets/3-1.png)  
 
   
    
@@ -416,7 +416,7 @@ Elementalist Autobomer 元素跑跑流，
 <table style="height: 2768px;" width="860"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">黃裝</td><td width="357">救贖 ＋ 聖戰基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">Ｔ０爆炸甲 合 Ｔ１光環效果就好，光環效果不太需要Ｔ０，沒太大區別</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">上詞需要有９％魔力保留效能詞綴</td><td width="187">惡意／堅定／憎恨魔力保留效能附魔</td></tr><tr><td colspan="4" width="670">如影片所示製作相關頭盔即可避免感電</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">上詞需要點燃擴散</td><td width="187"></td></tr><tr><td colspan="4" width="670">除了上詞後沒特別要求，主要補血抗三圍</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">星空 ／ 督軍 ＋ 任意</td><td width="187">—</td></tr><tr><td colspan="4" width="670">Ｔ０不會被點燃效果影響，其他屬性不太重要，著重傷害可合出狩獵底點燃加速<br>對王傷害會有明顯提升</td></tr><tr><td width="54">武器</td><td width="73">夜吟</td><td width="357"><a href="https://poedb.tw/tw/The_Fulcrum">https://poedb.tw/tw/The_Fulcrum</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">綁定，主要為三屬轉傷共１００％即可起動，火傷最高為佳</td></tr><tr><td width="54">副手</td><td width="73">&nbsp;</td><td width="357">&nbsp;</td><td width="187">&nbsp;</td></tr><tr><td colspan="4" width="670">／</td></tr><tr><td width="54">項鍊</td><td width="73">黃裝</td><td width="357">—</td><td width="187">塗油上魅力</td></tr><tr><td colspan="4" width="670">＋１物理／全法術為佳，其後補血抗三圍，<br>空一前綴上減少引導技能魔耗 (-3)</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">／</td></tr><tr><td colspan="4" width="670">擊中易燃對跑跑有明顯幫助，其餘為補血抗<br>空一前綴上減少引導技能魔耗 (-3)</td></tr><tr><td width="54">戒指２</td><td width="73">懷舊之環</td><td width="357"><a href="https://poedb.tw/tw/Winterweave">https://poedb.tw/tw/Winterweave</a></td><td width="187">瓦出相關免疫詞為佳</td></tr><tr><td colspan="4" width="670">綁定，上詞能瓦出不會中持或不會流血等詞綴為佳</td></tr><tr><td width="54">皮帶</td><td width="73">獵首</td><td width="357"><a href="https://poedb.tw/tw/Headhunter">https://poedb.tw/tw/Headhunter</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">綁定，坦白說沒有獵首玩這流派的話，是可以運作或效益跟爽度有差天共地的區別</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１２％火焰傷害 （８天賦）</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">燃燒閃耀＋多里亞尼的教程＋多稜之心<br>裝備夠抗性的話不需要點出多稜之心</td></tr><tr><td width="54">珠寶</td><td width="73">中型星團</td><td width="357">１２％燃燒傷害</td><td width="187">三顆</td></tr><tr><td colspan="4" width="670">燃燒閃耀＋現宰／後座力／焚屍爐<br>不是綁定但非常有作用，主為拿取燃燒閃耀的範圍效果，其他為一般增傷加成</td></tr><tr><td width="54">珠寶</td><td width="73">妄想症</td><td width="357"><a href="https://poedb.tw/tw/Megalomaniac">https://poedb.tw/tw/Megalomaniac</a></td><td width="187"></td></tr><tr><td colspan="4" width="670">永不妥協＋任一燃燒傷詞<br>為了３級啟蒙能開啟所有光環，如果找不到可用啟蒙４級代替</td></tr><tr><td width="54">珠寶</td><td width="73">腦衝</td><td width="357"><a href="https://poedb.tw/tw/Hotheaded">https://poedb.tw/tw/Hotheaded</a></td><td width="187">瓦出避免感電／腐化之血</td></tr><tr><td colspan="4" width="670">綁定</td></tr><tr><td width="54">珠寶</td><td width="73">贗品．腦衝</td><td width="357"><a href="https://poedb.tw/tw/Replica_Hotheaded">https://poedb.tw/tw/Replica_Hotheaded</a></td><td width="187">瓦出避免感電／腐化之血</td></tr><tr><td colspan="4" width="670">綁定</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌血肉</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flesh">https://poedb.tw/tw/Forbidden_Flesh</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌烈焰才能觸發相關效果<br>選擇寒冬雕塑者即可 較便宜</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌烈焰</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flame">https://poedb.tw/tw/Forbidden_Flame</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌血肉才能觸發相關效果<br>選擇寒冬雕塑者即可 較便宜</td></tr><tr><td width="54">珠寶</td><td width="73">烈炎之兆</td><td width="357"><a href="https://poedb.tw/tw/Mantra_of_Flames">https://poedb.tw/tw/Mantra_of_Flames</a></td><td width="187">瓦出避免感電／腐化之血</td></tr><tr><td colspan="4" width="670">非綁定，有獵首才有相關作用，可用黃裝替代</td></tr><tr><td width="54">珠寶</td><td width="73">看守之眼</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">非綁定，惡意增加燃燒速度更快有明顯區別，<br>其他按個人喜愛就好</td></tr><tr><td width="54">珠寶</td><td width="73">神感</td><td width="357"><a href="https://poedb.tw/tw/Unnatural_Instinct">https://poedb.tw/tw/Unnatural_Instinct</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">非綁定，不過增加大量所需詞綴如範圍及三圍等等<br>可以的話還是建議買一顆，不需要爭取瓦詞</td></tr></tbody></table>
 
   
-![](WordPress/4-1.png)  
+![](post_assets/4-1.png)  
 
   
    

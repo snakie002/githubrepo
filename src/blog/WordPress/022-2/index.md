@@ -34,7 +34,7 @@ tags:
   - "流亡黯道-收益"
   - "流亡黯道-測試"
   - "遊戲攻略"
-coverImage: "thumbnail-43.jpg"
+coverImage: "post_assets/thumbnail-43.jpg"
 ---
 
 ### 【POE】５０場五玉復仇計劃收益實測 Nemesis Juicy T15 Canyons Testing  
@@ -60,7 +60,7 @@ coverImage: "thumbnail-43.jpg"
 試算表連結（只能作參考）：[請按此](https://drive.google.com/file/d/1fGWE_x-rQnmWLOa9CVSjXgvayVpbZV8y/view?usp=sharing)  
 
   
-![](WordPress/result-1024x545.png)  
+![](post_assets/result-1024x545.png)  
 
   
 文字方面這次主要補完一下，地圖製作流程，六分儀配搭，注意事項以及個人感想  
@@ -95,7 +95,7 @@ coverImage: "thumbnail-43.jpg"
    
 
   
-![](WordPress/MAP-1.png)  
+![](post_assets/MAP-1.png)  
 
   
    
@@ -142,7 +142,7 @@ coverImage: "thumbnail-43.jpg"
 **測試後期用光了所有艾瓦任務，****乾脆打上地圖內有艾瓦就算了，****艾瓦的怪量跟加成在五玉復仇是非常重要，****影響力有多一層及通貨掉落，****必需想辦法開到艾瓦！**  
 
   
-**![](WordPress/unknown-1.png)**  
+**![](post_assets/unknown-1.png)**  
 
   
    
@@ -212,7 +212,7 @@ coverImage: "thumbnail-43.jpg"
 有撿到手指變型的覺悟，那就真的穩賺不賠！  
 
   
-![](WordPress/2021-02-15-18-58-19.mp4_snapshot_00.48.430-1024x576.jpg)  
+![](post_assets/2021-02-15-18-58-19.mp4_snapshot_00.48.430-1024x576.jpg)  
 **當然找到自己最喜歡最順手的刷錢方法才是最最最重要！**  
 
   

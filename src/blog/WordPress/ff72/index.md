@@ -12,7 +12,7 @@ tags:
   - "ps4"
   - "rpg"
   - "遊戲攻略"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【遊戲攻略】《Final Fantasy VII Remake》簡易完成最後任務 最高機密 06’13’心得攻略
@@ -26,7 +26,7 @@ coverImage: "thumbnail-1.jpg"
 同樣地**先比一個****Spoiler Alert 劇透警告，以下內容含有劇透及爆機後內容，請自斟酌服用。**  
 
   
-![](WordPress/P1-1024x576.jpg)  
+![](post_assets/P1-1024x576.jpg)  
 
   
 裝備及魔晶石：  
@@ -48,7 +48,7 @@ Aerith 魔晶石配置： 吸收ＭＰＸ雷霆，魔法追擊Ｘ雷霆，提昇
    
 
   
-![](WordPress/P3-1024x576.jpg)  
+![](post_assets/P3-1024x576.jpg)  
 
   
 打嬴左之後就會有個飾品諸神黃昏，一入戰就滿Limit，而且儲Limit既速度亦都會加快好多，  

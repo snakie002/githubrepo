@@ -40,7 +40,7 @@ tags:
   - "火炬之光：無限-s2"
   - "火炬之光：無限-破滅的黑帆"
   - "遊戲攻略"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【火炬之光：無限】破滅的黑帆 S2 測試服資料解禁 | 英雄遺物及追憶 = 2000智力 450抗性  
@@ -101,13 +101,13 @@ Torchlight: Infinite 火炬之光無限 Season 2 破滅的黑帆於1月12日正�
 不然就虧大了！  
 
   
-![](WordPress/3-1-209x300.png)  
-![](WordPress/2-1-234x300.png)  
-![](WordPress/1-1-218x300.png)  
-![](WordPress/7-189x300.png)  
-![](WordPress/6-193x300.png)  
-![](WordPress/4-1-229x300.png)  
-![](WordPress/5-215x300.png)  
+![](post_assets/3-1-209x300.png)  
+![](post_assets/2-1-234x300.png)  
+![](post_assets/1-1-218x300.png)  
+![](post_assets/7-189x300.png)  
+![](post_assets/6-193x300.png)  
+![](post_assets/4-1-229x300.png)  
+![](post_assets/5-215x300.png)  
 
   
    
@@ -129,10 +129,10 @@ Torchlight: Infinite 火炬之光無限 Season 2 破滅的黑帆於1月12日正�
 還是先玩著普通裝備罷了  
 
   
-![](WordPress/9-1024x523.png)  
+![](post_assets/9-1024x523.png)  
 
   
-![](WordPress/8-1024x532.png)  
+![](post_assets/8-1024x532.png)  
 
   
    

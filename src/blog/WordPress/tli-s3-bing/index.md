@@ -38,7 +38,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【火炬之光：無限】貪慾魔方 手把手拓到時刻7 | 全新英雄賓 X 全新技能飛箭英靈輕鬆推倒穿梭者  
@@ -82,21 +82,21 @@ Torchlight Infinite火炬之光無限 S3 貪慾魔方已上市3天，
    
 
   
-![](WordPress/1-1024x576.jpg)  
-![](WordPress/2-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
+![](post_assets/2-1024x576.jpg)  
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
-![](WordPress/4-1024x576.jpg)  
+![](post_assets/4-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/5-1024x576.jpg)  
-![](WordPress/6-1024x576.jpg)  
+![](post_assets/5-1024x576.jpg)  
+![](post_assets/6-1024x576.jpg)  
 
   
    
@@ -141,24 +141,24 @@ Torchlight Infinite火炬之光無限 S3 貪慾魔方已上市3天，
    
 
   
-![](WordPress/S1-1024x576.jpg)  
+![](post_assets/S1-1024x576.jpg)  
 
   
-![](WordPress/S4-1024x576.jpg)  
-![](WordPress/S3-1024x576.jpg)  
-![](WordPress/S2-1024x576.jpg)  
+![](post_assets/S4-1024x576.jpg)  
+![](post_assets/S3-1024x576.jpg)  
+![](post_assets/S2-1024x576.jpg)  
 
   
-![](WordPress/S5-1024x576.jpg)  
+![](post_assets/S5-1024x576.jpg)  
 
   
-![](WordPress/S6-1024x576.jpg)  
+![](post_assets/S6-1024x576.jpg)  
 
   
-![](WordPress/S7-1024x576.jpg)  
+![](post_assets/S7-1024x576.jpg)  
 
   
-![](WordPress/S8-1024x576.jpg)  
+![](post_assets/S8-1024x576.jpg)  
 
   
    

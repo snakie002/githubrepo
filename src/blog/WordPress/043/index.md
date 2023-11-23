@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-靈體旋武"
   - "遊戲攻略"
   - "香港"
-coverImage: "thumbnail1-12.jpg"
+coverImage: "post_assets/thumbnail1-12.jpg"
 ---
 
 ### 【POE】賴尿牛丸？！靈體旋武 X 冰霜之刃 全能型流派 Raider Spectral Helix  
@@ -72,10 +72,10 @@ coverImage: "thumbnail1-12.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-12-1024x844.png)  
+![](post_assets/1-12-1024x844.png)  
 
   
-![](WordPress/2-8-1024x876.png)  
+![](post_assets/2-8-1024x876.png)  
 
   
 昇華部份基本標配，盡早拿到元素免疫類別天賦，  
@@ -108,7 +108,7 @@ coverImage: "thumbnail1-12.jpg"
 **了解天賦裝備堆起來的傷害計算，****點傷／大傷武器／物轉冰拿加成各式各樣的傷害成份，****找出手上最合適的配搭就是旋武的優勢！**  
 
   
-![](WordPress/4-5.png) ![](WordPress/3-6.png)  
+![](post_assets/4-5.png) ![](post_assets/3-6.png)  
 
   
 **三體問題**  
@@ -128,7 +128,7 @@ coverImage: "thumbnail1-12.jpg"
 所以選用兩顆覺醒附加冰冷及閃電，增加點傷，把三體發揮到最大作用！  
 
   
-![](WordPress/1.mp4_snapshot_00.55.726-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_00.55.726-1024x576.jpg)  
 
   
 **技能連結****主技能組—３Ｇ２Ｂ１Ｒ****靈體旋武—三體—夜刃—覺醒附加閃電—覺醒附加冰冷—啟發（相異）**  
@@ -200,7 +200,7 @@ coverImage: "thumbnail1-12.jpg"
    
 
   
-![](WordPress/5-1.png)  
+![](post_assets/5-1.png)  
 
   
 **裝備選擇**  
@@ -318,7 +318,7 @@ coverImage: "thumbnail1-12.jpg"
 所以看看各位的財力了！  
 
   
-![](WordPress/2.mp4_snapshot_12.32.476-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_12.32.476-1024x576.jpg)  
 
   
 **感想心得****輸出：８／１０**  

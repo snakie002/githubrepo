@@ -36,7 +36,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-Factorio1.jpg"
+coverImage: "post_assets/Title-Factorio1.jpg"
 ---
 
 # \[Factorio\] Factorio Friday Fact #377 - 全新火車路軌 | 異星工廠 | Space Age
@@ -45,14 +45,14 @@ coverImage: "Title-Factorio1.jpg"
 現時路軌的問題:  
 
   
-![](WordPress/1-14-1024x322.png)  
+![](post_assets/1-14-1024x322.png)  
 
   
 1\. 路軌必需要相隔6格才能夠透過S型路連接  
 以往上圖是不能夠連接的  
 
   
-![](WordPress/2-14-1024x819.png)  
+![](post_assets/2-14-1024x819.png)  
 
   
 2\. 訊號燈可以放的位置很有限  
@@ -60,38 +60,38 @@ coverImage: "Title-Factorio1.jpg"
 4\. 弧型路段佔了太多格  
 
   
-![](WordPress/3-1-3-1024x234.png)  
+![](post_assets/3-1-3-1024x234.png)  
 
   
 如果想連接其他格數間隔的路軌必需要有更多 S型路  
 
   
-![](WordPress/3-2-3-1024x263.png)  
+![](post_assets/3-2-3-1024x263.png)  
 
   
 將S型路分為兩半 令中間可以加入斜向路軌令S型路可以無限伸  
 
   
-![](WordPress/3-3-1-1024x922.png)  
+![](post_assets/3-3-1-1024x922.png)  
 
   
 最終變成所有間隔的路軌都可以接合了  
 
   
-![](WordPress/3-4-1-1024x410.png)  
+![](post_assets/3-4-1-1024x410.png)  
 
   
 連一開始做不到的這種連接也變得可能了  
 
   
-![](WordPress/4-1-1-1024x936.png)  
+![](post_assets/4-1-1-1024x936.png)  
 
   
 加大了弧型的半徑由原本的11格變成13格  
 把一個弧型拆開為4個部份  
 
   
-![](WordPress/juxtapose-gif1.gif)  
+![](post_assets/juxtapose-gif1.gif)  
 
   
    
@@ -100,7 +100,7 @@ coverImage: "Title-Factorio1.jpg"
 大部份2.0與1.0的交匯點佔地略有不同不過大致上一樣  
 
   
-![](WordPress/4-2-2-1024x1024.png)  
+![](post_assets/4-2-2-1024x1024.png)  
 
   
 由於弧型路半徑加大導致相隔4格的十字路口變大  
@@ -108,28 +108,28 @@ coverImage: "Title-Factorio1.jpg"
 因此大型電纜也加大了連接距離至32格  
 
   
-![](WordPress/5-1-4-1024x878.png)  
+![](post_assets/5-1-4-1024x878.png)  
 
   
-![](WordPress/5-2-5-1024x819.png)  
+![](post_assets/5-2-5-1024x819.png)  
 
   
 路軌改動把可放訊號的位置變多了  
 
   
-![](WordPress/6-11-1024x892.png)  
+![](post_assets/6-11-1024x892.png)  
 
   
 以上就是新的路軌所有的角度可能性  
 
   
-![](WordPress/7-3-1024x571.png)  
+![](post_assets/7-3-1024x571.png)  
 
   
 不過也代表著殘餘物數量也變多了  
 
   
-![](WordPress/8-2-1024x558.png)  
+![](post_assets/8-2-1024x558.png)  
 
   
 以上這些改動都會在Factorio 2.0版本更新  

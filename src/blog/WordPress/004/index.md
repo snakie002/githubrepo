@@ -23,7 +23,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-24.jpg"
+coverImage: "post_assets/thumbnail-24.jpg"
 ---
 
 ### 【POE】3.12 正義之火手動解放 Righteous Fire Discharge All Content | 正義之火回血解說  
@@ -60,7 +60,7 @@ Pastebin: [https://pastebin.com/xwBLBEY0](https://pastebin.com/xwBLBEY0)
    
 
   
-![](WordPress/thumbnail-24-1024x576.jpg)  
+![](post_assets/thumbnail-24-1024x576.jpg)  
 
   
    
@@ -89,7 +89,7 @@ Pastebin: [https://pastebin.com/xwBLBEY0](https://pastebin.com/xwBLBEY0)
 新手可以試一下這個流派測試自己可以晉升到高手沒有ＸＤ  
 
   
-![](WordPress/RF-SUB.png)  
+![](post_assets/RF-SUB.png)  
 
   
    
@@ -98,7 +98,7 @@ Pastebin: [https://pastebin.com/xwBLBEY0](https://pastebin.com/xwBLBEY0)
 技能配置：  
 
   
-![](WordPress/Flare_Discharge_Effect_inventory_icon.png)  
+![](post_assets/Flare_Discharge_Effect_inventory_icon.png)  
 
   
 解放  
@@ -262,7 +262,7 @@ Pastebin: [https://pastebin.com/xwBLBEY0](https://pastebin.com/xwBLBEY0)
 不用想太複雜的事情的ＸＤ  
 
   
-![](WordPress/2020-09-27-22-47-47.mp4_snapshot_35.08.000-1024x576.jpg)  
+![](post_assets/2020-09-27-22-47-47.mp4_snapshot_35.08.000-1024x576.jpg)  
 
   
 個人感想  

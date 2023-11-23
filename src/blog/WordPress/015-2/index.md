@@ -30,7 +30,7 @@ tags:
   - "流亡黯道-釋界"
   - "遊戲介紹"
   - "遊戲攻略"
-coverImage: "thumbnail-34.jpg"
+coverImage: "post_assets/thumbnail-34.jpg"
 ---
 
 ### 【POE】 POE 3.13 改版解說報導 詳述三大新元素 釋界 輿圖天賦 釋界者之玉  
@@ -69,7 +69,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
 先附上參加直播贈送的翅膀圖樣：  
 
   
-![](WordPress/WING.jpeg)  
+![](post_assets/WING.jpeg)  
 
   
 免費的就那樣吧不要勉強太多了XD  
@@ -94,7 +94,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
 先上圖（在BＬＯＧ上有完整圖片）：  
 
   
-![](WordPress/Deadeye-1024x576.jpg)  
+![](post_assets/Deadeye-1024x576.jpg)  
 
   
 因為版上有其他網友已經做好翻譯，就不作特別翻譯了，  
@@ -130,7 +130,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
 肯定會玩一個銳眼了 :D  
 
   
-![](WordPress/Ele-1024x576.jpg)  
+![](post_assets/Ele-1024x576.jpg)  
 
   
 元素師：  
@@ -154,7 +154,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
 但目前還想不到比較大方向的用途；  
 
   
-![](WordPress/Inqu-1024x576.jpg)  
+![](post_assets/Inqu-1024x576.jpg)  
 
   
 判官：  
@@ -172,7 +172,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
 而且判官本來就很能暴擊，所以還是簡單暴力型角色；  
 
   
-![](WordPress/slayer-1024x576.jpg)  
+![](post_assets/slayer-1024x576.jpg)  
 
   
 處刑者：  
@@ -187,7 +187,7 @@ POE 3.13 國際暫定於港台一月十六號凌晨四點開始，
    
 
   
-![](WordPress/Occ-1024x576.jpg)  
+![](post_assets/Occ-1024x576.jpg)  
 
   
 豐收部份就不多說了，  

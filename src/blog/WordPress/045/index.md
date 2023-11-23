@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-通貨"
   - "裝備買賣"
   - "遊戲攻略"
-coverImage: "thumbnail1-14.jpg"
+coverImage: "post_assets/thumbnail1-14.jpg"
 ---
 
 ### 【POE】POE 通識 – POE 服務之路 | 完全新手食用教程 經濟篇 (2) 新手教學  
@@ -84,7 +84,7 @@ TFT Discord 連結
 先上圖片，簡單解釋相關服務部份：  
 
   
-![](WordPress/Untitled-1-910x1024.jpg)  
+![](post_assets/Untitled-1-910x1024.jpg)  
 
   
 **有效運用遊戲系統**  
@@ -114,7 +114,7 @@ TFT Discord 連結
 就會知道相關流派所需的物品，也會知道價值：  
 
   
-![](WordPress/2-10-1024x329.png)  
+![](post_assets/2-10-1024x329.png)  
 
   
 **盾投需要高護甲 ／ 高閃躲及能盾盾牌，****ＣＯＣ需要兩暴一血／一能盾珠寶，****旋風斬需要錢，****元素打擊需要各種元素類別暴擊加成珠寶，**  
@@ -165,7 +165,7 @@ TFT Discord 連結
 所以只需要多玩 多看，最後也能變成打貨X買賣高手！  
 
   
-![](WordPress/1-14.png)  
+![](post_assets/1-14.png)  
 
   
 所以綜合來說，  

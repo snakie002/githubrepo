@@ -32,23 +32,23 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-1.jpg"
+coverImage: "post_assets/title-1.jpg"
 ---
 
 # \[POE 3.22 消息\] Spellblade 輔助 & 地圖儀詞  
 流亡黯道 | Path of Exile
 
   
-![](WordPress/title-1-1024x576.jpg)  
+![](post_assets/title-1-1024x576.jpg)  
 
   
-![](WordPress/spellblade-support-1024x576.jpg)  
+![](post_assets/spellblade-support-1024x576.jpg)  
 它叫做Spellblade Support  
 被輔助的法術技能會根據你手上的單手武器有的傷害  
 增加法術點傷  
 
   
-![](WordPress/map-device-craft-1024x576.jpg)  
+![](post_assets/map-device-craft-1024x576.jpg)  
 
   
 GGG因為POE M的現場示範做得非常差  
@@ -57,7 +57,7 @@ GGG因為POE M的現場示範做得非常差
 也就是Chris 和 Neon  
 
   
-![](WordPress/interviewing-chris-and-neon-1024x576.jpg)  
+![](post_assets/interviewing-chris-and-neon-1024x576.jpg)  
 在這個訪問裡面Chris和Neon就回答了很多有趣的答案  
 例如POE1的近戰會怎樣  
 他們就說在製作POE2的近戰的時候他們學到很多  

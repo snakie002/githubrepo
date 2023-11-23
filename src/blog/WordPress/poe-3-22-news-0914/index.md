@@ -8,13 +8,13 @@ categories:
   - "poe-3-22"
   - "poe-消息"
   - "遊戲新聞"
-coverImage: "Title-6.jpg"
+coverImage: "post_assets/Title-6.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.1b 更新公告 | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-6-1024x576.jpg)  
+![](post_assets/Title-6-1024x576.jpg)  
 
   
    
@@ -29,7 +29,7 @@ Hotfix 1:
 他們就會更加主動攻擊敵人的戰士  
 
   
-![](WordPress/1-2.jpeg)  
+![](post_assets/1-2.jpeg)  
 
   
 Hotfix 2:  
@@ -41,10 +41,10 @@ Hotfix 2:
 祖靈改動和修正:  
 
   
-![](WordPress/2-1-1.png)  
+![](post_assets/2-1-1.png)  
 
   
-![](WordPress/2-2-1.png)  
+![](post_assets/2-2-1.png)  
 
   
 減少了月神巨龜噴冰的技能和黑夜巨人用的重擊技對召喚物造成的傷害  
@@ -52,7 +52,7 @@ Hotfix 2:
 錯誤地大幅減少了戰士所造成的技能特效  
 
   
-![](WordPress/2-3-1.png)  
+![](post_assets/2-3-1.png)  
 
   
 修正了琢玉匠這個戰士  
@@ -63,7 +63,7 @@ Hotfix 2:
 Encase in Jade的效果沒有正確在顯示增益或者減益效果  
 
   
-![](WordPress/3-7.png)  
+![](post_assets/3-7.png)  
 
   
 修正了豐收新的關鍵天賦 - 作物輪作  

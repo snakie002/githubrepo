@@ -37,7 +37,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-Factorio1.jpg"
+coverImage: "post_assets/Title-Factorio1.jpg"
 ---
 
 # \[Factorio\] FFF #381 - 太空平台, 隕石採集&加工 | 異星工廠 | Space Age | Space Platform
@@ -46,7 +46,7 @@ coverImage: "Title-Factorio1.jpg"
    
 
   
-![](WordPress/1-5-1024x995.png)  
+![](post_assets/1-5-1024x995.png)  
 
   
 太空平台  
@@ -66,7 +66,7 @@ Your browser does not support the video tag.
 不能夠用熱能機械  
 
   
-![](WordPress/2-7-1024x726.png)  
+![](post_assets/2-7-1024x726.png)  
 
   
 太空科技包分為兩個階段  
@@ -92,7 +92,7 @@ Your browser does not support the video tag.
 可以建造新的隕石採集器採集隕石  
 
   
-![](WordPress/3-7-919x1024.png)  
+![](post_assets/3-7-919x1024.png)  
 
   
 整個平台共享電力, 不需要電線桿  

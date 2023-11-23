@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-處刑者"
   - "流亡黯道-詐欺師"
   - "流亡黯道盾投"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 ### 【POE】3.20 三大實而不華拓荒推薦 詐欺冰盾投 秘術師咒術枯萎 處刑旋風斬  
@@ -109,8 +109,8 @@ Roughlike 玩法 X POE 好像很有搞頭，
 最後都是兩C就算了；  
 
   
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_04.55.016-1024x576.jpg)  
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_04.50.016-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_04.55.016-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_04.50.016-1024x576.jpg)  
 
   
    
@@ -127,7 +127,7 @@ Roughlike 玩法 X POE 好像很有搞頭，
 那就沒樂趣了；  
 
   
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_17.40.573-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_17.40.573-1024x576.jpg)  
 
   
 **遊戲發展方向**  
@@ -157,7 +157,7 @@ Roughlike 玩法 X POE 好像很有搞頭，
 所以回到每季開季前的感覺，先希望下一季更好吧  
 
   
-![](WordPress/Screenshot-2022-12-08-053756-1024x608.png)  
+![](post_assets/Screenshot-2022-12-08-053756-1024x608.png)  
 
   
 **個人感想**  

@@ -14,7 +14,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail-7.jpg"
+coverImage: "post_assets/thumbnail-7.jpg"
 ---
 
 ### 【遊戲雜談】《血咒之城：暗夜儀式》免費DLC 斬月角色開通方法及講解 | DLC的迷思
@@ -29,14 +29,14 @@ coverImage: "thumbnail-7.jpg"
 前言及其他野就無謂多講喇，我地直接進入主題：  
 
   
-\[caption id="attachment\_145" align="alignnone" width="641"\]![](WordPress/P1-5.png) 附上影片入面出招表定格圖。\[/caption\]  
+\[caption id="attachment\_145" align="alignnone" width="641"\]![](post_assets/P1-5.png) 附上影片入面出招表定格圖。\[/caption\]  
 
   
 其實大家可以係Xbox Game Pass上搵到哩隻Game，如果有加入會員既話《血咒之城：暗夜儀式》  
 係極力推薦，因為本傳遊戲已經好值得去玩，遊戲評測唔會講大話既！  
 
   
-\[caption id="attachment\_146" align="alignnone" width="858"\]![](WordPress/P2-1-1024x525.png) 低清人權圖一張，廿三小時白金，過程暢快玩得爽快，正。\[/caption\]  
+\[caption id="attachment\_146" align="alignnone" width="858"\]![](post_assets/P2-1-1024x525.png) 低清人權圖一張，廿三小時白金，過程暢快玩得爽快，正。\[/caption\]  
 
   
    
@@ -58,10 +58,10 @@ coverImage: "thumbnail-7.jpg"
 完全係同良心兩個字脫勾，所以講到無良DLC公司真係非Bandai同Square Enix莫屬。  
 
   
-\[caption id="attachment\_147" align="alignnone" width="858"\]![](WordPress/P3-1-1024x576.png) 用DLC黎做補完計畫既幌子，實情就係利用想補完玩家既心理，將遊戲再分拆上市黎收錢。\[/caption\]  
+\[caption id="attachment\_147" align="alignnone" width="858"\]![](post_assets/P3-1-1024x576.png) 用DLC黎做補完計畫既幌子，實情就係利用想補完玩家既心理，將遊戲再分拆上市黎收錢。\[/caption\]  
 
   
-\[caption id="attachment\_148" align="alignnone" width="858"\]![](WordPress/P4-3-1024x510.png) 入錢買機體其實已經同大陸Pay to Win既遊戲我覺得係同出一轍，有返少少良知都做唔到。\[/caption\]  
+\[caption id="attachment\_148" align="alignnone" width="858"\]![](post_assets/P4-3-1024x510.png) 入錢買機體其實已經同大陸Pay to Win既遊戲我覺得係同出一轍，有返少少良知都做唔到。\[/caption\]  
 
   
 師傅自己第一個比錢既DLC係機戰OG入面既Dark Prison 白河愁篇，因為Fans向真係無辦法，明知都要比佢呃，  
@@ -69,7 +69,7 @@ coverImage: "thumbnail-7.jpg"
 每一次推出都會加入購物車，結果好似買左三個定四個，條數係等於個隻Game，即係total買左兩次同一隻Game，買完都覺得自己有d戇居。  
 
   
-\[caption id="attachment\_149" align="alignnone" width="858"\]![](WordPress/P5-5-1024x576.jpg) 好似儲群星大碟咁，倒頭黎都無玩曬所有歌，係曬錢既。\[/caption\]  
+\[caption id="attachment\_149" align="alignnone" width="858"\]![](post_assets/P5-5-1024x576.jpg) 好似儲群星大碟咁，倒頭黎都無玩曬所有歌，係曬錢既。\[/caption\]  
 
   
 有時係度諗，點解當年打機無DLC哩樣野但係個Content都可以咁豐富，反觀年代進步後又點解反而遊戲一定要出DLC先可以回本或者賺取更多利潤？  
@@ -83,7 +83,7 @@ coverImage: "thumbnail-7.jpg"
 所以遊戲價錢同通帳脫勾既同時，廠商們用其他方法補貼遊戲利潤，其實係無可口非；  
 
   
-\[caption id="attachment\_150" align="alignnone" width="858"\]![](WordPress/P6-1024x367.png) 最近有D話題性既遊戲之一，$78蚊既收費，你仲想點？\[/caption\]  
+\[caption id="attachment\_150" align="alignnone" width="858"\]![](post_assets/P6-1024x367.png) 最近有D話題性既遊戲之一，$78蚊既收費，你仲想點？\[/caption\]  
 
   
    

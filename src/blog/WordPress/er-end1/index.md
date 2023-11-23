@@ -29,7 +29,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【艾爾登法環】主線結局 (1) 艾爾登之王 簡易流程 附地圖路線 | 劇透警告  
@@ -75,7 +75,7 @@ coverImage: "thumbnail.jpg"
 以後再會有影片或攻略發佈，謝謝各位支持！  
 
   
-![](WordPress/2-1024x576.jpg)  
+![](post_assets/2-1024x576.jpg)  
 
   
 **先附上基本路線圖**  
@@ -93,7 +93,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/11-1024x587.png)  
+![](post_assets/11-1024x587.png)  
 
   
 開始遊戲  
@@ -109,7 +109,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/3-1024x593.png)  
+![](post_assets/3-1024x593.png)  
 
   
 進入史城  
@@ -129,7 +129,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/4-1024x576.jpg)  
+![](post_assets/4-1024x576.jpg)  
 
   
 進入王城外圍  
@@ -147,10 +147,10 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/8-1024x576.jpg)  
+![](post_assets/8-1024x576.jpg)  
 
   
-![](WordPress/2022-03-05-15-50-53.mp4_snapshot_00.57.13.977-1024x576.jpg)  
+![](post_assets/2022-03-05-15-50-53.mp4_snapshot_00.57.13.977-1024x576.jpg)  
 
   
 魔法學院  
@@ -168,7 +168,7 @@ coverImage: "thumbnail.jpg"
 需要點時間，附圖希望能幫到各位！  
 
   
-![](WordPress/5-1024x586.png)  
+![](post_assets/5-1024x586.png)  
 
   
    
@@ -188,7 +188,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/9-1-1024x576.jpg)  
+![](post_assets/9-1-1024x576.jpg)  
 
   
 雪山  
@@ -210,7 +210,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/10-1024x587.png)  
+![](post_assets/10-1024x587.png)  
 
   
 天空之城  
@@ -222,7 +222,7 @@ coverImage: "thumbnail.jpg"
 為什麼燒樹後會直接傳到這裡，還沒有找到相關資料腦補。。。  
 
   
-![](WordPress/2022-03-05-22-25-28.mp4_snapshot_06.11.216-1024x576.jpg)  
+![](post_assets/2022-03-05-22-25-28.mp4_snapshot_06.11.216-1024x576.jpg)  
 
   
 灰城  
@@ -234,7 +234,7 @@ coverImage: "thumbnail.jpg"
 可以選擇結局 （ＳＬ方面不確定能否正常運行，技術上問題不清楚）  
 
   
-![](WordPress/2022-03-05-22-25-28.mp4_snapshot_19.56.292-1024x576.jpg)  
+![](post_assets/2022-03-05-22-25-28.mp4_snapshot_19.56.292-1024x576.jpg)  
 
   
 以上就是普通結局艾爾登之王簡易路線  

@@ -36,7 +36,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-5.jpg"
+coverImage: "post_assets/title-5.jpg"
 ---
 
 ### \[POE 3.22 消息\] 界面改善&新命運卡 | 流亡黯道 | Path of Exile | 祖靈的試煉
@@ -45,10 +45,10 @@ coverImage: "title-5.jpg"
    
 
   
-![](WordPress/title-5-1024x576.jpg)  
+![](post_assets/title-5-1024x576.jpg)  
 
   
-![](WordPress/0000-界面改善-1024x576.png)  
+![](post_assets/0000-界面改善-1024x576.png)  
 今天有兩個消息要和大家說  
 昨天GGG展示了一個新的遊戲改善給大家看  
 這個改善就是當你被邀請或者當你交易等等的時候  
@@ -64,10 +64,10 @@ coverImage: "title-5.jpg"
 5\. 邀請別人進去你的藏身處  
 
   
-![](WordPress/0051-1-界面改善被批評.png)  
+![](post_assets/0051-1-界面改善被批評.png)  
 
   
-![](WordPress/0039-新命運卡.png)  
+![](post_assets/0039-新命運卡.png)  
 然後下一個消息是他們今天展示給大家看一個新的命運卡  
 這張The Fortunate需要集齊12張之後就可以換到兩顆Divine Orb 神聖石  
 以上就是今天的消息  
@@ -76,7 +76,7 @@ coverImage: "title-5.jpg"
    
 
   
-![](WordPress/0051-2-界面改善被批評-1024x576.jpg)  
+![](post_assets/0051-2-界面改善被批評-1024x576.jpg)  
 雖然遊戲體驗改善是多多益善少少無拘  
 但是這次的體驗改善又引來界面和用戶體驗設計師 PiebyPie的批評  
 她批評GGG在這次的遊戲體驗改善之上  

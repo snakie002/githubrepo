@@ -38,7 +38,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-6.jpg"
+coverImage: "post_assets/thumbnail-6.jpg"
 ---
 
 【POE】六邊形戰士！秘術師COC 禁忌儀式Occultist COC Forbidden Rite  
@@ -88,8 +88,8 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/2-5.png)  
-![](WordPress/1-6-1024x553.png)  
+![](post_assets/2-5.png)  
+![](post_assets/1-6-1024x553.png)  
 
   
    
@@ -147,7 +147,7 @@ coverImage: "thumbnail-6.jpg"
 所以還是建議有魔血後才玩會有明顯不一樣的效果  
 
   
-![](WordPress/6-2.png)  
+![](post_assets/6-2.png)  
 
   
    
@@ -170,9 +170,9 @@ coverImage: "thumbnail-6.jpg"
 也是一個調整方法  
 
   
-![](WordPress/3-5.png)  
-![](WordPress/5-3.png)  
-![](WordPress/4-4.png)  
+![](post_assets/3-5.png)  
+![](post_assets/5-3.png)  
+![](post_assets/4-4.png)  
 
   
 **技能連結**  
@@ -453,7 +453,7 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/1.mp4_snapshot_16.25.748-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_16.25.748-1024x576.jpg)  
 
   
    

@@ -38,7 +38,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-1.jpg"
+coverImage: "post_assets/title-1.jpg"
 ---
 
 # \[Last Epoch\] 法師新技能 - Frost Claw  
@@ -48,8 +48,8 @@ coverImage: "title-1.jpg"
    
 
   
-![](WordPress/title-1-1024x576.jpg)  
-![](WordPress/1-1024x576.jpeg)  
+![](post_assets/title-1-1024x576.jpg)  
+![](post_assets/1-1024x576.jpeg)  
 
   
    
@@ -80,7 +80,7 @@ EHG認同的確有這個空隙是需要填補的
    
 
   
-![](WordPress/2-2.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -113,8 +113,8 @@ Frost Claw這招技能在等級12的時候已經可以解鎖
 現在我們就看看這個Frost Claw天賦樹有什麼天賦點  
 
   
-![](WordPress/3-1.jpeg)  
-![](WordPress/3-2.png)  
+![](post_assets/3-1.jpeg)  
+![](post_assets/3-2.png)  
 
   
 他們只展示了兩點給我們看 第一個是On Through the Snow  
@@ -125,8 +125,8 @@ Frost Claw這招技能在等級12的時候已經可以解鎖
 或者可以進一步加大Frost Claw的覆蓋範圍  
 
   
-![](WordPress/4-1.jpeg)  
-![](WordPress/4-2-1.png)  
+![](post_assets/4-1.jpeg)  
+![](post_assets/4-2-1.png)  
 
   
 然後另外一點他們展示的就是Volley of Glass  
@@ -150,7 +150,7 @@ Frost Claw原本的投射物就變成連續射擊而不是同時發射
 以上就是今天Last Epoch Frost Claw的內容  
 
   
-![](WordPress/5-2-1024x366.png)  
+![](post_assets/5-2-1024x366.png)  
 
   
 這招技能是純粹一招Mage的技能  

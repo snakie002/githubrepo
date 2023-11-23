@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-賽季"
   - "流亡黯道-重返榮耀"
   - "遊戲攻略"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 【POE】POE 3.20 新賽季更新速報！POE 3.20 The Forbidden Sanctum 禁忌聖域  
@@ -58,7 +58,7 @@ POE經過3.19慘敗後，
 那我們直接開始速報：  
 
   
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Official-Trailer.mp4_snapshot_02.00.828-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Official-Trailer.mp4_snapshot_02.00.828-1024x576.jpg)  
 
   
 文字補完 [(原文連結)](https://snakie002hosifu.blog/3-20news)：  
@@ -72,7 +72,7 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 **核心部份改動影片基本上都有提及，****這次將會補完影片沒有提及部份，包括****Patch Note****部份及遊戲發展**  
 
   
-![](WordPress/1-1024x520.png)  
+![](post_assets/1-1024x520.png)  
 
   
    
@@ -113,7 +113,7 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
    
 
   
-![](WordPress/3.png)  
+![](post_assets/3.png)  
 
   
    
@@ -138,7 +138,7 @@ Last Epoch，D4，火炬等等新聞及更新愈來愈多，
 待還有重大更新再回來，到時候可能真的有好遊戲玩了  
 
   
-![](WordPress/6.png)  
+![](post_assets/6.png)  
 
   
    
@@ -163,7 +163,7 @@ Last Epoch，D4，火炬等等新聞及更新愈來愈多，
    
 
   
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Official-Trailer.mp4_snapshot_01.45.556-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Official-Trailer.mp4_snapshot_01.45.556-1024x576.jpg)  
 
   
 希望可以幫到大家！謝謝你！  

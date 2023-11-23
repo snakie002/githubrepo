@@ -37,7 +37,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【POE】直接做壞！ 3.18 獵首更新前後實機對比畫面 Headhunter Testing  
@@ -90,7 +90,7 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/1-1.png)  
+![](post_assets/1-1.png)  
 
   
   
@@ -103,7 +103,7 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/2-1.png)  
+![](post_assets/2-1.png)  
 
   
   
@@ -124,7 +124,7 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/3-1-1024x510.png)  
+![](post_assets/3-1-1024x510.png)  
 
   
    

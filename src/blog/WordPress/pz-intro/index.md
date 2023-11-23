@@ -20,7 +20,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【小品推薦】屍殺香港 Project Zomboid 遊戲介紹實機解說  
@@ -41,10 +41,10 @@ coverImage: "thumbnail-1.jpg"
 圖片只會在Ｂｌｏｇ上發佈，不便之處，敬請留意！  
 
   
-![](WordPress/1-1024x648.png)  
+![](post_assets/1-1024x648.png)  
 
   
-![](WordPress/2-1024x636.png)  
+![](post_assets/2-1024x636.png)  
 
   
 由於師傅只有遊玩過多人版本，單機的感想就不獻醜了；  
@@ -55,7 +55,7 @@ coverImage: "thumbnail-1.jpg"
 不過當朋友們上線時間沒有劃一感覺就有點那個了；  
 
   
-![](WordPress/2022-03-14-23-11-25.mp4_snapshot_14.10.095-1024x576.jpg)  
+![](post_assets/2022-03-14-23-11-25.mp4_snapshot_14.10.095-1024x576.jpg)  
 
   
 Project Zomboid 的確對新手是非常不友善，  
@@ -72,13 +72,13 @@ Project Zomboid 的確對新手是非常不友善，
 所以投入上這遊戲是非常重要；  
 
   
-\[caption id="attachment\_1124" align="alignnone" width="858"\]![](WordPress/2022-03-16-01-49-47.mp4_snapshot_00.58.06.178-1024x576.jpg) 當你打算轉角的時候...\[/caption\]  
+\[caption id="attachment\_1124" align="alignnone" width="858"\]![](post_assets/2022-03-16-01-49-47.mp4_snapshot_00.58.06.178-1024x576.jpg) 當你打算轉角的時候...\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_1125" align="alignnone" width="858"\]![](WordPress/2022-03-16-01-49-47.mp4_snapshot_00.58.07.103-1024x576.jpg) 就會發現愛都在等你！\[/caption\]  
+\[caption id="attachment\_1125" align="alignnone" width="858"\]![](post_assets/2022-03-16-01-49-47.mp4_snapshot_00.58.07.103-1024x576.jpg) 就會發現愛都在等你！\[/caption\]  
 
   
 遊戲的確比較著重生存部份，其中去大建築的戰役類，  
@@ -88,7 +88,7 @@ Project Zomboid 的確對新手是非常不友善，
 也太接近現實，畢竟沒練過打不中好像也很合邏輯  
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
 幸好遊戲目前還沒有成就系統，不然練技能解成就將會成為一個惡夢  
@@ -102,10 +102,10 @@ Project Zomboid 的確對新手是非常不友善，
 最後也不一定能生存到底！  
 
   
-\[caption id="attachment\_1126" align="alignnone" width="858"\]![](WordPress/2022-03-16-01-49-47.mp4_snapshot_01.23.56.349-1024x576.jpg) 這遊戲的載具部份是經常有BUG 翻車到樹林是為什麼?\[/caption\]  
+\[caption id="attachment\_1126" align="alignnone" width="858"\]![](post_assets/2022-03-16-01-49-47.mp4_snapshot_01.23.56.349-1024x576.jpg) 這遊戲的載具部份是經常有BUG 翻車到樹林是為什麼?\[/caption\]  
 
   
-![](WordPress/2022-03-16-01-49-47.mp4_snapshot_01.24.36.910-1024x576.jpg)  
+![](post_assets/2022-03-16-01-49-47.mp4_snapshot_01.24.36.910-1024x576.jpg)  
 
   
 如果閣下是喜歡寫實生存遊戲，Project Zomboid是一個非常不錯的選擇，  

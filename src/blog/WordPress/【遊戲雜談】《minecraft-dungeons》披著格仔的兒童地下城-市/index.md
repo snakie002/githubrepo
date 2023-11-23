@@ -13,7 +13,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail-10.jpg"
+coverImage: "post_assets/thumbnail-10.jpg"
 ---
 
 ### 【遊戲雜談】《Minecraft Dungeons》披著格仔的兒童地下城 | 市場主導下的惡性循環
@@ -43,7 +43,7 @@ coverImage: "thumbnail-10.jpg"
    
 
   
-\[caption id="attachment\_173" align="alignnone" width="858"\]![](WordPress/P1-4-1024x683.jpg) 《Torchlight》其實都好長歷史同埋係遊戲界都有一定位置，因為當時推出既時侯都有極大既好評，以輕鬆上手既ARPG為賣點。\[/caption\]  
+\[caption id="attachment\_173" align="alignnone" width="858"\]![](post_assets/P1-4-1024x683.jpg) 《Torchlight》其實都好長歷史同埋係遊戲界都有一定位置，因為當時推出既時侯都有極大既好評，以輕鬆上手既ARPG為賣點。\[/caption\]  
 
   
    
@@ -60,7 +60,7 @@ coverImage: "thumbnail-10.jpg"
 簡單既系統對易新手的確係好Additive，今日師傅有POE既成就都係因為《Torchlight 2》既訓練。  
 
   
-\[caption id="attachment\_174" align="alignnone" width="858"\]![](WordPress/P2-6-1024x576.jpg) 《Path of Exile》絕對係近年ARPG既代表作，鍾意ARPG既朋友真係要試下，推薦指數為二十隻手指公。\[/caption\]  
+\[caption id="attachment\_174" align="alignnone" width="858"\]![](post_assets/P2-6-1024x576.jpg) 《Path of Exile》絕對係近年ARPG既代表作，鍾意ARPG既朋友真係要試下，推薦指數為二十隻手指公。\[/caption\]  
 
   
 第二點，為後作／移植鋪路：《Minecraft》雖然出左一段時間，其實二次掘起都係因為手機版既推出，雖然討厭手游哩樣野但佢既影響力真係太恐佈，  
@@ -69,7 +69,7 @@ coverImage: "thumbnail-10.jpg"
 簡單操作，地城打法，仲可以同朋友係街等車都打到，一個圖可能打10到15分鐘，打到出屯門公路都可能刷到三四次，哩個定位真係可以好可怕地無敵。  
 
   
-\[caption id="attachment\_175" align="alignnone" width="1010"\]![](WordPress/P3-8.jpg) 最近新出既《Legends of Runeterra》成功之道都係將手機版同電腦版接近同步推出，策略上係非常成功。\[/caption\]  
+\[caption id="attachment\_175" align="alignnone" width="1010"\]![](post_assets/P3-8.jpg) 最近新出既《Legends of Runeterra》成功之道都係將手機版同電腦版接近同步推出，策略上係非常成功。\[/caption\]  
 
   
 所以如果將所有因素歸納一拼討論的話，難怪《Minecraft Dungeons》最後作品會係以哩個形式推出。  
@@ -82,7 +82,7 @@ coverImage: "thumbnail-10.jpg"
 可惜，市場主導情況下，唯有自己支持返相關誠意遊戲廠商，人地無錢賺，市場只會繼續惡性循環；團結，真係好緊要。  
 
   
-\[caption id="attachment\_176" align="alignnone" width="858"\]![](WordPress/P4-5-1024x578.jpg) 《PUBG Mobile》師傅真係唔明點解咁成功，係一個五寸既Mon上面搵一粒塵出黎，盲架。\[/caption\]  
+\[caption id="attachment\_176" align="alignnone" width="858"\]![](post_assets/P4-5-1024x578.jpg) 《PUBG Mobile》師傅真係唔明點解咁成功，係一個五寸既Mon上面搵一粒塵出黎，盲架。\[/caption\]  
 
   
 如果想繼續看到遊戲攻略評價，各式各樣遊戲影片，請訂閱小弟Snakie何師傅的YouTube頻道！多謝收睇，謝謝你，再見諸位！  

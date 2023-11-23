@@ -30,7 +30,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "1.jpg"
+coverImage: "post_assets/1.jpg"
 ---
 
 ### 【POE】3.11 貴族光環機 Scion Aura Stacking EK All Content | 單嫖獨賭 團隊跑圖 必備良藥  
@@ -49,7 +49,7 @@ coverImage: "1.jpg"
    
 
   
-![](WordPress/1-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
 
   
 文字補完：  
@@ -85,11 +85,11 @@ Ascendant (昇華使徒) 94: [https://pastebin.com/cEwPNgEJ](https://pastebin.co
 所以個人會建議虛空匕首。  
 
   
-![](WordPress/Clarity_skill_icon.png) ![](WordPress/Zealotry_skill_icon.png) ![](WordPress/Wrath_skill_icon.png) ![](WordPress/Vitality_skill_icon.png)  
-![](WordPress/Smite_skill_icon.png) ![](WordPress/Righteous_Fire_skill_icon.png) ![](WordPress/Purity_of_Lightning_skill_icon.png) ![](WordPress/Purity_of_Ice_skill_icon.png)  
-![](WordPress/Purity_of_Fire_skill_icon.png) ![](WordPress/Precision_skill_icon.png) ![](WordPress/Herald_of_Thunder_skill_icon.png) ![](WordPress/Herald_of_Purity_skill_icon.png)  
-![](WordPress/Herald_of_Ice_skill_icon.png) ![](WordPress/Hatred_skill_icon.png) ![](WordPress/Haste_skill_icon.png) ![](WordPress/Grace_skill_icon.png)  
-![](WordPress/Discipline_skill_icon.png)![](WordPress/Aspect_of_the_Spider_skill_icon.png)  
+![](post_assets/Clarity_skill_icon.png) ![](post_assets/Zealotry_skill_icon.png) ![](post_assets/Wrath_skill_icon.png) ![](post_assets/Vitality_skill_icon.png)  
+![](post_assets/Smite_skill_icon.png) ![](post_assets/Righteous_Fire_skill_icon.png) ![](post_assets/Purity_of_Lightning_skill_icon.png) ![](post_assets/Purity_of_Ice_skill_icon.png)  
+![](post_assets/Purity_of_Fire_skill_icon.png) ![](post_assets/Precision_skill_icon.png) ![](post_assets/Herald_of_Thunder_skill_icon.png) ![](post_assets/Herald_of_Purity_skill_icon.png)  
+![](post_assets/Herald_of_Ice_skill_icon.png) ![](post_assets/Hatred_skill_icon.png) ![](post_assets/Haste_skill_icon.png) ![](post_assets/Grace_skill_icon.png)  
+![](post_assets/Discipline_skill_icon.png)![](post_assets/Aspect_of_the_Spider_skill_icon.png)  
 
   
    
@@ -147,7 +147,7 @@ Ascendant (昇華使徒) 94: [https://pastebin.com/cEwPNgEJ](https://pastebin.co
    
 
   
-![](WordPress/Celestial_Righteous_Fire_Effect_inventory_icon.png)  
+![](post_assets/Celestial_Righteous_Fire_Effect_inventory_icon.png)  
 
   
    

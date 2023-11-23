@@ -43,7 +43,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ## 【POE】2000排名守護者佐為大戰十段棋手攻陷祖靈名人 祖靈機制實機攻略 | 棋靈王懶人包 玩家只是輔助 | 附上兵種推薦 下棋策略 報酬一覽 | 流亡黯道 Path of Exile 遊戲攻略
@@ -61,7 +61,7 @@ coverImage: "thumbnail.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/thumbnail-1024x576.jpg)  
+![](post_assets/thumbnail-1024x576.jpg)  
 
   
    
@@ -85,7 +85,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/2023-08-31-03-12-10.mp4_snapshot_00.55.38.050-1024x576.jpg)  
+![](post_assets/2023-08-31-03-12-10.mp4_snapshot_00.55.38.050-1024x576.jpg)  
 
   
    
@@ -101,7 +101,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/2023-08-31-03-12-10.mp4_snapshot_00.36.08.083-1024x576.jpg)  
+![](post_assets/2023-08-31-03-12-10.mp4_snapshot_00.36.08.083-1024x576.jpg)  
 
   
 引導被打斷罰停賽５秒內，  
@@ -118,7 +118,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/1.2.mp4_snapshot_01.53.806-1024x576.jpg)  
+![](post_assets/1.2.mp4_snapshot_01.53.806-1024x576.jpg)  
 
   
    
@@ -165,7 +165,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/1-3-1024x795.png)  
+![](post_assets/1-3-1024x795.png)  
 
   
    
@@ -210,7 +210,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/3-3-1024x418.png)  
+![](post_assets/3-3-1024x418.png)  
 
   
    
@@ -235,7 +235,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/4-4.png)  
+![](post_assets/4-4.png)  
 
   
 亦因為嬴得決賽能加分同時有二選一特別報酬，  
@@ -259,7 +259,7 @@ coverImage: "thumbnail.jpg"
   
 
   
-![](WordPress/2-3-1024x710.png)  
+![](post_assets/2-3-1024x710.png)  
 
   
    
@@ -284,7 +284,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/5-3.png)  
+![](post_assets/5-3.png)  
 
   
 重點是，  

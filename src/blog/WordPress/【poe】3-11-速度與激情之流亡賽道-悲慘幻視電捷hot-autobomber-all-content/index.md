@@ -30,7 +30,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-17.jpg"
+coverImage: "post_assets/thumbnail-17.jpg"
 ---
 
 ### 【POE】3.11 速度與激情之流亡賽道 | 悲慘幻視電捷HoT Autobomber All Content  
@@ -53,7 +53,7 @@ Herald of Thunder Auto Bomber 悲慘幻視配上閃電之捷的跑Online配裝�
    
 
   
-![](WordPress/thumbnail-17-1024x652.jpg)  
+![](post_assets/thumbnail-17-1024x652.jpg)  
 
   
    
@@ -168,7 +168,7 @@ CWDT （１級）+ 霜暴（７級）+ 信念浪湧（７級）
    
 
   
-![](WordPress/2.mp4_snapshot_05.45.473-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_05.45.473-1024x576.jpg)  
 
   
    
@@ -221,7 +221,7 @@ CWDT （１級）+ 霜暴（７級）+ 信念浪湧（７級）
 好人有好報，肯定打到寶！  
 
   
-![](WordPress/2.mp4_snapshot_08.47.005-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_08.47.005-1024x576.jpg)  
 
   
    
@@ -253,7 +253,7 @@ CWDT （１級）+ 霜暴（７級）+ 信念浪湧（７級）
 綜合：2分　（太貴了…）  
 
   
-![](WordPress/Badge_of_the_Brotherhood_inventory_icon.png)  
+![](post_assets/Badge_of_the_Brotherhood_inventory_icon.png)  
 
   
    

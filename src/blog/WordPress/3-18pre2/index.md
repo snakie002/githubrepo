@@ -41,7 +41,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "5-2.jpg"
+coverImage: "post_assets/5-2.jpg"
 ---
 
 ### 【POE】3.18三大重複拓荒推薦 秘術師漩渦 文字補完版本
@@ -92,8 +92,8 @@ coverImage: "5-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-1-1024x562.png)  
-![](WordPress/2-1.png)  
+![](post_assets/1-1-1024x562.png)  
+![](post_assets/2-1.png)  
 
   
    
@@ -142,8 +142,8 @@ coverImage: "5-2.jpg"
 格檔擊回，增傷，烙印等等，到時候可以按自己心水轉換就好  
 
   
-![](WordPress/3-1.png)  
-![](WordPress/4-1.png)  
+![](post_assets/3-1.png)  
+![](post_assets/4-1.png)  
 
   
    

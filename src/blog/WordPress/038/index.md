@@ -24,7 +24,7 @@ tags:
   - "流亡黯道-分析"
   - "流亡黯道-賽季"
   - "流亡黯道-預測"
-coverImage: "thumbnail1-7.jpg"
+coverImage: "post_assets/thumbnail1-7.jpg"
 ---
 
 ### 【POE】 POE 3.15 新賽季更新速報！19招新技能分析預測 POE 3.15 Expedition League  
@@ -46,7 +46,7 @@ POE 3.15更新將會在7月24日港台時間凌晨4點鐘正式上市，
 圖片只在BLOG上提供，有意朋友請到BLOG上瀏覽，謝謝你！  
 
   
-![](WordPress/thumbnail1-7-1024x576.jpg)  
+![](post_assets/thumbnail1-7-1024x576.jpg)  
 
   
    
@@ -129,30 +129,30 @@ BLOG上有提供全部新技能的英文大圖，
    
 
   
-![](WordPress/MANA-267x300.jpg)![](WordPress/FR-267x300.jpg)  
+![](post_assets/MANA-267x300.jpg)![](post_assets/FR-267x300.jpg)  
 
   
-![](WordPress/FBS-267x300.jpg)![](WordPress/EOW-267x300.jpg)  
+![](post_assets/FBS-267x300.jpg)![](post_assets/EOW-267x300.jpg)  
 
   
-![](WordPress/EC-267x300.jpg)![](WordPress/EBS-267x300.jpg)![](WordPress/BT-267x300.jpg)  
+![](post_assets/EC-267x300.jpg)![](post_assets/EBS-267x300.jpg)![](post_assets/BT-267x300.jpg)  
 
   
    
 
   
-![](WordPress/BONE-267x300.jpg) ![](WordPress/BMC-267x300.jpg)  
+![](post_assets/BONE-267x300.jpg) ![](post_assets/BMC-267x300.jpg)  
 
   
-![](WordPress/BH-267x300.jpg)![](WordPress/BANNER-267x300.jpg)  
+![](post_assets/BH-267x300.jpg)![](post_assets/BANNER-267x300.jpg)  
 
   
-![](WordPress/AM-267x300.jpg) ![](WordPress/AB-267x300.jpg)  
-![](WordPress/VB-267x300.jpg) ![](WordPress/ST-267x300.jpg)  
+![](post_assets/AM-267x300.jpg) ![](post_assets/AB-267x300.jpg)  
+![](post_assets/VB-267x300.jpg) ![](post_assets/ST-267x300.jpg)  
 
   
-![](WordPress/SRA-267x300.jpg) ![](WordPress/SR-267x300.jpg)  
-![](WordPress/SC-267x300.jpg) ![](WordPress/RV-267x300.jpg)  
+![](post_assets/SRA-267x300.jpg) ![](post_assets/SR-267x300.jpg)  
+![](post_assets/SC-267x300.jpg) ![](post_assets/RV-267x300.jpg)  
 
   
 **個人感想**  

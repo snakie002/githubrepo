@@ -36,7 +36,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-3.jpg"
+coverImage: "post_assets/title-3.jpg"
 ---
 
 # \[TLI SS2\] 新特性分析: 吉瑪 - 歡愉之焰 | Torchlight: Infinite | 永恆迷城 | 火炬之光:無限
@@ -48,7 +48,7 @@ coverImage: "title-3.jpg"
    
 
   
-![](WordPress/1-1-1024x576.jpg)  
+![](post_assets/1-1-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -60,7 +60,7 @@ coverImage: "title-3.jpg"
 這三樣東西待會兒都會解釋的  
 
   
-![](WordPress/2-5-1024x310.png)  
+![](post_assets/2-5-1024x310.png)  
 
   
 首先在一等級的時候  
@@ -69,7 +69,7 @@ coverImage: "title-3.jpg"
 場上最多可以同時存在兩個煉獄  
 
   
-![](WordPress/3-5.png)  
+![](post_assets/3-5.png)  
 
   
 那到底煉獄是什麼呢  
@@ -83,7 +83,7 @@ coverImage: "title-3.jpg"
 就會把一個敵人烙印  
 
   
-![](WordPress/4-6.png)  
+![](post_assets/4-6.png)  
 
   
 烙印是什麼呢  
@@ -93,7 +93,7 @@ coverImage: "title-3.jpg"
 這個烙印就維持4秒  
 
   
-![](WordPress/5-4-300x169.png)  
+![](post_assets/5-4-300x169.png)  
 
   
 然後到等級13的時候  
@@ -106,7 +106,7 @@ coverImage: "title-3.jpg"
 在煉獄範圍裡面 每一秒都會對被烙印的敵人觸發一次火刑  
 
   
-![](WordPress/6-2.png)  
+![](post_assets/6-2.png)  
 
   
 火刑在一個小範圍裡面 根據觸發火刑的烙印記錄了多少傷害  
@@ -129,7 +129,7 @@ coverImage: "title-3.jpg"
 你也可以把火刑移除生命的事物看成是40%更多傷害  
 
   
-![](WordPress/8-1-1024x576.png)  
+![](post_assets/8-1-1024x576.png)  
 
   
 接著就到32級 分了上下  
@@ -144,7 +144,7 @@ coverImage: "title-3.jpg"
 這個就是不論敵人是什麼稀有度都可以轉移到的  
 
   
-![](WordPress/12-1024x576.png)  
+![](post_assets/12-1024x576.png)  
 
   
 然後是要下邊那一個點 配點了後煉獄的充能點數就加1  
@@ -158,7 +158,7 @@ coverImage: "title-3.jpg"
 除此之外 也加25%烙印記錄的傷害比例  
 
   
-![](WordPress/14.png)  
+![](post_assets/14.png)  
 
   
 什麼叫作烙印記錄的傷害比例呢?  
@@ -173,7 +173,7 @@ coverImage: "title-3.jpg"
 所以這一點也是必須要注意的  
 
   
-![](WordPress/16-1024x576.png)  
+![](post_assets/16-1024x576.png)  
 
   
 然後就去到50等級  
@@ -236,7 +236,7 @@ coverImage: "title-3.jpg"
 說完這些東西之後  
 
   
-![](WordPress/2-5-1024x310.png)  
+![](post_assets/2-5-1024x310.png)  
 
   
 到底-20%火刑移除烙印紀錄的傷害 是什麼意思呢  
@@ -282,7 +282,7 @@ coverImage: "title-3.jpg"
 所以這個純粹是提高了你的傷害  
 
   
-![](WordPress/2-5-1024x310.png)  
+![](post_assets/2-5-1024x310.png)  
 
   
 最後到了80等級  

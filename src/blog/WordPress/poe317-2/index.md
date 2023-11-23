@@ -18,7 +18,7 @@ tags:
   - "何師傅"
   - "流亡黯道"
   - "遊戲介紹"
-coverImage: "FEAT-e1643182609782.png"
+coverImage: "post_assets/FEAT-e1643182609782.png"
 ---
 
 ### **【****POE****】****POE 3.17 Archnemesis** **平衡改動** **|** **牙膏式最新情報** **(2)  
@@ -59,7 +59,7 @@ coverImage: "FEAT-e1643182609782.png"
   
 
   
-![](WordPress/2-24-1024x942.png)  
+![](post_assets/2-24-1024x942.png)  
 
   
    
@@ -84,7 +84,7 @@ coverImage: "FEAT-e1643182609782.png"
 也有相應的改變，但有些是削了，比如說冰霜脈衝沒有免費的高階多重了；  
 
   
-![](WordPress/maxresdefault-2-1024x576.jpg)  
+![](post_assets/maxresdefault-2-1024x576.jpg)  
 
   
 另外也有亮點也是缺點的就是新增擊中印記的技能石，  
@@ -92,13 +92,13 @@ coverImage: "FEAT-e1643182609782.png"
 **意味著狙擊者印記終於可以不綁安賽頭了！**  
 
   
-![](WordPress/1-30.png)  
+![](post_assets/1-30.png)  
 
   
 虛眼箭矢箭袋過強，所以一定會削，實際削到怎樣稍後才知道  
 
   
-![](WordPress/3-20.png)  
+![](post_assets/3-20.png)  
 
   
    
@@ -107,13 +107,13 @@ coverImage: "FEAT-e1643182609782.png"
 還有很多大大小小的新傳奇新貨幣，有想法的也很多，如圖：  
 
   
-\[caption id="attachment\_977" align="alignnone" width="616"\]![](WordPress/Orbs.jpg) 新通貨 = 新賭局 不過還沒有相關資料就是了\[/caption\]  
+\[caption id="attachment\_977" align="alignnone" width="616"\]![](post_assets/Orbs.jpg) 新通貨 = 新賭局 不過還沒有相關資料就是了\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_981" align="alignnone" width="858"\]![](WordPress/AnnihilatingLight-1024x576.jpg) 特別是新的三倍元素傷害杖，如果能夠解決抗性問題， 是非常有搞頭的；\[/caption\]  
+\[caption id="attachment\_981" align="alignnone" width="858"\]![](post_assets/AnnihilatingLight-1024x576.jpg) 特別是新的三倍元素傷害杖，如果能夠解決抗性問題， 是非常有搞頭的；\[/caption\]  
 
   
 差不多這樣了，希望可以幫到大家！如果想繼續看到遊戲攻略評價，各式各樣遊戲影片，  

@@ -31,7 +31,7 @@ tags:
   - "流亡黯道-旋風斬"
   - "流亡黯道-毒雨"
   - "遊戲攻略"
-coverImage: "thumbnail-48.jpg"
+coverImage: "post_assets/thumbnail-48.jpg"
 ---
 
 ### 【POE】三大爆炸拓荒推薦 衛士流血弓 文字補完版本
@@ -66,7 +66,7 @@ coverImage: "thumbnail-48.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/BLEED-1024x772.jpg)  
+![](post_assets/BLEED-1024x772.jpg)  
 
   
 昇華先拿一點流血傷，然後拿挑戰增益，方便跑章節，  
@@ -74,7 +74,7 @@ coverImage: "thumbnail-48.jpg"
 因為怪群不多，爆炸效果不明顯，待進地圖前有爆炸就好  
 
   
-![](WordPress/1-3.png)  
+![](post_assets/1-3.png)  
 
   
    

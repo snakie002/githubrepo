@@ -48,7 +48,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 # 【POE】POE 新手教學 - 永恆珠寶尋找器 手把手教你找到心儀軍團珠寶 Timeless Jewels | 附上連結及其他用法 POB 小技巧 | 流亡黯道 Path of Exile 遊戲攻略
@@ -74,7 +74,7 @@ coverImage: "thumbnail-4.jpg"
 希望可以幫到有需要的朋友們！  
 
   
-![](WordPress/thumbnail-4-1024x576.jpg)  
+![](post_assets/thumbnail-4-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/poe-timelessjewels) (關於影片沒有提供的內容)：  
@@ -94,7 +94,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/1-15-1024x433.png)  
+![](post_assets/1-15-1024x433.png)  
 
   
    
@@ -106,7 +106,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/W3-1024x576.jpg)  
+![](post_assets/W3-1024x576.jpg)  
 
   
    
@@ -122,7 +122,7 @@ coverImage: "thumbnail-4.jpg"
 還有加敏捷及其他作用  
 
   
-![](WordPress/3-13-1024x265.png)  
+![](post_assets/3-13-1024x265.png)  
 
   
 或卡魯有5%造成兩倍傷害 3個以上又=一條武器工藝  
@@ -136,7 +136,7 @@ coverImage: "thumbnail-4.jpg"
 這個思路之下就需要考慮是否放上永恆珠寶還是傳統珠寶  
 
   
-![](WordPress/4-15-1024x734.png)  
+![](post_assets/4-15-1024x734.png)  
 
   
    
@@ -149,7 +149,7 @@ coverImage: "thumbnail-4.jpg"
 現在有紋身可以解決這個問題 (前題是下季還有的話)  
 
   
-![](WordPress/5-9.png)  
+![](post_assets/5-9.png)  
 
   
    
@@ -164,7 +164,7 @@ coverImage: "thumbnail-4.jpg"
 所以是下一個範疇的事情了  
 
   
-![](WordPress/2-15-1024x489.png)  
+![](post_assets/2-15-1024x489.png)  
 差不多這樣了，希望可以幫到各位有興趣的玩家！  
 
   

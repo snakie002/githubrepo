@@ -34,7 +34,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【火炬之光：無限】聖槍閃電射擊拓荒到通關實機示範 Carino Lightning Shot Build  
@@ -80,13 +80,13 @@ Torchlight Infinite火炬之光無限公測開服一星期左右
 以下為附圖方便各位：  
 
   
-![](WordPress/1-3-1024x390.png)  
+![](post_assets/1-3-1024x390.png)  
 
   
-![](WordPress/1-2-1024x314.png)  
+![](post_assets/1-2-1024x314.png)  
 
   
-![](WordPress/1-1-1024x288.png)  
+![](post_assets/1-1-1024x288.png)  
 
   
 如圖所示，紅圈為必點部份，因為先要點到３ ６ ９ 點以上才可以點後面的詞，  
@@ -109,7 +109,7 @@ Torchlight Infinite火炬之光無限公測開服一星期左右
    
 
   
-![](WordPress/4-1-1024x587.png)  
+![](post_assets/4-1-1024x587.png)  
 
   
 關於卡彈問題，要注意下方需要放相關技能才有特殊彈藥，  
@@ -137,31 +137,31 @@ Torchlight Infinite火炬之光無限公測開服一星期左右
 但這會減少閃電射擊的傷害，所以要看情況調配就可以  
 
   
-![](WordPress/3-1-1024x580.png)  
+![](post_assets/3-1-1024x580.png)  
 
   
-\[caption id="attachment\_1492" align="alignnone" width="858"\]![](WordPress/3-2-1024x567.png) 前期刷圖可以把連續攻擊換上散射 / 慢速射擊 會比連續攻擊有效\[/caption\]  
+\[caption id="attachment\_1492" align="alignnone" width="858"\]![](post_assets/3-2-1024x567.png) 前期刷圖可以把連續攻擊換上散射 / 慢速射擊 會比連續攻擊有效\[/caption\]  
 
   
-\[caption id="attachment\_1493" align="alignnone" width="858"\]![](WordPress/3-3-1024x571.png) 這個是需要副手阿米尼烏斯的告解後才有用 不然是不需要這一串 可換上其他 (迷蹤 / 手動嗜血)\[/caption\]  
+\[caption id="attachment\_1493" align="alignnone" width="858"\]![](post_assets/3-3-1024x571.png) 這個是需要副手阿米尼烏斯的告解後才有用 不然是不需要這一串 可換上其他 (迷蹤 / 手動嗜血)\[/caption\]  
 
   
-\[caption id="attachment\_1494" align="alignnone" width="857"\]![](WordPress/3-4-300x170.png) 位移 耗能 + 冷卻最重要\[/caption\]  
+\[caption id="attachment\_1494" align="alignnone" width="857"\]![](post_assets/3-4-300x170.png) 位移 耗能 + 冷卻最重要\[/caption\]  
 
   
-\[caption id="attachment\_1495" align="alignnone" width="858"\]![](WordPress/3-5-1024x570.png) 閃避值來源 需要長註\[/caption\]  
+\[caption id="attachment\_1495" align="alignnone" width="858"\]![](post_assets/3-5-1024x570.png) 閃避值來源 需要長註\[/caption\]  
 
   
-\[caption id="attachment\_1496" align="alignnone" width="858"\]![](WordPress/3-6-1024x578.png) 在有多餘的能量才撐上去 冷卻較重要\[/caption\]  
+\[caption id="attachment\_1496" align="alignnone" width="858"\]![](post_assets/3-6-1024x578.png) 在有多餘的能量才撐上去 冷卻較重要\[/caption\]  
 
   
-\[caption id="attachment\_1497" align="alignnone" width="858"\]![](WordPress/3-7-1024x571.png) 在沒有減消耗戒指前 可以配上加持強化 減少魔力保留部份 增加魔力彈性\[/caption\]  
+\[caption id="attachment\_1497" align="alignnone" width="858"\]![](post_assets/3-7-1024x571.png) 在沒有減消耗戒指前 可以配上加持強化 減少魔力保留部份 增加魔力彈性\[/caption\]  
 
   
-\[caption id="attachment\_1498" align="alignnone" width="858"\]![](WordPress/3-8-1024x572.png) 精密版有機會更多投射物 比沒有的好 不是綁定\[/caption\]  
+\[caption id="attachment\_1498" align="alignnone" width="858"\]![](post_assets/3-8-1024x572.png) 精密版有機會更多投射物 比沒有的好 不是綁定\[/caption\]  
 
   
-\[caption id="attachment\_1490" align="alignnone" width="858"\]![](WordPress/3-9-1024x576.png) 後期打王長註嗜血 要注意血量 前期手動嗜血可以換成擊中詛咒\[/caption\]  
+\[caption id="attachment\_1490" align="alignnone" width="858"\]![](post_assets/3-9-1024x576.png) 後期打王長註嗜血 要注意血量 前期手動嗜血可以換成擊中詛咒\[/caption\]  
 
   
    
@@ -175,11 +175,11 @@ Torchlight Infinite火炬之光無限公測開服一星期左右
 # **裝備選擇**
 
   
-![](WordPress/2-2-1010x1024.png)  
-![](WordPress/2-1-1013x1024.png)  
+![](post_assets/2-2-1010x1024.png)  
+![](post_assets/2-1-1013x1024.png)  
 
   
-![](WordPress/2-3-613x1024.png)  
+![](post_assets/2-3-613x1024.png)  
 
   
    

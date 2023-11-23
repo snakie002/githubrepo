@@ -27,7 +27,7 @@ tags:
   - "法術回音"
   - "遊戲攻略"
   - "靈魂吸取"
-coverImage: "thumbnail-23.jpg"
+coverImage: "post_assets/thumbnail-23.jpg"
 ---
 
 ### 【POE】3.12 法術回音不再？靈吸回音升等可能性研究 | 3.12 流行技能猜想  
@@ -61,13 +61,13 @@ POE PASTEBIN網上版　（方便對照天賦）
 [https://www.pathofexile.com/trade/search/](https://www.pathofexile.com/trade/search/)  
 
   
-![](WordPress/026.-POE-Pre-3.12.mp4_snapshot_07.35.120-1024x576.jpg)  
+![](post_assets/026.-POE-Pre-3.12.mp4_snapshot_07.35.120-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-2-1024x576.jpg)  
+![](post_assets/1-2-1024x576.jpg)  
 
   
 文字補完：  

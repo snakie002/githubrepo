@@ -36,7 +36,7 @@ tags:
   - "流亡黯道-星團"
   - "流亡黯道-護甲"
   - "遊戲攻略"
-coverImage: "thumbnail-28.jpg"
+coverImage: "post_assets/thumbnail-28.jpg"
 ---
 
 ### 【POE】3.12 衛士百萬護甲贗品幻夢飛羽 Gladiator Replica Dreamfeather Armour Build  
@@ -68,7 +68,7 @@ Pastebin: [https://pastebin.com/UDN92DtK](https://pastebin.com/UDN92DtK)
 天賦樹縮圖:  
 
   
-![](WordPress/Capture-1-1024x1002.png)  
+![](post_assets/Capture-1-1024x1002.png)  
 
   
    
@@ -118,7 +118,7 @@ Pastebin: [https://pastebin.com/UDN92DtK](https://pastebin.com/UDN92DtK)
    
 
   
-![](WordPress/1.mp4_snapshot_00.02.055-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_00.02.055-1024x576.jpg)  
 
   
    
@@ -202,7 +202,7 @@ Pastebin: [https://pastebin.com/UDN92DtK](https://pastebin.com/UDN92DtK)
    
 
   
-![](WordPress/ShieldStrIntUnique7unique.png) ![](WordPress/MyriadGrasp.png) ![](WordPress/Dreamfeather.png)  
+![](post_assets/ShieldStrIntUnique7unique.png) ![](post_assets/MyriadGrasp.png) ![](post_assets/Dreamfeather.png)  
 
   
    
@@ -323,7 +323,7 @@ Pastebin: [https://pastebin.com/UDN92DtK](https://pastebin.com/UDN92DtK)
 再是的是有驕傲加傷各樣也是一個方向；  
 
   
-![](WordPress/unnamed.png)  
+![](post_assets/unnamed.png)  
 
   
 個人感想  

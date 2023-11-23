@@ -35,7 +35,7 @@ tags:
   - "流亡黯道-賽季"
   - "流亡黯道-進度"
   - "遊戲攻略"
-coverImage: "WCCFpathofexile2.jpg"
+coverImage: "post_assets/WCCFpathofexile2.jpg"
 ---
 
 ### 【POE】 POE 3.14 賽後吹下水 最後通碟 賽季流程回看 | 遊戲進度帶來收益  
@@ -74,7 +74,7 @@ POE 3.14 開服將近兩個月，遊戲熱度相應減低，
    
 
   
-**![](WordPress/Harbinger.png)**  
+**![](post_assets/Harbinger.png)**  
 
   
 這個是中期開始有一定資源可以作守望石投資的情況下開始決定方向，  
@@ -108,7 +108,7 @@ POE 3.14 開服將近兩個月，遊戲熱度相應減低，
 到時候再一大批出售，就是其中一個不太需要運氣就可以農錢的辦法！  
 
   
-![](WordPress/1-7-1024x217.png)  
+![](post_assets/1-7-1024x217.png)  
 
   
 **賽季後期方向及困難**  
@@ -138,7 +138,7 @@ POE 3.14 開服將近兩個月，遊戲熱度相應減低，
 也是為什麼要練習升等跑章節輿圖解鎖等等的理由！  
 
   
-![](WordPress/1.mp4_snapshot_14.31.783-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_14.31.783-1024x576.jpg)  
 
   
 **個人感想**  

@@ -29,7 +29,7 @@ tags:
   - "澳洲"
   - "遊戲攻略"
   - "香港"
-coverImage: "Thumbnail-3.jpg"
+coverImage: "post_assets/Thumbnail-3.jpg"
 ---
 
 ### 【遊戲評測】《Curse of the Dead Gods》Dark Soul 式 Hardcore Player 向 Rough-lite待更新遊戲
@@ -45,7 +45,7 @@ coverImage: "Thumbnail-3.jpg"
 既然剛剛寫完就有同類型遊戲，仲要99蚊，咁無辦法喇，唯有一鍵付款推動遊戲產業。  
 
   
-\[caption id="attachment\_87" align="alignnone" width="858"\]![](WordPress/P1-1024x908.png) Reddit 除左好多痴線佬之外，其實都有部份Post 係有營養，好推介大家多Ｄ去蒲下。\[/caption\]  
+\[caption id="attachment\_87" align="alignnone" width="858"\]![](post_assets/P1-1024x908.png) Reddit 除左好多痴線佬之外，其實都有部份Post 係有營養，好推介大家多Ｄ去蒲下。\[/caption\]  
 
   
    
@@ -60,7 +60,7 @@ coverImage: "Thumbnail-3.jpg"
    
 
   
-\[caption id="attachment\_88" align="alignnone" width="858"\]![](WordPress/P2-1024x576.jpg) 《CotDG》既Early Access到底成唔成功，未來既更新真係好關鍵。\[/caption\]  
+\[caption id="attachment\_88" align="alignnone" width="858"\]![](post_assets/P2-1024x576.jpg) 《CotDG》既Early Access到底成唔成功，未來既更新真係好關鍵。\[/caption\]  
 
   
 首先故事方面，《CotDG》暫時係無故事可言，係真正既無故事，係０呀。  
@@ -77,7 +77,7 @@ coverImage: "Thumbnail-3.jpg"
    
 
   
-\[caption id="attachment\_89" align="alignnone" width="858"\]![](WordPress/P4-1024x576.jpg) 由回血低攻變左無回血高攻真係魚與熊掌。\[/caption\]  
+\[caption id="attachment\_89" align="alignnone" width="858"\]![](post_assets/P4-1024x576.jpg) 由回血低攻變左無回血高攻真係魚與熊掌。\[/caption\]  
 
   
 除左武器之外，《CotDG》特色之二就係遺跡（Relic，即係技能），《CotDG》既技能係有吸引之處，  
@@ -87,7 +87,7 @@ coverImage: "Thumbnail-3.jpg"
 咁就可以輕鬆爆機；反觀如果你手持五個一拳三蚊，但係頂得三拳，最多都係得十五蚊連個飯盒都買唔到就可以重開。  
 
   
-\[caption id="attachment\_90" align="alignnone" width="858"\]![](WordPress/P5-1-1024x576.jpg) 同武器一樣會出現好多魚與熊掌配雞骨既情況出現，可以諗好耐都未決定到。\[/caption\]  
+\[caption id="attachment\_90" align="alignnone" width="858"\]![](post_assets/P5-1-1024x576.jpg) 同武器一樣會出現好多魚與熊掌配雞骨既情況出現，可以諗好耐都未決定到。\[/caption\]  
 
   
 《CotDG》既Curse即係詛咒。每過一個版圖就會加２０，上限為１００；每當玩家去到武器／技能／配點報酬既時侯，  
@@ -97,13 +97,13 @@ coverImage: "Thumbnail-3.jpg"
 除左武器同技能配搭之外，資源（錢，血及詛咒值）既運用亦都需要考慮清楚。  
 
   
-\[caption id="attachment\_91" align="alignnone" width="1024"\]![](WordPress/P6-1.jpg) 有Ｄ詛咒係有一定好處，同時亦有只有壞處，而最後一個詛咒就同極限打法一樣一下就死。\[/caption\]  
+\[caption id="attachment\_91" align="alignnone" width="1024"\]![](post_assets/P6-1.jpg) 有Ｄ詛咒係有一定好處，同時亦有只有壞處，而最後一個詛咒就同極限打法一樣一下就死。\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_92" align="alignnone" width="858"\]![](WordPress/P7-1-1024x576.jpg) 癲狂視界除左令難度提高之外仲令玩家有極強既挫敗感，嘜都睇唔到真心想扔制。\[/caption\]  
+\[caption id="attachment\_92" align="alignnone" width="858"\]![](post_assets/P7-1-1024x576.jpg) 癲狂視界除左令難度提高之外仲令玩家有極強既挫敗感，嘜都睇唔到真心想扔制。\[/caption\]  
 
   
 當三個特色溝埋一齊之後，最令人又愛又恨既玩法亦係《CotDG》最值得討論既地方。  
@@ -118,7 +118,7 @@ coverImage: "Thumbnail-3.jpg"
 當然啦，魔界村都可以既，所有Action Game原則上都做得既。  
 
   
-\[caption id="attachment\_93" align="alignnone" width="858"\]![](WordPress/P8-1-1024x576.jpg) 普攻打怪係我地硬直人地反擊，無雙打法係會死得好慘。\[/caption\]  
+\[caption id="attachment\_93" align="alignnone" width="858"\]![](post_assets/P8-1-1024x576.jpg) 普攻打怪係我地硬直人地反擊，無雙打法係會死得好慘。\[/caption\]  
 
   
 遊戲過程中會囉到一定數量既骷髏頭骨，可以用黎強化出關前既被動技能及Reroll次數，  
@@ -129,7 +129,7 @@ coverImage: "Thumbnail-3.jpg"
 難度同挑戰性都好相當高，特別係回避同檔格要求的確係Dark Soul程度；而可發展空間都十分大，始終仲係Early Access。  
 
   
-\[caption id="attachment\_94" align="alignnone" width="858"\]![](WordPress/P9-1-1024x576.jpg) 目前黎講《CotDG》入面既被動技其實同無既分別唔算好大，亦無需要刻意去Farm。\[/caption\]  
+\[caption id="attachment\_94" align="alignnone" width="858"\]![](post_assets/P9-1-1024x576.jpg) 目前黎講《CotDG》入面既被動技其實同無既分別唔算好大，亦無需要刻意去Farm。\[/caption\]  
 
   
 黎到個人感想哩部份，我地首先簡單講下有咩小弟認為，《CotDG》既PROs / CONs可以分為：  
@@ -149,7 +149,7 @@ PROs：
 暫時係咁多。  
 
   
-\[caption id="attachment\_95" align="alignnone" width="858"\]![](WordPress/P10-1024x328.png) 哩個港幣＄９９真係要考慮，唔係因為價錢問題，係價值問題。\[/caption\]  
+\[caption id="attachment\_95" align="alignnone" width="858"\]![](post_assets/P10-1024x328.png) 哩個港幣＄９９真係要考慮，唔係因為價錢問題，係價值問題。\[/caption\]  
 
   
 哩個有排講，踐踏的確容易過讚美好多：  
@@ -161,7 +161,7 @@ PROs：
   
 
   
-\[caption id="attachment\_96" align="alignnone" width="858"\]![](WordPress/P11-1024x576.jpg) 0 Dialogue令到就算比人殺死左都無咩感覺，令人難以投入遊戲當中。\[/caption\]  
+\[caption id="attachment\_96" align="alignnone" width="858"\]![](post_assets/P11-1024x576.jpg) 0 Dialogue令到就算比人殺死左都無咩感覺，令人難以投入遊戲當中。\[/caption\]  
 
   
 - **Rogue-Lite****部份**，《CotDG》進入Dungeon之前已經可以Plan好區域路線，  
@@ -172,7 +172,7 @@ PROs：
   
 
   
-\[caption id="attachment\_97" align="alignnone" width="1024"\]![](WordPress/P12.jpg) 二簡一VS Preview路線圖，證明有d野真係唔知好過知。\[/caption\]  
+\[caption id="attachment\_97" align="alignnone" width="1024"\]![](post_assets/P12.jpg) 二簡一VS Preview路線圖，證明有d野真係唔知好過知。\[/caption\]  
 
   
 - **重玩度低作業感過重**：一二三四關既分別只係長度同難度，最後一次打到第四關最後一Part既時侯，  
@@ -210,7 +210,7 @@ PROs：
 所以Steam Review入面9/10係有原因，起碼我玩到頭一兩個鐘既時侯都仲覺得佢值哩個分數。  
 
   
-\[caption id="attachment\_100" align="alignnone" width="858"\]![](WordPress/P15-1024x677.png) Steam Review 9/10 好似好吸引，其實Review既數量才六百零，所以高分唔一定岩客人口味。\[/caption\]  
+\[caption id="attachment\_100" align="alignnone" width="858"\]![](post_assets/P15-1024x677.png) Steam Review 9/10 好似好吸引，其實Review既數量才六百零，所以高分唔一定岩客人口味。\[/caption\]  
 
   
 然而，問題遂一出現，**重玩度低**同**平衡度差**暫時黎講係死症，真係好難吸引**Causal Player**，難搞難搞。  
@@ -222,7 +222,7 @@ PROs：
 而剛剛《Hades》又有一個大型更新，所以更新先係Early Access既重點。  
 
   
-\[caption id="attachment\_101" align="alignnone" width="858"\]![](WordPress/P16-1-1024x574.png) 繼The Long Winter之後又出左The Nighty Night，綜合黎講《Hades》的確抵玩好多。\[/caption\]  
+\[caption id="attachment\_101" align="alignnone" width="858"\]![](post_assets/P16-1-1024x574.png) 繼The Long Winter之後又出左The Nighty Night，綜合黎講《Hades》的確抵玩好多。\[/caption\]  
 
   
 今次就無特別打王Game play附上喇，獻醜不如藏拙呀嘛，師傅自己都覺得羞家。  

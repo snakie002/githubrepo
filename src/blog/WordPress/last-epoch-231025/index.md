@@ -37,13 +37,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-LE-1.jpg"
+coverImage: "post_assets/Title-LE-1.jpg"
 ---
 
 # \[Last Epoch\] 正式推出延期, 通往1.0之路 | 最後紀元 | Runes of Power
 
   
-![](WordPress/Title-LE-1-1024x576.jpg)  
+![](post_assets/Title-LE-1-1024x576.jpg)  
 
   
 雖然我是蠻喜歡最後紀元(如果不是的話不會做情報片..)  
@@ -54,7 +54,7 @@ coverImage: "Title-LE-1.jpg"
 不但開心同時挽回了我對推出1.0版本的信心  
 
   
-![](WordPress/1-1024x576.jpeg)  
+![](post_assets/1-1024x576.jpeg)  
 
   
 這次想說的最主要想說的是以上的這個圖  

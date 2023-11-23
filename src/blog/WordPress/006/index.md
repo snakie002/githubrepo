@@ -29,7 +29,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-26.jpg"
+coverImage: "post_assets/thumbnail-26.jpg"
 ---
 
 ### 【POE】3.12 劫盜契約書 288張實測 | 契約書升等通貨效益測試 | Heist Contract Review  
@@ -91,7 +91,7 @@ NPC 配裝方面，還沒升到等級５的話先裝上經驗值獲得，
 還有的是，先上圖，  
 
   
-![](WordPress/NPC-964x1024.png)  
+![](post_assets/NPC-964x1024.png)  
 
   
    
@@ -139,13 +139,13 @@ NPC 配裝方面，還沒升到等級５的話先裝上經驗值獲得，
    
 
   
-![](WordPress/DE-3-1021x1024.png)  
+![](post_assets/DE-3-1021x1024.png)  
 
   
-![](WordPress/DE-2.png)  
+![](post_assets/DE-2.png)  
 
   
-![](WordPress/DE-1-796x1024.png)  
+![](post_assets/DE-1-796x1024.png)  
 
   
    
@@ -175,10 +175,10 @@ NPC 配裝方面，還沒升到等級５的話先裝上經驗值獲得，
 謝謝你！  
 
   
-![](WordPress/DE-4-865x1024.png)  
+![](post_assets/DE-4-865x1024.png)  
 
   
-![](WordPress/DE-5-795x1024.png)  
+![](post_assets/DE-5-795x1024.png)  
 
   
    

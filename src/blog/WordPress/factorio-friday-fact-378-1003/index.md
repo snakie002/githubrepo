@@ -38,7 +38,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-Factorio.jpg"
+coverImage: "post_assets/Title-Factorio.jpg"
 ---
 
 # \[Factorio\] Factorio Friday Fact #378 - 高架火車路軌 | 異星工廠 | Space Age
@@ -60,7 +60,7 @@ Your browser does not support the video tag.
 還可以在架空路軌下建築工廠  
 
   
-![](WordPress/1-1-1024x351.png)  
+![](post_assets/1-1-1024x351.png)  
 
   
 高架鐵路系統主要可以分為3部份:  
@@ -69,14 +69,14 @@ Your browser does not support the video tag.
 3\. 高架路軌  
 
   
-![](WordPress/2-1-1024x673.png)  
+![](post_assets/2-1-1024x673.png)  
 
   
 1\. 斜坡路軌  
 斜坡路軌是連接地面和高架路軌的重要建築  
 
   
-![](WordPress/2-2-1024x673.png)  
+![](post_assets/2-2-1024x673.png)  
 
   
 佔地極多 (16x4)  
@@ -84,14 +84,14 @@ Your browser does not support the video tag.
 有部份位置可以建築於水面上  
 
   
-![](WordPress/3-1-1024x468.png)  
+![](post_assets/3-1-1024x468.png)  
 
   
 2\. 路軌支柱  
 主要作用連接高架路軌  
 
   
-![](WordPress/3-2-1024x468.png)  
+![](post_assets/3-2-1024x468.png)  
 
   
 4x4面績  
@@ -100,24 +100,24 @@ Your browser does not support the video tag.
 可以建築於水面上  
 
   
-![](WordPress/3-3-833x1024.png)  
+![](post_assets/3-3-833x1024.png)  
 
   
-![](WordPress/4-1024x731.png)  
+![](post_assets/4-1024x731.png)  
 
   
 3\. 高架路軌  
 如一般路軌一樣, 只是在本空中而且  
 
   
-![](WordPress/5-1024x293.png)  
+![](post_assets/5-1024x293.png)  
 
   
 路軌規劃器  
 當你規劃和建築時只要按快捷鍵便可以輕鬆切換路軌高度  
 
   
-![](WordPress/6-1024x644.png)  
+![](post_assets/6-1024x644.png)  
 
   
 官方改善了不小路軌規劃器  

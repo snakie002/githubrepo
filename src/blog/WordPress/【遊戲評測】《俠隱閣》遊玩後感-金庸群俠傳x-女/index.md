@@ -18,7 +18,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail-8.jpg"
+coverImage: "post_assets/thumbnail-8.jpg"
 ---
 
 ### 【遊戲評測】《俠隱閣》遊玩後感 | 金庸群俠傳X 女神異聞錄 | 支持台灣製作公司 | 遊戲界參考抄襲生態
@@ -42,7 +42,7 @@ coverImage: "thumbnail-8.jpg"
 早買唔止慳幾舊，仲可以早一步享受，最緊要支持下台灣製作公司！  
 
   
-\[caption id="attachment\_154" align="alignnone" width="858"\]![](WordPress/P1-3-1024x576.jpg) 《俠隱閣》特別在於主角有轉屬性既天賦，比一個打亂平衡既招數比主角係一個好吸引既玩法。\[/caption\]  
+\[caption id="attachment\_154" align="alignnone" width="858"\]![](post_assets/P1-3-1024x576.jpg) 《俠隱閣》特別在於主角有轉屬性既天賦，比一個打亂平衡既招數比主角係一個好吸引既玩法。\[/caption\]  
 
   
 **影片以外評論** **–** **遊戲界參考抄襲生態**  
@@ -56,7 +56,7 @@ coverImage: "thumbnail-8.jpg"
 只係由戰火變做武林背景，由兵種變為屬性等等，的確係有異曲同工既感覺。  
 
   
-\[caption id="attachment\_155" align="alignnone" width="858"\]![](WordPress/P2-5-1024x512.jpg) 如果講相似度，《俠隱閣》其實仲似《火焰之紋章風花雪月》。\[/caption\]  
+\[caption id="attachment\_155" align="alignnone" width="858"\]![](post_assets/P2-5-1024x512.jpg) 如果講相似度，《俠隱閣》其實仲似《火焰之紋章風花雪月》。\[/caption\]  
 
   
 申延落去可以討論係遊戲界上既參考借鏡同抄襲搬字過紙既分別，先用參考切入，近代比較大既可以講係《PUBG》同《Apex Legend》，  
@@ -67,7 +67,7 @@ coverImage: "thumbnail-8.jpg"
 套用現實世界即係所有賣炸雞既餐廳都係抄肯德基？唔會架嘛。  
 
   
-\[caption id="attachment\_156" align="alignnone" width="858"\]![](WordPress/P3-6-1024x538.jpg) 除左《Apex Legend》仲有《Fortnite》，縱使師傅唔玩FPS 都不得不認同食雞玩法真係好利害‧\[/caption\]  
+\[caption id="attachment\_156" align="alignnone" width="858"\]![](post_assets/P3-6-1024x538.jpg) 除左《Apex Legend》仲有《Fortnite》，縱使師傅唔玩FPS 都不得不認同食雞玩法真係好利害‧\[/caption\]  
 
   
 抄襲方面因為有病毒出產國哩一個強大既例子，實在有如天上既繁星，真係打一日都打唔曬例子。其中一個離譜既例子係《Dead by Daylight》同《第五人格》。  
@@ -75,7 +75,7 @@ coverImage: "thumbnail-8.jpg"
 《Dead by Daylight》其實出左好幾年，係市場上既反應一路都非常良好，師傅都比人掛死左好幾十次，每次比人係後面扑一下，每次都真心尖叫。  
 
   
-\[caption id="attachment\_157" align="alignnone" width="858"\]![](WordPress/P4-3-1024x576.jpg) 被掛起既Survivor 需要由其他Survivor搵機會救落黎，時間內救唔到就會判定死亡，非常刺激。\[/caption\]  
+\[caption id="attachment\_157" align="alignnone" width="858"\]![](post_assets/P4-3-1024x576.jpg) 被掛起既Survivor 需要由其他Survivor搵機會救落黎，時間內救唔到就會判定死亡，非常刺激。\[/caption\]  
 
   
 網易心諗，咁血腥又電鋸，無可能可以係咁純潔既淨土上面推出，虧佢諗得到，由殺人變做埋周咪得囉。  
@@ -88,7 +88,7 @@ coverImage: "thumbnail-8.jpg"
 都係炸雞，個餐牌都一樣，只係阿伯變左後生仔，然後同我講：「唔理係唔係抄啦好食咪得。」我心諗，ＣＬＳ。  
 
   
-\[caption id="attachment\_158" align="alignnone" width="500"\]![](WordPress/P5-6.jpg) 幻覺黎既者，嚇我唔到既，入面個個係葛民輝黎既！\[/caption\]  
+\[caption id="attachment\_158" align="alignnone" width="500"\]![](post_assets/P5-6.jpg) 幻覺黎既者，嚇我唔到既，入面個個係葛民輝黎既！\[/caption\]  
 
   
 近日Ubisoft 又向Apple同Google提告阿里爸爸抄襲Rainbow Six事件，人類總是.Jpg。  
@@ -99,7 +99,7 @@ Anyway，而家世道險惡，係討論係咪抄襲或參考之前，應該先�
 如果你希望遊戲界係以健康方向發展，唔好覺得多你一個唔多，實情就係差你一個。同樣道理，你明既。  
 
   
-\[caption id="attachment\_159" align="alignnone" width="923"\]![](WordPress/P6-1.png) 雖然係阿寶，但師傅都想Ubisoft嬴，唔係因為我支持佢，只係我想對家輸。\[/caption\]  
+\[caption id="attachment\_159" align="alignnone" width="923"\]![](post_assets/P6-1.png) 雖然係阿寶，但師傅都想Ubisoft嬴，唔係因為我支持佢，只係我想對家輸。\[/caption\]  
 
   
 如果想繼續看到遊戲攻略評價，各式各樣遊戲影片，請訂閱小弟Snakie何師傅的YouTube頻道！多謝收睇，謝謝你，再見諸位！  

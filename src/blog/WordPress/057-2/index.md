@@ -36,7 +36,7 @@ tags:
   - "流亡黯道-魔血"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail1-21.jpg"
+coverImage: "post_assets/thumbnail1-21.jpg"
 ---
 
 ### 【POE】懦夫救星 魔血腰帶開箱實測 Mageblood 魔血腰帶 | 魔血腰帶 Ｘ 求知的熱情  
@@ -61,7 +61,7 @@ coverImage: "thumbnail1-21.jpg"
 分別是**流派建構及性價比值：**  
 
   
-![](WordPress/1-24-1024x267.png)  
+![](post_assets/1-24-1024x267.png)  
 
   
 2. **流派建構**   
@@ -82,7 +82,7 @@ coverImage: "thumbnail1-21.jpg"
   
 
   
-![](WordPress/Capture-15.png)  
+![](post_assets/Capture-15.png)  
 
   
 3. **性價比問題**  
@@ -99,7 +99,7 @@ coverImage: "thumbnail1-21.jpg"
     所以有幸拿到玩家趕緊玩一下，  
     不然就變成下一個無限手套了；  
     **  
-    ![](WordPress/3-14.png)  
+    ![](post_assets/3-14.png)  
     **
   
 

@@ -10,7 +10,7 @@ tags:
   - "何師傅"
   - "美麗新世界-1800"
   - "遊戲介紹"
-coverImage: "wp4243070-anno-1800-wallpapers-scaled.jpg"
+coverImage: "post_assets/wp4243070-anno-1800-wallpapers-scaled.jpg"
 ---
 
 ### 【遊戲評測】 模擬城鎮建造遊戲《美麗新世界 1800》值回票價的精神時光屋
@@ -31,7 +31,7 @@ coverImage: "wp4243070-anno-1800-wallpapers-scaled.jpg"
 盡管有些年頭，但小師弟還是決定推薦給大家這款令人沉迷的遊戲！  
 
   
-![](WordPress/photo001.png)  
+![](post_assets/photo001.png)  
 
   
 《美麗新世界 1800》玩家可以有很多種玩法，  
@@ -43,10 +43,10 @@ coverImage: "wp4243070-anno-1800-wallpapers-scaled.jpg"
 甚至於是喜歡建設城市認真經營的悠閒型都有，而小師弟偏向經營城市和貿易的玩法🤣  
 
   
-![](WordPress/photo002-1024x576.png)  
+![](post_assets/photo002-1024x576.png)  
 
   
-![](WordPress/photo003-1024x576.png)  
+![](post_assets/photo003-1024x576.png)  
 
   
 如果沒接觸過ANNO系列的玩家可以先遊玩戰役模式，戰役模式會以任務模式不斷教授遊戲操作給玩家，  
@@ -58,9 +58,9 @@ coverImage: "wp4243070-anno-1800-wallpapers-scaled.jpg"
 這樣再去挑戰劇本或者自訂沙盒模式會更容易！  
 
   
-![](WordPress/photo004-1024x576.png)  
-![](WordPress/photo005-1024x576.png)  
-![](WordPress/photo006-1024x576.png)  
+![](post_assets/photo004-1024x576.png)  
+![](post_assets/photo005-1024x576.png)  
+![](post_assets/photo006-1024x576.png)  
 
   
 遊戲的過程中會發現需要操作的部份非常之多，  
@@ -75,16 +75,16 @@ coverImage: "wp4243070-anno-1800-wallpapers-scaled.jpg"
 與其他陣營外交、擴充自家軍艦以免受到海盜的攻擊！  
 
   
-\[caption id="attachment\_1195" align="alignnone" width="858"\]![](WordPress/photo007-1024x576.png) 玩家的收入來源有很多種，而小師弟覺得前期主要滿足好勞工們需求、提高幸福度就可以較容易確保收支保持正數！\[/caption\]  
+\[caption id="attachment\_1195" align="alignnone" width="858"\]![](post_assets/photo007-1024x576.png) 玩家的收入來源有很多種，而小師弟覺得前期主要滿足好勞工們需求、提高幸福度就可以較容易確保收支保持正數！\[/caption\]  
 
   
-\[caption id="attachment\_1196" align="alignnone" width="858"\]![](WordPress/photo008-1024x576.png) 而出版報紙方面，小師弟亦建議盡管草稿的內容有負面影響，也不要修改任何內容原汁出版會較好，這樣才不會降其他陣營對玩家的聲譽\[/caption\]  
+\[caption id="attachment\_1196" align="alignnone" width="858"\]![](post_assets/photo008-1024x576.png) 而出版報紙方面，小師弟亦建議盡管草稿的內容有負面影響，也不要修改任何內容原汁出版會較好，這樣才不會降其他陣營對玩家的聲譽\[/caption\]  
 
   
-![](WordPress/photo009-1024x576.png)  
-![](WordPress/photo010-1024x576.png)  
-![](WordPress/photo011-1024x576.png)  
-![](WordPress/photo012-1024x576.png)  
+![](post_assets/photo009-1024x576.png)  
+![](post_assets/photo010-1024x576.png)  
+![](post_assets/photo011-1024x576.png)  
+![](post_assets/photo012-1024x576.png)  
 
   
 小師弟遊後感想💭  

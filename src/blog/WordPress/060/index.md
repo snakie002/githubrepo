@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-閃現打擊"
   - "流亡黯道-限定"
   - "遊戲攻略"
-coverImage: "thumbnail1-23.jpg"
+coverImage: "post_assets/thumbnail1-23.jpg"
 ---
 
 ### 【POE】聯盟限定 掛機閃打 千智負電閃現打擊 Raider Int Stack Flicker  
@@ -73,10 +73,10 @@ coverImage: "thumbnail1-23.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-27-1024x985.png)  
+![](post_assets/1-27-1024x985.png)  
 
   
-![](WordPress/2-21-300x262.png)  
+![](post_assets/2-21-300x262.png)  
 
   
 基本上可調配部份為星團的控制，其他走向都比較綁定  
@@ -115,7 +115,7 @@ coverImage: "thumbnail1-23.jpg"
 <table width="517"><tbody><tr><td colspan="2" width="517"><strong>專精部份</strong></td></tr><tr><td width="97">能力值</td><td width="420">５％增加全能力</td></tr><tr><td width="97">閃電</td><td width="420">不暴擊的閃電傷害很幸運 （非常明顯）</td></tr><tr><td width="97">魔力保留效能</td><td width="420">１５％增加魔力保留效能</td></tr><tr><td width="97">閃避及護盾</td><td width="420">鞋上每８點閃避 ＝ １點能量護盾</td></tr><tr><td width="97">格檔</td><td width="420">盾牌每５點格檔機率增加１％攻擊格檔</td></tr></tbody></table>
 
   
-![](WordPress/3-17-300x223.png)  
+![](post_assets/3-17-300x223.png)  
 
   
 **技能連結**  
@@ -186,7 +186,7 @@ coverImage: "thumbnail1-23.jpg"
    
 
   
-![](WordPress/3-17-1024x760.png)  
+![](post_assets/3-17-1024x760.png)  
 
   
 **裝備選擇**  
@@ -355,7 +355,7 @@ coverImage: "thumbnail1-23.jpg"
 <table style="height: 2323px;" width="833"><tbody><tr><td colspan="4" width="652"><strong>裝備選擇</strong></td></tr><tr><td width="53">胸甲</td><td width="72">多里亞尼之型</td><td width="343"><a href="https://poedb.tw/tw/Doryanis_Prototype">https://poedb.tw/tw/Doryanis_Prototype</a></td><td width="184">聖戰基底</td></tr><tr><td colspan="4" width="652">綁定，—２Ｘ電抗為佳，增益方面不太影響就好</td></tr><tr><td width="53">頭部</td><td width="72">黃裝</td><td width="343">狩獵底</td><td width="184">附魔每顆綠球９％閃現打擊傷害</td></tr><tr><td colspan="4" width="652">後綴智力＋智力％＋冰／火任一抗，前綴都是能量護盾</td></tr><tr><td width="53">手套</td><td width="72">塑者之觸</td><td width="343"><a href="https://poedb.tw/tw/Shapers_Touch">https://poedb.tw/tw/Shapers_Touch</a></td><td width="184">＋１綠球／＋１插糟</td></tr><tr><td colspan="4" width="652">綁定，—２Ｘ電抗為佳</td></tr><tr><td width="53">鞋</td><td width="72">黃裝</td><td width="343">風暴者短靴</td><td width="184">／</td></tr><tr><td colspan="4" width="652">智力—雙抗或打上蜘蛛，前綴盡量高閃避值，移速其實還好，因為閃打都飛來飛去，沒有也ＯＫ，但個人還是覺得有比沒有得好</td></tr><tr><td width="53">武器</td><td width="72">智行之手</td><td width="343"><a href="https://poedb.tw/tw/Hand_of_Wisdom_and_Action">https://poedb.tw/tw/Hand_of_Wisdom_and_Action</a></td><td width="184">附魔品質＋命中</td></tr><tr><td colspan="4" width="652">—２Ｘ電抗為佳，需要留意增加的％智慧，當然還是—電抗優先</td></tr><tr><td width="53">副手</td><td width="72">阿茲里的映照</td><td width="343"><a href="https://poedb.tw/tw/Aegis_Aurora">https://poedb.tw/tw/Aegis_Aurora</a></td><td width="184">&nbsp;</td></tr><tr><td colspan="4" width="652">綁定，—２Ｘ電抗為佳，需要留意增加護甲及能盾％，３００跟４００會有明顯差距</td></tr><tr><td width="53">項鍊</td><td width="72">黃裝</td><td width="343">瑪瑙護身符</td><td width="184">油上部落之怒<br>星空 ＋ 聖戰基底</td></tr><tr><td colspan="4" width="652">％智力＋％全能力，合起來後拼後綴有＋力／全能力 （超缺力量）<br>如果後綴空一個，可以鎖後隱匿混沌拼＋力＋智，<br>然後就開始地獄模式。。。鎖後，崇高／花園勢力混沌拼１５智力傷害詞。。。<br>區別超大。。。師傅的做了約１５０ＥＸ才出一次，<br>完美詞綴是１５智力１％傷 ＋ Ｔ１最大能盾 ＋工藝偷取增傷</td></tr><tr><td width="53">戒指１</td><td width="72">黃裝</td><td width="343">冰火抗基底</td><td width="184">／</td></tr><tr><td colspan="4" width="652">智慧精髓出兩抗性<br>前綴有元素攻擊傷及護盾更好</td></tr><tr><td width="53">戒指２</td><td width="72">黃裝</td><td width="343">追憶出％智力</td><td width="184">／</td></tr><tr><td colspan="4" width="652">智慧精髓出兩抗性<br>前綴有元素攻擊傷及護盾更好</td></tr><tr><td width="53">皮帶</td><td width="72">黃裝</td><td width="343">追憶出％智力</td><td width="184">／</td></tr><tr><td colspan="4" width="652">智慧精髓出兩抗性<br>前綴有元素攻擊傷及護盾更好　有護盾就更好</td></tr><tr><td width="53">珠寶</td><td width="72">看守之眼</td><td width="343"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="184">／</td></tr><tr><td colspan="4" width="652">清晰增加％魔力到能盾（首先）精準增加攻擊傷害（次要）</td></tr><tr><td width="53">珠寶</td><td width="72">巨型星團</td><td width="343">１２％持盾傷害</td><td width="184">兩顆</td></tr><tr><td colspan="4" width="652">一顆３５％ 護盾 智力 全力能<br>一顆豢養狂怒 ＋刺激戰鬥 ＋武術英勇<br>這樣才會有足夠全能力，不然有機會出現力敏不足的問題。。。</td></tr><tr><td width="53">珠寶</td><td width="72">小型星團</td><td width="343">６％增加魔力保留效能</td><td width="184">兩顆</td></tr><tr><td colspan="4" width="652">一顆３５％ 全能力 智慧 護盾<br>一顆智慧 全能力 護盾 ＋自制力<br>這樣就能把所有光環開起來然後還有１００多魔剩下，不太會卡魔</td></tr><tr><td width="53">珠寶</td><td width="72">希望之絃</td><td width="343"><a href="https://poedb.tw/tw/Thread_of_Hope">https://poedb.tw/tw/Thread_of_Hope</a></td><td width="184">三顆</td></tr><tr><td colspan="4" width="652">兩顆大型一顆中型 請根據上面天賦圖放置，<br>可以根據需求買減抗的數字，因為這部份可動，都會影響減電抗及冰火抗<br>所以不一定要全減２０，目的是減２００抗 可以在其他地方湊合</td></tr><tr><td width="53">珠寶</td><td width="72">豐富心靈</td><td width="343"><a href="https://poedb.tw/tw/Fertile_Mind">https://poedb.tw/tw/Fertile_Mind</a></td><td width="184">一顆</td></tr><tr><td colspan="4" width="652">免疫腐化之血</td></tr><tr><td width="53">珠寶</td><td width="72">帝王的智慧</td><td width="343"><a href="https://poedb.tw/tw/Split_Personality">https://poedb.tw/tw/Split_Personality</a></td><td width="184">／</td></tr><tr><td colspan="4" width="652">＋智＋護盾綁定，放在上面的大型星團，拿到最佳效果</td></tr></tbody></table>
 
   
-![](WordPress/2021-12-02-20-21-04.mp4_snapshot_01.18.949-1024x576.jpg)  
+![](post_assets/2021-12-02-20-21-04.mp4_snapshot_01.18.949-1024x576.jpg)  
 
   
 **感想心得****輸出：７／１０**  

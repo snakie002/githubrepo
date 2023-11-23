@@ -37,13 +37,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-4.jpg"
+coverImage: "post_assets/title-4.jpg"
 ---
 
 # \[TLI SS2\] 新英雄分析: 伊瑞斯 - 生長的微風 | Torchlight: Infinite | 永恆迷城 | 火炬之光:無限
 
   
-![](WordPress/title-4-1024x576.jpg)  
+![](post_assets/title-4-1024x576.jpg)  
 
   
 伊瑞斯是《火炬無限SS2 永恆迷城》中的新英雄，  
@@ -51,7 +51,7 @@ coverImage: "title-4.jpg"
 以下是關於伊瑞斯的主要特性和玩法：  
 
   
-![](WordPress/1-6-1024x576.png)  
+![](post_assets/1-6-1024x576.png)  
 
   
 潤物機制：  
@@ -62,7 +62,7 @@ coverImage: "title-4.jpg"
 包括增加成長值和減少受到的傷害。  
 
   
-![](WordPress/2-6-1024x576.png)  
+![](post_assets/2-6-1024x576.png)  
 
   
 潤物保持：  
@@ -70,7 +70,7 @@ coverImage: "title-4.jpg"
 你可以通過技能等級和特性來減少潤物的失去率，以確保魔靈始終保持在高層次的潤物狀態。  
 
   
-![](WordPress/3-6-1024x575.png)  
+![](post_assets/3-6-1024x575.png)  
 
   
 主動魔靈技能：  
@@ -79,7 +79,7 @@ coverImage: "title-4.jpg"
 但要注意，你還是需要封印任何魔力來使用這些技能。  
 
   
-![](WordPress/4-7-1024x575.png)  
+![](post_assets/4-7-1024x575.png)  
 
   
 怒放：  

@@ -37,7 +37,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【POE】流言終結！40場 Shaper Elder 碎片收益測試 Fragment Set Testing  
@@ -63,7 +63,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/1-1024x510.png)  
+![](post_assets/1-1024x510.png)  
 
   
    
@@ -104,7 +104,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/4.png)  
+![](post_assets/4.png)  
 
   
    
@@ -142,7 +142,7 @@ Shaper是體力活，打的人較少，碎片價值也更高，
    
 
   
-![](WordPress/2.png)  
+![](post_assets/2.png)  
 
   
    

@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-14.jpg"
+coverImage: "post_assets/Title-14.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.0b hotfix & POB 更新  
@@ -49,8 +49,8 @@ coverImage: "Title-14.jpg"
    
 
   
-![](WordPress/Title-14-1024x576.jpg)  
-![](WordPress/0-1-Patch-Note-1-1024x576.png)  
+![](post_assets/Title-14-1024x576.jpg)  
+![](post_assets/0-1-Patch-Note-1-1024x576.png)  
 
   
    
@@ -67,7 +67,7 @@ coverImage: "Title-14.jpg"
 那回正題了 今天就有幾個消息  
 
   
-![](WordPress/1-1-cascade.png)  
+![](post_assets/1-1-cascade.png)  
 
   
 第一個消息是昨天的改動追加資訊  
@@ -89,7 +89,7 @@ Mark 在這個貼文上說
 這些技能 你依然可以放心 下一季依然可以玩得到  
 
   
-![](WordPress/2-3.22.0b-hotfix-1024x576.png)  
+![](post_assets/2-3.22.0b-hotfix-1024x576.png)  
 
   
 而第二個消德就是 3.22.0b hotfix  
@@ -134,7 +134,7 @@ Mark 在這個貼文上說
 你可能需要離開這個地區然後重新進去才可以令到這些更新生效  
 
   
-![](WordPress/3-1-POB-1024x576.png)  
+![](post_assets/3-1-POB-1024x576.png)  
 
   
 而去到最後的消息就是今天PoB更新了  

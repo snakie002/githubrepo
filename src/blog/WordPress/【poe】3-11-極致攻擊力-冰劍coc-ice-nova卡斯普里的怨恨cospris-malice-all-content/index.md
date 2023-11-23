@@ -27,7 +27,7 @@ tags:
   - "何師傅"
   - "冰霜新星"
   - "遊戲攻略"
-coverImage: "thumbnail-15.jpg"
+coverImage: "post_assets/thumbnail-15.jpg"
 ---
 
 ### 【POE】3.11 極致攻擊力 冰劍COC Ice Nova卡斯普里的怨恨Cospri’s Malice All Content  
@@ -59,7 +59,7 @@ Assassin (刺客) 94: [https://pastebin.com/iate3ydy](https://pastebin.com/iate3
 全殺  
 
   
-![](WordPress/TRADE-1-1024x383.png)  
+![](post_assets/TRADE-1-1024x383.png)  
 
   
 升等過程：  
@@ -118,13 +118,13 @@ Assassin (刺客) 94: [https://pastebin.com/iate3ydy](https://pastebin.com/iate3
 打圖配獵首就好  
 
   
-![](WordPress/JEWEL-3-288x300.png)  
+![](post_assets/JEWEL-3-288x300.png)  
 
   
-![](WordPress/JEWEL-2-300x295.png)  
+![](post_assets/JEWEL-2-300x295.png)  
 
   
-![](WordPress/JEWEL-1-252x300.png)  
+![](post_assets/JEWEL-1-252x300.png)  
 
   
 胸甲：（聖戰士＋狩獵者）  
@@ -146,7 +146,7 @@ Assassin (刺客) 94: [https://pastebin.com/iate3ydy](https://pastebin.com/iate3
 當然還有看守之眼等等  
 
   
-![](WordPress/COC-STAT-334x1024.png)  
+![](post_assets/COC-STAT-334x1024.png)  
 
   
 文字心得：  
@@ -188,7 +188,7 @@ C 為混沌石 EX為崇高石 國際服兌換率為150C = 1EX
 不一定是最完美的，只是我是這樣做出來而已  
 
   
-![](WordPress/PRICE.png)  
+![](post_assets/PRICE.png)  
 
   
    
@@ -203,7 +203,7 @@ C 為混沌石 EX為崇高石 國際服兌換率為150C = 1EX
 我們打到看守者眼都是直接不開賣掉UNID 的（賭錢是給有錢人的玩意）  
 因為我們要資金才可以弄到更好的裝備，才可以打更快農更多出來，  
 希望可以幫到大家吧！  
-![](WordPress/2.mp4_snapshot_04.04.530-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_04.04.530-1024x576.jpg)  
 
   
 個人心得的話，  

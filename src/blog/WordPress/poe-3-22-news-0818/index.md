@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title3.jpg"
+coverImage: "post_assets/Title3.jpg"
 ---
 
 # \[POE 3.22 消息\] 傳奇戒指, 預載下載 & 7門價目表  
@@ -49,7 +49,7 @@ coverImage: "Title3.jpg"
    
 
   
-![](WordPress/Title3-1024x576.jpg)  
+![](post_assets/Title3-1024x576.jpg)  
 
   
    
@@ -58,7 +58,7 @@ coverImage: "Title3.jpg"
    
 
   
-![](WordPress/1-7th-Gate-1024x576.png)  
+![](post_assets/1-7th-Gate-1024x576.png)  
 
   
    
@@ -71,7 +71,7 @@ Q: 配點了7門關健天賦後後會有什麼地圖移工藝呢
 A: 可以的 然後附上了眼前的圖給大家  
 
   
-![](WordPress/2-Sanctum-RGB-1024x576.png)  
+![](post_assets/2-Sanctum-RGB-1024x576.png)  
 
   
 然後還有一些問題GGG回答了 但是沒有放進RAQ裡面  
@@ -85,14 +85,14 @@ A: 將來可能會有其他傳奇可以讓你們加入這個RGB傳奇裡面的
    
 
   
-![](WordPress/3-Reward-When-1024x576.png)  
+![](post_assets/3-Reward-When-1024x576.png)  
 
   
 Q: 到底我們什麼時候才知道今季挑戰有什麼獎勵呢?  
 A: 在這個禮拜稍後的時間將會公佈的了  
 
   
-![](WordPress/4-RING-1024x576.jpeg)  
+![](post_assets/4-RING-1024x576.jpeg)  
 
   
   
@@ -118,7 +118,7 @@ A: 在這個禮拜稍後的時間將會公佈的了
 
   
   
-![](WordPress/5-GGPK-1024x576.png)  
+![](post_assets/5-GGPK-1024x576.png)  
 
   
   

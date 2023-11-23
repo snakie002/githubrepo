@@ -37,7 +37,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-Factorio-1.jpg"
+coverImage: "post_assets/Title-Factorio-1.jpg"
 ---
 
 # \[Factorio\] Factorio Friday Facts #379 - 重製電纜/訊號線連接系統 & 畫質改善 | 異星工廠 | Space Age
@@ -50,7 +50,7 @@ coverImage: "Title-Factorio-1.jpg"
 這次主要說他們在背後要改多少東西才能達成他們想做的目的。  
 
   
-![](WordPress/1-3.png)  
+![](post_assets/1-3.png)  
 
   
 而這次主要是圍繞著電線桿和電纜，  
@@ -58,7 +58,7 @@ coverImage: "Title-Factorio-1.jpg"
 話說他們想做的就是可以讓玩家在規劃器手動添加電纜和訊號線  
 
   
-![](WordPress/2-4-300x280.png)  
+![](post_assets/2-4-300x280.png)  
 
   
 以往的做法有很多限制,  
@@ -95,13 +95,13 @@ Your browser does not support the video tag.
 而且還可以遠端接駁電纜和訊號線  
 
   
-![](WordPress/4-1-1.png)  
+![](post_assets/4-1-1.png)  
 
   
 他們也把一些跟訊號線和電纜的圖像問題  
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
   
 例如它們的影子和拋物線型狀都修正了  
@@ -113,7 +113,7 @@ Your browser does not support the video tag.
 既不用製作 也不會佔物品欄 (例:藍圖冊)  
 
   
-![](WordPress/5-2-300x94.png)  
+![](post_assets/5-2-300x94.png)  
 
   
 這些物品包括:  

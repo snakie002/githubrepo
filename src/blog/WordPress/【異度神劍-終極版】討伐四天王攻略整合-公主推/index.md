@@ -15,7 +15,7 @@ tags:
   - "異度神劍-終極版"
   - "討伐四天王攻略整合"
   - "遊戲攻略"
-coverImage: "thumbnail-13.jpg"
+coverImage: "post_assets/thumbnail-13.jpg"
 ---
 
 ### 【異度神劍 終極版】討伐四天王攻略整合 | 公主推倒流及純物攻組合  
@@ -33,7 +33,7 @@ coverImage: "thumbnail-13.jpg"
 以下影片內容含有嚴重劇透及爆機後內容，請自行斟酌服用！  
 
   
-![](WordPress/2.mp4_snapshot_02.26.374-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_02.26.374-1024x576.jpg)  
 
   
 ＊＊再一次強調，公主必須連上力奇線的背面攻擊命中上升！  
@@ -94,7 +94,7 @@ coverImage: "thumbnail-13.jpg"
 對戰１０５及１１４時必須確保有連上寶珠有１００％反噬防禦  
 
   
-![](WordPress/2.mp4_snapshot_10.03.821-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_10.03.821-1024x576.jpg)  
 
   
    

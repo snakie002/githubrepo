@@ -61,7 +61,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-7.jpg"
+coverImage: "post_assets/thumbnail-7.jpg"
 ---
 
 ## 【POE】 3.22 祖靈聯盟 三大推薦拓荒流派 勇士碎骨 元素使冰冷持續 銳眼魔改閃電箭  
@@ -89,7 +89,7 @@ coverImage: "thumbnail-7.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/thumbnail-7-1024x576.jpg)  
+![](post_assets/thumbnail-7-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-22-leaguestart) (關於影片沒有提供的內容)：  
@@ -120,7 +120,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/先祖的試煉-規則3-1024x576.jpg)  
+![](post_assets/先祖的試煉-規則3-1024x576.jpg)  
 
   
 **機制期望**  
@@ -165,7 +165,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/0039-新命運卡.png)  
+![](post_assets/0039-新命運卡.png)  
 
   
    
@@ -177,7 +177,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/先祖的試煉-玩法-1024x576.jpg)  
+![](post_assets/先祖的試煉-玩法-1024x576.jpg)  
 
   
 **輿圖天賦**  
@@ -202,7 +202,7 @@ coverImage: "thumbnail-7.jpg"
 每次都跟主流很累。。。  
 
   
-![](WordPress/核心禁忌聖域-玩法改變3-1024x576.jpg)  
+![](post_assets/核心禁忌聖域-玩法改變3-1024x576.jpg)  
 
   
 **個人感想**  

@@ -38,7 +38,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "LE.jpg"
+coverImage: "post_assets/LE.jpg"
 ---
 
 # \[Last Epoch\] 官方漢化 & Runemaster 簡介 | 中文語言包  
@@ -48,8 +48,8 @@ coverImage: "LE.jpg"
    
 
   
-![](WordPress/LE-1024x576.jpg)  
-![](WordPress/1-2-0.9.2-1024x576.jpg)  
+![](post_assets/LE-1024x576.jpg)  
+![](post_assets/1-2-0.9.2-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -63,7 +63,7 @@ coverImage: "LE.jpg"
 當中的交流也會令到遊戲和他們的團隊有非常正面的影響  
 
   
-![](WordPress/2.jpeg)  
+![](post_assets/2.jpeg)  
 
   
 下一部分他們說關於這個不同的語言包  
@@ -79,7 +79,7 @@ coverImage: "LE.jpg"
 回報翻譯得不好的地方 令到他們可以糾正這類型的錯誤  
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
 然後就到了主菜了  
@@ -125,8 +125,8 @@ coverImage: "LE.jpg"
 接著就到了他們解釋Runemaster不同技能的部分  
 
   
-![](WordPress/4-1-1024x576.jpg)  
-![](WordPress/4-2-1024x576.jpg)  
+![](post_assets/4-1-1024x576.jpg)  
+![](post_assets/4-2-1024x576.jpg)  
 
   
   
@@ -157,7 +157,7 @@ Runic Invocation不單止可以進攻使用
 同時也會爆炸造成傷害的盾  
 
   
-![](WordPress/5-1.png)  
+![](post_assets/5-1.png)  
 
   
 然後下一招技能就是Flame Rush  
@@ -180,7 +180,7 @@ Runic Invocation不單止可以進攻使用
 這樣就可以改變他所生產的符文  
 
   
-![](WordPress/6-1.png)  
+![](post_assets/6-1.png)  
 
   
 然後下一招就是冰牆  
@@ -196,7 +196,7 @@ Runic Invocation不單止可以進攻使用
 經過冰牆之後會有額外的效果  
 
   
-![](WordPress/7.png)  
+![](post_assets/7.png)  
 
   
 然後下一招就是Rune Bolt  
@@ -212,7 +212,7 @@ Runic Invocation不單止可以進攻使用
 甚至乎是碰到敵人之後就會爆炸造成範圍的傷害都可以的  
 
   
-![](WordPress/8.png)  
+![](post_assets/8.png)  
 
   
 最後他們展示的一招技能就是Glyph of Dominion  
@@ -235,7 +235,7 @@ Runic Invocation不單止可以進攻使用
 以上就是今天最後紀元的消息  
 
   
-![](WordPress/9-1024x576.jpg)  
+![](post_assets/9-1024x576.jpg)  
 
   
 今天這個Blog 有兩個非常重要的消息  

@@ -31,7 +31,7 @@ tags:
   - "流亡黯道-格檔"
   - "流亡黯道-閃現打擊"
   - "遊戲攻略"
-coverImage: "thumbnail-30.jpg"
+coverImage: "post_assets/thumbnail-30.jpg"
 ---
 
 ### 【POE】3.12 衛士閃現打擊Gladiator Flicker Strike Build | 大力滿檔 簡單直接  
@@ -69,7 +69,7 @@ Pastebin: https://pastebin.com/hp3wrbnb
    
 
   
-![](WordPress/Capture-3-1024x568.png)  
+![](post_assets/Capture-3-1024x568.png)  
 
   
    
@@ -97,7 +97,7 @@ Pastebin: https://pastebin.com/hp3wrbnb
 看個人喜歡吧～～  
 
   
-![](WordPress/Flicker_Strike_skill_icon.png) ![](WordPress/Frenzy_Charge_status_icon.png)  
+![](post_assets/Flicker_Strike_skill_icon.png) ![](post_assets/Frenzy_Charge_status_icon.png)  
 
   
    
@@ -176,10 +176,10 @@ Pastebin: https://pastebin.com/hp3wrbnb
 但，還是那一句，是個人選擇，可按自己打法調配  
 
   
-![](WordPress/body.png)  
+![](post_assets/body.png)  
 
   
-![](WordPress/SHIELD.png)  
+![](post_assets/SHIELD.png)  
 
   
    

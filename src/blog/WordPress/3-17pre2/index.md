@@ -24,7 +24,7 @@ tags:
   - "流亡黯道-拓荒"
   - "流亡黯道-赦免"
   - "遊戲攻略"
-coverImage: "thumbnailNEC.png"
+coverImage: "post_assets/thumbnailNEC.png"
 ---
 
 ### 【POE】3.17三大輕鬆紅圖拓荒推薦 死靈師赦免 文字補完版本
@@ -70,10 +70,10 @@ coverImage: "thumbnailNEC.png"
 以下為附圖方便各位：  
 
   
-![](WordPress/3-1.png)  
+![](post_assets/3-1.png)  
 
   
-![](WordPress/2-1-1024x573.png)  
+![](post_assets/2-1-1024x573.png)  
   
   
   
@@ -110,7 +110,7 @@ coverImage: "thumbnailNEC.png"
 **裝備選擇**  
 
   
-![](WordPress/1-1.png)  
+![](post_assets/1-1.png)  
 
   
 完全隨意調動的裝備，裝備上只需要 ＋１物／＋１閃電技能就好，  

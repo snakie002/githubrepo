@@ -21,7 +21,7 @@ tags:
   - "遊戲感想"
   - "遊戲評價"
   - "頻道"
-coverImage: "thumbnail-6.jpg"
+coverImage: "post_assets/thumbnail-6.jpg"
 ---
 
 ### 【遊戲評測】《Gears Tactics》遊戲感想評價 | 戰棋 / 戰略遊戲沒落？
@@ -39,10 +39,10 @@ coverImage: "thumbnail-6.jpg"
 係比想像中係極流暢爽快好多既Gameplay，當然一日未出就不能妄下判斷，始終Demo如封殺，都係有d保留好d既。  
 
   
-\[caption id="attachment\_137" align="alignnone" width="858"\]![](WordPress/P1-2-1024x683.jpg) 上年PAX MELBOUNRE係小弟咁大個仔第一次親身去GAME SHOW, 澳洲D GAME SHOW真係流流地。\[/caption\]  
+\[caption id="attachment\_137" align="alignnone" width="858"\]![](post_assets/P1-2-1024x683.jpg) 上年PAX MELBOUNRE係小弟咁大個仔第一次親身去GAME SHOW, 澳洲D GAME SHOW真係流流地。\[/caption\]  
 
   
-\[caption id="attachment\_138" align="alignnone" width="858"\]![](WordPress/P2-4-1024x683.jpg) 鬼佬係貼心同嚴謹既，除左提埋你要等兩個鐘，我影哩張佢都以為我偷影GAME PLAY即刻有個SECURITY要我剷左張相佢。\[/caption\]  
+\[caption id="attachment\_138" align="alignnone" width="858"\]![](post_assets/P2-4-1024x683.jpg) 鬼佬係貼心同嚴謹既，除左提埋你要等兩個鐘，我影哩張佢都以為我偷影GAME PLAY即刻有個SECURITY要我剷左張相佢。\[/caption\]  
 
   
 係哩隻Game未出之前師傅就提早入左Xbox Game Pass (PC) 睇下有咩玩，因為《Minecraft Dungeon》都會係Xbox Game Pass上面發售，  
@@ -65,7 +65,7 @@ coverImage: "thumbnail-6.jpg"
 RTS既代表《Warcraft 3》,《AOC》，不但前無古人，點估到真係後無來者咁唔開心。  
 
   
-\[caption id="attachment\_139" align="alignnone" width="858"\]![](WordPress/P3-1024x549.png) 曹操傳絕對係其中一個戰棋遊戲既指標，每十個年頭總會囉出黎爆返次，真係好玩。\[/caption\]  
+\[caption id="attachment\_139" align="alignnone" width="858"\]![](post_assets/P3-1024x549.png) 曹操傳絕對係其中一個戰棋遊戲既指標，每十個年頭總會囉出黎爆返次，真係好玩。\[/caption\]  
 
   
 經過網上各種爬文了解點解戰棋／戰略遊戲會愈黎愈沒落，其中有兩點想特別詳述：  
@@ -89,7 +89,7 @@ RTS既代表《Warcraft 3》,《AOC》，不但前無古人，點估到真係後
 希望早晚可以再玩一次有味道有意思既機戰，唯有等囉，做人最緊要有希望。  
 
   
-\[caption id="attachment\_140" align="alignnone" width="858"\]![](WordPress/P4-2-1024x576.png) 除左戰鬥畫面熱血之外，經過一輪鋪排同設計之後成功打出一個目標既傷害同結果，就係戰棋遊戲最好玩既地方。\[/caption\]  
+\[caption id="attachment\_140" align="alignnone" width="858"\]![](post_assets/P4-2-1024x576.png) 除左戰鬥畫面熱血之外，經過一輪鋪排同設計之後成功打出一個目標既傷害同結果，就係戰棋遊戲最好玩既地方。\[/caption\]  
 
   
 By Snakie002何師傅  

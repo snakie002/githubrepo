@@ -38,7 +38,7 @@ tags:
   - "流亡黯道-解說"
   - "流亡黯道-點燃"
   - "遊戲攻略"
-coverImage: "thumbnail-38.jpg"
+coverImage: "post_assets/thumbnail-38.jpg"
 ---
 
 ### 【POE】 POE 3.13 改版解說報導 詳述三大新元素 釋界 輿圖天賦 釋界者之玉  
@@ -67,10 +67,10 @@ coverImage: "thumbnail-38.jpg"
 先上圖：  
 
   
-![](WordPress/ACSEND.png)  
+![](post_assets/ACSEND.png)  
 
   
-![](WordPress/passive-1-1024x853.png)  
+![](post_assets/passive-1-1024x853.png)  
 
   
 再次強調，由於不是最終形態， 畢竟很多地方還有很多改進，  

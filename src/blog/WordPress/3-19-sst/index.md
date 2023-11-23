@@ -41,7 +41,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【POE】帝王全通！詐欺冰盾投 Trickster Spectral Shield Throw  
@@ -92,13 +92,13 @@ coverImage: "thumbnail-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-2-781x1024.png)  
+![](post_assets/1-2-781x1024.png)  
 
   
    
 
   
-![](WordPress/2-2.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -172,7 +172,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/3-2-1024x733.png)  
+![](post_assets/3-2-1024x733.png)  
 
   
    
@@ -440,7 +440,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/4-2-1024x1024.png)  
+![](post_assets/4-2-1024x1024.png)  
 
   
    

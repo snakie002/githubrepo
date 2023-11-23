@@ -42,20 +42,20 @@ tags:
   - "遊戲介紹"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-10.jpg"
+coverImage: "post_assets/Title-10.jpg"
 ---
 
 # \[POE 3.22 消息\] 季前拓荒統計, 酋長+秘術再次改動 & 挑戰獎勵  
 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-10-1024x576.jpg)  
+![](post_assets/Title-10-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-chieftain-1024x576.jpg)  
+![](post_assets/1-chieftain-1024x576.jpg)  
 
   
    
@@ -72,7 +72,7 @@ coverImage: "Title-10.jpg"
    
 
   
-![](WordPress/2-occ-1024x576.jpg)  
+![](post_assets/2-occ-1024x576.jpg)  
 
   
    
@@ -85,7 +85,7 @@ coverImage: "Title-10.jpg"
    
 
   
-![](WordPress/3-maxresdefault-1024x576.jpg)  
+![](post_assets/3-maxresdefault-1024x576.jpg)  
 
   
    
@@ -102,7 +102,7 @@ coverImage: "Title-10.jpg"
    
 
   
-![](WordPress/4-poll-1024x576.jpg)  
+![](post_assets/4-poll-1024x576.jpg)  
 
   
    

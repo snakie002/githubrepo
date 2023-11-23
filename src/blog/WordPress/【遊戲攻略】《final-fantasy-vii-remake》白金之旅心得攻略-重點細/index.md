@@ -15,7 +15,7 @@ tags:
   - "白金攻略"
   - "遊戲攻略"
   - "遊戲頻道"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 ### 【遊戲攻略】《Final Fantasy VII Remake》白金之旅心得攻略 重點細節及流程圖
@@ -30,7 +30,7 @@ coverImage: "thumbnail-4.jpg"
 但有網友希望可以出一條白金之旅既教學流程圖，有見及此所以就出多一篇白金之旅運程表希望可以幫到大家，盡快離開米德加。  
 
   
-![](WordPress/P1-3.png)  
+![](post_assets/P1-3.png)  
 
   
 先多謝巴哈既網友ReX同意分享佢既白金心得攻略，有部份資料都係由佢個度轉述過黎，詳情大家可以睇返[哩度](https://forum.gamer.com.tw/C.php?bsn=179&snA=86726)。  
@@ -53,31 +53,31 @@ Excel表可以配合下面影片同時服用效果更佳！😊
   
 
   
-\[caption id="attachment\_120" align="alignnone" width="858"\]![](WordPress/P2-2-1024x576.jpg) 囉曬全SP個分別其實唔太大，好似破甲大劍打到尾的話，魔攻部份確實有d雞肋。\[/caption\]  
+\[caption id="attachment\_120" align="alignnone" width="858"\]![](post_assets/P2-2-1024x576.jpg) 囉曬全SP個分別其實唔太大，好似破甲大劍打到尾的話，魔攻部份確實有d雞肋。\[/caption\]  
 
   
 - 唱片類可以係第二次玩十四章既時侯大部份補完，當然最好都係對照返相關網站睇清楚；
   
 
   
-\[caption id="attachment\_121" align="alignnone" width="858"\]![](WordPress/P3-4-1024x576.jpg) 唱片補完其實比想像中快，如果第一周目有八掛既好奇心。\[/caption\]  
+\[caption id="attachment\_121" align="alignnone" width="858"\]![](post_assets/P3-4-1024x576.jpg) 唱片補完其實比想像中快，如果第一周目有八掛既好奇心。\[/caption\]  
 
   
 - 如果在全清Hard個陣打得辛苦，多用氣卦或吸魔可以解決部份MP問題，存檔打箱讀檔都係一個辦法；
   
 
   
-\[caption id="attachment\_122" align="alignnone" width="858"\]![](WordPress/P4-2-1024x576.jpg) 有諸神黃昏係輕鬆好多，但都唔係等於直行，都係要睇返情況黎做反應。\[/caption\]  
+\[caption id="attachment\_122" align="alignnone" width="858"\]![](post_assets/P4-2-1024x576.jpg) 有諸神黃昏係輕鬆好多，但都唔係等於直行，都係要睇返情況黎做反應。\[/caption\]  
 
   
 - Hard入面既Boss必需要留意返相關弱點黎打，普攻硬Ａ係Hard入面通常都唔入，如果已經洞察過可以按手制PAD黎睇返弱點；
   
 
   
-\[caption id="attachment\_123" align="alignnone" width="858"\]![](WordPress/P5-3-1024x576.jpg) 洞察打弱點同實際打法係Hard難度係基本動作。\[/caption\]  
+\[caption id="attachment\_123" align="alignnone" width="858"\]![](post_assets/P5-3-1024x576.jpg) 洞察打弱點同實際打法係Hard難度係基本動作。\[/caption\]  
 
   
-\[caption id="attachment\_124" align="alignnone" width="858"\]![](WordPress/P6-3-1024x576.jpg) 基本上每次順序打錯或做錯指令就好易見到哩個畫面。\[/caption\]  
+\[caption id="attachment\_124" align="alignnone" width="858"\]![](post_assets/P6-3-1024x576.jpg) 基本上每次順序打錯或做錯指令就好易見到哩個畫面。\[/caption\]  
 
   
 大致上就係咁，所以如影片所講白金既難度完全唔高，只係比較time consume同重覆性過大。  
@@ -91,7 +91,7 @@ Excel表可以配合下面影片同時服用效果更佳！😊
 同時都好多謝好感激各位對前兩篇文章同影片既支持留言各樣，謝謝你們！  
 
   
-\[caption id="attachment\_125" align="alignnone" width="858"\]![](WordPress/P7-2-1024x576.jpg) 人唔叫狗都笑，多謝各位觀眾朋友們支持，謝謝你！\[/caption\]  
+\[caption id="attachment\_125" align="alignnone" width="858"\]![](post_assets/P7-2-1024x576.jpg) 人唔叫狗都笑，多謝各位觀眾朋友們支持，謝謝你！\[/caption\]  
 
   
 多謝大家收睇，同樣地有咩問題同改善希望可以指點一下，謝謝你，再見諸位！  

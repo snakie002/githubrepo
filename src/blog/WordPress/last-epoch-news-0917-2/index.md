@@ -36,16 +36,16 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "LE-1.jpg"
+coverImage: "post_assets/LE-1.jpg"
 ---
 
 # \[Last Epoch\] 0.9.2 版本 Runes of Power 更新概覽 | 最後紀元
 
   
-![](WordPress/LE-1-1024x576.jpg)  
+![](post_assets/LE-1-1024x576.jpg)  
 
   
-![](WordPress/1-11-1024x575.png)  
+![](post_assets/1-11-1024x575.png)  
 
   
 原本以為不大的版本 0.9.2 ,在連日的Blog裡看到比預期要大的多.  
@@ -54,7 +54,7 @@ coverImage: "LE-1.jpg"
 更新概覽內容大概如下:  
 
   
-![](WordPress/2-11-1024x575.png)  
+![](post_assets/2-11-1024x575.png)  
 
   
 參展Gamescom：  
@@ -63,7 +63,7 @@ coverImage: "LE-1.jpg"
 吸引了許多參觀者試玩他們的遊戲和新專精。  
 
   
-![](WordPress/3-11-1024x575.png)  
+![](post_assets/3-11-1024x575.png)  
 
   
 新專精 - Runemaster：  
@@ -71,7 +71,7 @@ coverImage: "LE-1.jpg"
 它的主要特點是技能Rune of Invocation，可以製造各種不同的技能。  
 
   
-![](WordPress/4-13-1024x575.png)  
+![](post_assets/4-13-1024x575.png)  
 
   
 新語言包：  
@@ -81,7 +81,7 @@ coverImage: "LE-1.jpg"
 以吸引來自世界各地的玩家。  
 
   
-![](WordPress/5-1-3-1024x575.png)  
+![](post_assets/5-1-3-1024x575.png)  
 
   
 新遊戲內容：  
@@ -89,14 +89,14 @@ coverImage: "LE-1.jpg"
 Rune Prison、One-shot Cache、Echo地形調整、新增怪物和傳奇裝備等。  
 
   
-![](WordPress/5-2-4-1024x575.png)  
+![](post_assets/5-2-4-1024x575.png)  
 
   
 新實驗裝備:  
 擊敗Rune Prison裡的敵人掉落。  
 
   
-![](WordPress/6-10-1024x575.png)  
+![](post_assets/6-10-1024x575.png)  
 
   
 改善和調整：  
@@ -104,8 +104,8 @@ Rune Prison、One-shot Cache、Echo地形調整、新增怪物和傳奇裝備等
 終局地形和怪物密度，以提供更好的遊戲體驗。  
 
   
-![](WordPress/7-1-1-1024x575.png)  
-![](WordPress/7-2-1024x575.png)  
+![](post_assets/7-1-1-1024x575.png)  
+![](post_assets/7-2-1024x575.png)  
 
   
    

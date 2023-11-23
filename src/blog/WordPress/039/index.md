@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-盾靈投擲"
   - "流亡黯道-聖宗"
   - "流亡黯道-衛士"
-coverImage: "thumbnail-53.jpg"
+coverImage: "post_assets/thumbnail-53.jpg"
 ---
 
 ### 【POE】3.15 三大防砍拓荒推薦 聖宗元打砲塔 衛士盾靈投擲 破壞者冰凍陷阱  
@@ -70,9 +70,9 @@ coverImage: "thumbnail-53.jpg"
 以下是針對3.15拓荒的建議及考慮：  
 
   
-![](WordPress/PIC2-1-1024x576.jpg)  
-![](WordPress/pic1-2-1024x576.jpg)  
-![](WordPress/pic0-1-1024x576.jpg)  
+![](post_assets/PIC2-1-1024x576.jpg)  
+![](post_assets/pic1-2-1024x576.jpg)  
+![](post_assets/pic0-1-1024x576.jpg)  
 
   
 2. **傷害****問題**  

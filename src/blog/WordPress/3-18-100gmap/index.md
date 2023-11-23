@@ -37,7 +37,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-3.jpg"
+coverImage: "post_assets/thumbnail-3.jpg"
 ---
 
 ### 【POE】無腦推薦 100 守衛者地圖收益實測 100 Guardian’s Map Testing  
@@ -77,7 +77,7 @@ TFT X 新輿圖天賦 極速散貨 | 流亡黯道 遊戲攻略 | Path of Exile
 輿圖天賦縮圖：  
 
   
-![](WordPress/1-4-1024x929.png)  
+![](post_assets/1-4-1024x929.png)  
 
   
 這次會從**實際銷量**及**成本效益**來補完：  
@@ -103,7 +103,7 @@ TFT X 新輿圖天賦 極速散貨 | 流亡黯道 遊戲攻略 | Path of Exile
 但反正總會有人買的，很奇怪；  
 
   
-![](WordPress/2-3-1024x438.png)  
+![](post_assets/2-3-1024x438.png)  
 
   
    
@@ -129,7 +129,7 @@ TFT X 新輿圖天賦 極速散貨 | 流亡黯道 遊戲攻略 | Path of Exile
 雖然無聊，穩定收入，跟政府工有異曲同工之妙！  
 
   
-![](WordPress/3-3-1024x633.png)  
+![](post_assets/3-3-1024x633.png)  
 
   
 **個人感想**  

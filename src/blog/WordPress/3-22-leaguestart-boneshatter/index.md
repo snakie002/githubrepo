@@ -58,7 +58,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 # 【POE】3.22 祖靈聯盟 三大推薦拓荒 勇士碎骨 文字補完版本
@@ -88,7 +88,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/thumbnail-4-1024x576.jpg)  
+![](post_assets/thumbnail-4-1024x576.jpg)  
 
   
    
@@ -135,8 +135,8 @@ coverImage: "thumbnail-4.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-1024x668.png)  
-![](WordPress/2-300x298.png)  
+![](post_assets/1-1024x668.png)  
+![](post_assets/2-300x298.png)  
   
   
   
@@ -203,7 +203,7 @@ coverImage: "thumbnail-4.jpg"
 [影片連結在這](https://www.youtube.com/watch?v=QbIOnSxeeL4)  
 
   
-![](WordPress/E1-1024x402.png)  
+![](post_assets/E1-1024x402.png)  
 
   
    
@@ -279,7 +279,7 @@ coverImage: "thumbnail-4.jpg"
   
   
 
-<table style="height: 755px;" width="851"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;&nbsp;&nbsp; <img class="alignnone wp-image-2208 size-full" src="WordPress/S6.png" alt="" width="701" height="280"></td></tr><tr><td colspan="2" width="604">綁定，建議前期先插到胸甲，方便取時換取武器</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2213 size-full" src="WordPress/S1.png" alt="" width="684" height="246"></td></tr><tr><td colspan="2" width="604">圖騰是主要爆發增傷來源，千萬不要懶惰，因為傷害有差太多</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2217 size-full" src="WordPress/S5.png" alt="" width="699" height="271"></td></tr><tr><td colspan="2" width="604">受傷施放串，非常有用，碎骨反噬傷害會被計算可觸發</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2216 size-full" src="WordPress/S4.png" alt="" width="726" height="260"></td></tr><tr><td colspan="2" width="604">光環串</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2214 size-full" src="WordPress/S2.png" alt="" width="696" height="247"><br><div></div><br><img class="alignnone wp-image-2215 size-full" src="WordPress/S3.png" alt="" width="703" height="238"></td></tr><tr><td colspan="2" width="604">位移串 ＋ 血量光環 ＋ 戰吼群，可按個人配搭改變</td></tr><tr><td width="59">盾牌</td><td width="545"></td></tr><tr><td colspan="2" width="604">沒有第三只手</td></tr></tbody></table>
+<table style="height: 755px;" width="851"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545">&nbsp;&nbsp;&nbsp; <img class="alignnone wp-image-2208 size-full" src="post_assets/S6.png" alt="" width="701" height="280"></td></tr><tr><td colspan="2" width="604">綁定，建議前期先插到胸甲，方便取時換取武器</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2213 size-full" src="post_assets/S1.png" alt="" width="684" height="246"></td></tr><tr><td colspan="2" width="604">圖騰是主要爆發增傷來源，千萬不要懶惰，因為傷害有差太多</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2217 size-full" src="post_assets/S5.png" alt="" width="699" height="271"></td></tr><tr><td colspan="2" width="604">受傷施放串，非常有用，碎骨反噬傷害會被計算可觸發</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2216 size-full" src="post_assets/S4.png" alt="" width="726" height="260"></td></tr><tr><td colspan="2" width="604">光環串</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2214 size-full" src="post_assets/S2.png" alt="" width="696" height="247"><br><div></div><br><img class="alignnone wp-image-2215 size-full" src="post_assets/S3.png" alt="" width="703" height="238"></td></tr><tr><td colspan="2" width="604">位移串 ＋ 血量光環 ＋ 戰吼群，可按個人配搭改變</td></tr><tr><td width="59">盾牌</td><td width="545"></td></tr><tr><td colspan="2" width="604">沒有第三只手</td></tr></tbody></table>
 
   
    

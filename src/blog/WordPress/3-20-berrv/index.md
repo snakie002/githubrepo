@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-核虛"
   - "流亡黯道-盛怒漩渦"
   - "流亡黯道-非主流"
-coverImage: "thumbnail-6.jpg"
+coverImage: "post_assets/thumbnail-6.jpg"
 ---
 
 ### 【POE】核虛全通85！暴徒核虛盛怒漩渦 Berseker Voidforge Rage Vortex  
@@ -83,8 +83,8 @@ coverImage: "thumbnail-6.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-5-1024x687.png)  
-![](WordPress/2-4.png)  
+![](post_assets/1-5-1024x687.png)  
+![](post_assets/2-4.png)  
 
   
    
@@ -142,7 +142,7 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/3-5-1024x696.png)  
+![](post_assets/3-5-1024x696.png)  
 
   
    
@@ -231,7 +231,7 @@ coverImage: "thumbnail-6.jpg"
 幸好元素之相的聖物不算太貴，算是大後期才需要的增傷類別！  
 
   
-![](WordPress/4-4.png)  
+![](post_assets/4-4.png)  
   
   
   
@@ -395,7 +395,7 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/1.mp4_snapshot_01.13.264-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_01.13.264-1024x576.jpg)  
 
   
    

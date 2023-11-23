@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【POE】站樁面坦！承受傷全轉 追獵天譴之箭 Pathfinder Scourge Arrow  
@@ -93,8 +93,8 @@ coverImage: "thumbnail.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-962x1024.png)  
-![](WordPress/2.png)  
+![](post_assets/1-962x1024.png)  
+![](post_assets/2.png)  
 
   
    
@@ -170,7 +170,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/3-1024x302.png)  
+![](post_assets/3-1024x302.png)  
 
   
 **技能連結  
@@ -431,7 +431,7 @@ coverImage: "thumbnail.jpg"
    
 
   
-![](WordPress/4.png)  
+![](post_assets/4.png)  
 
   
    

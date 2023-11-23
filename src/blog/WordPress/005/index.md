@@ -24,7 +24,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-25.jpg"
+coverImage: "post_assets/thumbnail-25.jpg"
 ---
 
 ### 【POE】3.12雷鎚負雷甲天雷COC Mjölner Prototype All Content  
@@ -49,7 +49,7 @@ coverImage: "thumbnail-25.jpg"
 確保能全推後今天就來分享給各位！  
 
   
-![](WordPress/thumbnail-25-1024x576.jpg)  
+![](post_assets/thumbnail-25-1024x576.jpg)  
 
   
 ９２刺客雷鎚負雷甲COC:  
@@ -80,7 +80,7 @@ Pastebin: [https://pastebin.com/XqJ09KDV](https://pastebin.com/XqJ09KDV)
 還是會給秒的  
 
   
-![](WordPress/Doryanis_Prototype_inventory_icon.png)  
+![](post_assets/Doryanis_Prototype_inventory_icon.png)  
 
   
    
@@ -171,7 +171,7 @@ Pastebin: [https://pastebin.com/XqJ09KDV](https://pastebin.com/XqJ09KDV)
    
 
   
-![](WordPress/Mjolner_inventory_icon.png)![](WordPress/Rift_Worm_Shock_Nova_Effect_inventory_icon.png)  
+![](post_assets/Mjolner_inventory_icon.png)![](post_assets/Rift_Worm_Shock_Nova_Effect_inventory_icon.png)  
 
   
    

@@ -34,7 +34,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【火炬之光：無限】貓女雷影斬 休閒通關 低配拓荒時刻7 高配基本全通 | Erika Thunder Slash Build  
@@ -76,7 +76,7 @@ Torchlight Infinite火炬之光無限 S2 黑帆賽季已經推出一星期
 Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！  
 
   
-![](WordPress/4-2-1024x687.png)  
+![](post_assets/4-2-1024x687.png)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/tli-s2-ts) (關於影片沒有提供的內容)：  
@@ -98,13 +98,13 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
    
 
   
-\[caption id="attachment\_1606" align="alignnone" width="983"\]![](WordPress/TC.png) 入門版天賦選擇神行武士\[/caption\]  
+\[caption id="attachment\_1606" align="alignnone" width="983"\]![](post_assets/TC.png) 入門版天賦選擇神行武士\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_1638" align="alignnone" width="988"\]![](WordPress/T.png) 有資源後可轉到暗影術士 對整體輸出有很大幫助\[/caption\]  
+\[caption id="attachment\_1638" align="alignnone" width="988"\]![](post_assets/T.png) 有資源後可轉到暗影術士 對整體輸出有很大幫助\[/caption\]  
 
   
    
@@ -170,13 +170,13 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
    
 
   
-![](WordPress/1-2-1024x562.png)  
+![](post_assets/1-2-1024x562.png)  
 
   
-![](WordPress/2-2-1024x577.png)  
+![](post_assets/2-2-1024x577.png)  
 
   
-![](WordPress/3-2-1024x598.png)  
+![](post_assets/3-2-1024x598.png)  
 
   
    
@@ -190,17 +190,17 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
 所以基本只需要３６５就可以全開基本配套  
 
   
-![](WordPress/S0-1024x576.jpg)  
+![](post_assets/S0-1024x576.jpg)  
 
   
-![](WordPress/S1-1024x576.jpg)  
-![](WordPress/S5-1024x576.jpg)  
-![](WordPress/S2-1024x576.jpg)  
-![](WordPress/S3-1024x576.jpg)  
-![](WordPress/S4-1024x576.jpg)  
-![](WordPress/S8-1024x576.jpg)  
-![](WordPress/S7-1024x576.jpg)  
-![](WordPress/S6-1024x576.jpg)  
+![](post_assets/S1-1024x576.jpg)  
+![](post_assets/S5-1024x576.jpg)  
+![](post_assets/S2-1024x576.jpg)  
+![](post_assets/S3-1024x576.jpg)  
+![](post_assets/S4-1024x576.jpg)  
+![](post_assets/S8-1024x576.jpg)  
+![](post_assets/S7-1024x576.jpg)  
+![](post_assets/S6-1024x576.jpg)  
 
   
 公牛之怒的死志，會讓角色長期沒有魔力，  
@@ -216,16 +216,16 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
 所以還是可以按個人喜愛調換  
 
   
-\[caption id="attachment\_1630" align="alignnone" width="858"\]![](WordPress/S1-1-1024x576.jpg) 因為暗影術士必定打出兩種元素 這樣會比單純閃電穿透要高輸出\[/caption\]  
+\[caption id="attachment\_1630" align="alignnone" width="858"\]![](post_assets/S1-1-1024x576.jpg) 因為暗影術士必定打出兩種元素 這樣會比單純閃電穿透要高輸出\[/caption\]  
 
   
-![](WordPress/S5-1-1024x576.jpg)  
-![](WordPress/S4-1-1024x576.jpg)  
-![](WordPress/S3-1-1024x576.jpg)  
-![](WordPress/S2-1-1024x576.jpg)  
-![](WordPress/S8-1-1024x576.jpg)  
-![](WordPress/S7-1-1024x576.jpg)  
-![](WordPress/S6-1-1024x576.jpg)  
+![](post_assets/S5-1-1024x576.jpg)  
+![](post_assets/S4-1-1024x576.jpg)  
+![](post_assets/S3-1-1024x576.jpg)  
+![](post_assets/S2-1-1024x576.jpg)  
+![](post_assets/S8-1-1024x576.jpg)  
+![](post_assets/S7-1-1024x576.jpg)  
+![](post_assets/S6-1-1024x576.jpg)  
 
   
    
@@ -253,11 +253,11 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
    
 
   
-![](WordPress/E2-1024x576.jpg)  
-![](WordPress/E1-1024x576.jpg)  
-![](WordPress/I4-1024x576.jpg)  
-![](WordPress/I3-1024x576.jpg)  
-![](WordPress/I2-1024x576.jpg)  
+![](post_assets/E2-1024x576.jpg)  
+![](post_assets/E1-1024x576.jpg)  
+![](post_assets/I4-1024x576.jpg)  
+![](post_assets/I3-1024x576.jpg)  
+![](post_assets/I2-1024x576.jpg)  
 
   
    
@@ -364,7 +364,7 @@ Any肥希望可以幫助各位有興趣了解貓女雷影斬的朋友們！
    
 
   
-![](WordPress/I1-1024x576.jpg)  
+![](post_assets/I1-1024x576.jpg)  
 
   
    

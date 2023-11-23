@@ -45,7 +45,7 @@ tags:
   - "流亡黯道-通貨"
   - "裝備買賣"
   - "遊戲攻略"
-coverImage: "thumbnail1-20.jpg"
+coverImage: "post_assets/thumbnail1-20.jpg"
 ---
 
 ### 【POE】POE 通識 – POE 致富之路實踐篇 | 完全新手食用教程 經濟篇 (3) 新手教學  
@@ -94,7 +94,7 @@ Awakened POE Trade 下載連結
 再一步針對性的解說請留意以後的更新！  
 
   
-![](WordPress/The_new_masters-300x169.jpg)  
+![](post_assets/The_new_masters-300x169.jpg)  
 
   
 **續** **-** **有效運用遊戲系統**  
@@ -116,7 +116,7 @@ Awakened POE Trade 下載連結
 進行不一樣的刷圖賺錢策略！  
 
   
-![](WordPress/Capture-14-899x1024.png)  
+![](post_assets/Capture-14-899x1024.png)  
 
   
 **ＰＯＥ真正致富之道（高階版）**  

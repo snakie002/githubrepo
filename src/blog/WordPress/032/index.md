@@ -35,7 +35,7 @@ tags:
   - "流亡黯道-解說"
   - "流亡黯道-閃電打擊"
   - "遊戲攻略"
-coverImage: "thumbnail1-1.jpg"
+coverImage: "post_assets/thumbnail1-1.jpg"
 ---
 
 ### 【POE】無限手套閃電打擊 The Infinity Vaal Lightning Strike | 全版圖地圖炮  
@@ -65,7 +65,7 @@ coverImage: "thumbnail1-1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/pasive-1024x735.png)  
+![](post_assets/pasive-1024x735.png)  
 
   
 昇華可以自選，因為藥劑效果綁定的關係，  
@@ -81,7 +81,7 @@ coverImage: "thumbnail1-1.jpg"
    
 
   
-![](WordPress/1.mp4_snapshot_03.20.000-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_03.20.000-1024x576.jpg)  
 
   
    
@@ -160,7 +160,7 @@ coverImage: "thumbnail1-1.jpg"
    
 
   
-![](WordPress/gear-2.png)  
+![](post_assets/gear-2.png)  
 
 ## **裝備選擇**
 
@@ -259,7 +259,7 @@ coverImage: "thumbnail1-1.jpg"
 看個人嚕  
 
   
-![](WordPress/1.mp4_snapshot_12.43.000-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_12.43.000-1024x576.jpg)  
 
   
 **感想心得****輸出：８／１０**  

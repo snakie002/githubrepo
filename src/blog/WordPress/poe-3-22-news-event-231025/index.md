@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-POE-1.jpg"
+coverImage: "post_assets/Title-POE-1.jpg"
 ---
 
 # \[POE 3.22 消息\] 11月活動詳情 & 3.22.2 更新公告 | 流亡黯道 | Path of Exile | 天賦&昇華大洗牌 | 鏡湖+守望回歸 | 機制自帶輿圖天賦
@@ -52,7 +52,7 @@ coverImage: "Title-POE-1.jpg"
 同一個帳號最多只能夠獲取兩個, 每個活動限定拿到一個  
 
   
-![](WordPress/1-6-1024x337.png)  
+![](post_assets/1-6-1024x337.png)  
 
   
 活動名次獎勵:  
@@ -85,7 +85,7 @@ coverImage: "Title-POE-1.jpg"
 抽獎:  
 
   
-![](WordPress/2-1.jpg)  
+![](post_assets/2-1.jpg)  
 
   
 2\. Blast from the Past (鏡湖+守望回歸)  
@@ -102,7 +102,7 @@ coverImage: "Title-POE-1.jpg"
 抽獎:  
 
   
-![](WordPress/3-1.jpg)  
+![](post_assets/3-1.jpg)  
 
   
 3\. Shifting Stone (機制自帶輿圖天賦)  
@@ -110,7 +110,7 @@ coverImage: "Title-POE-1.jpg"
 近乎每區都會有一組以下的機制和相關的輿圖天賦  
 
   
-![](WordPress/4-4-1024x362.png)  
+![](post_assets/4-4-1024x362.png)  
 
   
 時間:  
@@ -121,7 +121,7 @@ coverImage: "Title-POE-1.jpg"
 抽獎:  
 
   
-![](WordPress/5-1.jpg)  
+![](post_assets/5-1.jpg)  
 
   
 另外今天也有3.22.2更新公告  

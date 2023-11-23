@@ -9,7 +9,7 @@ categories:
   - "poe-build-guide"
   - "poe-法術"
   - "guide"
-coverImage: "thumbnail-5.jpg"
+coverImage: "post_assets/thumbnail-5.jpg"
 ---
 
 ### 【POE】懦夫光環！判官光環電球 Inquisitor Aura Stacker Spark | 光環堆疊 VS 光環師  
@@ -53,8 +53,8 @@ coverImage: "thumbnail-5.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-5-1024x665.png)  
-![](WordPress/2-4-707x1024.png)  
+![](post_assets/1-5-1024x665.png)  
+![](post_assets/2-4-707x1024.png)  
 
   
    
@@ -121,7 +121,7 @@ coverImage: "thumbnail-5.jpg"
    
 
   
-![](WordPress/3-4-1024x514.png)  
+![](post_assets/3-4-1024x514.png)  
 
   
 **技能連結**  
@@ -391,7 +391,7 @@ coverImage: "thumbnail-5.jpg"
 <table style="height: 3326px;" width="855"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">貪婪鎧甲</td><td width="357">／</td><td width="187">／</td></tr><tr><td colspan="4" width="670">１００％全防同時提高護甲，閃避及能盾，也是對於這種流派兩項防禦都推的流派有明顯幫助<br>其次是＋１智力，可以幫助＋１啟蒙省更多魔力</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">上詞需要有１５％光環效果</td><td width="187">電球發射額外３個投射物</td></tr><tr><td colspan="4" width="670"><strong><u>厭惡之破空精髓</u></strong>點出追憶基底頭部，鎖後洗出洗出混抗，<br>再鎖後隱匿出＋２</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">／</td><td width="187">星空＋尊師</td></tr><tr><td colspan="4" width="670">恩，方法如下：<br>首先弄出兩對星空尊師手套，用合成器合成兩條精髓詞 （極恐精髓 ＋錯亂精髓）<br>確保有空一後詞，鎖後暴擊／法術花園，出法術７０％暴擊加成<br>鎖後速度花園，出任一勢力詞，釋界玉把後詞７０％升到９０％ Ｔ０詞綴，後詞完成<br><div></div><br>普通版做法<br>鎖後速度花園，出任一投射物詞（２０減速或２０快速）<br>鎖後密教:愛斯林，合掌祈禱洗掉鎖後並開出＋２投射物<br>花園勢力ＥＸ，合掌祈禱出減速或快速，<br>完成，中間不中的話由鎖後速度花園處理；<br><div></div><br>如果是雙Ｔ０做法，就是鎖後速度花園或勢力花園後，兩條勢力詞再釋界玉變Ｔ０，<br>才鎖後愛斯林，不成功由頭做起，也是為什麼是鏡裝的原因。。。<br>不過已經有人做出完美９連，這個做法已經沒甚麼參考價值，但普通版不會很難做就是了<br><div></div><br>方法就是這樣，師傅就做不出來了，只能夠謝謝公會朋友借玩了</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">異色鞋</td><td width="187">（穿抗對判官無效）</td></tr><tr><td colspan="4" width="670">基本雙Ｔ０流順 猛攻擊殺 靈巧鞋子</td></tr><tr><td width="54">武器</td><td width="73">銀河星雲</td><td width="357"><a href="https://poedb.tw/tw/Nebulis">https://poedb.tw/tw/Nebulis</a></td><td width="187">品質轉為元素傷害</td></tr><tr><td colspan="4" width="670">綁定，上詞最好有兩陪傷害及暴擊加成。。。</td></tr><tr><td width="54">副手</td><td width="73">幻芒聖盾</td><td width="357"><a href="https://poedb.tw/tw/Aegis_Aurora">https://poedb.tw/tw/Aegis_Aurora</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">綁定</td></tr><tr><td width="54">項鍊</td><td width="73">星塵</td><td width="357"><a href="https://poedb.tw/tw/Ashes_of_the_Stars">https://poedb.tw/tw/Ashes_of_the_Stars</a></td><td width="187">塗油上起源</td></tr><tr><td colspan="4" width="670">綁定，其中３０％品質也是綁定，魔力保留也需要２０</td></tr><tr><td width="54">戒指１</td><td width="73">意志呼喚</td><td width="357"><a href="https://poedb.tw/tw/Call_of_the_Brotherhood">https://poedb.tw/tw/Call_of_the_Brotherhood</a></td><td width="187">需要瓦出２１增恨</td></tr><tr><td colspan="4" width="670">同時需要點上２０％的元素品質<br>才可以有９６％的轉傷，所以也很花時間心血才能完成</td></tr><tr><td width="54">戒指２</td><td width="73">意志呼喚</td><td width="357"><a href="https://poedb.tw/tw/Call_of_the_Brotherhood">https://poedb.tw/tw/Call_of_the_Brotherhood</a></td><td width="187">瓦出雷霆光環效果</td></tr><tr><td colspan="4" width="670">同時需要點上２０％的元素品質<br>才可以有９６％的轉傷，所以也很花時間心血才能完成</td></tr><tr><td width="54">皮帶</td><td width="73">魔血</td><td width="357"><a href="https://poedb.tw/tw/Mageblood">https://poedb.tw/tw/Mageblood</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">綁定，因為混抗 速度 暴擊 全抗都不足<br>需要相關藥劑及藥劑效果加持下才能成型</td></tr><tr><td width="54">珠寶</td><td width="73">嗓音</td><td width="357"><a href="https://poedb.tw/tw/Voices">https://poedb.tw/tw/Voices</a></td><td width="187">三顆</td></tr><tr><td colspan="4" width="670">３費為的是３顆小型星團，兩顆中型及相關珠寶，<br>其實數字上可以用兩顆就好，配一顆８費大型點出５點也是可以的<br>不過將會放棄一顆輸出珠寶，傷害上會有差別</td></tr><tr><td width="54">珠寶</td><td width="73">妄想症</td><td width="357"><a href="https://poedb.tw/tw/Megalomaniac">https://poedb.tw/tw/Megalomaniac</a></td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">需要的技能：<br>暴風雪＋魔幻守衛＋電力光環＋恐懼大師<br>這是十分有用也是比較綁定的技能，所以ＰＯＢ上兩顆都是主要拿這４點<br>碰巧有一點有需要也是可以用的</td></tr><tr><td width="54">珠寶</td><td width="73">小型星團</td><td width="357">６％魔力保留效能</td><td width="187"></td></tr><tr><td colspan="4" width="670">３５％增加效果 將會變成８％ 然後機體極缺力敏混抗，所以也必需要有這類的詞綴<br>也是為什麼光環機體這麼昂貴的原因，因為小一條詞就小一種輸出各樣，非常麻煩<br>３５％＋全能力＋混抗＋自我發省為最佳組合</td></tr><tr><td width="54">珠寶</td><td width="73">血肉融合</td><td width="357"><a href="https://poedb.tw/tw/Melding_of_the_Flesh">https://poedb.tw/tw/Melding_of_the_Flesh</a></td><td width="187">&nbsp;</td></tr><tr><td colspan="4" width="670">如影片展示一樣做法，綁定</td></tr><tr><td width="54">珠寶</td><td width="73">看守之眼</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">狂熱增傷 ＋ 紀律擊回<br>基本上配合魔血及對珠的話可以滿暴擊，所以不太需要憎恨暴率</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌血肉</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flesh">https://poedb.tw/tw/Forbidden_Flesh</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌烈焰才能觸發相關效果<br>可選擇力量定罪</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌烈焰</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flame">https://poedb.tw/tw/Forbidden_Flame</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌血肉才能觸發相關效果<br>可選擇力量定罪<br><div></div><br>&nbsp;</td></tr><tr><td width="54">珠寶</td><td width="73">危機學</td><td width="357"><a href="https://poedb.tw/tw/Hazardous_Research">https://poedb.tw/tw/Hazardous_Research</a></td><td width="187">瓦出２％魔保或腐化之血</td></tr><tr><td colspan="4" width="670">如影片所示打王時侯可以跟其他替換確保能夠向前輸出</td></tr><tr><td width="54">珠寶</td><td width="73">激進的信仰</td><td width="357"><a href="https://poedb.tw/tw/Militant_Faith">https://poedb.tw/tw/Militant_Faith</a></td><td width="187">神主</td></tr><tr><td colspan="4" width="670">如天賦圖開出內觀信念 同時需要有減少魔力消耗及增加非詛咒光環效果才有最大效用</td></tr><tr><td width="54">珠寶</td><td width="73">神感</td><td width="357"><a href="https://poedb.tw/tw/Unnatural_Instinct">https://poedb.tw/tw/Unnatural_Instinct</a></td><td width="187">瓦出２％魔保或腐化之血</td></tr><tr><td colspan="4" width="670">如圖</td></tr></tbody></table>
 
   
-![](WordPress/4-3.png)  
+![](post_assets/4-3.png)  
 
   
    

@@ -32,7 +32,7 @@ tags:
   - "流亡黯道-賽季"
   - "遊戲介紹"
   - "遊戲攻略"
-coverImage: "thumbnail2.jpg"
+coverImage: "post_assets/thumbnail2.jpg"
 ---
 
 ### 【POE】 POE 3.14 新賽季更新速報！最後通碟 POE 3.14 Ultimatum League | 全民獵首不是夢?  
@@ -56,7 +56,7 @@ POE 3.14 更新將會在4月17日港台時間凌晨4點鐘正式上市，
 這一次好像電腦當機掛不到直播，沒有拿到翅膀了就不發圖片了  
 
   
-![](WordPress/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_23.27.410-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_23.27.410-1024x576.jpg)  
 
   
 主要是補完影片中沒有提及的更新，  
@@ -75,7 +75,7 @@ POE 3.14 更新將會在4月17日港台時間凌晨4點鐘正式上市，
     感覺是為了讓POE2 鋪路（看到長矛真有這感覺）  
     
       
-    ![](WordPress/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_23.00.308-1024x576.jpg)
+    ![](post_assets/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_23.00.308-1024x576.jpg)
   
 - 添加新的商店配方，這個應該要等開服才會有新的資料吧
   
@@ -86,7 +86,7 @@ POE 3.14 更新將會在4月17日港台時間凌晨4點鐘正式上市，
     如果反映不好 可能POE2上就會砍掉了  
     
       
-    ![](WordPress/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_33.29.654-1024x576.jpg)
+    ![](post_assets/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_33.29.654-1024x576.jpg)
   
 - 試鍊附魔可以有預覽，增加兩個試煉限定傳奇  
     這個其實是改變了POE一貫的方向，  
@@ -100,7 +100,7 @@ POE 3.14 更新將會在4月17日港台時間凌晨4點鐘正式上市，
     賭局有預覽的確是較易賺了，但也少了那種賭博的心態  
     
       
-    ![](WordPress/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_38.37.007-1024x576.jpg)
+    ![](post_assets/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_38.37.007-1024x576.jpg)
   
 - 深淵珠寶機制更新 這個要等多一點資料才可以說準  
     暫時來說要看新的深淵珠寶會否可以跟黃裝深淵完美配合  
@@ -182,7 +182,7 @@ POE 3.14 更新將會在4月17日港台時間凌晨4點鐘正式上市，
    
 
   
-![](WordPress/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_45.39.944-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Announcement-Stream-April-2021.mp4_snapshot_45.39.944-1024x576.jpg)  
 
   
 **個人感想**  

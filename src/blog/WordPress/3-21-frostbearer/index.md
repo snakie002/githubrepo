@@ -45,7 +45,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【POE】版本限定幽魂 鍛造雪球 死靈幽魂 Necromancer Forged Frostbearer  
@@ -100,7 +100,7 @@ coverImage: "thumbnail-2.jpg"
 希望這可以幫助對死靈幽魂有興趣的朋友！  
 
   
-![](WordPress/thumbnail-2-1024x576.jpg)  
+![](post_assets/thumbnail-2-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-21-frostbearer) (關於影片沒有提供的內容)：  
@@ -118,13 +118,13 @@ coverImage: "thumbnail-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/P3-1024x812.png)  
+![](post_assets/P3-1024x812.png)  
 
   
-![](WordPress/P1-1024x845.png)  
+![](post_assets/P1-1024x845.png)  
 
   
-![](WordPress/P2.png)  
+![](post_assets/P2.png)  
 
   
    
@@ -148,7 +148,7 @@ coverImage: "thumbnail-2.jpg"
 如Arena Master等輔助型幽魂，有需要的朋友進去問問就好；  
 
   
-![](WordPress/6666.png)  
+![](post_assets/6666.png)  
 
   
 機體目前是７５％物法格，格檔回血，全元素免疫，  
@@ -262,7 +262,7 @@ coverImage: "thumbnail-2.jpg"
   
   
 
-<table style="height: 872px;" width="852"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-1773 size-large" src="WordPress/6-3-1024x337.png" alt="" width="858" height="282"></td></tr><tr><td colspan="2" width="604">光環串，若沒有７Ｌ手套的話 幽魂放到６Ｌ，只需要配上急凍＋覺醒召喚物傷害即可<br>其實手套７Ｌ沒太大作用，只是買了不用有點可惜，所以還是自行調整更好！</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-1759 size-large" src="WordPress/7-1-1024x345.png" alt="" width="858" height="289"></td></tr><tr><td colspan="2" width="604">召喚軍團串，喪屍跟守衛是我們的坦 所以需要生命及肉盾幫忙</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-1772 size-large" src="WordPress/5-3-1024x344.png" alt="" width="858" height="288"></td></tr><tr><td colspan="2" width="604">幽魂串，若沒有７Ｌ手套與胸甲交換，放棄部份光環換上其他即可</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-1770 size-large" src="WordPress/3-3-1024x342.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">雜項串，豢養狂熱配魔像讓隊伍有豢養狂熱效果及嘲諷，不錯選擇</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-1768 size-large" src="WordPress/1-4-1024x351.png" alt="" width="858" height="294"></td></tr><tr><td colspan="2" width="604">觸發串 褻瀆只需等級１即可 需要工藝打上觸發插糟技能</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-1769 size-large" src="WordPress/2-4-1024x342.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">和善光環串</td></tr></tbody></table>
+<table style="height: 872px;" width="852"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-1773 size-large" src="post_assets/6-3-1024x337.png" alt="" width="858" height="282"></td></tr><tr><td colspan="2" width="604">光環串，若沒有７Ｌ手套的話 幽魂放到６Ｌ，只需要配上急凍＋覺醒召喚物傷害即可<br>其實手套７Ｌ沒太大作用，只是買了不用有點可惜，所以還是自行調整更好！</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-1759 size-large" src="post_assets/7-1-1024x345.png" alt="" width="858" height="289"></td></tr><tr><td colspan="2" width="604">召喚軍團串，喪屍跟守衛是我們的坦 所以需要生命及肉盾幫忙</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-1772 size-large" src="post_assets/5-3-1024x344.png" alt="" width="858" height="288"></td></tr><tr><td colspan="2" width="604">幽魂串，若沒有７Ｌ手套與胸甲交換，放棄部份光環換上其他即可</td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-1770 size-large" src="post_assets/3-3-1024x342.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">雜項串，豢養狂熱配魔像讓隊伍有豢養狂熱效果及嘲諷，不錯選擇</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-1768 size-large" src="post_assets/1-4-1024x351.png" alt="" width="858" height="294"></td></tr><tr><td colspan="2" width="604">觸發串 褻瀆只需等級１即可 需要工藝打上觸發插糟技能</td></tr><tr><td width="59">副手</td><td width="545"><img class="alignnone wp-image-1769 size-large" src="post_assets/2-4-1024x342.png" alt="" width="858" height="287"></td></tr><tr><td colspan="2" width="604">和善光環串</td></tr></tbody></table>
 
   
    
@@ -282,7 +282,7 @@ coverImage: "thumbnail-2.jpg"
    
 
   
-![](WordPress/E1-1.png)  
+![](post_assets/E1-1.png)  
 
   
    
@@ -437,7 +437,7 @@ coverImage: "thumbnail-2.jpg"
   
   
 
-<table width="856"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">黃裝</td><td width="357">紅藍王詞 憎恨光環效果</td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-1762 size-full" src="WordPress/E2-1.png" alt="" width="789" height="1001"><br><div></div><br>+1 最大幽魂數 配合增加全法術 最高可用上五隻幽魂<br>目標有足夠抗性即可 如走CI或能盾路線則走能量護盾基底</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">/</td><td width="187">堅定 / 狂熱 魔力保留效能</td></tr><tr><td colspan="4" width="670">+2 全召喚技能 對幽魂傷害有極重要關係<br>其他為血抗即可</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">星空 + 尊師基底</td><td width="187"></td></tr><tr><td colspan="4" width="670">合成後需要用精髓打造，建議購買，或放棄７Ｌ，用６Ｌ即可<br>真的沒需要用上７Ｌ，效果不算太大<br>如用６Ｌ胸甲作輸出，那基本血抗跟召喚物傷害 ＋ 紅藍王詞手套即可</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">尊師 ＋ 聖戰 基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone wp-image-1763 size-large" src="WordPress/E3-1-616x1024.png" alt="" width="616" height="1024"><br><div></div><br>&nbsp;<br><div></div><br>尊師出＋１幽魂等級 合 聖戰避免感電基底<br>配上風暴籠罩珠寶及任一深淵有避免感電即可做成全元素免疫</td></tr><tr><td width="54">武器</td><td width="73">黃裝</td><td width="357">召喚物法杖</td><td width="187">—</td></tr><tr><td colspan="4" width="670">雙加一 後綴有空位打上觸發插糟技能即可<br>雙加一做法如下：<br>可用四洞化石洗出，分別是顫慄化石—斑駁化石—金鋼化石—鋸齒化石前綴 — 召喚物傷害 ＋１全法術 ＋１召喚技能<br><div></div><br>後綴 — 工藝上觸發插糟技能<br><div></div><br>這次不像之前的暗夜血契，需要召喚物傷害詞綴，<br>有足夠資源朋友弄出雙＋１後可鎖前合手祈禱花園暴擊出召喚物暴擊，<br>有空後上觸發插糟即可</td></tr><tr><td width="54">副手</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/The_Surrender">降伏</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">格檔回血盾，不是綁定，若想增加傷害可找黃裝增加召喚等級及傷害等等</td></tr><tr><td width="54">項鍊</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Auls_Uprising">奧爾的崛起</a></td><td width="187">塗上魅力</td></tr><tr><td colspan="4" width="670">選擇迅捷／堅定／狂熱／憎恨即可<br>其中狂熱及憎恨較平，可考慮入手<br>如沒有足夠插糟可換上其他增傷類如＋１全法術等黃裝</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">目標為召喚物傷害，召喚物攻速，移速有就好<br>補敏補抗有血已經足夠</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="357">潛能之戒</td><td width="187">／</td></tr><tr><td colspan="4" width="670">召喚極缺插糟 可選擇放置霜咬手動詛咒<br>同樣補力敏血抗即可</td></tr><tr><td width="54">皮帶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Darkness_Enthroned">夜惡降臨</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">現在改版需要留意數值 ７５％以上為佳<br>有時候需要補力敏也可以把深淵珠寶插在皮帶上<br>會有７５％加成 按個人需要就好</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１０％召喚物傷害</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br>只有兩個可能<br>要不８天賦３技能（換新＋宴請邪魔＋惡毒之咬）<br>要不１２天賦３５％效果 ＋ ３％施速<br>這裡要說明一下，<br>３５％必須配備３％施速，才能進化到４％，２５％應該是不行的，<br>所以這樣的星團製作成本都較高，<br>貴是有原因，如果資源不足先用著８天已經可以起動<br><div></div><br>&nbsp;</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Stormshroud">風暴籠罩</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">配搭１００％避免感電即可全元素免疫，打圖打王非常好的選擇</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">看守之眼</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">個人使用堅定格檔攻擊及迅捷迷蹤，單純為打圖考慮，<br>如為傷害可以換取強力深淵珠寶</td></tr><tr><td width="54">珠寶</td><td width="73">黃裝</td><td width="357"><br><h5><a href="https://poedb.tw/tw/Ghastly_Eye_Jewel">極懼之眼珠寶</a></h5><br></td><td width="187">５～８顆</td></tr><tr><td colspan="4" width="670">必須有召喚物額外冰傷<br>其他為召喚物施速，最近使用召喚技增傷及生命等為佳<br>這是傷害最主要來源，務必找到高T珠寶！</td></tr><tr><td width="54">珠寶</td><td width="73">小型星團</td><td width="357">６％魔力保留效能</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">如圖及前文所示<br><div></div><br><img class="alignnone wp-image-1764 size-large" src="WordPress/E4-1-825x1024.png" alt="" width="825" height="1024"><br><div></div><br>單純為了迅捷／多一個５０％光環而弄<br>實際幫助不大，只是打圖真的會很順<br>可按個人要求調配！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Unending_Hunger">無盡飢餓</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">都是只有打圖的時候有用，打王的話可以換上強力深淵珠寶！</td></tr></tbody></table>
+<table width="856"><tbody><tr><td colspan="4" width="670"><strong>裝備選擇</strong></td></tr><tr><td width="54">胸甲</td><td width="73">黃裝</td><td width="357">紅藍王詞 憎恨光環效果</td><td width="187">／</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br><img class="alignnone wp-image-1762 size-full" src="post_assets/E2-1.png" alt="" width="789" height="1001"><br><div></div><br>+1 最大幽魂數 配合增加全法術 最高可用上五隻幽魂<br>目標有足夠抗性即可 如走CI或能盾路線則走能量護盾基底</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">/</td><td width="187">堅定 / 狂熱 魔力保留效能</td></tr><tr><td colspan="4" width="670">+2 全召喚技能 對幽魂傷害有極重要關係<br>其他為血抗即可</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">星空 + 尊師基底</td><td width="187"></td></tr><tr><td colspan="4" width="670">合成後需要用精髓打造，建議購買，或放棄７Ｌ，用６Ｌ即可<br>真的沒需要用上７Ｌ，效果不算太大<br>如用６Ｌ胸甲作輸出，那基本血抗跟召喚物傷害 ＋ 紅藍王詞手套即可</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">尊師 ＋ 聖戰 基底</td><td width="187">—</td></tr><tr><td colspan="4" width="670"><img class="alignnone wp-image-1763 size-large" src="post_assets/E3-1-616x1024.png" alt="" width="616" height="1024"><br><div></div><br>&nbsp;<br><div></div><br>尊師出＋１幽魂等級 合 聖戰避免感電基底<br>配上風暴籠罩珠寶及任一深淵有避免感電即可做成全元素免疫</td></tr><tr><td width="54">武器</td><td width="73">黃裝</td><td width="357">召喚物法杖</td><td width="187">—</td></tr><tr><td colspan="4" width="670">雙加一 後綴有空位打上觸發插糟技能即可<br>雙加一做法如下：<br>可用四洞化石洗出，分別是顫慄化石—斑駁化石—金鋼化石—鋸齒化石前綴 — 召喚物傷害 ＋１全法術 ＋１召喚技能<br><div></div><br>後綴 — 工藝上觸發插糟技能<br><div></div><br>這次不像之前的暗夜血契，需要召喚物傷害詞綴，<br>有足夠資源朋友弄出雙＋１後可鎖前合手祈禱花園暴擊出召喚物暴擊，<br>有空後上觸發插糟即可</td></tr><tr><td width="54">副手</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/The_Surrender">降伏</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">格檔回血盾，不是綁定，若想增加傷害可找黃裝增加召喚等級及傷害等等</td></tr><tr><td width="54">項鍊</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Auls_Uprising">奧爾的崛起</a></td><td width="187">塗上魅力</td></tr><tr><td colspan="4" width="670">選擇迅捷／堅定／狂熱／憎恨即可<br>其中狂熱及憎恨較平，可考慮入手<br>如沒有足夠插糟可換上其他增傷類如＋１全法術等黃裝</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">召喚基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">目標為召喚物傷害，召喚物攻速，移速有就好<br>補敏補抗有血已經足夠</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="357">潛能之戒</td><td width="187">／</td></tr><tr><td colspan="4" width="670">召喚極缺插糟 可選擇放置霜咬手動詛咒<br>同樣補力敏血抗即可</td></tr><tr><td width="54">皮帶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Darkness_Enthroned">夜惡降臨</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">現在改版需要留意數值 ７５％以上為佳<br>有時候需要補力敏也可以把深淵珠寶插在皮帶上<br>會有７５％加成 按個人需要就好</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１０％召喚物傷害</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">&nbsp;<br><div></div><br>只有兩個可能<br>要不８天賦３技能（換新＋宴請邪魔＋惡毒之咬）<br>要不１２天賦３５％效果 ＋ ３％施速<br>這裡要說明一下，<br>３５％必須配備３％施速，才能進化到４％，２５％應該是不行的，<br>所以這樣的星團製作成本都較高，<br>貴是有原因，如果資源不足先用著８天已經可以起動<br><div></div><br>&nbsp;</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Stormshroud">風暴籠罩</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">配搭１００％避免感電即可全元素免疫，打圖打王非常好的選擇</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">看守之眼</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">個人使用堅定格檔攻擊及迅捷迷蹤，單純為打圖考慮，<br>如為傷害可以換取強力深淵珠寶</td></tr><tr><td width="54">珠寶</td><td width="73">黃裝</td><td width="357"><br><h5><a href="https://poedb.tw/tw/Ghastly_Eye_Jewel">極懼之眼珠寶</a></h5><br></td><td width="187">５～８顆</td></tr><tr><td colspan="4" width="670">必須有召喚物額外冰傷<br>其他為召喚物施速，最近使用召喚技增傷及生命等為佳<br>這是傷害最主要來源，務必找到高T珠寶！</td></tr><tr><td width="54">珠寶</td><td width="73">小型星團</td><td width="357">６％魔力保留效能</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">如圖及前文所示<br><div></div><br><img class="alignnone wp-image-1764 size-large" src="post_assets/E4-1-825x1024.png" alt="" width="825" height="1024"><br><div></div><br>單純為了迅捷／多一個５０％光環而弄<br>實際幫助不大，只是打圖真的會很順<br>可按個人要求調配！</td></tr><tr><td width="54">珠寶</td><td width="73">傳奇</td><td width="357"><a href="https://poedb.tw/tw/Unending_Hunger">無盡飢餓</a></td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">都是只有打圖的時候有用，打王的話可以換上強力深淵珠寶！</td></tr></tbody></table>
 
   
    

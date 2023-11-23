@@ -31,7 +31,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【小品推薦】Hi-Fi Rush 完美音浪 遊戲介紹 | 音樂人必玩動作遊戲 | 小品無包袱完勝3A粗製濫造
@@ -69,7 +69,7 @@ Dark and Darker，做工已經逃得夠多不想再逃；
    
 
   
-![](WordPress/2023-02-04-18-41-43.mp4_snapshot_01.00.17.520-1024x576.jpg)  
+![](post_assets/2023-02-04-18-41-43.mp4_snapshot_01.00.17.520-1024x576.jpg)  
 
   
 難度方面，想有點挑戰性的朋友建議極難起動，  
@@ -83,7 +83,7 @@ Dark and Darker，做工已經逃得夠多不想再逃；
 單純希望進去爽幾下的就以其他難度吧  
 
   
-![](WordPress/1-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
 
   
 通關後分別有節奏大師模式及爬塔等，  
@@ -100,7 +100,7 @@ Dark and Darker，做工已經逃得夠多不想再逃；
    
 
   
-![](WordPress/2023-02-05-06-34-56.mp4_snapshot_45.03.509-1024x576.jpg)  
+![](post_assets/2023-02-05-06-34-56.mp4_snapshot_45.03.509-1024x576.jpg)  
 
   
    
@@ -116,7 +116,7 @@ Dark and Darker，做工已經逃得夠多不想再逃；
    
 
   
-![](WordPress/2023-02-05-06-34-56.mp4_snapshot_26.05.286-1024x576.jpg)  
+![](post_assets/2023-02-05-06-34-56.mp4_snapshot_26.05.286-1024x576.jpg)  
 
   
 爬塔就是單純競速，需要一定節拍及技能等級配合，  
@@ -131,7 +131,7 @@ Dark and Darker，做工已經逃得夠多不想再逃；
    
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
    

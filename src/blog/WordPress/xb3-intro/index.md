@@ -29,7 +29,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "遊戲評測"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【異度神劍3】100小時 感想心得 且玩且珍惜 速食文化下鮮有傳統佳作  
@@ -64,7 +64,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 **傳統要素配上現代便利**  
 
   
-![](WordPress/1-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
 
   
 其實異度三還有很多優點，跟之前終極版一樣，  
@@ -83,7 +83,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 **為續作鋪路？**  
 
   
-![](WordPress/2022080314594022.mp4_snapshot_00.21.03.796-1024x576.jpg)  
+![](post_assets/2022080314594022.mp4_snapshot_00.21.03.796-1024x576.jpg)  
 
   
 由於沒有玩過二代（買了卻沒玩，唉）  
@@ -102,7 +102,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 **戰鬥系統感想**  
 
   
-![](WordPress/2022080217051360.mp4_snapshot_33.49.978-1024x576.jpg)  
+![](post_assets/2022080217051360.mp4_snapshot_33.49.978-1024x576.jpg)  
 
   
 戰鬥部份是有一點點可惜，前期給了玩家一堆技能及職業，  
@@ -123,7 +123,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 進步空間前期有限是有點可惜的位置  
 
   
-![](WordPress/2-1024x576.jpg)  
+![](post_assets/2-1024x576.jpg)  
 
   
 連鎖攻擊個人是挺喜歡的，亂放 ＶＳ 正確順序  
@@ -169,7 +169,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
    
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
    
@@ -213,7 +213,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 最有感的神劍就是梅姨在廚櫃的那把餐刀了。。。  
 
   
-![](WordPress/5-1024x576.jpg)  
+![](post_assets/5-1024x576.jpg)  
 
   
 七章遊戲，最有感覺的是第四至五章，  
@@ -234,7 +234,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 那劇情分數會有更高，評風也會更好  
 
   
-![](WordPress/6-1024x576.jpg)  
+![](post_assets/6-1024x576.jpg)  
 
   
 師傅是玩得很開心，不過也能理解對於這遊戲有批評的理由，  
@@ -249,7 +249,7 @@ Xenoblade Chronicles 3遊戲介紹 遊戲攻略
 你是感受不了遊戲該有的體驗，所以好好考慮吧！  
 
   
-![](WordPress/4-1024x576.jpg)  
+![](post_assets/4-1024x576.jpg)  
 
   
    

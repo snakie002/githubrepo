@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-聖宗"
   - "流亡黯道-衛士"
   - "遊戲攻略"
-coverImage: "thumbnail1-8.jpg"
+coverImage: "post_assets/thumbnail1-8.jpg"
 ---
 
 ### 【POE】3.15三大防砍拓荒推薦 聖宗元打砲塔 文字補完版本
@@ -75,10 +75,10 @@ coverImage: "thumbnail1-8.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/2-5.png)  
+![](post_assets/2-5.png)  
 
   
-![](WordPress/1-8-1024x803.png)  
+![](post_assets/1-8-1024x803.png)  
 
   
 圖騰昇華優先，然後拿最低紅球藍球增加基本數值，  
@@ -87,7 +87,7 @@ coverImage: "thumbnail1-8.jpg"
 可以因人而已！  
 
   
-![](WordPress/3-2-1024x590.png)  
+![](post_assets/3-2-1024x590.png)  
 
   
    
@@ -142,7 +142,7 @@ coverImage: "thumbnail1-8.jpg"
 剩下的就是鮮血狂怒及位移技能，個人喜愛吧！  
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
   
    

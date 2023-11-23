@@ -23,7 +23,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-14.jpg"
+coverImage: "post_assets/thumbnail-14.jpg"
 ---
 
 ### 【POE】3.11 One Slam Man新手入門 Budget Build勇士雙手鎚震地 All Content  
@@ -57,7 +57,7 @@ Juggernaut (勇士) 84: [https://pastebin.com/96YKXitz](https://pastebin.com/96Y
 Berserker (暴徒) 91: [https://pastebin.com/rtyKghxw](https://pastebin.com/rtyKghxw)  
 
   
-![](WordPress/2.mp4_snapshot_07.10.383-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_07.10.383-1024x576.jpg)  
 
   
 盜賊頭目：  
@@ -75,7 +75,7 @@ Berserker (暴徒) 91: [https://pastebin.com/rtyKghxw](https://pastebin.com/rtyK
 平民配套影片已有講解，以下是進階及土豪配套（影片沒有包含）  
 
   
-![](WordPress/2.mp4_snapshot_07.33.807-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_07.33.807-1024x576.jpg)  
 
   
 進階配套：  
@@ -97,7 +97,7 @@ Berserker (暴徒) 91: [https://pastebin.com/rtyKghxw](https://pastebin.com/rtyK
 獵首在震地是廢的。。。完全不配，配不上獵首應有的爽快感  
 
   
-![](WordPress/aura.png)  
+![](post_assets/aura.png)  
 
   
    
@@ -136,7 +136,7 @@ Berserker (暴徒) 91: [https://pastebin.com/rtyKghxw](https://pastebin.com/rtyK
 總分：3.5分  
 
   
-![](WordPress/thumbnail-14-300x240.jpg)  
+![](post_assets/thumbnail-14-300x240.jpg)  
 
   
 純個人心得的話，  

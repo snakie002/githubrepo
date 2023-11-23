@@ -60,7 +60,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【POE】 3.21 熔火冥獄三大推薦拓荒流派 死靈暗夜血契 追獵天譴之箭 勇士正義之火  
@@ -90,7 +90,7 @@ coverImage: "thumbnail.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/thumbnail-1024x576.jpg)  
+![](post_assets/thumbnail-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-21pre/) (關於影片沒有提供的內容)：  
@@ -118,7 +118,7 @@ coverImage: "thumbnail.jpg"
 以下是針對3.21拓荒的建議及考慮：  
 
   
-![](WordPress/path-of-exile-3-21-release-date-crucible-league-expansion-reveal-1024x576.jpg)  
+![](post_assets/path-of-exile-3-21-release-date-crucible-league-expansion-reveal-1024x576.jpg)  
 
   
    
@@ -139,7 +139,7 @@ coverImage: "thumbnail.jpg"
 理論上將會是能夠配合新機制的新消耗品；  
 
   
-![](WordPress/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_05.20.550-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_05.20.550-1024x576.jpg)  
 
   
 同時已公佈資料有說明大部份主動技能都會有特別的熔火天賦，  
@@ -165,7 +165,7 @@ coverImage: "thumbnail.jpg"
 **輿圖天賦**  
 
   
-**![](WordPress/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_07.01.820-1024x576.jpg)**  
+**![](post_assets/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_07.01.820-1024x576.jpg)**  
 
   
 輿圖天賦部份因為增加了傳送門，  
@@ -180,7 +180,7 @@ coverImage: "thumbnail.jpg"
 那裡就立刻不好賺了  
 
   
-![](WordPress/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_16.56.336-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_16.56.336-1024x576.jpg)  
 
   
 還有上次預測的:  

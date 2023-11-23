@@ -44,7 +44,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-5.jpg"
+coverImage: "post_assets/thumbnail-5.jpg"
 ---
 
 ### 【POE】核星回歸！處刑旋風斬 Slayer Starforge Cyclone | 新珠寶詞綴 全元免狂戰光環配裝  
@@ -100,8 +100,8 @@ POE 3.20 Forbidden Sanctum 禁忌聖域開服已經經過一星期
    
 
   
-![](WordPress/1-4-1024x860.png)  
-![](WordPress/2-3.png)  
+![](post_assets/1-4-1024x860.png)  
+![](post_assets/2-3.png)  
 
   
 因為用上雙手劍，以及放棄穿刺輔助，  
@@ -161,7 +161,7 @@ POE 3.20 Forbidden Sanctum 禁忌聖域開服已經經過一星期
    
 
   
-![](WordPress/3-4-1024x701.png)  
+![](post_assets/3-4-1024x701.png)  
 
   
    
@@ -247,7 +247,7 @@ POE 3.20 Forbidden Sanctum 禁忌聖域開服已經經過一星期
    
 
   
-![](WordPress/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_17.40.638-1024x576.jpg)  
+![](post_assets/Path-of-Exile-The-Forbidden-Sanctum-Content-Reveal.mp4_snapshot_17.40.638-1024x576.jpg)  
 
   
    
@@ -466,7 +466,7 @@ POE 3.20 Forbidden Sanctum 禁忌聖域開服已經經過一星期
    
 
   
-![](WordPress/POE-90-Slayer-Cleve-Uber-Atziri-082917.mp4_snapshot_00.01.745-1024x576.jpg)  
+![](post_assets/POE-90-Slayer-Cleve-Uber-Atziri-082917.mp4_snapshot_00.01.745-1024x576.jpg)  
 
   
    

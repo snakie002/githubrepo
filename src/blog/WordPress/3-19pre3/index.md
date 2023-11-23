@@ -41,7 +41,7 @@ tags:
   - "流亡黯道-詐欺師"
   - "流亡黯道-追獵者"
   - "流亡黯道-飛刃風暴"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 ### 【POE】3.19 三大更新增強拓荒推薦 刺客中毒飛刃風暴 文字補完版本
@@ -104,8 +104,8 @@ coverImage: "thumbnail-4.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1.png)  
-![](WordPress/2.png)  
+![](post_assets/1.png)  
+![](post_assets/2.png)  
 
   
    
@@ -241,7 +241,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/3.png)  
+![](post_assets/3.png)  
 
   
    

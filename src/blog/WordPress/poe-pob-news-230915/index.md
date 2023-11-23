@@ -39,16 +39,16 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-POE.jpg"
+coverImage: "post_assets/Title-POE.jpg"
 ---
 
 # \[POE 插件\] PoB 2.34.0更新 - 連結技能 & 關鍵天賦紋身模擬 | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-POE-1024x576.jpg)  
+![](post_assets/Title-POE-1024x576.jpg)  
 
   
-![](WordPress/1-7.png)  
+![](post_assets/1-7.png)  
 
   
    
@@ -57,26 +57,26 @@ coverImage: "Title-POE.jpg"
 很多時候有多餘帳號在匯入頁內, 現在可以按 X 移除  
 
   
-![](WordPress/2-8.png)  
+![](post_assets/2-8.png)  
 
   
 POB亦自動增加了圖示 顯示技能串位置 方便理解  
 
   
-![](WordPress/3-8.png)  
+![](post_assets/3-8.png)  
 
   
 最近新真的關鍵天賦紋身亦終於可能模擬了  
 
   
-![](WordPress/4-9.png)  
+![](post_assets/4-9.png)  
 
   
 專精有一點可以使你的連結技用於召喚物上  
 現在也可以在Configuration 版面內模擬  
 
   
-![](WordPress/5-6.png)  
+![](post_assets/5-6.png)  
 
   
 最後新增匯入POE Planner的功能  

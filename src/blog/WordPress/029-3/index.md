@@ -35,7 +35,7 @@ tags:
   - "流亡黯道-流血"
   - "流亡黯道-漩渦"
   - "遊戲攻略"
-coverImage: "thumbnail-49.jpg"
+coverImage: "post_assets/thumbnail-49.jpg"
 ---
 
 【POE】三大爆炸拓荒推薦 元素師 X 印卜薩 文字補完版本  
@@ -73,10 +73,10 @@ coverImage: "thumbnail-49.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/Capture-1024x1011.jpg)  
+![](post_assets/Capture-1024x1011.jpg)  
 
   
-![](WordPress/Capture-9-1024x1011.png)  
+![](post_assets/Capture-9-1024x1011.png)  
 
   
 **這裡要先說一下，風暴烙印轉到電捷，是其中一個方法，****並不是最好的方法，因為風暴烙印的平台期很長，紅圖會止步，****如果有資源或願意用其他技能拓荒，****直接轉到電捷部份會更好！**  
@@ -87,7 +87,7 @@ coverImage: "thumbnail-49.jpg"
 連結: [https://www.youtube.com/watch?v=MVkgS-HSBXs](https://www.youtube.com/watch?v=MVkgS-HSBXs)  
 
   
-![](WordPress/1-4-300x276.png)  
+![](post_assets/1-4-300x276.png)  
 
   
    

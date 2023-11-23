@@ -40,13 +40,13 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-8.jpg"
+coverImage: "post_assets/title-8.jpg"
 ---
 
 # \[POE 3.22 消息\] 第12屆 BPL & 3.22.1b hotfix PN | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/title-8-1024x576.jpg)  
+![](post_assets/title-8-1024x576.jpg)  
 
   
 第12屆 BPL & 3.22.1b hotfix 更新公告  
@@ -58,7 +58,7 @@ coverImage: "title-8.jpg"
 今天有幾個消息:  
 
   
-![](WordPress/1-12.png)  
+![](post_assets/1-12.png)  
 
   
 1\. GGG已經推出了3.22.1b Hotfix  
@@ -66,7 +66,7 @@ coverImage: "title-8.jpg"
 改善遊戲順暢度  
 
   
-![](WordPress/2-12-1024x342.png)  
+![](post_assets/2-12-1024x342.png)  
 
   
 2\. 第12屆BPL已經接受報名  
@@ -77,7 +77,7 @@ coverImage: "title-8.jpg"
 BPL Discord: https://discord.gg/3weG9JACgb  
 
   
-![](WordPress/3-12-1024x341.png)  
+![](post_assets/3-12-1024x341.png)  
 
   
 3\. 這季會否有手套杯呢?  
@@ -86,7 +86,7 @@ BPL Discord: https://discord.gg/3weG9JACgb
 至於手套杯官方暫時還沒有公布任何相關消息  
 
   
-![](WordPress/4-14.png)  
+![](post_assets/4-14.png)  
 
   
 4\. 提提大家  

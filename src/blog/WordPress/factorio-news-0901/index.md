@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title.jpg"
+coverImage: "post_assets/title.jpg"
 ---
 
 # \[Factorio\] FFF #373 - Space Age (2.0 版本預告)| 異星工廠
@@ -48,13 +48,13 @@ coverImage: "title.jpg"
    
 
   
-![](WordPress/title-1024x576.jpg)  
+![](post_assets/title-1024x576.jpg)  
 
   
-![](WordPress/1-1-1024x1024.png)  
+![](post_assets/1-1-1024x1024.png)  
 
   
-![](WordPress/1-2-1024x664.png)  
+![](post_assets/1-2-1024x664.png)  
 
   
    
@@ -103,7 +103,7 @@ WUBE這個名字其實就是代表Everything will be done eventually
 下一步法  
 
   
-![](WordPress/2.png)  
+![](post_assets/2.png)  
 
   
 在Space Age裡面  
@@ -183,7 +183,7 @@ WUBE這個名字其實就是代表Everything will be done eventually
 這些都會在未來的FFF裡面交代的了  
 
   
-![](WordPress/3-1024x796.png)  
+![](post_assets/3-1024x796.png)  
 
   
 然後下一部分就是一個好消息  
@@ -251,7 +251,7 @@ WUBE這個名字其實就是代表Everything will be done eventually
 就是由太空探索的模組創作者所寫的  
 
   
-![](WordPress/4-1024x905.png)  
+![](post_assets/4-1024x905.png)  
 
   
 題目是 "不是已經有一個模組正在做這件事了嗎?"  

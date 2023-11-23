@@ -37,7 +37,7 @@ tags:
   - "流亡黯道-判官"
   - "流亡黯道-箭雨"
   - "遊戲攻略"
-coverImage: "thumbnail-42.jpg"
+coverImage: "post_assets/thumbnail-42.jpg"
 ---
 
 ### 【POE】100%暴擊！3.13 判官COC箭雨屍體爆破致息之息 | Inquisitor RoA COC DD + VD  
@@ -71,7 +71,7 @@ Pastebin: [https://pastebin.com/GK5zq5Cr](https://pastebin.com/GK5zq5Cr)
 天賦樹縮圖:  
 
   
-![](WordPress/passive-4-1024x548.png)  
+![](post_assets/passive-4-1024x548.png)  
 
   
 **整體思路：**  
@@ -97,7 +97,7 @@ Pastebin: [https://pastebin.com/GK5zq5Cr](https://pastebin.com/GK5zq5Cr)
 所以很多部位還是可以上去的，  
 
   
-![](WordPress/CAP1-1024x573.png)  
+![](post_assets/CAP1-1024x573.png)  
 
   
 **技能配置：**  
@@ -164,7 +164,7 @@ Pastebin: [https://pastebin.com/GK5zq5Cr](https://pastebin.com/GK5zq5Cr)
 魔力不足的情況下可能要放棄使用  
 
   
-![](WordPress/gear.png)  
+![](post_assets/gear.png)  
 
   
    
@@ -270,7 +270,7 @@ Pastebin: [https://pastebin.com/GK5zq5Cr](https://pastebin.com/GK5zq5Cr)
 本來玩這流派就是不太化算就是了XD  
 
   
-![](WordPress/unknown.png)  
+![](post_assets/unknown.png)  
 
   
    

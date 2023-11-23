@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-衛士"
   - "流亡黯道-追獵者"
   - "遊戲攻略"
-coverImage: "1-3.jpg"
+coverImage: "post_assets/1-3.jpg"
 ---
 
 ### 【POE】3.16三大穩健拓荒推薦 追獵者天譴之箭 文字補完版本
@@ -74,10 +74,10 @@ coverImage: "1-3.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-19-1024x875.png)  
+![](post_assets/1-19-1024x875.png)  
 
   
-![](WordPress/2-15.png)  
+![](post_assets/2-15.png)  
 
   
    
@@ -113,7 +113,7 @@ coverImage: "1-3.jpg"
 實測後請按個人喜愛調配！  
 
   
-![](WordPress/3-11.png)  
+![](post_assets/3-11.png)  
 
   
 **裝備選擇**標配上是影片中的組合，夜吟弓及箭毒蛙胸甲  
@@ -148,7 +148,7 @@ coverImage: "1-3.jpg"
 基本上差不多了，空了一個可放受傷時施放串或死亡傳送門等！  
 
   
-![](WordPress/4-8.png)  
+![](post_assets/4-8.png)  
 
   
 **感想心得**剛玩天譴之箭需要一段時間習慣一下手感，  

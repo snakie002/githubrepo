@@ -37,14 +37,14 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-6.jpg"
+coverImage: "post_assets/title-6.jpg"
 ---
 
 # \[POE 3.22 消息\] 追加Patch Note , 殺Uber比賽 & 新命運卡  
 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/title-6-1024x576.jpg)  
+![](post_assets/title-6-1024x576.jpg)  
 
   
 喂 早晨我是hfok 今天又有幾個新消息  
@@ -87,9 +87,9 @@ coverImage: "title-6.jpg"
    
 
   
-![](WordPress/0-1-Patch-Note-1024x576.png)  
-![](WordPress/0-3-Warpath.png)  
-![](WordPress/0-2-War-Herald.png)  
+![](post_assets/0-1-Patch-Note-1024x576.png)  
+![](post_assets/0-3-Warpath.png)  
+![](post_assets/0-2-War-Herald.png)  
 
   
    
@@ -123,11 +123,11 @@ Bold Undertakings 就是當你選擇天佑勇者
    
 
   
-![](WordPress/1-1-RAQ-1024x576.png)  
-![](WordPress/1-3-RAQ.png)  
-![](WordPress/1-2-RAQ.png)  
-![](WordPress/1-4-Overloaded.png)  
-![](WordPress/1-5-Bold.png)  
+![](post_assets/1-1-RAQ-1024x576.png)  
+![](post_assets/1-3-RAQ.png)  
+![](post_assets/1-2-RAQ.png)  
+![](post_assets/1-4-Overloaded.png)  
+![](post_assets/1-5-Bold.png)  
 
   
    
@@ -147,9 +147,9 @@ Bold Undertakings 就是當你選擇天佑勇者
    
 
   
-![](WordPress/2-1-Boss-Kill-1024x576.png)  
-![](WordPress/2-4-Boss-Kill.jpeg)  
-![](WordPress/2-3-additonal-Rules.png)  
+![](post_assets/2-1-Boss-Kill-1024x576.png)  
+![](post_assets/2-4-Boss-Kill.jpeg)  
+![](post_assets/2-3-additonal-Rules.png)  
 
   
 最後 今天他們也展示了一張新的命運卡給大家看  
@@ -162,7 +162,7 @@ GGG取消了設計新的傳奇這個獎勵 所以連期待的東西都沒有了
 不知道你們覺得怎樣 不妨在留言告訴我  
 
   
-![](WordPress/3-1-card--1024x576.jpg)  
+![](post_assets/3-1-card--1024x576.jpg)  
 
   
    

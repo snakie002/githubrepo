@@ -39,16 +39,16 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-12.jpg"
+coverImage: "post_assets/Title-12.jpg"
 ---
 
 # \[POE 3.22 消息\] Hotfix 1-7 & 未來改善方向 | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-12-1024x576.jpg)  
+![](post_assets/Title-12-1024x576.jpg)  
 
   
-![](WordPress/1-hotfix-1-300x103.png)  
+![](post_assets/1-hotfix-1-300x103.png)  
 
   
 喂 早晨我是hfok  
@@ -65,13 +65,13 @@ coverImage: "Title-12.jpg"
 第二項修正了銀幣可以在標準上掉落  
 
   
-![](WordPress/2-hotfix-2-300x102.png)  
+![](post_assets/2-hotfix-2-300x102.png)  
 
   
 而第二個Hotfix內就補回他們之前漏了的視覺效果  
 
   
-![](WordPress/3-hotfix-3-300x97.png)  
+![](post_assets/3-hotfix-3-300x97.png)  
 
   
 而去到第三個Hotfix  
@@ -91,7 +91,7 @@ coverImage: "Title-12.jpg"
 最後在Hotfix 3裡面他們也修正了四個會導致當機的問題  
 
   
-![](WordPress/4-hotfix-4-300x96.png)  
+![](post_assets/4-hotfix-4-300x96.png)  
 
   
 然後去到Hotfix 4  
@@ -114,7 +114,7 @@ coverImage: "Title-12.jpg"
 他們也修正了一個會導致當機的問題  
 
   
-![](WordPress/5-hotfix-5-300x97.png)  
+![](post_assets/5-hotfix-5-300x97.png)  
 
   
 然後去到Hotfix 5  
@@ -125,7 +125,7 @@ coverImage: "Title-12.jpg"
 會重複了很多不同的獎勵出來  
 
   
-![](WordPress/6-hotfix-6-300x101.png)  
+![](post_assets/6-hotfix-6-300x101.png)  
 
   
 然後去到Hotfix 6  
@@ -135,7 +135,7 @@ coverImage: "Title-12.jpg"
 然後去到最後一個Hotfix  
 
   
-![](WordPress/7-hotfix-7-300x102.png)  
+![](post_assets/7-hotfix-7-300x102.png)  
 
   
 Hotfix 7也是在製作這條影片的時候  
@@ -162,7 +162,7 @@ Hotfix 7也是在製作這條影片的時候
 最後他們也修正了一個會導致當機的問題  
 
   
-![](WordPress/8-RAQ-1024x576.png)  
+![](post_assets/8-RAQ-1024x576.png)  
 
   
 接著他們在RAQ常見問題部分  
@@ -189,7 +189,7 @@ A: 我們會盡快推出的了
 當推出的時候就會發布消息告訴大家 "已經出了"  
 
   
-![](WordPress/9-Improvements.png)  
+![](post_assets/9-Improvements.png)  
 
   
 下一個消息 到底這個祖靈的試煉有什麼改善呢  
@@ -213,7 +213,7 @@ A: 我們會盡快推出的了
 就沒辦法再可以點擊到他的問題  
 
   
-![](WordPress/10-annoint-1024x576.jpg)  
+![](post_assets/10-annoint-1024x576.jpg)  
 
   
 然後到最後 他們現在在研究為什麼有時候在新機制裡面  

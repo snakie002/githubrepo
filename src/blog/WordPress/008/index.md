@@ -28,7 +28,7 @@ tags:
   - "流亡黯道-召喚"
   - "流亡黯道-攻略"
   - "流亡黯道-教學"
-coverImage: "thumbnail-27.jpg"
+coverImage: "post_assets/thumbnail-27.jpg"
 ---
 
 ### 【POE】3.12 死靈食腐魔像 Necromancer Carrion Golem | 千萬傷害 單手遊玩  
@@ -73,7 +73,7 @@ Pastebin: [https://pastebin.com/B9XzD5bp](https://pastebin.com/B9XzD5bp)
 天賦樹縮圖:  
 
   
-![](WordPress/Capture-1024x645.png)  
+![](post_assets/Capture-1024x645.png)  
 
   
    
@@ -120,7 +120,7 @@ Pastebin: [https://pastebin.com/B9XzD5bp](https://pastebin.com/B9XzD5bp)
 ９０後就開始睏了，因為真的在跑而已。。。  
 
   
-![](WordPress/CelestialRaiseZombie.png) ![](WordPress/ProjectRaiseZombieSkin.png)  
+![](post_assets/CelestialRaiseZombie.png) ![](post_assets/ProjectRaiseZombieSkin.png)  
 
   
    
@@ -243,7 +243,7 @@ Pastebin: [https://pastebin.com/B9XzD5bp](https://pastebin.com/B9XzD5bp)
    
 
   
-![](WordPress/DarkwoodCarrionGolemEffect.png) ![](WordPress/Stygian_Carrion_Golem_Skin_inventory_icon.png) ![](WordPress/Summon_Carrion_Golem_skill_icon.png)  
+![](post_assets/DarkwoodCarrionGolemEffect.png) ![](post_assets/Stygian_Carrion_Golem_Skin_inventory_icon.png) ![](post_assets/Summon_Carrion_Golem_skill_icon.png)  
 
   
 裝備要求  
@@ -383,7 +383,7 @@ Pastebin: [https://pastebin.com/B9XzD5bp](https://pastebin.com/B9XzD5bp)
 就要自己爬爬文了！～  
 
   
-![](WordPress/thumbnail-27-1024x576.jpg)  
+![](post_assets/thumbnail-27-1024x576.jpg)  
 
   
    

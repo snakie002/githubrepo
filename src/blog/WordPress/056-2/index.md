@@ -38,7 +38,7 @@ tags:
   - "流亡黯道-銳眼龍捲射擊"
   - "流亡黯道-龍捲射擊"
   - "遊戲攻略"
-coverImage: "thumbnail-55.jpg"
+coverImage: "post_assets/thumbnail-55.jpg"
 ---
 
 ### 【POE】3.16 終價刷圖機器 銳眼龍捲射擊 Deadeye Tornado Shot  
@@ -73,10 +73,10 @@ coverImage: "thumbnail-55.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-23-734x1024.png)  
+![](post_assets/1-23-734x1024.png)  
 
   
-![](WordPress/2-18.png)  
+![](post_assets/2-18.png)  
 
   
 天賦可以改動的地方很多，但也因為太多不同的點法，  
@@ -198,7 +198,7 @@ coverImage: "thumbnail-55.jpg"
    
 
   
-![](WordPress/2.mp4_snapshot_08.41.170-1024x576.jpg)  
+![](post_assets/2.mp4_snapshot_08.41.170-1024x576.jpg)  
 
   
 **裝備選擇**  
@@ -364,7 +364,7 @@ coverImage: "thumbnail-55.jpg"
 <table width="623"><tbody><tr><td colspan="4" width="604"><strong>裝備選擇</strong></td></tr><tr><td width="38">胸甲</td><td width="104">西里的戰衣</td><td width="255"><a href="https://poedb.tw/tw/Hyrris_Ire">https://poedb.tw/tw/Hyrris_Ire</a></td><td width="208">—</td></tr><tr><td colspan="4" width="604">平民冰屬類別弓箭胸甲，不需要考慮太多<br>有資源後出升級版 加一詛咒 暴擊藍球 暴擊底率 就好<br>但要配合手套多一詛咒才有效果 所以不用著急</td></tr><tr><td width="38">頭部</td><td width="104">安賽娜絲的歌頌</td><td width="255"><a href="https://poedb.tw/tw/Asenaths_Chant">https://poedb.tw/tw/Asenaths_Chant</a></td><td width="208">龍捲＋１投射物（但我沒有所以用印記效果）</td></tr><tr><td colspan="4" width="604">標配，水球印記自動施放，必備</td></tr><tr><td width="38">手套</td><td width="104">冰冷之眼</td><td width="255"><a href="https://poedb.tw/tw/Hrimsorrow">https://poedb.tw/tw/Hrimsorrow</a></td><td width="208">—</td></tr><tr><td colspan="4" width="604">平價轉傷組合，有資源可以用勢力或看守眼全轉，也是可以的<br>當然平價也是重點，能打就好～～</td></tr><tr><td width="38">鞋</td><td width="104">阿茲里的金履</td><td width="255"><a href="https://poedb.tw/tw/Atziris_Step">https://poedb.tw/tw/Atziris_Step</a></td><td width="208">—</td></tr><tr><td colspan="4" width="604">血移速，一定的法術抑制，最重要便宜，<br>黃裝就用上靈巧已經足夠，因為自帶流順，除非走極致用擊殺猛攻或Ｔ０流順效果等<br>還是上面一句，能打就好～～</td></tr><tr><td width="38">武器</td><td width="104">阿布里斯</td><td width="255"><a href="https://poedb.tw/tw/Arborix">https://poedb.tw/tw/Arborix</a></td><td width="208">／</td></tr><tr><td colspan="4" width="604">傳奇物傷弓，配合轉傷已經可以做到不錯的輸出，缺點是綁定幻步及幻步後缺少箭矢<br>但絕對足夠了，也有實測可以用這把擊倒賽九，<br>當然武器愈大把愈有效，黃裝就按自己錢包決定了～～</td></tr><tr><td width="38">項鍊</td><td width="104">磨難之軛</td><td width="255"><a href="https://poedb.tw/tw/Yoke_of_Suffering">https://poedb.tw/tw/Yoke_of_Suffering</a></td><td width="208">油上冰雪之心</td></tr><tr><td colspan="4" width="604">全抗＋感電效果，便宜好用的增傷項鍊，</td></tr><tr><td width="38">戒指１</td><td width="104">元素之章</td><td width="255"><a href="https://poedb.tw/tw/The_Taming">https://poedb.tw/tw/The_Taming</a></td><td width="208">/</td></tr><tr><td colspan="4" width="604">元素弓入門傳奇，有抗有輸出有效果，缺點是用上兩只後，要換戒指十分困難。。。</td></tr><tr><td width="38">戒指２</td><td width="104">元素之章</td><td width="255"><a href="https://poedb.tw/tw/The_Taming">https://poedb.tw/tw/The_Taming</a></td><td width="208">／</td></tr><tr><td colspan="4" width="604">元素弓入門傳奇，有抗有輸出有效果，缺點是用上兩只後，要換戒指十分困難。。。</td></tr><tr><td width="38">皮帶</td><td width="104">黃裝</td><td width="255">隨意</td><td width="208">／</td></tr><tr><td colspan="4" width="604">補力補抗，因為機體大量缺力智，需要這裡補點三圍，有血有元素攻擊傷更佳</td></tr><tr><td width="38">箭袋</td><td width="104">虛眼箭矢</td><td width="255"><a href="https://poedb.tw/tw/Voidfletcher">https://poedb.tw/tw/Voidfletcher</a></td><td width="208">瓦走穿透上詞</td></tr><tr><td colspan="4" width="604">&nbsp;因為要配合水球，需要瓦走穿透上詞觸發水球效果，所以用原本的會有影響，必需瓦出其他詞，加一箭或零點射擊更佳</td></tr><tr><td width="38">珠寶</td><td width="104">看守之眼</td><td width="255"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="208">／</td></tr><tr><td colspan="4" width="604">憎恨冰點傷最便宜，憎恨暴率最有效最貴，<br>理想值是憎恨轉傷 ＋ 憎恨暴率 然後解放手套 當然是最最最貴的組合</td></tr><tr><td width="38">珠寶</td><td width="104">求知的熱情</td><td width="255"><a href="https://poedb.tw/tw/Inspired_Learning">https://poedb.tw/tw/Inspired_Learning</a></td><td width="208">／</td></tr><tr><td colspan="4" width="604">增加清圖能力，必備</td></tr><tr><td width="38">珠寶</td><td width="104">黃裝</td><td width="255"></td><td width="208">／</td></tr><tr><td colspan="4" width="604">持弓攻速，全抗，全域暴率，因為龍捲可以用上的暴擊加成不多，好處也是壞處，珠寶不會極度昂貴，還好</td></tr><tr><td width="38">星團珠寶</td><td width="104">黃裝</td><td width="255">大型</td><td width="208">１２％持弓傷害</td></tr><tr><td colspan="4" width="604">豢養狂怒＋刺激戰鬥＋武術英勇</td></tr><tr><td width="38">星團珠寶</td><td width="104">黃裝</td><td width="255">中型＊２</td><td width="208">１５％暴擊率</td></tr><tr><td colspan="4" width="604">壓力點＋迅速逃離</td></tr><tr><td width="38">星團珠寶</td><td width="104">黃裝</td><td width="255">中型</td><td width="208">１２％混沌持續傷加成</td></tr><tr><td colspan="4" width="604">閉鎖遺忘＋生機流動</td></tr></tbody></table>
 
   
-![](WordPress/2021-11-18-15-10-48.mp4_snapshot_33.41.500-1024x576.jpg)  
+![](post_assets/2021-11-18-15-10-48.mp4_snapshot_33.41.500-1024x576.jpg)  
 
   
 **感想心得**  

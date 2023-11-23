@@ -29,7 +29,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-18.jpg"
+coverImage: "post_assets/thumbnail-18.jpg"
 ---
 
 ### 【POE】3.11 初階農場造裝教程 (1) Basic Harvest Crafting Guide | 自己裝備自己做  
@@ -55,10 +55,10 @@ coverImage: "thumbnail-18.jpg"
    
 
   
-![](WordPress/detail-1024x576.jpg)  
+![](post_assets/detail-1024x576.jpg)  
 
   
-![](WordPress/detail-2-1024x576.jpg)  
+![](post_assets/detail-2-1024x576.jpg)  
 
   
    
@@ -110,7 +110,7 @@ coverImage: "thumbnail-18.jpg"
   
 
   
-![](WordPress/AFFIX-POB-1024x656.png)  
+![](post_assets/AFFIX-POB-1024x656.png)  
 
   
    

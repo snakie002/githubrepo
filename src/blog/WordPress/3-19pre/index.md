@@ -42,7 +42,7 @@ tags:
   - "流亡黯道-詐欺師"
   - "流亡黯道-追獵者"
   - "流亡黯道-飛刃風暴"
-coverImage: "thumbnail-7.jpg"
+coverImage: "post_assets/thumbnail-7.jpg"
 ---
 
 ### 【POE】3.19 三大更新增強拓荒推薦 詐欺正義之火 追獵天譴之箭 刺客中毒飛刃風暴  
@@ -94,7 +94,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/Path-of-Exile-Lake-of-Kalandra-Livestream-August-2022.mp4_snapshot_01.36.282-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Lake-of-Kalandra-Livestream-August-2022.mp4_snapshot_01.36.282-1024x576.jpg)  
 
   
    
@@ -130,7 +130,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/Path-of-Exile-Lake-of-Kalandra-Livestream-August-2022.mp4_snapshot_02.08.875-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Lake-of-Kalandra-Livestream-August-2022.mp4_snapshot_02.08.875-1024x576.jpg)  
 
   
    
@@ -159,7 +159,7 @@ coverImage: "thumbnail-7.jpg"
    
 
   
-![](WordPress/7899-1024x576.jpg)  
+![](post_assets/7899-1024x576.jpg)  
 
   
    

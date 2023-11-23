@@ -36,19 +36,19 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-TLI.jpg"
+coverImage: "post_assets/Title-TLI.jpg"
 ---
 
 # \[TLI SS2\] 伊瑞斯火魔靈 - 休閒/自力玩家福音!
 
   
-![](WordPress/Title-TLI-1024x576.jpg)  
+![](post_assets/Title-TLI-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-1-2-1024x576.png)  
+![](post_assets/1-1-2-1024x576.png)  
 
   
 SS2火炬無限終於可以實現到SSF破憶DPS!  
@@ -59,7 +59,7 @@ SS2火炬無限終於可以實現到SSF破憶DPS!
 即使錯過了第一天或者進度比較慢都無所謂了  
 
   
-![](WordPress/1-2-2-1024x576.png)  
+![](post_assets/1-2-2-1024x576.png)  
 
   
 所謂SSF(自力)就是所有東西都是靠自己  
@@ -85,28 +85,28 @@ SS2火炬無限終於可以實現到SSF破憶DPS!
 特性/追憶/遺物:  
 
   
-![](WordPress/2-9-1024x576.png)  
+![](post_assets/2-9-1024x576.png)  
 
   
 裝備:  
 
   
-![](WordPress/3-9-1024x576.png)  
+![](post_assets/3-9-1024x576.png)  
 
   
-![](WordPress/4-10.png)  
+![](post_assets/4-10.png)  
 
   
 天賦配點:  
 
   
-![](WordPress/5-1-2-1024x321.png)  
+![](post_assets/5-1-2-1024x321.png)  
 
   
-![](WordPress/5-2-3-1024x309.png)  
+![](post_assets/5-2-3-1024x309.png)  
 
   
-![](WordPress/5-3-3-1024x304.png)  
+![](post_assets/5-3-3-1024x304.png)  
 
   
 神格石版:  
@@ -115,7 +115,7 @@ SS2火炬無限終於可以實現到SSF破憶DPS!
    
 
   
-![](WordPress/5-4-1-1024x576.png)  
+![](post_assets/5-4-1-1024x576.png)  
 
   
    
@@ -124,20 +124,20 @@ SS2火炬無限終於可以實現到SSF破憶DPS!
 技能配合:  
 
   
-![](WordPress/6-8-1024x576.png)  
-![](WordPress/6-7-1024x576.png)  
-![](WordPress/6-6-1024x576.png)  
-![](WordPress/6-5-1024x576.png)  
-![](WordPress/6-4-1024x576.png)  
-![](WordPress/6-3-1-300x169.png)  
-![](WordPress/6-2-1-1024x576.png)  
-![](WordPress/6-1-1-1024x576.png)  
+![](post_assets/6-8-1024x576.png)  
+![](post_assets/6-7-1024x576.png)  
+![](post_assets/6-6-1024x576.png)  
+![](post_assets/6-5-1024x576.png)  
+![](post_assets/6-4-1024x576.png)  
+![](post_assets/6-3-1-300x169.png)  
+![](post_assets/6-2-1-1024x576.png)  
+![](post_assets/6-1-1-1024x576.png)  
 
   
 契靈:  
 
   
-![](WordPress/7-1-1024x669.png)  
+![](post_assets/7-1-1024x669.png)  
 
   
    

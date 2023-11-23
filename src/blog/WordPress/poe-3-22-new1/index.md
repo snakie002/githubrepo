@@ -33,7 +33,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title.jpg"
+coverImage: "post_assets/title.jpg"
 ---
 
 # \[POE 3.22 消息\] 創傷輔助 & 譫妄關鍵天賦  
@@ -41,7 +41,7 @@ coverImage: "title.jpg"
 
   
 
-# ![](WordPress/title-1024x576.jpg)
+# ![](post_assets/title-1024x576.jpg)
 
   
    
@@ -50,16 +50,16 @@ coverImage: "title.jpg"
 3.22 的牙膏開始釋出，今天帶給各位讀者的是創傷輔助及譫妄輿圖天賦  
 
   
-![](WordPress/trauma-stack-1024x576.jpg)  
+![](post_assets/trauma-stack-1024x576.jpg)  
 
   
-![](WordPress/deli-keystone-1024x576.jpg)  
+![](post_assets/deli-keystone-1024x576.jpg)  
 
   
 另外GGG公關小姐Bex經過多年主僕關係決定離開GGG向新的人生道路出發  
 
   
-![](WordPress/bex-leaving-1024x576.jpg)  
+![](post_assets/bex-leaving-1024x576.jpg)  
 
   
 有興趣緊貼POE消息的朋友們可以訂閱相關頻道！  

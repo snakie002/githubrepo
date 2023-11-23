@@ -35,7 +35,7 @@ tags:
   - "流亡黯道-轉世災魘"
   - "遊戲介紹"
   - "遊戲攻略"
-coverImage: "thumbnail-54.jpg"
+coverImage: "post_assets/thumbnail-54.jpg"
 ---
 
 ### 【POE】3.16 轉世災魘 首週進度報告 | 拓圖簡易講解 輿圖新天賦改變遊戲進程  
@@ -67,7 +67,7 @@ coverImage: "thumbnail-54.jpg"
 分別是**防禦面問題，遊戲進程改變，以及聯盟機制感想**  
 
   
-![](WordPress/n8knzm9gexw71.png)  
+![](post_assets/n8knzm9gexw71.png)  
 
   
 2. **防禦面問題（閃避值）**本篇只針對閃避值來說 （因為左面的護甲還沒玩過）  
@@ -91,7 +91,7 @@ coverImage: "thumbnail-54.jpg"
    
 
   
-![](WordPress/4pbexfnjdww71.png)  
+![](post_assets/4pbexfnjdww71.png)  
 
   
    
@@ -124,7 +124,7 @@ coverImage: "thumbnail-54.jpg"
   
 
   
-![](WordPress/9mr98vpvcow71.png)  
+![](post_assets/9mr98vpvcow71.png)  
 
   
 4. **聯盟機制感想**暫時來說除了五連六洞，煮一下變六連外，  

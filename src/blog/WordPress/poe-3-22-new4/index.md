@@ -32,7 +32,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-3.jpg"
+coverImage: "post_assets/title-3.jpg"
 ---
 
 # \[POE 3.22 消息\] Sadism 輔助 & 交易界面改善  
@@ -42,10 +42,10 @@ coverImage: "title-3.jpg"
 早安 我是hfok  
 
   
-![](WordPress/title-3-1024x576.jpg)  
+![](post_assets/title-3-1024x576.jpg)  
 
   
-![](WordPress/Legion-schism-1024x576.jpg)  
+![](post_assets/Legion-schism-1024x576.jpg)  
 
   
 Q: 到底昨天展示出來的戰亂輿圖關鍵天賦是怎樣運行的  
@@ -64,7 +64,7 @@ A: 官方截圖給我們看:32.419
    
 
   
-![](WordPress/Sadism-support-1024x576.jpg)  
+![](post_assets/Sadism-support-1024x576.jpg)  
 
   
    
@@ -81,7 +81,7 @@ Sadism Support
    
 
   
-![](WordPress/trade-QOL-1024x576.jpg)  
+![](post_assets/trade-QOL-1024x576.jpg)  
 
   
    
@@ -100,7 +100,7 @@ Sadism Support
    
 
   
-![](WordPress/crucible-ending-soon-1024x576.jpg)  
+![](post_assets/crucible-ending-soon-1024x576.jpg)  
 
   
    

@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-16.jpg"
+coverImage: "post_assets/Title-16.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.0b hotfix 4 | 流亡黯道  
@@ -49,8 +49,8 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/Title-16-1024x576.jpg)  
-![](WordPress/1-1-hotfix-4-1024x576.png)  
+![](post_assets/Title-16-1024x576.jpg)  
+![](post_assets/1-1-hotfix-4-1024x576.png)  
 
   
    
@@ -79,8 +79,8 @@ Hotfix 4推出之後
 在這個Hotfix之後就已經順暢了  
 
   
-![](WordPress/1-2-hotfix-4.png)  
-![](WordPress/2-1-1.png)  
+![](post_assets/1-2-hotfix-4.png)  
+![](post_assets/2-1-1.png)  
 
   
    
@@ -109,7 +109,7 @@ GGG現在重新把Hotfix 4推出了
    
 
   
-![](WordPress/2-2-.png)  
+![](post_assets/2-2-.png)  
 
   
    

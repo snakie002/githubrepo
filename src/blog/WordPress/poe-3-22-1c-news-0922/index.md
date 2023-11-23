@@ -39,26 +39,26 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-POE-1.jpg"
+coverImage: "post_assets/Title-POE-1.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.1c 更新公告 | 流亡黯道 | Path of Exile | 祖靈的試煉
 
   
-![](WordPress/Title-POE-1-1024x576.jpg)  
+![](post_assets/Title-POE-1-1024x576.jpg)  
 
   
 今天GGG推出了 3.22.1c 主要更新如下:  
 
   
-![](WordPress/1-13.png)  
+![](post_assets/1-13.png)  
 
   
 以下物品掉落時改成會根據隊伍掉落分配設定:  
 探險日誌 輿圖記憶眾 神聖器 聖甲蟲  
 
   
-![](WordPress/2-13-300x162.png)  
+![](post_assets/2-13-300x162.png)  
 
   
 增加了提示顯示那一些裝備已經有培育器  

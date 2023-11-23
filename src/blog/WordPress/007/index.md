@@ -26,7 +26,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【POE】喝水流魔幻飛刃風暴 Pathfinder Archmage Blade Vortex | 時速220% 攻守一體  
@@ -68,7 +68,7 @@ Pastebin: https://pastebin.com/xjcWAb6u
 天賦樹縮圖:  
 
   
-![](WordPress/PASSIVE-1024x811.png)  
+![](post_assets/PASSIVE-1024x811.png)  
 
   
    
@@ -108,7 +108,7 @@ Pastebin: https://pastebin.com/xjcWAb6u
 直到７０級換上傳奇裝備後就可以進入後期形態！  
 
   
-![](WordPress/Illusionist_Blade_Vortex_Effect_inventory_icon.png) ![](WordPress/Demonic_Blade_Vortex_inventory_icon.png)  
+![](post_assets/Illusionist_Blade_Vortex_Effect_inventory_icon.png) ![](post_assets/Demonic_Blade_Vortex_inventory_icon.png)  
 
   
 技能配置：  
@@ -216,7 +216,7 @@ Pastebin: https://pastebin.com/xjcWAb6u
    
 
   
-![](WordPress/Cloak_of_Defiance_inventory_icon.png) ![](WordPress/Omeyocan_inventory_icon.png)  
+![](post_assets/Cloak_of_Defiance_inventory_icon.png) ![](post_assets/Omeyocan_inventory_icon.png)  
 
   
    
@@ -415,7 +415,7 @@ Pathfinder當然是藥水是重點，
 所以還是放棄了ＸＤ  
 
   
-![](WordPress/thumbnail-1024x576.jpg)  
+![](post_assets/thumbnail-1024x576.jpg)  
 
   
 個人感想  

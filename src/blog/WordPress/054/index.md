@@ -32,7 +32,7 @@ tags:
   - "流亡黯道-自冰"
   - "流亡黯道-追獵"
   - "遊戲攻略"
-coverImage: "thumbnail2-4.jpg"
+coverImage: "post_assets/thumbnail2-4.jpg"
 ---
 
 ### 【POE】3.16 廉價冰毒 絕命毒師 追獵者毒藥瓶全通 Pathfinder Poisonous Concoction  
@@ -73,10 +73,10 @@ POE 3.16 轉世災魘又名飯煲或焗爐聯盟，雖然有大量德政更新�
 以下為附圖方便各位：  
 
   
-![](WordPress/1-22-1024x869.png)  
+![](post_assets/1-22-1024x869.png)  
 
   
-![](WordPress/2-17.png)  
+![](post_assets/2-17.png)  
 
   
    
@@ -216,7 +216,7 @@ POE 3.16 轉世災魘又名飯煲或焗爐聯盟，雖然有大量德政更新�
    
 
   
-![](WordPress/4-10.png)  
+![](post_assets/4-10.png)  
   
   
   
@@ -362,7 +362,7 @@ POE 3.16 轉世災魘又名飯煲或焗爐聯盟，雖然有大量德政更新�
 <table style="height: 2199px;" width="756"><tbody><tr><td colspan="4" width="604"><strong>裝備選擇</strong></td></tr><tr><td width="35">胸甲</td><td width="50">箭毒蛙</td><td width="340"><a href="https://poedb.tw/tw/Dendrobate">https://poedb.tw/tw/Dendrobate</a></td><td width="180">＋１全技能／＋２投射物為佳</td></tr><tr><td colspan="4" width="604">需要留意角色要有３００敏捷及１５０智力以發揮特殊效果增加中毒時間及傷害，最好有＋１全技能配合２１毒藥瓶發動２２等，就會有更高傷害</td></tr><tr><td width="35">頭部</td><td width="50">吞噬之冠</td><td width="340"><a href="https://poedb.tw/tw/The_Devouring_Diadem">https://poedb.tw/tw/The_Devouring_Diadem</a></td><td width="180">附魔２４％毒藥瓶範圍效果</td></tr><tr><td colspan="4" width="604">建議隱匿詞為敏捷＋智力以方便達到３００敏１５０智水平，其他詞綴都沒太多幫助</td></tr><tr><td width="35">手套</td><td width="50">黃裝</td><td width="340">／</td><td width="180">靈藥手套</td></tr><tr><td colspan="4" width="604">補智＞血抗＞命中，在下一步就會是狩獵底的混沌持續傷 但因為綁定太多裝備，基本黃裝就可以了</td></tr><tr><td width="35">鞋</td><td width="50">黃裝</td><td width="340">／</td><td width="180">／</td></tr><tr><td colspan="4" width="604">血抗（大量）＞移速，抗性主要來源，其他詞都沒有太特別用途，以拓荒流派來說就不用太認真了</td></tr><tr><td width="35">武器</td><td width="50">／</td><td width="340">／</td><td width="180">／</td></tr><tr><td colspan="4" width="604">請裝上需要練等的技能石</td></tr><tr><td width="35">項鍊</td><td width="50">不在場證明</td><td width="340"><a href="https://poedb.tw/tw/Impresence">https://poedb.tw/tw/Impresence</a></td><td width="180">油上滅世之語</td></tr><tr><td colspan="4" width="604">免費絕望光環，同時有持續害及血量等加成，非常有用，配合油上滅世之語，可發動兩個詛咒光環，效果非常明顯</td></tr><tr><td width="35">戒指１</td><td width="50">冰風軌跡</td><td width="340"><a href="https://poedb.tw/tw/Icefang_Orbit">https://poedb.tw/tw/Icefang_Orbit</a></td><td width="180">/</td></tr><tr><td colspan="4" width="604">綁定，可上混沌催化劑增加毒傷</td></tr><tr><td width="35">戒指２</td><td width="50">冬織</td><td width="340"><a href="https://poedb.tw/tw/Winterweave">https://poedb.tw/tw/Winterweave</a></td><td width="180">／</td></tr><tr><td colspan="4" width="604">綁定</td></tr><tr><td width="35">皮帶</td><td width="50">黃裝</td><td width="340">隨意</td><td width="180">／</td></tr><tr><td colspan="4" width="604">血抗腰帶，可能的話再補個血瓶回復量增加喝水速度，因為我們喝水速度是會比較低 （專精及藥瓶效果）</td></tr><tr><td width="35">珠寶</td><td width="50">看守之眼</td><td width="340"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="180">／</td></tr><tr><td colspan="4" width="604">惡意 ＋ 不受中毒效果影響，再進一步就是惡意增加持續傷，太貴了</td></tr><tr><td width="35">珠寶</td><td width="50">贗品．腦衝</td><td width="340"><a href="https://poedb.tw/tw/Replica_Hotheaded">https://poedb.tw/tw/Replica_Hotheaded</a></td><td width="180">／</td></tr><tr><td colspan="4" width="604">只有移速及攻速有用 請留意</td></tr><tr><td width="35">珠寶</td><td width="50">黃金守則</td><td width="340"><a href="https://poedb.tw/tw/The_Golden_Rule">https://poedb.tw/tw/The_Golden_Rule</a></td><td width="180">／</td></tr><tr><td colspan="4" width="604">秒回佳品，在打圖的時候其實很明顯，用上就對了</td></tr><tr><td width="35">星團珠寶</td><td width="50">黃裝</td><td width="340">大型</td><td width="180">１２％混沌傷害基底</td></tr><tr><td colspan="4" width="604">殘酷之觸＋不潔優雅＋邪惡棺木</td></tr><tr><td width="35">星團珠寶</td><td width="50">黃裝</td><td width="340">中型</td><td width="180">１２％混沌持續傷加成</td></tr><tr><td colspan="4" width="604">閉鎖遺忘＋邪惡棺木</td></tr><tr><td width="35">星團珠寶</td><td width="50">黃裝</td><td width="340">中型</td><td width="180">１２％混沌持續傷加成</td></tr><tr><td colspan="4" width="604">閉鎖遺忘＋生機流動</td></tr></tbody></table>
 
   
-![](WordPress/3-13.png)  
+![](post_assets/3-13.png)  
 
   
 **感想心得****輸出：７／１０**  

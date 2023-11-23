@@ -54,7 +54,7 @@ tags:
   - "遊戲評價"
   - "香港"
   - "香港poe"
-coverImage: "2.jpg"
+coverImage: "post_assets/2.jpg"
 ---
 
 ### 【POE2】POE 2 資訊 Part 2 | POE1 VS POE2 帶你認識 POE2 全新內容 - 重製技能系統 | Meta Gem 幫到你！  

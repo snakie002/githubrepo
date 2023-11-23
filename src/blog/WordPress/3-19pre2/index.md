@@ -42,7 +42,7 @@ tags:
   - "流亡黯道-追獵者"
   - "流亡黯道-飛刃風暴"
   - "遊戲攻略"
-coverImage: "thumbnail-5.jpg"
+coverImage: "post_assets/thumbnail-5.jpg"
 ---
 
 ### 【POE】3.19 三大更新增強拓荒推薦 追獵天譴之箭 文字補完版本
@@ -102,8 +102,8 @@ coverImage: "thumbnail-5.jpg"
    
 
   
-![](WordPress/1-1.png)  
-![](WordPress/2-1.png)  
+![](post_assets/1-1.png)  
+![](post_assets/2-1.png)  
 
   
    
@@ -241,7 +241,7 @@ coverImage: "thumbnail-5.jpg"
    
 
   
-![](WordPress/3-1.png)  
+![](post_assets/3-1.png)  
 
   
    

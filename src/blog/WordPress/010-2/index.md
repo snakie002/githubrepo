@@ -32,7 +32,7 @@ tags:
   - "流亡黯道-教學"
   - "流亡黯道-混沌"
   - "遊戲攻略"
-coverImage: "thumbnail-29.jpg"
+coverImage: "post_assets/thumbnail-29.jpg"
 ---
 
 ### 【POE】3.12 秘術家混沌力量抽取 Occultist Power Siphon Build | 流派失敗解說  
@@ -71,7 +71,7 @@ Pastebin: [https://pastebin.com/VKGBLR3x](https://pastebin.com/VKGBLR3x)
 天賦樹縮圖:  
 
   
-![](WordPress/Capture-2-1024x1022.png)  
+![](post_assets/Capture-2-1024x1022.png)  
 
   
    
@@ -109,7 +109,7 @@ Pastebin: [https://pastebin.com/VKGBLR3x](https://pastebin.com/VKGBLR3x)
 （很懶很簡單）  
 
   
-![](WordPress/soulsyphon.png) ![](WordPress/CelestialPowerSiphon.png)  
+![](post_assets/soulsyphon.png) ![](post_assets/CelestialPowerSiphon.png)  
 
   
    
@@ -155,7 +155,7 @@ Pastebin: [https://pastebin.com/VKGBLR3x](https://pastebin.com/VKGBLR3x)
    
 
   
-![](WordPress/GeofriSanctuary.png) ![](WordPress/Alberonswarpath.png)  
+![](post_assets/GeofriSanctuary.png) ![](post_assets/Alberonswarpath.png)  
 
   
 裝備要求  
@@ -176,7 +176,7 @@ Pastebin: [https://pastebin.com/VKGBLR3x](https://pastebin.com/VKGBLR3x)
    
 
   
-![](WordPress/1.mp4_snapshot_08.17.747-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_08.17.747-1024x576.jpg)  
 
   
 個人感想  

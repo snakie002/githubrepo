@@ -17,7 +17,7 @@ tags:
   - "廣東話"
   - "最高機密"
   - "遊戲攻略"
-coverImage: "P1-2.png"
+coverImage: "post_assets/P1-2.png"
 ---
 
 ### 【遊戲攻略】《Final Fantasy VII Remake》通關獎勵 快速 / 自動練等EXP及AP方法 心得攻略
@@ -28,7 +28,7 @@ coverImage: "P1-2.png"
 係分享感想同講下點刷AP 之前，**先比一個****Spoiler Alert** **劇透警告，以下內容含有劇透及爆機後內容，請自斟酌服用。**  
 
   
-\[caption id="attachment\_109" align="alignnone" width="1013"\]![](WordPress/P1-1.png) 哩張相的確係FF7RE入面最有代表性既鏡頭之一，未打爆都根本避唔開哩張圖，係正既。\[/caption\]  
+\[caption id="attachment\_109" align="alignnone" width="1013"\]![](post_assets/P1-1.png) 哩張相的確係FF7RE入面最有代表性既鏡頭之一，未打爆都根本避唔開哩張圖，係正既。\[/caption\]  
 
   
 好我地開始進入主題。  
@@ -51,19 +51,19 @@ coverImage: "P1-2.png"
 個種由打到流眼淚去到炒到對面流眼淚既反差係十分之有成功感。  
 
   
-![](WordPress/P2-1-1024x576.jpg)  
+![](post_assets/P2-1-1024x576.jpg)  
 
   
-\[caption id="attachment\_111" align="alignnone" width="858"\]![](WordPress/P3-3-1024x576.jpg) 九千血都死係咩玩法？最後嬴返個種感覺真係「Yes!」出口！\[/caption\]  
+\[caption id="attachment\_111" align="alignnone" width="858"\]![](post_assets/P3-3-1024x576.jpg) 九千血都死係咩玩法？最後嬴返個種感覺真係「Yes!」出口！\[/caption\]  
 
   
 爆機之後Hard版就緊加有「要打得岩」既感覺，唔好話求其，Hea少少都會由嬴變輸！  
 
   
-![](WordPress/P4-1-1024x576.jpg)  
+![](post_assets/P4-1-1024x576.jpg)  
 
   
-\[caption id="attachment\_113" align="alignnone" width="858"\]![](WordPress/P5-2-1024x576.jpg) 滿血都死又係咩玩法？終於過到個種感覺真係「Yeah!」出聲！\[/caption\]  
+\[caption id="attachment\_113" align="alignnone" width="858"\]![](post_assets/P5-2-1024x576.jpg) 滿血都死又係咩玩法？終於過到個種感覺真係「Yeah!」出聲！\[/caption\]  
 
   
 小遊戲方面個人覺得今次做到十分出色，掟鏢，打箱，健身，最令人覺得窩心既係，  
@@ -72,7 +72,7 @@ coverImage: "P1-2.png"
 因為代表佢地都知道哩一幕係有代性但唔係有必要性，大公司黎講真係好大既讓步。  
 
   
-\[caption id="attachment\_114" align="alignnone" width="858"\]![](WordPress/P6-2-1024x576.jpg) 小弟覺得哩個係最有難度又有趣既小遊戲，玩完我都隻手都硬硬地，因為都輸左好多次先嬴個馬鼻。\[/caption\]  
+\[caption id="attachment\_114" align="alignnone" width="858"\]![](post_assets/P6-2-1024x576.jpg) 小弟覺得哩個係最有難度又有趣既小遊戲，玩完我都隻手都硬硬地，因為都輸左好多次先嬴個馬鼻。\[/caption\]  
 
   
 總括黎講《Final Fantasy VII Remake》既評價就唔駛多講，亦都一次證明Square其實真係一間有實力同出色既電影遊戲公司，  
@@ -82,7 +82,7 @@ coverImage: "P1-2.png"
 希望由今日到到出到最終章唔駛等到好似讀多個Degree咁耐喇。  
 
   
-\[caption id="attachment\_115" align="alignnone" width="858"\]![](WordPress/P7-1024x486.png) 當年Lightning 由FF13（Dec 09年）去到Return（Nov 13）係用左4年，真係夠你讀完成個Degree。\[/caption\]  
+\[caption id="attachment\_115" align="alignnone" width="858"\]![](post_assets/P7-1024x486.png) 當年Lightning 由FF13（Dec 09年）去到Return（Nov 13）係用左4年，真係夠你讀完成個Degree。\[/caption\]  
 
   
 By Snakie002何師傅  

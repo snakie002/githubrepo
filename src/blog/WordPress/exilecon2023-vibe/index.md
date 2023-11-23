@@ -13,7 +13,7 @@ categories:
   - "intro"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【ExileCon 2023】何師傅帶你走進流亡嘉年華！ ExileCon集郵之旅 ＠hfok  
@@ -64,13 +64,13 @@ ExileCon流亡嘉年華是一個為期兩天的POE Convention
    
 
   
-\[caption id="attachment\_2005" align="alignnone" width="858"\]![](WordPress/0-1024x576.jpg) 當然是最主要的畫面\[/caption\]  
+\[caption id="attachment\_2005" align="alignnone" width="858"\]![](post_assets/0-1024x576.jpg) 當然是最主要的畫面\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_2006" align="alignnone" width="576"\]![](WordPress/1-576x1024.jpg) The Hooded ONE\[/caption\]  
+\[caption id="attachment\_2006" align="alignnone" width="576"\]![](post_assets/1-576x1024.jpg) The Hooded ONE\[/caption\]  
 
   
 這個NPC是PoE2的NPC – The Hooded One  
@@ -87,11 +87,11 @@ POE2 章節一內會出現，不作太大劇透
    
 
   
-![](WordPress/2-576x1024.jpg)  
-![](WordPress/3-576x1024.jpg)  
-![](WordPress/4-576x1024.jpg)  
-![](WordPress/5-576x1024.jpg)  
-![](WordPress/6-576x1024.jpg)  
+![](post_assets/2-576x1024.jpg)  
+![](post_assets/3-576x1024.jpg)  
+![](post_assets/4-576x1024.jpg)  
+![](post_assets/5-576x1024.jpg)  
+![](post_assets/6-576x1024.jpg)  
 
   
 POE2的人物登入畫面  
@@ -101,7 +101,7 @@ POE2的人物登入畫面
 到時候再說吧  
 
   
-![](WordPress/7-576x1024.jpg)  
+![](post_assets/7-576x1024.jpg)  
 
   
 據說上年是有真人扮演  
@@ -113,8 +113,8 @@ POE2的人物登入畫面
    
 
   
-![](WordPress/9-576x1024.jpg)  
-![](WordPress/8-1024x768.jpg)  
+![](post_assets/9-576x1024.jpg)  
+![](post_assets/8-1024x768.jpg)  
 
   
    
@@ -133,15 +133,15 @@ POE2的人物登入畫面
    
 
   
-\[caption id="attachment\_2015" align="alignnone" width="576"\]![](WordPress/10-576x1024.jpg) 到現在也沒有人知道這是甚麼...\[/caption\]  
+\[caption id="attachment\_2015" align="alignnone" width="576"\]![](post_assets/10-576x1024.jpg) 到現在也沒有人知道這是甚麼...\[/caption\]  
 
   
-![](WordPress/12-576x1024.jpg)  
-![](WordPress/11-576x1024.jpg)  
+![](post_assets/12-576x1024.jpg)  
+![](post_assets/11-576x1024.jpg)  
 
   
-![](WordPress/PXL_20230730_085517299-1024x576.jpg)  
-![](WordPress/13-1024x576.jpg)  
+![](post_assets/PXL_20230730_085517299-1024x576.jpg)  
+![](post_assets/13-1024x576.jpg)  
 
   
    
@@ -175,7 +175,7 @@ YouTube: [hfok](https://www.youtube.com/@hfok)
    
 
   
-![](WordPress/11111.png)  
+![](post_assets/11111.png)  
 
   
 紀念品在影片內有了，所以不多再展示圖片，  
@@ -185,10 +185,10 @@ YouTube: [hfok](https://www.youtube.com/@hfok)
 非常坑，然後就去給錢了  
 
   
-![](WordPress/18-576x1024.jpg)  
-![](WordPress/17-1024x461.jpg)  
-![](WordPress/16-768x1024.jpg)  
-![](WordPress/15.png)  
+![](post_assets/18-576x1024.jpg)  
+![](post_assets/17-1024x461.jpg)  
+![](post_assets/16-768x1024.jpg)  
+![](post_assets/15.png)  
 
   
 接下來展示一下卡牌圖片給大家，  
@@ -199,14 +199,14 @@ YouTube: [hfok](https://www.youtube.com/@hfok)
 因為材質改變的關係以後的裝備模組會更細緻及漂亮  
 
   
-![](WordPress/22-1-576x1024.jpg)  
-![](WordPress/23-1-576x1024.jpg)  
-![](WordPress/24-1-576x1024.jpg)  
+![](post_assets/22-1-576x1024.jpg)  
+![](post_assets/23-1-576x1024.jpg)  
+![](post_assets/24-1-576x1024.jpg)  
 
   
-![](WordPress/19-1-576x1024.jpg)  
-![](WordPress/21-1-576x1024.jpg)  
-![](WordPress/20-1-1024x576.jpg)  
+![](post_assets/19-1-576x1024.jpg)  
+![](post_assets/21-1-576x1024.jpg)  
+![](post_assets/20-1-1024x576.jpg)  
 
   
 集郵系列，能夠和肌肉哥合照就是完夢了  
@@ -233,7 +233,7 @@ YouTube: [hfok](https://www.youtube.com/@hfok)
 能看到本尊們也算是滿足了作為粉絲的奢求了  
 
   
-\[caption id="attachment\_2024" align="alignnone" width="858"\]![](WordPress/PXL_20230730_061537783-1024x576.jpg) 終於有幸打boss！\[/caption\]  
+\[caption id="attachment\_2024" align="alignnone" width="858"\]![](post_assets/PXL_20230730_061537783-1024x576.jpg) 終於有幸打boss！\[/caption\]  
 
   
 另外師傅二人也跟Chris聊了幾句關於中文化及其他問題，  
@@ -242,7 +242,7 @@ Chris也證實官方清楚及已經在審視這一類問題，
 反正ＤＤＤＤ吧  
 
   
-![](WordPress/PXL_20230728_230718356.mp4_snapshot_00.01.872-576x1024.jpg)  
+![](post_assets/PXL_20230728_230718356.mp4_snapshot_00.01.872-576x1024.jpg)  
 
   
 先總結這次流亡嘉年華之旅，  

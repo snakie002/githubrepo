@@ -16,7 +16,7 @@ tags:
   - "聖劍傳說3轉職"
   - "遊戲攻略"
   - "黑暗拉比"
-coverImage: "thumbnail-5.jpg"
+coverImage: "post_assets/thumbnail-5.jpg"
 ---
 
 ### 【遊戲評測】《聖劍傳說3 Trials of Mana》遊戲感想評價 | 重製遊戲仲有咩玩法？
@@ -31,7 +31,7 @@ coverImage: "thumbnail-5.jpg"
 哩隻Remake又做唔做大家其許既Remake感覺出黎呢？  
 
   
-\[caption id="attachment\_129" align="alignnone" width="858"\]![](WordPress/P1-4-1024x358.png) 兩個都係兒時玩伴，比廠商們重製後即刻高下立見。\[/caption\]  
+\[caption id="attachment\_129" align="alignnone" width="858"\]![](post_assets/P1-4-1024x358.png) 兩個都係兒時玩伴，比廠商們重製後即刻高下立見。\[/caption\]  
 
   
 先利申，小弟係無玩過超任既《聖劍傳說3 Trial of Mana》，所以哩條影片就唔會過份地用重製哩一點去睇哩個遊戲，  
@@ -48,7 +48,7 @@ coverImage: "thumbnail-5.jpg"
 但係好可惜兩個作品無論係發售時間，排頭，操控，連廠商都係接近/一樣，所以《聖劍傳說3 Trial of Mana》真係好容易就比下去。  
 
   
-\[caption id="attachment\_130" align="alignnone" width="858"\]![](WordPress/P2-3-1024x576.jpg) 大家都係分ARPG，大家都係控三個人，分別真係可以好大。\[/caption\]  
+\[caption id="attachment\_130" align="alignnone" width="858"\]![](post_assets/P2-3-1024x576.jpg) 大家都係分ARPG，大家都係控三個人，分別真係可以好大。\[/caption\]  
 
   
 小弟亦都想討論下重製哩樣野，三隻重製既遊戲，都帶出左三個感覺出黎，我地分開切入去睇下。  
@@ -59,7 +59,7 @@ coverImage: "thumbnail-5.jpg"
 到時我諗Tifa都幫SE唔到。  
 
   
-\[caption id="attachment\_131" align="alignnone" width="858"\]![](WordPress/P3-5-1024x576.jpg) Capcom真係估佢唔到，《Resident evil 3 Remake》其實唔係差，只係浪費左個IP‧\[/caption\]  
+\[caption id="attachment\_131" align="alignnone" width="858"\]![](post_assets/P3-5-1024x576.jpg) Capcom真係估佢唔到，《Resident evil 3 Remake》其實唔係差，只係浪費左個IP‧\[/caption\]  
 
   
 而《聖劍傳說3 Trial of Mana》既重製，小弟主觀認為其實個方向係幾好，雖然無實際玩過超任版本，  
@@ -73,7 +73,7 @@ coverImage: "thumbnail-5.jpg"
 特別係個難度方面可以做返當年既水準係最緊要，而唔係近年既機戰，仲衰過飛行棋，飛行棋都要擲到六先有得玩，而家既機戰直情係亂黎。  
 
   
-\[caption id="attachment\_132" align="alignnone" width="858"\]![](WordPress/P4-1-1024x767.png) 機戰F既難度真係近10年既機戰都完全追唔到，挑戰性真係好重要！\[/caption\]  
+\[caption id="attachment\_132" align="alignnone" width="858"\]![](post_assets/P4-1-1024x767.png) 機戰F既難度真係近10年既機戰都完全追唔到，挑戰性真係好重要！\[/caption\]  
 
   
 如果繼續用機戰Ｆ哩個例子去討論，我相信假設佢只係將遊戲Remaster我覺得大眾未必會收貨（雖然我已經好開心）；  
@@ -86,7 +86,7 @@ coverImage: "thumbnail-5.jpg"
 可以勾起老玩家既情懷同時，亦吸引到新玩家既焦點，就係做到四個字，**破舊立新**。好可惜既係，四月份哩三隻既重製入面，只有阿Jill 係做唔到，係唔合格。  
 
   
-\[caption id="attachment\_133" align="alignnone" width="858"\]![](WordPress/P5-4-1024x511.jpg) 哩d對比圖再加上成功既新遊戲性，真係無嘜野可以彈！\[/caption\]  
+\[caption id="attachment\_133" align="alignnone" width="858"\]![](post_assets/P5-4-1024x511.jpg) 哩d對比圖再加上成功既新遊戲性，真係無嘜野可以彈！\[/caption\]  
 
   
 綜合黎講，相信Remake哩個系列會繼續出黎Cap水，始終係開發角度黎講理論上係會慳左成本，  

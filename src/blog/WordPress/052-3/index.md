@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-衛士"
   - "流亡黯道-追獵者"
   - "遊戲攻略"
-coverImage: "2-2.jpg"
+coverImage: "post_assets/2-2.jpg"
 ---
 
 ### 【POE】3.16三大穩健拓荒推薦 衛士流血破空斬 文字補完版本
@@ -77,10 +77,10 @@ coverImage: "2-2.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-20-1024x879.png)  
+![](post_assets/1-20-1024x879.png)  
 
   
-![](WordPress/2-16.png)  
+![](post_assets/2-16.png)  
 
   
    
@@ -117,7 +117,7 @@ coverImage: "2-2.jpg"
 實測後請按個人喜愛調配！  
 
   
-![](WordPress/3-12.png)  
+![](post_assets/3-12.png)  
 
   
 **裝備選擇**標配上是影片中的組合，劊子手斧及獅眼盾，  
@@ -131,7 +131,7 @@ coverImage: "2-2.jpg"
 絕對是一個穩健的拓荒流派！  
 
   
-![](WordPress/5-3.png)  
+![](post_assets/5-3.png)  
 
   
 **技能連結**破空斬—殘酷輔助—活栓輔助—殘虐  

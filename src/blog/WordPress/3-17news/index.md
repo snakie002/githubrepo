@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-賽季"
   - "流亡黯道-輿圖系統"
   - "遊戲攻略"
-coverImage: "thumbnail-58.jpg"
+coverImage: "post_assets/thumbnail-58.jpg"
 ---
 
 ### 【POE】POE 3.17 新賽季更新速報！POE 3.17 Archnemesis League 宿敵聯盟  
@@ -62,7 +62,7 @@ POE 3.17更新將會在2月5日港台時間凌晨3點鐘正式上市，
 圖片只在BLOG上提供，有意朋友請到BLOG上瀏覽，謝謝你！  
 
   
-![](WordPress/Path-of-Exile-Siege-of-the-Atlas-Official-Trailer.mp4_snapshot_01.18.545-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Siege-of-the-Atlas-Official-Trailer.mp4_snapshot_01.18.545-1024x576.jpg)  
 
   
 主要是補完影片中沒有提及的更新，  
@@ -91,24 +91,24 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 如地圖含有戰亂等等；  
 
   
-\[caption id="attachment\_999" align="alignnone" width="858"\]![](WordPress/1-5-1024x576.jpg) 將會賣含有戰亂地圖及有迷霧效果的地圖\[/caption\]  
+\[caption id="attachment\_999" align="alignnone" width="858"\]![](post_assets/1-5-1024x576.jpg) 將會賣含有戰亂地圖及有迷霧效果的地圖\[/caption\]  
 
   
 地圖中有機會掉落基拉克通貨，  
 可以重骰一次基拉克任務，包含另一些特別任務；  
 
   
-\[caption id="attachment\_989" align="alignnone" width="858"\]![](WordPress/2-4-1024x576.jpg) 不知道會否有必定包含花園？\[/caption\]  
+\[caption id="attachment\_989" align="alignnone" width="858"\]![](post_assets/2-4-1024x576.jpg) 不知道會否有必定包含花園？\[/caption\]  
 
   
-\[caption id="attachment\_990" align="alignnone" width="858"\]![](WordPress/3-4-1024x576.jpg) 輿圖天賦將會有提供基拉克重置通貨掉落率\[/caption\]  
+\[caption id="attachment\_990" align="alignnone" width="858"\]![](post_assets/3-4-1024x576.jpg) 輿圖天賦將會有提供基拉克重置通貨掉落率\[/caption\]  
 
   
 還有新的通貨指南針，  
 可以存上指定六分儀詞綴；  
 
   
-\[caption id="attachment\_991" align="alignnone" width="858"\]![](WordPress/4-3-1024x576.jpg) 指南針就可以賣出自己不要的六分詞詞綴，終於不用連上守望石賣掉了\[/caption\]  
+\[caption id="attachment\_991" align="alignnone" width="858"\]![](post_assets/4-3-1024x576.jpg) 指南針就可以賣出自己不要的六分詞詞綴，終於不用連上守望石賣掉了\[/caption\]  
 
   
    
@@ -120,7 +120,7 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 解鎖幸運地圖將有不同的要求，這個要到遊戲開始後才知道  
 
   
-\[caption id="attachment\_992" align="alignnone" width="858"\]![](WordPress/5-3-1024x576.jpg) ５影片中特意用Ｔｏｗｅｒ作示範，跟上個聯盟全民尖塔一樣\[/caption\]  
+\[caption id="attachment\_992" align="alignnone" width="858"\]![](post_assets/5-3-1024x576.jpg) ５影片中特意用Ｔｏｗｅｒ作示範，跟上個聯盟全民尖塔一樣\[/caption\]  
 
   
    
@@ -138,7 +138,7 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 配合之前的指南針，就可以有效收購特定指南針幫助方針；  
 
   
-\[caption id="attachment\_993" align="alignnone" width="858"\]![](WordPress/6-2-1024x576.jpg) 配合甲蟲就能夠直接看到６個或更多夏烏拉，好像不錯\[/caption\]  
+\[caption id="attachment\_993" align="alignnone" width="858"\]![](post_assets/6-2-1024x576.jpg) 配合甲蟲就能夠直接看到６個或更多夏烏拉，好像不錯\[/caption\]  
 
   
    
@@ -170,7 +170,7 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
    
 
   
-\[caption id="attachment\_994" align="alignnone" width="858"\]![](WordPress/7-1024x576.jpg) 這樣的手套已經算非常不錯，特別在缺抗的情況下可以補抗\[/caption\]  
+\[caption id="attachment\_994" align="alignnone" width="858"\]![](post_assets/7-1024x576.jpg) 這樣的手套已經算非常不錯，特別在缺抗的情況下可以補抗\[/caption\]  
 
   
    
@@ -185,10 +185,10 @@ Orb of Conflict 是唯一渠道拿到T6的上詞方法，
    
 
   
-![](WordPress/8-1024x576.jpg)  
+![](post_assets/8-1024x576.jpg)  
 
   
-\[caption id="attachment\_996" align="alignnone" width="858"\]![](WordPress/9-1024x576.jpg) 用上後物理持續上升，減抗下降\[/caption\]  
+\[caption id="attachment\_996" align="alignnone" width="858"\]![](post_assets/9-1024x576.jpg) 用上後物理持續上升，減抗下降\[/caption\]  
 
   
    
@@ -199,7 +199,7 @@ Orb of Conflict 是唯一渠道拿到T6的上詞方法，
 詳情只能讓進入遊戲才能知道了；  
 
   
-![](WordPress/10-1024x576.jpg)  
+![](post_assets/10-1024x576.jpg)  
 
 ## **個人感想**
 
@@ -219,7 +219,7 @@ Orb of Conflict 是唯一渠道拿到T6的上詞方法，
 （起碼現在不用跟新手們解釋甚麼是ＰＯＰ出勢力地圖。。。）  
 
   
-![](WordPress/Path-of-Exile-Siege-of-the-Atlas-Livestream-January-2022.mp4_snapshot_07.00.647-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Siege-of-the-Atlas-Livestream-January-2022.mp4_snapshot_07.00.647-1024x576.jpg)  
 
   
 至於流派平衡方面個人是支持的，  

@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-3.jpg"
+coverImage: "post_assets/thumbnail-3.jpg"
 ---
 
 ### 【POE】完美全通！90大抗 滿格檔 幻影熔岩送葬 Phantasmal Cremation  
@@ -99,8 +99,8 @@ coverImage: "thumbnail-3.jpg"
    
 
   
-![](WordPress/1-3-1024x571.png)  
-![](WordPress/2-3.png)  
+![](post_assets/1-3-1024x571.png)  
+![](post_assets/2-3.png)  
 
   
    
@@ -186,7 +186,7 @@ coverImage: "thumbnail-3.jpg"
 所以倒不如用上傳奇珠寶幫助特化效果！  
 
   
-![](WordPress/3-3-1024x679.png)  
+![](post_assets/3-3-1024x679.png)  
 
   
    
@@ -263,13 +263,13 @@ coverImage: "thumbnail-3.jpg"
    
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
   
    
 
   
-![](WordPress/5-1.png)  
+![](post_assets/5-1.png)  
 
   
    
@@ -466,7 +466,7 @@ coverImage: "thumbnail-3.jpg"
 <table style="height: 2751px;" width="853"><tbody><tr><td width="54">胸甲</td><td width="73">烈炎之心</td><td width="357"><a href="https://poedb.tw/tw/Incandescent_Heart">https://poedb.tw/tw/Incandescent_Heart</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">增傷減傷好幫手，不是綁定但難以取替</td></tr><tr><td width="54">頭部</td><td width="73">黃裝</td><td width="357">上詞需要有１２％魔力保留效能</td><td width="187">屍術矢＋５等屍體等級</td></tr><tr><td colspan="4" width="670">盡量高能盾及抗性就好，可以慢慢做出</td></tr><tr><td width="54">手套</td><td width="73">黃裝</td><td width="357">上詞需要有２％最大冰冷抗性</td><td width="187">物等為２</td></tr><tr><td colspan="4" width="670">如影片示範一樣製作即可，揭露時可以選擇＋２範圍或＋２投射物，<br>然後工藝另一條即可 （理論上＋２範圍較好 會增加多點範圍）</td></tr><tr><td width="54">鞋</td><td width="73">黃裝</td><td width="357">—</td><td width="187">—</td></tr><tr><td colspan="4" width="670">補能盾抗性鞋</td></tr><tr><td width="54">武器</td><td width="73">黃裝</td><td width="357">—</td><td width="187">品質轉為範圍效果</td></tr><tr><td colspan="4" width="670">目標為＋１全法術＋１物理 法傷，＋１物理非必要，＋１全法術有助冰冷淨化，後詞打上觸發插糟就好</td></tr><tr><td width="54">副手</td><td width="73">幻芒聖盾</td><td width="357"><a href="https://poedb.tw/tw/Aegis_Aurora">https://poedb.tw/tw/Aegis_Aurora</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">綁定</td></tr><tr><td width="54">項鍊</td><td width="73">星塵</td><td width="357"><a href="https://poedb.tw/tw/Ashes_of_the_Stars">https://poedb.tw/tw/Ashes_of_the_Stars</a></td><td width="187">塗油上魅力</td></tr><tr><td colspan="4" width="670">綁定，其中３０％品質也是綁定，魔力保留可按個人要求調整</td></tr><tr><td width="54">戒指１</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">／</td></tr><tr><td colspan="4" width="670">補抗補力敏，前綴空一打上非引導減少魔力消耗就好<br>其中一只戒指需要有擊中易燃</td></tr><tr><td width="54">戒指２</td><td width="73">黃裝</td><td width="357">隨意</td><td width="187">／</td></tr><tr><td colspan="4" width="670">補抗補力敏，前綴空一打上非引導減少魔力消耗就好<br>其中一只戒指需要有擊中易燃</td></tr><tr><td width="54">皮帶</td><td width="73">黃裝</td><td width="357">聖戰基底</td><td width="187">／</td></tr><tr><td colspan="4" width="670">前綴洗出最高能盾及最大能盾％，可以配合今季合成器合成，不會太困難<br>完成前綴後可以鎖後按自己要求調整力敏抗問題</td></tr><tr><td width="54">珠寶</td><td width="73">巨型星團</td><td width="357">１０％元素傷害 （８天賦）</td><td width="187">兩顆</td></tr><tr><td colspan="4" width="670">施虐者＋多稜之心＋迷茫之列<br>基本上不影響火傷的就好，其實沒有太多好詞</td></tr><tr><td width="54">珠寶</td><td width="73">中型星團</td><td width="357">１２％燃燒傷害 （４～５天賦）</td><td width="187">一顆</td></tr><tr><td colspan="4" width="670">火葬場＋殘煙</td></tr><tr><td width="54">珠寶</td><td width="73">妄想症</td><td width="357"><a href="https://poedb.tw/tw/Megalomaniac">https://poedb.tw/tw/Megalomaniac</a></td><td width="187"></td></tr><tr><td colspan="4" width="670">施虐者＋永不妥協＋任一<br>這是為了開啟火捷，如放棄火捷可以再配多一個中型</td></tr><tr><td width="54">珠寶</td><td width="73">血肉融合</td><td width="357"><a href="https://poedb.tw/tw/Melding_of_the_Flesh">https://poedb.tw/tw/Melding_of_the_Flesh</a></td><td width="187"></td></tr><tr><td colspan="4" width="670">如影片展示一樣做法，綁定</td></tr><tr><td width="54">珠寶</td><td width="73">看守之眼</td><td width="357"><a href="https://poedb.tw/tw/Watchers_Eye">https://poedb.tw/tw/Watchers_Eye</a></td><td width="187">／</td></tr><tr><td colspan="4" width="670">堅定增加物理格檔 ＋ 紀律擊回<br>這是為了弄出滿物格而出，如果不是走原裝滿物法可以選擇別的</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌血肉</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flesh">https://poedb.tw/tw/Forbidden_Flesh</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌烈焰才能觸發相關效果<br>可選擇 惡語術 或 殘劣壁壘<br>前文已解釋</td></tr><tr><td width="54">珠寶</td><td width="73">禁忌烈焰</td><td width="357"><a href="https://poedb.tw/tw/Forbidden_Flame">https://poedb.tw/tw/Forbidden_Flame</a></td><td width="187">一對</td></tr><tr><td colspan="4" width="670">昇華對珠，必需配合禁忌血肉才能觸發相關效果<br>可選擇 惡語術 或 殘劣壁壘<br>前文已解釋</td></tr><tr><td width="54">珠寶</td><td width="73">赤影夢魘</td><td width="357"><a href="https://poedb.tw/tw/The_Red_Nightmare">https://poedb.tw/tw/The_Red_Nightmare</a></td><td width="187">—</td></tr><tr><td colspan="4" width="670">放在左面位置既能拿到物理格檔 （也是這２％才能完美７５％）<br>也可以拿到擊殺耐力球，同時有部份混傷<br>是不錯的組合，如果需要跳珠的話可放先不用，不是綁定</td></tr><tr><td width="54">珠寶</td><td width="73">希望之絃</td><td width="357"><a href="https://poedb.tw/tw/Thread_of_Hope">https://poedb.tw/tw/Thread_of_Hope</a></td><td width="187">大範圍</td></tr><tr><td colspan="4" width="670">純粹為了三點天賦，也不是綁定，可以有更好的選擇<br>不過範圍也沒差</td></tr></tbody></table>
 
   
-![](WordPress/6-1.png)  
+![](post_assets/6-1.png)  
 
   
 **感想心得****輸出：７／１０**  

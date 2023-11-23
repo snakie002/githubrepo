@@ -26,7 +26,7 @@ tags:
   - "破曉傳奇-魔武"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail2-2.jpg"
+coverImage: "post_assets/thumbnail2-2.jpg"
 ---
 
 ### 【破曉傳奇】無賴打法 攻略技巧整合 | 解鎖異界 100等級升法 掛機魔武 礦石製作 | 遊戲攻略 Tales of Arise
@@ -56,7 +56,7 @@ coverImage: "thumbnail2-2.jpg"
 然後把所有用**回血的道具拿走，因為後期回１千２千沒甚麼用，****會卡住道具ＣＤ，然後如圖所示：**  
 
   
-![](WordPress/Capture-13-1024x716.png)  
+![](post_assets/Capture-13-1024x716.png)  
 
   
 **當血量不足１００％會使用全體回復，確保男主角有足夠血量蓄力，****只要ＣＰ軟糖足夠，其本上不會乾；**  
@@ -65,10 +65,10 @@ coverImage: "thumbnail2-2.jpg"
 **同時需要把希儂及杜歐哈林其他技能關掉，****盡量減低因為輸出而延後的回血及復活時間，****把這些都設定好後，就可以開始無賴了；**  
 
   
-![](WordPress/2-13-1024x587.png)  
+![](post_assets/2-13-1024x587.png)  
 
   
-**![](WordPress/1-17-1024x586.png)**  
+**![](post_assets/1-17-1024x586.png)**  
 
   
 無賴戰法只需要在隊伍還沒完全成型前使用，後期有魔武有等級的話，  
@@ -98,7 +98,7 @@ coverImage: "thumbnail2-2.jpg"
   
 
   
-![](WordPress/3-9-1024x600.png)  
+![](post_assets/3-9-1024x600.png)  
 
   
 破曉傳奇 Tales of Arise 所有攻略部份已經完滿結束，再一次感謝各位觀眾的觀看以及訂閱，謝謝你！  

@@ -40,7 +40,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-7.jpg"
+coverImage: "post_assets/Title-7.jpg"
 ---
 
   
@@ -67,7 +67,7 @@ coverImage: "Title-7.jpg"
    
 
   
-![](WordPress/1-1-RAQ-1-1024x576.png)  
+![](post_assets/1-1-RAQ-1-1024x576.png)  
 
   
 今天有很多消息  
@@ -135,7 +135,7 @@ A: 輿圖天賦一向都不會影響凋落地圖 所以就不會影響
    
 
   
-![](WordPress/2-1-Tattoo-1024x576.jpeg)  
+![](post_assets/2-1-Tattoo-1024x576.jpeg)  
 
   
 下一個消息他們今天就展示了三個不同的紋身給我們看  
@@ -147,7 +147,7 @@ A: 輿圖天賦一向都不會影響凋落地圖 所以就不會影響
    
 
   
-![](WordPress/3-1-PoB-Update-1024x576.png)  
+![](post_assets/3-1-PoB-Update-1024x576.png)  
 
   
 下一個消息就不是官方的消息來的  
@@ -169,7 +169,7 @@ A: 輿圖天賦一向都不會影響凋落地圖 所以就不會影響
    
 
   
-![](WordPress/4-1-Guardian-1024x576.jpg)  
+![](post_assets/4-1-Guardian-1024x576.jpg)  
 
   
 然後下一個消息就是他們終於公佈了  
@@ -205,7 +205,7 @@ A: 輿圖天賦一向都不會影響凋落地圖 所以就不會影響
    
 
   
-![](WordPress/5-1-2020-1024x576.png)  
+![](post_assets/5-1-2020-1024x576.png)  
 
   
 而去到最後他們今天出了20-20寶石的資料  

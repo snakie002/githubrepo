@@ -37,7 +37,7 @@ tags:
   - "流亡黯道-貴族"
   - "流亡黯道-貴族星空冰劍冰矛coc"
   - "遊戲攻略"
-coverImage: "thumbnail-45.jpg"
+coverImage: "post_assets/thumbnail-45.jpg"
 ---
 
 ### 【POE】終極星空COC！星空冰劍冰矛CoC | The Eternal Shroud Ice Spear CoC  
@@ -71,7 +71,7 @@ Pastebin: [https://pastebin.com/2fW7XNWz](https://pastebin.com/2fW7XNWz)
 天賦樹縮圖:  
 
   
-![](WordPress/passive-6-1024x850.png)  
+![](post_assets/passive-6-1024x850.png)  
 
   
 **整體思路：**  
@@ -103,7 +103,7 @@ Pastebin: [https://pastebin.com/2fW7XNWz](https://pastebin.com/2fW7XNWz)
 所以跟影片說的一樣，還是有很大的提升空間！  
 
   
-![](WordPress/acsend-1.png)  
+![](post_assets/acsend-1.png)  
 
   
    
@@ -165,7 +165,7 @@ Pastebin: [https://pastebin.com/2fW7XNWz](https://pastebin.com/2fW7XNWz)
 只是，要做到順手，一鍵到尾，就是以上的配合了  
 
   
-![](WordPress/Capture-7.png)  
+![](post_assets/Capture-7.png)  
 
   
    
@@ -251,7 +251,7 @@ Pastebin: [https://pastebin.com/2fW7XNWz](https://pastebin.com/2fW7XNWz)
 只是怎麼推跟可能性方面，只能夠交給各大高手了！  
 
   
-![](WordPress/047.-POE-COC.mp4_snapshot_02.05.900-1024x576.jpg)  
+![](post_assets/047.-POE-COC.mp4_snapshot_02.05.900-1024x576.jpg)  
 
   
 **個人感想及評分**  

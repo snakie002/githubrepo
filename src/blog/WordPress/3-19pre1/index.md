@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-詐欺師"
   - "流亡黯道-追獵者"
   - "流亡黯道-飛刃風暴"
-coverImage: "thumbnail-6.jpg"
+coverImage: "post_assets/thumbnail-6.jpg"
 ---
 
 ### 【POE】3.19 三大更新增強拓荒推薦 詐欺正義之火 文字補完版本
@@ -98,8 +98,8 @@ coverImage: "thumbnail-6.jpg"
    
 
   
-![](WordPress/1-2-1024x558.png)  
-![](WordPress/2-2.png)  
+![](post_assets/1-2-1024x558.png)  
+![](post_assets/2-2.png)  
 
   
    
@@ -229,7 +229,7 @@ coverImage: "thumbnail-6.jpg"
 <table style="height: 815px;" width="850"><tbody><tr><td colspan="3" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="120">5B1G</td><td width="425">熾灼奔流—元素集中—注入引導—增加燃燒傷害—秘能波動—精準破壞</td></tr><tr><td colspan="3" width="604">對王輸出串，下版本將會小量增強，同時火焰陷阱削弱，將會是一個不錯的選擇<br>其實比想像要痛的，不過不可以跟現版本的火焰陷阱相比而已</td></tr><tr><td width="59">頭部</td><td width="120">3B1G</td><td width="425">正義之火—效能—元素集中—增加燃燒傷害</td></tr><tr><td colspan="3" width="604">正火串，基本上綁定，前期四連已經足夠應付</td></tr><tr><td width="59">手套</td><td width="120">4B</td><td width="425">末日烙印—燃燒輔助—擊中詛咒—易燃</td></tr><tr><td colspan="3" width="604">詛咒串，打王幫忙增傷</td></tr><tr><td width="59">鞋</td><td width="120">2G2R</td><td width="425">活力—優雅—極地裝甲—火焰淨化</td></tr><tr><td colspan="3" width="604">光環串，基本上綁定</td></tr><tr><td width="59">武器</td><td width="120">2R1B</td><td width="425">堅定之吼—烈焰衝刺—活栓</td></tr><tr><td colspan="3" width="604">雜項串，有危機時吼一下</td></tr><tr><td width="59">盾牌</td><td width="120">2R1G</td><td width="425">重盾衝鋒—快速攻擊—活栓</td></tr><tr><td colspan="3" width="604">位移串，打圖最好選擇</td></tr></tbody></table>
 
   
-![](WordPress/3-2.png)  
+![](post_assets/3-2.png)  
 
   
    

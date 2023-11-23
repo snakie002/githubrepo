@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-15.jpg"
+coverImage: "post_assets/Title-15.jpg"
 ---
 
 # \[POE 3.22 消息\] 3.22.0b hotfix 2-3  
@@ -49,12 +49,12 @@ coverImage: "Title-15.jpg"
    
 
   
-![](WordPress/Title-15-1024x576.jpg)  
+![](post_assets/Title-15-1024x576.jpg)  
 
   
-![](WordPress/1-0-rank-1000-1024x576.png)  
-![](WordPress/1-2-rank-1000.png)  
-![](WordPress/1-1-rank-1000.png)  
+![](post_assets/1-0-rank-1000-1024x576.png)  
+![](post_assets/1-2-rank-1000.png)  
+![](post_assets/1-1-rank-1000.png)  
 
   
    
@@ -94,7 +94,7 @@ coverImage: "Title-15.jpg"
 他基本上永遠都追不到你  
 
   
-![](WordPress/2-1-3.22.0b-hotfix2-1024x576.png)  
+![](post_assets/2-1-3.22.0b-hotfix2-1024x576.png)  
 
   
 那為什麼我要特意說這些呢  
@@ -124,7 +124,7 @@ coverImage: "Title-15.jpg"
 就不要離開那個地方了  
 
   
-![](WordPress/3-1-3.22.0b-hotfix-3-1024x576.png)  
+![](post_assets/3-1-3.22.0b-hotfix-3-1024x576.png)  
 
   
 下一個消息 3.22.0b hotfix3  
@@ -135,7 +135,7 @@ coverImage: "Title-15.jpg"
 這個更新也是已經生效  
 
   
-![](WordPress/4-1-GC-SC-1024x576.png)  
+![](post_assets/4-1-GC-SC-1024x576.png)  
 
   
 下一個消息就是有人回報了  
@@ -146,7 +146,7 @@ coverImage: "Title-15.jpg"
 想跟朋友玩的話就建議你們暫時不要用他  
 
   
-![](WordPress/5-1-Stash-Sales-1024x576.png)  
+![](post_assets/5-1-Stash-Sales-1024x576.png)  
 
   
 最後一個消息就是想提提大家  

@@ -22,7 +22,7 @@ tags:
   - "何師傅"
   - "流亡黯道-電弧"
   - "遊戲攻略"
-coverImage: "thumbnailELE.png"
+coverImage: "post_assets/thumbnailELE.png"
 ---
 
 ### 【POE】3.17三大輕鬆紅圖拓荒推薦　元素師電弧　文字補完版本
@@ -68,10 +68,10 @@ coverImage: "thumbnailELE.png"
 以下為附圖方便各位：  
 
   
-![](WordPress/3-2.png)  
+![](post_assets/3-2.png)  
 
   
-![](WordPress/2-2-1024x581.png)  
+![](post_assets/2-2-1024x581.png)  
 
   
    
@@ -111,7 +111,7 @@ coverImage: "thumbnailELE.png"
 **裝備選擇**  
 
   
-![](WordPress/1-2.png)  
+![](post_assets/1-2.png)  
 
   
 主要的只有爆炸甲及感電手作為起手清圖部份，  
@@ -122,7 +122,7 @@ coverImage: "thumbnailELE.png"
 同時珠寶方面需要三顆先祖裝備及聚魂石，  
 
   
-**![](WordPress/4-1.png)**  
+**![](post_assets/4-1.png)**  
 
   
 高等版本為暴擊流，可查閱影片獲得相關資料，  

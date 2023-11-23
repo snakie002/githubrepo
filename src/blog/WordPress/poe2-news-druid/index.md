@@ -40,7 +40,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-17.jpg"
+coverImage: "post_assets/title-17.jpg"
 ---
 
 # \[POE 2 消息\] gamescom 專訪 & 德魯伊 (Druid) 解說  
@@ -50,13 +50,13 @@ coverImage: "title-17.jpg"
    
 
   
-![](WordPress/title-17-1024x576.jpg)  
+![](post_assets/title-17-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1--1024x576.jpg)  
+![](post_assets/1--1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -67,7 +67,7 @@ gamescom 2023完結了
 而這條片正正就是提及關於這三條片的內容  
 
   
-![](WordPress/2--1024x576.jpg)  
+![](post_assets/2--1024x576.jpg)  
 
   
 首先GGG他們就說了 其實PoE1是有些少缺陷的  
@@ -78,7 +78,7 @@ gamescom 2023完結了
 為了令到動作流暢 遊戲的體驗好  
 
   
-![](WordPress/3-3-1024x576.jpg)  
+![](post_assets/3-3-1024x576.jpg)  
 
   
 所以他們最後決定了加入翻滾這個系統  
@@ -90,7 +90,7 @@ PoE2的翻滾系統就不會有任何CD
 像一些使用時間很長的技能  
 
   
-![](WordPress/4-3-1024x576.jpg)  
+![](post_assets/4-3-1024x576.jpg)  
 
   
 這一點不代表他們想減慢整體遊戲速度  
@@ -100,7 +100,7 @@ PoE2的翻滾系統就不會有任何CD
 玩起來每一招技能都會有一個很鮮明的定位  
 
   
-![](WordPress/5-3-1024x576.jpg)  
+![](post_assets/5-3-1024x576.jpg)  
 
   
 另外在ExileCon那裡 我們看過的  
@@ -109,7 +109,7 @@ PoE2的翻滾系統就不會有任何CD
 可以創造一些PoE1原本是沒辦法設計得到的角色  
 
   
-![](WordPress/6-2-1024x576.jpg)  
+![](post_assets/6-2-1024x576.jpg)  
 
   
 例如現在畫面上看到的德魯伊  
@@ -119,10 +119,10 @@ Druid是一個他們在gamescom新展示出來給我們看的角色
 就是用一個重擊近戰的技能  
 
   
-![](WordPress/7-1-1-1024x576.jpg)  
+![](post_assets/7-1-1-1024x576.jpg)  
 
   
-![](WordPress/7-2-1024x560.png)  
+![](post_assets/7-2-1024x560.png)  
 
   
 當然不止德魯伊一隻是有這類混合型的玩法的  
@@ -141,7 +141,7 @@ Jonathan用了Huntress做個例子
 怎樣在設計技能的時候鼓勵玩家用不同的戰鬥風格去玩一隻角色的  
 
   
-![](WordPress/8-2-1024x576.jpg)  
+![](post_assets/8-2-1024x576.jpg)  
 
   
 但要做到進出自如的話動作就必須要連貫  
@@ -153,8 +153,8 @@ Jonathan就用Warrior作為一個例子
 一點都不連貫的感覺  
 
   
-![](WordPress/9-1-1024x576.jpg)  
-![](WordPress/9-2-1024x576.jpg)  
+![](post_assets/9-1-1024x576.jpg)  
+![](post_assets/9-2-1024x576.jpg)  
 
   
 另外一個連貫使用技能的例子就是你畫面中的熊德魯伊  
@@ -195,7 +195,7 @@ Exert了的重擊可以令到一次重擊可以造成兩次傷害
 他每一步都會造成兩下重擊  
 
   
-![](WordPress/10-1-1024x576.jpg)  
+![](post_assets/10-1-1024x576.jpg)  
 
   
 在gamescom之前的ExileCon GGG宣佈了  
@@ -206,7 +206,7 @@ PoE1和PoE2將會拆伙成為兩隻獨立的遊戲
 他自己覺得PoE1還有起碼十年可以發展的空間  
 
   
-![](WordPress/11-1-1024x576.jpg)  
+![](post_assets/11-1-1024x576.jpg)  
 
   
 而且更新週期依然會保持13週的更新週期  
@@ -215,7 +215,7 @@ PoE1開季後大概八九個星期左右
 玩家想說絕對可以梅花間竹地玩PoE1和PoE2  
 
   
-![](WordPress/12-1-1024x576.jpg)  
+![](post_assets/12-1-1024x576.jpg)  
 
   
 由於PoE1和PoE2是用同一個基礎同一堆伺服器  
@@ -226,7 +226,7 @@ Chris Wilson甚至說
 他們仍然會開PoE1的伺服器  
 
   
-![](WordPress/13-1-1024x576.jpg)  
+![](post_assets/13-1-1024x576.jpg)  
 
   
 亦因為這個原因  
@@ -235,7 +235,7 @@ Chris Wilson甚至說
 所以不需要買兩次  
 
   
-![](WordPress/14-1024x576.jpg)  
+![](post_assets/14-1024x576.jpg)  
 
   
 然後我們說說畫面上的德魯伊人形態  
@@ -257,7 +257,7 @@ Chris Wilson甚至說
 他亦會周期性有一些熔岩球爆出來  
 
   
-![](WordPress/15-1024x576.jpg)  
+![](post_assets/15-1024x576.jpg)  
 
   
 身為德魯伊  
@@ -275,7 +275,7 @@ Chris Wilson甚至說
 這些都是GGG設計的原意  
 
   
-![](WordPress/16-1-1024x576.jpg)  
+![](post_assets/16-1-1024x576.jpg)  
 
   
 Jonathan 也說了他們不希望PoE2像PoE1那樣  
@@ -283,22 +283,22 @@ Jonathan 也說了他們不希望PoE2像PoE1那樣
 但必須要保持PoE1的深度 甚至更加有深度  
 
   
-\[caption id="attachment\_2389" align="alignnone" width="858"\]![](WordPress/17-1-1024x576.jpg) 但有深度就不代表複雜 有些東西可以非常容易用 例如天賦樹要點下去其實一點都不難 但因為它有非常多的選項 所以令到那東西簡單易用 但很有深度\[/caption\]  
+\[caption id="attachment\_2389" align="alignnone" width="858"\]![](post_assets/17-1-1024x576.jpg) 但有深度就不代表複雜 有些東西可以非常容易用 例如天賦樹要點下去其實一點都不難 但因為它有非常多的選項 所以令到那東西簡單易用 但很有深度\[/caption\]  
 
   
    
 
   
-\[caption id="attachment\_2390" align="alignnone" width="858"\]![](WordPress/18-1-1024x576.jpg) 請你再次注意畫面 因為他現在用了落雷陣 人型最後一招法術 在技能的維持時間中 會對著那個範圍不停落雷對敵人造成傷害\[/caption\]  
+\[caption id="attachment\_2390" align="alignnone" width="858"\]![](post_assets/18-1-1024x576.jpg) 請你再次注意畫面 因為他現在用了落雷陣 人型最後一招法術 在技能的維持時間中 會對著那個範圍不停落雷對敵人造成傷害\[/caption\]  
 
   
-\[caption id="attachment\_2391" align="alignnone" width="858"\]![](WordPress/19-3-1024x576.jpg) 為了令自己更輕鬆 他就用了引導時施放 把落雷這招技放進去 當他引導火山的時候自然會落雷\[/caption\]  
+\[caption id="attachment\_2391" align="alignnone" width="858"\]![](post_assets/19-3-1024x576.jpg) 為了令自己更輕鬆 他就用了引導時施放 把落雷這招技放進去 當他引導火山的時候自然會落雷\[/caption\]  
 
   
    
 
   
-![](WordPress/20-2-1024x576.jpg)  
+![](post_assets/20-2-1024x576.jpg)  
 
   
 這類型長期有效果的狀態或光環  
@@ -315,7 +315,7 @@ Jonathan 也說了他們不希望PoE2像PoE1那樣
 那個深度其實依然還在  
 
   
-![](WordPress/21-2-1024x576.jpg)  
+![](post_assets/21-2-1024x576.jpg)  
 
   
 同時你也有可能記得 Rampage這招本來就是一招引導技  
@@ -329,7 +329,7 @@ Jonathan 也說了他們不希望PoE2像PoE1那樣
 也就是代表這堆靈力可以有其他用途了  
 
   
-![](WordPress/22-2-1024x576.jpg)  
+![](post_assets/22-2-1024x576.jpg)  
 
   
 有見及此 Jonathan選擇用另一個Meta 寶石 近戰擊暈時施放  
@@ -342,7 +342,7 @@ Jonathan就透過兩顆Meta 寶石
 其餘兩招在適當的條件下都會自動使用  
 
   
-![](WordPress/23-2-1024x576.jpg)  
+![](post_assets/23-2-1024x576.jpg)  
 
   
 動作的互動和連貫性我們已經明白是多麼重要的  
@@ -353,7 +353,7 @@ Chris Wilton說 他們會以一個PoE1的方式去改善PoE1的近戰
 Chris Wilton也再次強調 GGG是真的想PoE1的近戰好玩  
 
   
-![](WordPress/24-2-1024x576.jpg)  
+![](post_assets/24-2-1024x576.jpg)  
 
   
 到這個部份請你再一次留意畫面  
@@ -365,7 +365,7 @@ Chris Wilton也再次強調 GGG是真的想PoE1的近戰好玩
 在戰鬥中根據它是什麼形態就會得到相應的點數  
 
   
-![](WordPress/25-1024x576.jpg)  
+![](post_assets/25-1024x576.jpg)  
 
   
 在說天賦之前 我們正在討論PoE1的近戰  
@@ -377,7 +377,7 @@ Chris Wilton也再次強調 GGG是真的想PoE1的近戰好玩
 他們認為這種才是一種比較合適的解決方案  
 
   
-![](WordPress/26-1024x576.jpg)  
+![](post_assets/26-1024x576.jpg)  
 
   
 而玩家覺得需要解決的東西 不單止PoE1的近戰  
@@ -394,7 +394,7 @@ Johnathan也說 即使在遊戲裡面加一個交易網站進去
 不論PoE1或PoE2都會有同樣的改動  
 
   
-![](WordPress/27-1024x576.jpg)  
+![](post_assets/27-1024x576.jpg)  
 
   
 雖然GGG已經多次告訴我們 他們暫時還是滿意現有的交易系統  
@@ -406,7 +406,7 @@ Johnathan也說 即使在遊戲裡面加一個交易網站進去
 但是暫時不可以承諾任何東西  
 
   
-![](WordPress/28-1024x576.jpg)  
+![](post_assets/28-1024x576.jpg)  
 
   
 繼續和交易有關的東西 就是在PoE2的DEMO中  
@@ -418,7 +418,7 @@ Johnathan就說 這些金幣純粹在過章節的時候和NPC買東西用的
 應該都是和現在沒什麼分別 都是拿你的C和D去交易的  
 
   
-![](WordPress/29-1024x576.jpg)  
+![](post_assets/29-1024x576.jpg)  
 
   
 到最後就剩下和PoE2 Beta相關的內容  

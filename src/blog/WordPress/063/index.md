@@ -50,7 +50,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "Thumbnail1-25.jpg"
+coverImage: "post_assets/Thumbnail1-25.jpg"
 ---
 
 ### 【POE】2021 大事回顧 我最喜愛流派頒獎典禮 Best Build 2021  
@@ -79,7 +79,7 @@ coverImage: "Thumbnail1-25.jpg"
 圖片只在Blog上提供，不便之處敬請留意！  
 
   
-![](WordPress/Thumbnail1-25-1024x576.jpg)  
+![](post_assets/Thumbnail1-25-1024x576.jpg)  
 請注意影片上提及的流派只限於師傅有推出影片的類別  
 絕對不是2021來最佳的組合，作為年度回顧比較適合！  
 
@@ -102,7 +102,7 @@ coverImage: "Thumbnail1-25.jpg"
 **遊戲變化**，**流派改動**及**未來預測**  
 
   
-![](WordPress/2-3-1024x576.jpg)  
+![](post_assets/2-3-1024x576.jpg)  
 
   
 **遊戲變化**  
@@ -128,7 +128,7 @@ coverImage: "Thumbnail1-25.jpg"
 算是比以前可能打一季也沒有１００ＥＸ的時代比較好了；  
 
   
-![](WordPress/5-2-1024x576.jpg)  
+![](post_assets/5-2-1024x576.jpg)  
 
   
 **流派改動**  
@@ -164,7 +164,7 @@ Min-max 的金錢時間，可能也足夠多開一只角色了；
 回想年頭的時候那有現在賺錢這麼容易。。。  
 
   
-![](WordPress/3-3-1024x576.jpg)  
+![](post_assets/3-3-1024x576.jpg)  
 
   
 **未來預測**  
@@ -214,7 +214,7 @@ Min-max 的金錢時間，可能也足夠多開一只角色了；
 但這是沒辦法了，誰叫我們還是會埋單的說~～  
 
   
-![](WordPress/4-2-1024x576.jpg)  
+![](post_assets/4-2-1024x576.jpg)  
 
   
 **個人感想**  

@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-解說"
   - "流亡黯道-跑跑"
   - "遊戲攻略"
-coverImage: "thumbnail1-3.jpg"
+coverImage: "post_assets/thumbnail1-3.jpg"
 ---
 
 ### 【POE】團隊打造凜冬之球 Occultist Winter Orb | 跑跑撒尿 爆炸效果  
@@ -65,7 +65,7 @@ POE min-max 解說示範 技能先天缺憾 | 流亡黯道 遊戲攻略 | Path o
 以下為附圖方便各位：  
 
   
-![](WordPress/pass-1024x610.png)  
+![](post_assets/pass-1024x610.png)  
 
   
 基本上是很直接了當的天賦，星團及珠寶組成，  
@@ -122,7 +122,7 @@ POE min-max 解說示範 技能先天缺憾 | 流亡黯道 遊戲攻略 | Path o
 最後也沒收到一顆＋暴擊球的戒指，可惜～～  
 
   
-![](WordPress/pass1-1024x338.png)  
+![](post_assets/pass1-1024x338.png)  
 
   
 **技能連結****主技能組—４Ｂ１Ｒ１Ｇ****凜冬之球—暴擊獲得暴擊球—覺醒精準破壞—注入引導輔助—覺醒高階多重—啟法**  
@@ -173,7 +173,7 @@ POE min-max 解說示範 技能先天缺憾 | 流亡黯道 遊戲攻略 | Path o
 移位技，沒特別  
 
   
-![](WordPress/Screenshot-2021-05-22-202257.png)  
+![](post_assets/Screenshot-2021-05-22-202257.png)  
 
   
 **裝備選擇**  
@@ -251,7 +251,7 @@ POE min-max 解說示範 技能先天缺憾 | 流亡黯道 遊戲攻略 | Path o
 珠寶 — 看守之眼**（憎恨穿透＋憎恨點傷 可以按個人配置調換）**珠寶 — 超凡之體**（５Ｘ的暴擊加成）**珠寶 — 黃裝＊５　（兩暴一血為目標）  
 
   
-![](WordPress/2021-05-21-19-20-19.mp4_snapshot_05.26.629-1024x576.jpg)  
+![](post_assets/2021-05-21-19-20-19.mp4_snapshot_05.26.629-1024x576.jpg)  
 
   
 **感想心得****輸出：６／１０**  

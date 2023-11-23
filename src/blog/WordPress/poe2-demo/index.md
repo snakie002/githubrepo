@@ -42,7 +42,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【POE2】POE2 實機試玩心得 | 系統重製近戰手感大幅度提升 | 改變一代單鍵遊玩  
@@ -89,12 +89,12 @@ POE 3.22、POE2、POEM 相關資料相信各位玩家都已經消化好，
 先附上角色技能圖片:  
 
   
-![](WordPress/1-1-1024x576.jpg)  
-![](WordPress/2-1-1024x576.jpg)  
-![](WordPress/act1-1024x576.jpg)  
-![](WordPress/act2-1024x576.jpg)  
-![](WordPress/act3-1024x576.jpg)  
-![](WordPress/act4-1024x576.jpg)  
+![](post_assets/1-1-1024x576.jpg)  
+![](post_assets/2-1-1024x576.jpg)  
+![](post_assets/act1-1024x576.jpg)  
+![](post_assets/act2-1024x576.jpg)  
+![](post_assets/act3-1024x576.jpg)  
+![](post_assets/act4-1024x576.jpg)  
 
   
    

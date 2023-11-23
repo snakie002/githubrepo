@@ -44,7 +44,7 @@ tags:
   - "流亡黯道-死靈"
   - "流亡黯道-流派"
   - "遊戲攻略"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【POE】T0拓荒流派 輕鬆全通 死靈召喚骷髏 Necro Skelly Mage | 滿格檔千萬傷害  
@@ -70,7 +70,7 @@ coverImage: "thumbnail-1.jpg"
 希望可以幫到有興趣玩召喚骷髏的朋友們！  
 
   
-![](WordPress/5-2-1024x726.png)  
+![](post_assets/5-2-1024x726.png)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-17skelly/) (關於影片沒有提供的內容)：  
@@ -88,10 +88,10 @@ coverImage: "thumbnail-1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/2-3.png)  
+![](post_assets/2-3.png)  
 
   
-![](WordPress/1-4-980x1024.png)  
+![](post_assets/1-4-980x1024.png)  
 
   
 召喚骷髏一直都想嘗試，因為誰玩誰叫好，  
@@ -140,7 +140,7 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-![](WordPress/7.png)  
+![](post_assets/7.png)  
 
   
 **技能連結**  
@@ -215,7 +215,7 @@ coverImage: "thumbnail-1.jpg"
 <table style="height: 991px;" width="816"><tbody><tr><td colspan="3" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="82">1B + 4B1R</td><td width="463">號召 ＋ 召喚幽魂—幻化守衛—召喚物生命—肉盾—元素軍隊</td></tr><tr><td colspan="3" width="604">增益召喚物串，這一隊人在等級上去後（２０級），配合天賦及幻化守衛裝備應該不太會死，至於幽魂選擇及幻化守衛裝備會在後面補充</td></tr><tr><td width="59">頭部</td><td width="82">3B1G</td><td width="463">瓦爾召喚骷髏—法術回響—掠奪者輔助—穿透（—召喚物傷害—急凍）</td></tr><tr><td colspan="3" width="604">輸出串，配在頭部能有＋３及６連效果，因為後期等級上去後可以有１１或更多骷髏在場，穿透已經非常足夠清圖，要清圖能力則需要自行調配！</td></tr><tr><td width="59">手套</td><td width="82">3B1R</td><td width="463">殭屍復甦—召喚巨石魔像—豢養狂熱輔助—烈焰衝刺</td></tr><tr><td colspan="3" width="604">增益串，由於巨石魔像比較抗，而且目的只是為了豢養狂熱效果，所以巨石魔像及殭屍會較易觸發效果</td></tr><tr><td width="59">鞋</td><td width="82">1R1B + 2R</td><td width="463">狂熱—和善 ｜ 瓦爾熔岩護盾 ＋ 反抗之旗</td></tr><tr><td colspan="3" width="604">光環串１，若和善串連反抗之旗，那只有召喚物有反抗之旗效果，所以需要斷開！</td></tr><tr><td width="59">武器</td><td width="82">1R1G1B</td><td width="463">骸骨奉獻—褻瀆（１級）—活栓</td></tr><tr><td colspan="3" width="604">自動觸發串，因為我們魔力部份拿到較緊，所以要上活栓會較好</td></tr><tr><td width="59">盾牌</td><td width="82">1R1G1B</td><td width="463">堅定—瓦爾迅捷—風暴之盾</td></tr><tr><td colspan="3" width="604">光環串２，放在盾牌因為盾牌有３０％增加魔保效能，再進一步降低光環所需魔保，才可以做到３個５０％光環及其他</td></tr><tr><td colspan="3" width="604">戒指 — 狙擊者印記，手動施放，需要集火時配搭獵物信號提高輸出</td></tr></tbody></table>
 
   
-![](WordPress/6.png)  
+![](post_assets/6.png)  
 
   
 **裝備選擇**基本上有死亡清算後就可以打到後期，  
@@ -403,7 +403,7 @@ coverImage: "thumbnail-1.jpg"
 幻化守衛方面，先上圖片  
 
   
-![](WordPress/4-950x1024.jpg)  
+![](post_assets/4-950x1024.jpg)  
 貴價版  
 武器：王者之刃  
 胸甲：無常禮袍  
@@ -412,7 +412,7 @@ coverImage: "thumbnail-1.jpg"
 手套：南方  
 
   
-![](WordPress/3-950x1024.jpg)  
+![](post_assets/3-950x1024.jpg)  
 
   
 便宜版  
@@ -433,7 +433,7 @@ coverImage: "thumbnail-1.jpg"
 也可按個人喜愛調配（加一詛咒鞋甚麼的也是一個方向）  
 
   
-![](WordPress/thumbnail-1-1024x576.jpg)  
+![](post_assets/thumbnail-1-1024x576.jpg)  
 
 # **感想心得**
 

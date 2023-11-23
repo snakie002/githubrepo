@@ -56,7 +56,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "3.1.jpg"
+coverImage: "post_assets/3.1.jpg"
 ---
 
 ### 【POE】3.21 熔火冥獄三大推薦拓荒 勇士正義之火 文字補完版本
@@ -85,7 +85,7 @@ coverImage: "3.1.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/3.1-1024x576.jpg)  
+![](post_assets/3.1-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-21pre/) (關於影片沒有提供的內容)：  
@@ -122,10 +122,10 @@ coverImage: "3.1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1.png)  
+![](post_assets/1.png)  
 
   
-![](WordPress/2.png)  
+![](post_assets/2.png)  
 
   
    
@@ -178,8 +178,8 @@ coverImage: "3.1.jpg"
 若資源較緊張，可用以上方法增加傷害！  
 
   
-![](WordPress/5.png)  
-![](WordPress/6-1024x688.png)  
+![](post_assets/5.png)  
+![](post_assets/6-1024x688.png)  
 
   
 其他均為血抗裝備即可，反正目標是速刷，  
@@ -190,8 +190,8 @@ coverImage: "3.1.jpg"
 **技能連結**  
 
   
-![](WordPress/3-1024x546.png)  
-![](WordPress/4-1024x556.png)  
+![](post_assets/3-1024x546.png)  
+![](post_assets/4-1024x556.png)  
 
   
 **感想心得**再強調一次，勇士正火的好處只是開首較便宜，  

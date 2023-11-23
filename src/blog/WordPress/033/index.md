@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-追憶地圖"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail1-2.jpg"
+coverImage: "post_assets/thumbnail1-2.jpg"
 ---
 
 ### 【POE】警世測試！50場傳奇追憶地圖收益實測Synthesis Map Testing  
@@ -54,7 +54,7 @@ coverImage: "thumbnail1-2.jpg"
 文字補完（影片沒有提及的資料）  
 
   
-![](WordPress/1-6-1024x399.png)  
+![](post_assets/1-6-1024x399.png)  
 
   
 **傳奇掉落**  
@@ -74,7 +74,7 @@ coverImage: "thumbnail1-2.jpg"
 中了個頭不中下詞，也是徒勞  
 
   
-![](WordPress/2-4-1024x626.png)  
+![](post_assets/2-4-1024x626.png)  
 
   
 **追憶破碎裝備**  
@@ -95,7 +95,7 @@ coverImage: "thumbnail1-2.jpg"
 所以要中好東西也是全憑運氣；  
 
   
-![](WordPress/111-150x300.png) ![](WordPress/1615993958751-300x169.jpg)  
+![](post_assets/111-150x300.png) ![](post_assets/1615993958751-300x169.jpg)  
 
   
 **整體效益**  

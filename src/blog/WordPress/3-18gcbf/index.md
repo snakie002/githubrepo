@@ -33,7 +33,7 @@ tags:
   - "流亡黯道-拓荒"
   - "流亡黯道-替身攻擊"
   - "流亡黯道-流派"
-coverImage: "thumbnail-4.jpg"
+coverImage: "post_assets/thumbnail-4.jpg"
 ---
 
 ### 【POE】替身攻擊！？暴徒將軍戰吼刀鋒亂舞 Berserker General Cry Blade Flurry  
@@ -77,8 +77,8 @@ coverImage: "thumbnail-4.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-5.png)  
-![](WordPress/2-4.png)  
+![](post_assets/1-5.png)  
+![](post_assets/2-4.png)  
 
   
    
@@ -159,7 +159,7 @@ coverImage: "thumbnail-4.jpg"
 所以要達到最高水平，裝備上，技能寶石上也要留意！  
 
   
-![](WordPress/4-3.png)  
+![](post_assets/4-3.png)  
 
   
    
@@ -249,7 +249,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/6.png)  
+![](post_assets/6.png)  
 
   
    
@@ -410,7 +410,7 @@ coverImage: "thumbnail-4.jpg"
    
 
   
-![](WordPress/3-4.png)  
+![](post_assets/3-4.png)  
 
   
    

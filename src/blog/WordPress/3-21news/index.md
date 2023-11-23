@@ -43,7 +43,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 【POE】POE 3.21 新賽季更新及 Patch Note 速報！POE 3.21 Crucible League 熔火冥獄  
@@ -67,7 +67,7 @@ POE經過3.20的延期後，
 那我們直接開始速報：  
 
   
-![](WordPress/path-of-exile-3-21-release-date-crucible-league-expansion-reveal-1024x576.jpg)  
+![](post_assets/path-of-exile-3-21-release-date-crucible-league-expansion-reveal-1024x576.jpg)  
 
   
 文字補完 [(原文連結)](https://snakie002hosifu.blog/3-21news)：  
@@ -84,10 +84,10 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
    
 
   
-![](WordPress/8-1024x720.png)  
+![](post_assets/8-1024x720.png)  
 
   
-![](WordPress/9-1024x576.jpg)  
+![](post_assets/9-1024x576.jpg)  
 
   
    
@@ -122,13 +122,13 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 沒有太大驚喜，反而困惑變多了（雖然是好事，比單純直砍容易接受）  
 
   
-![](WordPress/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_11.17.464-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_11.17.464-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/8-1024x576.jpg)  
+![](post_assets/8-1024x576.jpg)  
 
   
    
@@ -160,8 +160,8 @@ BLOG上有新通貨及裝備圖片，有需要人士請到上面連結查看，�
 希望是錯覺吧  
 
   
-![](WordPress/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_16.56.336-1024x576.jpg)  
-![](WordPress/14-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Crucible-Content-Reveal.mp4_snapshot_16.56.336-1024x576.jpg)  
+![](post_assets/14-1024x576.jpg)  
 
   
    

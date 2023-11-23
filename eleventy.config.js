@@ -208,11 +208,10 @@ module.exports = function (eleventyConfig) {
 	mdLib.use(require("./lib/markdown-it-replace-link.js"), {
 		processHTML: false,
 		replaceLink: function (link, env, token, htmlToken) {
-			if (link.startsWith("WordPress/")) {
+			if (link.startsWith("post_assets/")) {
 				const imgPath = `${process.env.MEDIA_SERVER}/${path.join(
-					"public/WordPress",
-					env.page.fileSlug,
-					link.replace("WordPress", "")
+					env.page.filePathStem.replace("/blog/", "").replace("/index", ""),
+					link
 				)}`;
 				return imgPath;
 			}

@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-爆炸箭"
   - "流亡黯道-秘術師"
   - "遊戲攻略"
-coverImage: "5-1.jpg"
+coverImage: "post_assets/5-1.jpg"
 ---
 
 ### 【POE】3.18三大重複拓荒推薦 元素師爆炸箭 文字補完版本
@@ -90,8 +90,8 @@ coverImage: "5-1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-1024x941.png)  
-![](WordPress/2.png)  
+![](post_assets/1-1024x941.png)  
+![](post_assets/2.png)  
   
   
   
@@ -161,8 +161,8 @@ coverImage: "5-1.jpg"
 [影片連結](https://www.youtube.com/watch?v=iJgFa1-nDKE)  
 
   
-![](WordPress/3.png)  
-![](WordPress/4.png)  
+![](post_assets/3.png)  
+![](post_assets/4.png)  
 
   
    

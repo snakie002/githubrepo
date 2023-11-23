@@ -32,7 +32,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-2.jpg"
+coverImage: "post_assets/title-2.jpg"
 ---
 
 # \[POE 3.22 消息\] Devour 輔助 & 戰亂關鍵天賦  
@@ -42,7 +42,7 @@ coverImage: "title-2.jpg"
    
 
   
-![](WordPress/title-2-1024x576.jpg)  
+![](post_assets/title-2-1024x576.jpg)  
 
   
    
@@ -63,10 +63,10 @@ coverImage: "title-2.jpg"
 都可以讓他們有效地完成戰亂事件  
 
   
-![](WordPress/exilecon-keystone-1024x576.jpg)  
+![](post_assets/exilecon-keystone-1024x576.jpg)  
 
   
-![](WordPress/legion-keystone-1024x576.jpg)  
+![](post_assets/legion-keystone-1024x576.jpg)  
 
   
    
@@ -80,7 +80,7 @@ Devour Support
 以上就是今天的消息  
 
   
-![](WordPress/devour-support-1024x576.jpg)  
+![](post_assets/devour-support-1024x576.jpg)  
 
   
 有興趣緊貼POE消息的朋友們可以訂閱相關頻道！  

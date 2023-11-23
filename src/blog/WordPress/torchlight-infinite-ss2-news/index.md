@@ -37,7 +37,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "TLI.jpg"
+coverImage: "post_assets/TLI.jpg"
 ---
 
 # \[TLI SS2\] 魔靈重製 & 生長值簡介 | Torchlight: Infinite | 永恆迷城  
@@ -47,13 +47,13 @@ coverImage: "TLI.jpg"
    
 
   
-![](WordPress/TLI-1024x576.jpg)  
+![](post_assets/TLI-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1.png)  
+![](post_assets/1.png)  
 
   
    
@@ -90,7 +90,7 @@ coverImage: "TLI.jpg"
 基礎技能 強化技能 激發技能 終極技能 都列在這裡 以便參考  
 
   
-![](WordPress/2-1.png)  
+![](post_assets/2-1.png)  
 
   
 然後另一樣跟魔靈息息相關的就是生長值  
@@ -131,7 +131,7 @@ coverImage: "TLI.jpg"
 一會再解釋了  
 
   
-![](WordPress/3-1.png)  
+![](post_assets/3-1.png)  
 
   
 跟魔靈有關的新技能有兩個  
@@ -173,13 +173,13 @@ coverImage: "TLI.jpg"
 我暫時不太肯定  
 
   
-![](WordPress/4-1.png)  
+![](post_assets/4-1.png)  
 
   
-![](WordPress/4-3.png)  
+![](post_assets/4-3.png)  
 
   
-![](WordPress/4-2.png)  
+![](post_assets/4-2.png)  
 
   
 然後就到了天賦改動了 在SS1魔方和SS2迷城  
@@ -222,7 +222,7 @@ coverImage: "TLI.jpg"
 還有什麼詞綴呢 全部都要等它開季才知道  
 
   
-![](WordPress/5-300x92.png)  
+![](post_assets/5-300x92.png)  
 
   
 最後和裝備有關的就是新傳奇  
@@ -242,7 +242,7 @@ coverImage: "TLI.jpg"
 以上就是和魔靈有關的更新  
 
   
-![](WordPress/6-1024x576.png)  
+![](post_assets/6-1024x576.png)  
 
   
 最後簡單總結一下魔靈的改動是什麼  

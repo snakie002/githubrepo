@@ -39,7 +39,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail.jpg"
+coverImage: "post_assets/thumbnail.jpg"
 ---
 
 ### 【Diablo 4】新手德魯伊拓荒流派 拍拍熊 粉碎衝擊波 | Pulverize Druid Build  
@@ -99,9 +99,9 @@ Any肥 希望這能幫助對拍拍熊流派感興趣的朋友們！
    
 
   
-![](WordPress/S1-1024x576.jpg)  
-![](WordPress/S3-1024x576.jpg)  
-![](WordPress/S2-1024x576.jpg)  
+![](post_assets/S1-1024x576.jpg)  
+![](post_assets/S3-1024x576.jpg)  
+![](post_assets/S2-1024x576.jpg)  
 
   
    
@@ -131,7 +131,7 @@ Any肥 希望這能幫助對拍拍熊流派感興趣的朋友們！
 職業特性  
 
   
-![](WordPress/2-722x1024.png)  
+![](post_assets/2-722x1024.png)  
 
   
 要觸發兩個貪蛇，變形技能回血以及冷卻，  
@@ -144,12 +144,12 @@ Any肥 希望這能幫助對拍拍熊流派感興趣的朋友們！
    
 
 ### 顛峰等級  
-![](WordPress/P1-1024x576.jpg)  
-![](WordPress/P2-1024x576.jpg)
+![](post_assets/P1-1024x576.jpg)  
+![](post_assets/P2-1024x576.jpg)
 
   
-![](WordPress/P4-1024x576.jpg)  
-![](WordPress/P3-1024x576.jpg)  
+![](post_assets/P4-1024x576.jpg)  
+![](post_assets/P3-1024x576.jpg)  
 
   
 優先獲得 大地破滅 -> 生存本能 -> 先祖引導  
@@ -231,7 +231,7 @@ Any肥 希望這能幫助對拍拍熊流派感興趣的朋友們！
   
   
 
-<table style="height: 3614px;" width="848"><tbody><tr><td width="208"><u>裝備部位</u></td><td width="104"><u>精華詞綴</u></td><td width="312"><u>裝備詞綴</u></td></tr><tr><td width="208">雙手杖<br><img class="alignnone wp-image-1924 size-full" src="WordPress/G16.png" alt="" width="405" height="851"></td><td width="104">粉碎衝擊波</td><td width="312">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 爆擊傷害<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 大地技能爆擊傷害<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 緩速增傷<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 核心技能傷害<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 近距傷害<br><div></div><br>7.&nbsp;&nbsp;&nbsp; 遠距傷害<br><div></div><br>8.&nbsp;&nbsp;&nbsp; 壓制傷害<br><div></div><br>9.&nbsp;&nbsp;&nbsp; 熊型壓制傷害<br><div></div><br>插槽‍ 皇家藍寶石<br><div></div><br>有以上4條即可，其中要留意，<br>緩速，昏迷等條件性傷害，在打王時是無法正確觸發，<br>因為頭目大多為無阻狀態，不吃以上傷害，<br>且因為物品強度難以要求，所以其實目標有兩條較重要<br>如大地技能爆擊及爆擊傷害等常駐型，<br>一條不太重要如近距遠距緩速，一條附魔成其他已經非常不錯了，<br>不要強求完美裝備，先求穩定輸出再求極致更佳<br><div></div><br>&nbsp;</td></tr><tr><td width="208">頭盔<br><img class="alignnone wp-image-1928 size-full" src="WordPress/G11.png" alt="" width="399" height="788"></td><td width="104"><a href="https://diablo4.cc/tw/Vasily%27s_Prayer">瓦希里的祈禱</a></td><td width="312">綁定 最佳裝備<br>雖然不算綁定但是最完美裝備沒有獲得之前用著防禦向裝備即可<br>與下列胸甲等相同</td></tr><tr><td width="208">胸部<br><img class="alignnone wp-image-1920 size-full" src="WordPress/G12.png" alt="" width="402" height="737"></td><td width="104">不服從<br>50%為佳或其他防禦精華</td><td width="312">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 熊人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="208">手套<br><img class="alignnone wp-image-1921 size-full" src="WordPress/G13.png" alt="" width="406" height="669"></td><td width="104">恐懼熊化之 精華<br>或<br>狂暴人獸之 精華</td><td width="312">1. 粉碎等級 (遠古裝才能出+3 升滿才可變+4)<br>2. 幸運觸發機率<br>3. 攻擊速度 / 暴擊率<br>4. 意志力必須留意粉碎需要+4要遠古裝+3升級後才可到4<br>沒到世4難度朋友追求有粉碎增加即可(反正後期都要換)個人認為最好詞綴還是幸運觸發機率<br>對清圖有明顯幫助<br>攻速及暴擊率也可以考慮<br>意志對最終推高意志傷害也是不錯</td></tr><tr><td width="208">褲子<br><img class="alignnone wp-image-1922 size-full" src="WordPress/G14.png" alt="" width="408" height="763"></td><td width="104">癒傷石之 精華<br><div></div><br>或其他防禦精華</td><td width="312">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 熊人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="208">靴子<br><div></div><br><img class="alignnone wp-image-1923 size-full" src="WordPress/G15.png" alt="" width="401" height="739"></td><td width="104">流沙之 精華<br>50%為佳</td><td width="312">1. 移動速度<br>2. 靈力消耗減少<br>3. 意志力 / 其他屬性<br>4. 閃躲個人認為只有移速及靈力為最佳詞綴<br>抗性在暗黑內沒太大作用，<br>而閃躲因為沒有堆上去效果也不太明顯，<br>倒不如補上意志或其他屬性更好，</td></tr><tr><td width="208">護身符<br><div></div><br><img class="alignnone wp-image-1925 size-full" src="WordPress/G17.png" alt="" width="408" height="776"></td><td width="104">報復之 精華</td><td width="312">1. 冷卻時間減少<br>2. 靈力消耗減少<br>3. % 意志力 (前題是其他裝備有推高意志力)<br>4. 自然之觸 / 粉碎大地 / 狂野衝動等級<br>5. 強化時傷害減少<br>6. 近距離敵人傷害減少<br>7. 遠處敵人傷害減少<br>8. 移動速度插槽‍ 皇家骷髏個人感覺護身符是最難拿到的部位，<br>建議先處理冷卻及靈力消耗，其他能有則有，<br>因為冷卻及靈力消耗最為有感，<br>其他都是增傷或減傷部份，<br>另外％意志需要角色有特別推高意志才有明顯感覺，<br>所以在選擇裝備時要留意</td></tr><tr><td width="208">戒指１<br><div></div><br><img class="alignnone wp-image-1927 size-full" src="WordPress/G19.png" alt="" width="403" height="749"></td><td width="104">恐懼熊化之 精華<br>或<br>狂暴人獸之 精華</td><td width="312">1. 最大生命<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 土系技能的暴擊傷害<br>4. 任何增傷詞綴 (減速 近遠距 受控)插槽‍ 皇家骷髏戒指的生命是機體生命主要來源，<br>同時幸運觸發機率也是十分罕有，<br>有這兩條詞綴後盡量砌出傷害詞綴已經算成型了</td></tr><tr><td width="208">戒指２<br><div></div><br><img class="alignnone wp-image-1926 size-full" src="WordPress/G18.png" alt="" width="412" height="758"></td><td width="104">晦暗之 精華<br><div></div><br>必需找出+3 / +4 才有明顯分別<br>如果沒有的話建議換上其他傷害詞較好</td><td width="312">1. 最大生命<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 土系技能的暴擊傷害<br>4. 任何增傷詞綴 (減速 近遠距 受控)插槽‍ 皇家骷髏戒指的生命是機體生命主要來源，<br>同時幸運觸發機率也是十分罕有，<br>有這兩條詞綴後盡量砌出傷害詞綴已經算成型了</td></tr></tbody></table>
+<table style="height: 3614px;" width="848"><tbody><tr><td width="208"><u>裝備部位</u></td><td width="104"><u>精華詞綴</u></td><td width="312"><u>裝備詞綴</u></td></tr><tr><td width="208">雙手杖<br><img class="alignnone wp-image-1924 size-full" src="post_assets/G16.png" alt="" width="405" height="851"></td><td width="104">粉碎衝擊波</td><td width="312">1.&nbsp;&nbsp;&nbsp; 物品強度 = 每秒傷害<br><div></div><br>2.&nbsp;&nbsp;&nbsp; 爆擊傷害<br><div></div><br>3.&nbsp;&nbsp;&nbsp; 大地技能爆擊傷害<br><div></div><br>4.&nbsp;&nbsp;&nbsp; 緩速增傷<br><div></div><br>5.&nbsp;&nbsp;&nbsp; 核心技能傷害<br><div></div><br>6.&nbsp;&nbsp;&nbsp; 近距傷害<br><div></div><br>7.&nbsp;&nbsp;&nbsp; 遠距傷害<br><div></div><br>8.&nbsp;&nbsp;&nbsp; 壓制傷害<br><div></div><br>9.&nbsp;&nbsp;&nbsp; 熊型壓制傷害<br><div></div><br>插槽‍ 皇家藍寶石<br><div></div><br>有以上4條即可，其中要留意，<br>緩速，昏迷等條件性傷害，在打王時是無法正確觸發，<br>因為頭目大多為無阻狀態，不吃以上傷害，<br>且因為物品強度難以要求，所以其實目標有兩條較重要<br>如大地技能爆擊及爆擊傷害等常駐型，<br>一條不太重要如近距遠距緩速，一條附魔成其他已經非常不錯了，<br>不要強求完美裝備，先求穩定輸出再求極致更佳<br><div></div><br>&nbsp;</td></tr><tr><td width="208">頭盔<br><img class="alignnone wp-image-1928 size-full" src="post_assets/G11.png" alt="" width="399" height="788"></td><td width="104"><a href="https://diablo4.cc/tw/Vasily%27s_Prayer">瓦希里的祈禱</a></td><td width="312">綁定 最佳裝備<br>雖然不算綁定但是最完美裝備沒有獲得之前用著防禦向裝備即可<br>與下列胸甲等相同</td></tr><tr><td width="208">胸部<br><img class="alignnone wp-image-1920 size-full" src="post_assets/G12.png" alt="" width="402" height="737"></td><td width="104">不服從<br>50%為佳或其他防禦精華</td><td width="312">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 熊人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="208">手套<br><img class="alignnone wp-image-1921 size-full" src="post_assets/G13.png" alt="" width="406" height="669"></td><td width="104">恐懼熊化之 精華<br>或<br>狂暴人獸之 精華</td><td width="312">1. 粉碎等級 (遠古裝才能出+3 升滿才可變+4)<br>2. 幸運觸發機率<br>3. 攻擊速度 / 暴擊率<br>4. 意志力必須留意粉碎需要+4要遠古裝+3升級後才可到4<br>沒到世4難度朋友追求有粉碎增加即可(反正後期都要換)個人認為最好詞綴還是幸運觸發機率<br>對清圖有明顯幫助<br>攻速及暴擊率也可以考慮<br>意志對最終推高意志傷害也是不錯</td></tr><tr><td width="208">褲子<br><img class="alignnone wp-image-1922 size-full" src="post_assets/G14.png" alt="" width="408" height="763"></td><td width="104">癒傷石之 精華<br><div></div><br>或其他防禦精華</td><td width="312">1. 最大生命<br>2. 強化時的傷害減少<br>3. 近距離敵人的傷害減少<br>4. 熊人形態下的總護甲百分比<br>5. 總護甲百分比<br>6. 遠處敵人<br>插槽的傷害減少‍ 皇家藍寶石因為長期有強韌，所以強韌減傷效果最為明顯<br>沒有的話直接傷害減免亦可，<br>受傷減免則沒太多作用，畢竟35%血量以下才有效果</td></tr><tr><td width="208">靴子<br><div></div><br><img class="alignnone wp-image-1923 size-full" src="post_assets/G15.png" alt="" width="401" height="739"></td><td width="104">流沙之 精華<br>50%為佳</td><td width="312">1. 移動速度<br>2. 靈力消耗減少<br>3. 意志力 / 其他屬性<br>4. 閃躲個人認為只有移速及靈力為最佳詞綴<br>抗性在暗黑內沒太大作用，<br>而閃躲因為沒有堆上去效果也不太明顯，<br>倒不如補上意志或其他屬性更好，</td></tr><tr><td width="208">護身符<br><div></div><br><img class="alignnone wp-image-1925 size-full" src="post_assets/G17.png" alt="" width="408" height="776"></td><td width="104">報復之 精華</td><td width="312">1. 冷卻時間減少<br>2. 靈力消耗減少<br>3. % 意志力 (前題是其他裝備有推高意志力)<br>4. 自然之觸 / 粉碎大地 / 狂野衝動等級<br>5. 強化時傷害減少<br>6. 近距離敵人傷害減少<br>7. 遠處敵人傷害減少<br>8. 移動速度插槽‍ 皇家骷髏個人感覺護身符是最難拿到的部位，<br>建議先處理冷卻及靈力消耗，其他能有則有，<br>因為冷卻及靈力消耗最為有感，<br>其他都是增傷或減傷部份，<br>另外％意志需要角色有特別推高意志才有明顯感覺，<br>所以在選擇裝備時要留意</td></tr><tr><td width="208">戒指１<br><div></div><br><img class="alignnone wp-image-1927 size-full" src="post_assets/G19.png" alt="" width="403" height="749"></td><td width="104">恐懼熊化之 精華<br>或<br>狂暴人獸之 精華</td><td width="312">1. 最大生命<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 土系技能的暴擊傷害<br>4. 任何增傷詞綴 (減速 近遠距 受控)插槽‍ 皇家骷髏戒指的生命是機體生命主要來源，<br>同時幸運觸發機率也是十分罕有，<br>有這兩條詞綴後盡量砌出傷害詞綴已經算成型了</td></tr><tr><td width="208">戒指２<br><div></div><br><img class="alignnone wp-image-1926 size-full" src="post_assets/G18.png" alt="" width="412" height="758"></td><td width="104">晦暗之 精華<br><div></div><br>必需找出+3 / +4 才有明顯分別<br>如果沒有的話建議換上其他傷害詞較好</td><td width="312">1. 最大生命<br>2. 幸運觸發機率<br>3. 暴擊傷害 / 土系技能的暴擊傷害<br>4. 任何增傷詞綴 (減速 近遠距 受控)插槽‍ 皇家骷髏戒指的生命是機體生命主要來源，<br>同時幸運觸發機率也是十分罕有，<br>有這兩條詞綴後盡量砌出傷害詞綴已經算成型了</td></tr></tbody></table>
 
   
    

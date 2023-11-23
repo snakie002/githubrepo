@@ -30,7 +30,7 @@ tags:
   - "流亡黯道-新手教學"
   - "流亡黯道-測試"
   - "遊戲攻略"
-coverImage: "thumbnail1-17.jpg"
+coverImage: "post_assets/thumbnail1-17.jpg"
 ---
 
 ### 【POE】POE 通識 – 五軍打手升等服務 (低配版) | 低配版擊殺數測試  
@@ -83,7 +83,7 @@ TFT Discord 連結
 這次只分享一下感覺而已  
 
   
-![](WordPress/Path-of-Exile-Legion.jpg)  
+![](post_assets/Path-of-Exile-Legion.jpg)  
 
   
 **透明度高 易學難精**  
@@ -111,7 +111,7 @@ TFT Discord 連結
 ****但數字卻很誠實，打不了那個效果就是打不了；**  
 
   
-![](WordPress/maxresdefault-1024x576.jpg)  
+![](post_assets/maxresdefault-1024x576.jpg)  
 
   
 **作業感 ＶＳ 效益**  
@@ -139,7 +139,7 @@ TFT Discord 連結
 變相能賺錢的潛力也會降低；  
 
   
-![](WordPress/2021-09-03-20-42-20.mp4_snapshot_06.01.823-1024x576.jpg)  
+![](post_assets/2021-09-03-20-42-20.mp4_snapshot_06.01.823-1024x576.jpg)  
 
   
 所以綜合來說，  

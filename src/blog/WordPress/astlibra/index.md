@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【極度推薦】神作 神之天平 媲美大作的獨立遊戲 | 14年一人製作 VS 11年商業作品  
@@ -116,7 +116,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
    
 
   
-![](WordPress/12344-1024x686.png)  
+![](post_assets/12344-1024x686.png)  
 
   
    
@@ -139,7 +139,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
 想不到師傅的第一個Steam白金就是神之天平的白金  
 
   
-![](WordPress/6-1013x1024.png)  
+![](post_assets/6-1013x1024.png)  
 
   
 **人性化同時保留傳統風味**  
@@ -157,7 +157,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
    
 
   
-![](WordPress/1-2-1024x576.jpg)  
+![](post_assets/1-2-1024x576.jpg)  
 
   
 有可能讓剛入坑的朋友覺得煩擾，  
@@ -172,7 +172,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
    
 
   
-![](WordPress/4-1024x620.png)  
+![](post_assets/4-1024x620.png)  
 
   
 還有也特意設計了武器及收集書本，  
@@ -182,10 +182,10 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
    
 
   
-![](WordPress/5-1024x633.png)  
+![](post_assets/5-1024x633.png)  
 
   
-![](WordPress/3-1024x618.png)  
+![](post_assets/3-1024x618.png)  
 
   
 也代表了充足存檔在遊戲中的重要性。。。  
@@ -217,7 +217,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
 起碼近年要想出一只在劇情上能媲美的RPG還真想不到  
 
   
-\[caption id="attachment\_2052" align="alignnone" width="858"\]![](WordPress/8-1-1024x576.jpg) 不能劇透的前題下只能展示這個道具了\[/caption\]  
+\[caption id="attachment\_2052" align="alignnone" width="858"\]![](post_assets/8-1-1024x576.jpg) 不能劇透的前題下只能展示這個道具了\[/caption\]  
 
   
 主觀上來說真不太說得出缺點，  
@@ -229,7 +229,7 @@ Any肥希望可以幫到有興趣了解《神之天平》的朋友們！
 不過每一次到新章都先要刷一輪，也是比較容易疲勞，  
 
   
-![](WordPress/7-1-1024x576.jpg)  
+![](post_assets/7-1-1024x576.jpg)  
 
   
    

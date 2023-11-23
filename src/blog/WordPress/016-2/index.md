@@ -34,7 +34,7 @@ tags:
   - "流亡黯道-旋風斬"
   - "流亡黯道-毒雨"
   - "遊戲攻略"
-coverImage: "thumbnail-37.jpg"
+coverImage: "post_assets/thumbnail-37.jpg"
 ---
 
 ### 【POE】三大必勝拓荒推薦 詐欺師毒雨 文字補完版本
@@ -70,7 +70,7 @@ coverImage: "thumbnail-37.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/trickster-1024x936.jpg)  
+![](post_assets/trickster-1024x936.jpg)  
 
   
    

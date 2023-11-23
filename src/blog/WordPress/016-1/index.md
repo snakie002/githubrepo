@@ -29,7 +29,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-36.jpg"
+coverImage: "post_assets/thumbnail-36.jpg"
 ---
 
 ### 【POE】三大必勝拓荒推薦 處刑者旋風斬 文字補完版本
@@ -68,7 +68,7 @@ coverImage: "thumbnail-36.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/Slayer-2-1024x864.jpg)  
+![](post_assets/Slayer-2-1024x864.jpg)  
 
   
 昇華盡做拿到首兩點後就會進入不要想只要轉狀態，  

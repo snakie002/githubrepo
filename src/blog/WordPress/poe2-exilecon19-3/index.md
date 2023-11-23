@@ -56,7 +56,7 @@ tags:
   - "遊戲評價"
   - "香港"
   - "香港poe"
-coverImage: "3.jpg"
+coverImage: "post_assets/3.jpg"
 ---
 
 ### 【POE2】POE 2 資訊 Part 3 | POE1 VS POE2 帶你認識 POE2 全新內容 - 美術改善  

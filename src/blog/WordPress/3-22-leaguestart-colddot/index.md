@@ -58,7 +58,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-5.jpg"
+coverImage: "post_assets/thumbnail-5.jpg"
 ---
 
 ## 【POE】3.22 祖靈聯盟 三大推薦拓荒 元素使冰冷持續 文字補完版本
@@ -85,7 +85,7 @@ coverImage: "thumbnail-5.jpg"
 希望可以幫到新手朋友們！  
 
   
-![](WordPress/thumbnail-5-1024x576.jpg)  
+![](post_assets/thumbnail-5-1024x576.jpg)  
 
   
 文字補完 [原文連結](https://snakie002hosifu.blog/3-22-leaguestart) (關於影片沒有提供的內容)：  
@@ -126,8 +126,8 @@ coverImage: "thumbnail-5.jpg"
    
 
   
-![](WordPress/1-1-1024x687.png)  
-![](WordPress/2-1-292x300.png)  
+![](post_assets/1-1-1024x687.png)  
+![](post_assets/2-1-292x300.png)  
   
   
   
@@ -184,7 +184,7 @@ coverImage: "thumbnail-5.jpg"
 防禦方面就是能高則高，不要想太多  
 
   
-![](WordPress/E1-1-1024x495.png)  
+![](post_assets/E1-1-1024x495.png)  
 
   
    
@@ -254,7 +254,7 @@ coverImage: "thumbnail-5.jpg"
   
   
 
-<table style="height: 791px;" width="801"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-2220 size-full" src="WordPress/S1-1.png" alt="" width="690" height="256"></td></tr><tr><td colspan="2" width="604">前期沒有五連之前可以考慮只有一招，個人手感上較推薦漩渦</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2221 size-full" src="WordPress/S2-1.png" alt="" width="707" height="249"></td></tr><tr><td colspan="2" width="604">漩渦跟霜暴已經足夠打到黃圖，不綁定輔助技能，可按個人要求改動</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2224 size-full" src="WordPress/S5-1.png" alt="" width="713" height="269"></td></tr><tr><td colspan="2" width="604">寒霜爆可改手動，師傅只是懶惰而已，手動區別<span style="font-family: inherit; font-size: inherit;">極大</span></td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2225 size-full" style="font-family: inherit; font-size: inherit;" src="WordPress/S6-1.png" alt="" width="725" height="299"></td></tr><tr><td colspan="2" width="604">光環串，要留意前期沒有足夠能量護盾前可先用清晰補魔，<br>待後期有正常裝備才用異能魔力</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2222 size-full" src="WordPress/S3-1.png" alt="" width="688" height="214"></td></tr><tr><td colspan="2" width="604">位移串，方便清圖</td></tr><tr><td width="59">盾牌</td><td width="545"><img class="alignnone wp-image-2223 size-full" src="WordPress/S4-1.png" alt="" width="683" height="222"></td></tr><tr><td colspan="2" width="604">烙印詛咒串，懶人必備</td></tr></tbody></table>
+<table style="height: 791px;" width="801"><tbody><tr><td colspan="2" width="604"><strong>技能連結</strong></td></tr><tr><td width="59">胸甲</td><td width="545"><img class="alignnone wp-image-2220 size-full" src="post_assets/S1-1.png" alt="" width="690" height="256"></td></tr><tr><td colspan="2" width="604">前期沒有五連之前可以考慮只有一招，個人手感上較推薦漩渦</td></tr><tr><td width="59">頭部</td><td width="545"><img class="alignnone wp-image-2221 size-full" src="post_assets/S2-1.png" alt="" width="707" height="249"></td></tr><tr><td colspan="2" width="604">漩渦跟霜暴已經足夠打到黃圖，不綁定輔助技能，可按個人要求改動</td></tr><tr><td width="59">手套</td><td width="545"><img class="alignnone wp-image-2224 size-full" src="post_assets/S5-1.png" alt="" width="713" height="269"></td></tr><tr><td colspan="2" width="604">寒霜爆可改手動，師傅只是懶惰而已，手動區別<span style="font-family: inherit; font-size: inherit;">極大</span></td></tr><tr><td width="59">鞋</td><td width="545"><img class="alignnone wp-image-2225 size-full" style="font-family: inherit; font-size: inherit;" src="post_assets/S6-1.png" alt="" width="725" height="299"></td></tr><tr><td colspan="2" width="604">光環串，要留意前期沒有足夠能量護盾前可先用清晰補魔，<br>待後期有正常裝備才用異能魔力</td></tr><tr><td width="59">武器</td><td width="545"><img class="alignnone wp-image-2222 size-full" src="post_assets/S3-1.png" alt="" width="688" height="214"></td></tr><tr><td colspan="2" width="604">位移串，方便清圖</td></tr><tr><td width="59">盾牌</td><td width="545"><img class="alignnone wp-image-2223 size-full" src="post_assets/S4-1.png" alt="" width="683" height="222"></td></tr><tr><td colspan="2" width="604">烙印詛咒串，懶人必備</td></tr></tbody></table>
 
   
    

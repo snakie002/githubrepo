@@ -39,7 +39,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-11.jpg"
+coverImage: "post_assets/Title-11.jpg"
 ---
 
 # \[POE 3.22 教學\] 9個祖靈的試煉小貼士 | 流亡黯道  
@@ -49,7 +49,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/Title-11-1024x576.jpg)  
+![](post_assets/Title-11-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -60,7 +60,7 @@ Path of Exile | 祖靈的試煉
 所以決定製作影片回答  
 
   
-![](WordPress/1-fps-300x169.jpg)  
+![](post_assets/1-fps-300x169.jpg)  
 1\. FPS改善  
 很多人這季開始都很卡, 這大概是因為ExileCon前的畫面引擎更新所致的  
 解決方法: Option > Garphic > Triple Buffering > Enabled  
@@ -70,7 +70,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/2-waypoint-1024x576.jpg)  
+![](post_assets/2-waypoint-1024x576.jpg)  
 
   
    
@@ -83,7 +83,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/3-role.png)  
+![](post_assets/3-role.png)  
 
   
    
@@ -100,7 +100,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/4-UI-1024x576.jpg)  
+![](post_assets/4-UI-1024x576.jpg)  
 
   
    
@@ -114,7 +114,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/5-manual-break-totem-1024x576.jpg)  
+![](post_assets/5-manual-break-totem-1024x576.jpg)  
 
   
    
@@ -127,13 +127,13 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/6-1-Favor--1024x576.jpg)  
+![](post_assets/6-1-Favor--1024x576.jpg)  
 
   
    
 
   
-![](WordPress/6-2-Favor-1024x576.jpg)  
+![](post_assets/6-2-Favor-1024x576.jpg)  
 
   
    
@@ -147,7 +147,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/7-Spending-Favor-1024x576.jpg)  
+![](post_assets/7-Spending-Favor-1024x576.jpg)  
 
   
    
@@ -160,7 +160,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/8-reset-1024x576.jpg)  
+![](post_assets/8-reset-1024x576.jpg)  
 
   
    
@@ -173,7 +173,7 @@ Path of Exile | 祖靈的試煉
    
 
   
-![](WordPress/9-Left-Right-UI-1024x576.jpg)  
+![](post_assets/9-Left-Right-UI-1024x576.jpg)  
 
   
    

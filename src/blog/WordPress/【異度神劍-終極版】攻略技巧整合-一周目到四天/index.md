@@ -15,7 +15,7 @@ tags:
   - "異度神劍-終極版"
   - "遊戲介紹"
   - "遊戲攻略"
-coverImage: "thumbnail-12.jpg"
+coverImage: "post_assets/thumbnail-12.jpg"
 ---
 
 ### 【異度神劍 終極版】攻略技巧整合 | 一周目到四天王教程 升EXP AP SP 羈絆值寶石  
@@ -33,7 +33,7 @@ coverImage: "thumbnail-12.jpg"
 以下影片內容含有嚴重劇透及爆機後內容，請自行斟酌服用！（文章文字倒是沒有）  
 
   
-![](WordPress/rundown.jpg)  
+![](post_assets/rundown.jpg)  
 
   
 感謝網友Nix信的同意分享，[升級原文連結請點這裡！](https://forum.gamer.com.tw/C.php?bsn=1372&snA=4572&tnum=1&bPage=3)  

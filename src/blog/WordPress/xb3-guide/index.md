@@ -40,7 +40,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 ### 【異度神劍3】攻略技巧整合 | 中期快速解鎖角色職業 自動掛機全民20職級  無限自動爆裂刷素材  
@@ -79,7 +79,7 @@ Xenoblade Chronicles 3 遊戲攻略
    
 
   
-![](WordPress/23-1024x576.jpg)  
+![](post_assets/23-1024x576.jpg)  
 
   
    
@@ -101,8 +101,8 @@ Xenoblade Chronicles 3 遊戲攻略
    
 
   
-![](WordPress/1-1-1024x576.jpg)  
-![](WordPress/7-1024x576.jpg)  
+![](post_assets/1-1-1024x576.jpg)  
+![](post_assets/7-1024x576.jpg)  
 
   
    
@@ -122,7 +122,7 @@ Xenoblade Chronicles 3 遊戲攻略
 ９５～１００級藍色精英位置如下：  
 
   
-![](WordPress/2-1-1024x576.jpg)  
+![](post_assets/2-1-1024x576.jpg)  
 
   
    
@@ -138,8 +138,8 @@ Xenoblade Chronicles 3 遊戲攻略
    
 
   
-![](WordPress/5-1-1024x576.jpg)  
-![](WordPress/4-1-1024x576.jpg)  
+![](post_assets/5-1-1024x576.jpg)  
+![](post_assets/4-1-1024x576.jpg)  
 
   
 影片上的示範只是師傅在用的組合，  
@@ -165,8 +165,8 @@ Xenoblade Chronicles 3 遊戲攻略
    
 
   
-![](WordPress/44-1024x576.jpg)  
-![](WordPress/10-1024x576.jpg)  
+![](post_assets/44-1024x576.jpg)  
+![](post_assets/10-1024x576.jpg)  
 
   
    
@@ -211,8 +211,8 @@ Xenoblade Chronicles 3 遊戲攻略
 希望往後能夠開發出別的技能配套可以玩出更多組合吧  
 
   
-![](WordPress/55-1-1024x576.jpg)  
-![](WordPress/66-1024x576.jpg)  
+![](post_assets/55-1-1024x576.jpg)  
+![](post_assets/66-1024x576.jpg)  
 
   
    

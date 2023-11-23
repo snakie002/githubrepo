@@ -35,19 +35,19 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-7.jpg"
+coverImage: "post_assets/Title-7.jpg"
 ---
 
 # \[Last Epoch\] 官方漢化超多問題 | 最後紀元 | 0.9.2 | Runes of Power
 
   
-![](WordPress/Title-7-1024x576.jpg)  
+![](post_assets/Title-7-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/1-10-1024x575.png)  
+![](post_assets/1-10-1024x575.png)  
 
   
    
@@ -57,27 +57,27 @@ coverImage: "Title-7.jpg"
 由登入畫面已經感受得到  
 
   
-![](WordPress/2-1-2.png)  
-![](WordPress/2-2-2.png)  
+![](post_assets/2-1-2.png)  
+![](post_assets/2-2-2.png)  
 
   
 從沒有漢化 到漢化至韓語  
 
   
-![](WordPress/3-10.png)  
+![](post_assets/3-10.png)  
 
   
 有些關建字比如說"更多"寫成了"增加"  
 
   
-![](WordPress/4-12.png)  
+![](post_assets/4-12.png)  
 
   
 亦有明顯的全部取代操作導致文  
 由於問題眾多不能盡錄  
 
   
-![](WordPress/5-8.png)  
+![](post_assets/5-8.png)  
 
   
 這個問題不僅限漢化  

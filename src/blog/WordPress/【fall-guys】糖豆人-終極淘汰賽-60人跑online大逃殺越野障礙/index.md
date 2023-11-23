@@ -14,7 +14,7 @@ tags:
   - "何師傅"
   - "糖豆人-終極淘汰賽"
   - "遊戲介紹"
-coverImage: "thumbnail3.jpg"
+coverImage: "post_assets/thumbnail3.jpg"
 ---
 
 ### 【Fall Guys】糖豆人: 終極淘汰賽  60人跑Online大逃殺越野障礙賽 | 遊戲介紹 | Fall Guys: Ultimate Knockout
@@ -29,7 +29,7 @@ coverImage: "thumbnail3.jpg"
 附帶遊戲介紹及落敗精華影片，希望大家都喜歡！  
 
   
-![](WordPress/thumbnail3-1024x576.jpg)  
+![](post_assets/thumbnail3-1024x576.jpg)  
 
   
 吃雞遊戲的通病就是有一定的運氣程度（團隊賽），但其實只是師傅廢而已，  
@@ -44,13 +44,13 @@ coverImage: "thumbnail3.jpg"
 請訂閱小弟Snakie何師傅的YouTube頻道！  
 
   
-![](WordPress/2020-08-20-22-16-28.mp4_snapshot_47.22.364-1024x576.jpg)  
+![](post_assets/2020-08-20-22-16-28.mp4_snapshot_47.22.364-1024x576.jpg)  
 
   
-![](WordPress/2020-08-19-00-12-27.mp4_snapshot_04.40.843-1024x576.jpg)  
+![](post_assets/2020-08-19-00-12-27.mp4_snapshot_04.40.843-1024x576.jpg)  
 
   
-![](WordPress/2020-08-20-22-16-28.mp4_snapshot_00.00.000-1024x576.jpg)  
+![](post_assets/2020-08-20-22-16-28.mp4_snapshot_00.00.000-1024x576.jpg)  
 
   
 By Snakie何師傅  

@@ -23,7 +23,7 @@ tags:
   - "snakie002"
   - "何師傅"
   - "遊戲攻略"
-coverImage: "thumbnail-22.jpg"
+coverImage: "post_assets/thumbnail-22.jpg"
 ---
 
 ### 【POE】POE 通識 - 完全新手食用教程 (2) | 天賦昇華 防禦機制 給新手的話 | Fresh Beginners Guide  
@@ -64,16 +64,16 @@ POE PASTEBIN網上版　（方便對照天賦）
 [https://www.pathofexile.com/trade/search/](https://www.pathofexile.com/trade/search/)  
 
   
-![](WordPress/1-1-1024x576.jpg)  
+![](post_assets/1-1-1024x576.jpg)  
 
   
-![](WordPress/5.1-1024x576.jpg)  
+![](post_assets/5.1-1024x576.jpg)  
 
   
-![](WordPress/4-1-1024x576.jpg)  
+![](post_assets/4-1-1024x576.jpg)  
 
   
-![](WordPress/3.1-1024x576.jpg)  
+![](post_assets/3.1-1024x576.jpg)  
 
   
    

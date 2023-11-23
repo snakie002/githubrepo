@@ -21,7 +21,7 @@ tags:
   - "流亡黯道"
   - "流亡黯道-100ex"
   - "流亡黯道-教學"
-coverImage: "Capture-17.png"
+coverImage: "post_assets/Capture-17.png"
 ---
 
 ### 【POE】POE 3.17 聯盟名稱確定！POE 3.17 Archnemesis | 牙膏式最新情報 (1)  
@@ -40,13 +40,13 @@ POE 3.17 經過延期後國際服將會在2022年2月5日港台時間凌晨3點�
 魔幻復仇？ 不知道官方的中文名稱會是甚麼了  
 
   
-![](WordPress/Capture-17-1024x568.png)  
+![](post_assets/Capture-17-1024x568.png)  
 
   
 暫時而知的情報有幾個，第一是輿圖部份必定有所改動，因為征服者都被列入地圖碎片類別：  
 
   
-![](WordPress/MapTab-1024x576.jpg)  
+![](post_assets/MapTab-1024x576.jpg)  
 
   
 那回圈上會有甚麼改動？也就是說賽勒斯不再是免費的頭目，因為碎片就是金錢，  
@@ -59,7 +59,7 @@ POE 3.17 經過延期後國際服將會在2022年2月5日港台時間凌晨3點�
 其中一件新的傳奇珠寶，暫時來說是為了沒有煮過的負電甲而生：  
 
   
-![](WordPress/MeldingoftheFlesh-1024x477.jpg)  
+![](post_assets/MeldingoftheFlesh-1024x477.jpg)  
 
   
 不過反效果太大了，照道理都應該是１Ｃ類別；  

@@ -38,7 +38,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "LE-Title.jpg"
+coverImage: "post_assets/LE-Title.jpg"
 ---
 
 # \[Last Epoch\] 新職業 Runemaster 於0.9.2登場!  
@@ -48,9 +48,9 @@ coverImage: "LE-Title.jpg"
    
 
   
-![](WordPress/LE-Title-1024x576.jpg)  
-![](WordPress/1-1-0.9.2-1024x576.jpg)  
-![](WordPress/1-2-0.9.2-1024x576.jpg)  
+![](post_assets/LE-Title-1024x576.jpg)  
+![](post_assets/1-1-0.9.2-1024x576.jpg)  
+![](post_assets/1-2-0.9.2-1024x576.jpg)  
 
   
 喂 早晨我是hfok  
@@ -66,8 +66,8 @@ coverImage: "LE-Title.jpg"
    
 
   
-![](WordPress/2-1-Runes-1024x576.jpg)  
-![](WordPress/2-2-Runes-1024x576.jpg)  
+![](post_assets/2-1-Runes-1024x576.jpg)  
+![](post_assets/2-2-Runes-1024x576.jpg)  
 
   
    

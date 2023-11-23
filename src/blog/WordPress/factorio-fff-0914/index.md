@@ -4,7 +4,7 @@ date: "2023-09-13"
 categories: 
   - "factorio-異星工廠"
   - "遊戲新聞"
-coverImage: "title-5.jpg"
+coverImage: "post_assets/title-5.jpg"
 ---
 
 # \[Factorio\] FFF #375 - 品質 | 異星工廠 | Space Age
@@ -13,17 +13,17 @@ coverImage: "title-5.jpg"
    
 
   
-![](WordPress/title-5-1024x576.jpg)  
+![](post_assets/title-5-1024x576.jpg)  
 
   
-![](WordPress/1-2-1024x576.jpg)  
+![](post_assets/1-2-1024x576.jpg)  
 
   
 引用了Matrix電影中的場景，探討到底你想停留在以前藍色模組的工廠  
 還是走進去白紅色模組 - 有品質的世界  
 
   
-![](WordPress/2-7-1024x1024.png)  
+![](post_assets/2-7-1024x1024.png)  
 
   
 橫向和垂直的發展在遊戲中都很重要  
@@ -31,14 +31,14 @@ coverImage: "title-5.jpg"
 而垂直是提高科技和能力。  
 
   
-![](WordPress/3-1-1-1024x630.png)  
+![](post_assets/3-1-1-1024x630.png)  
 
   
 品質系統對於太空時代的遊戲進程非常重要:  
 不同品質的物品分為一般、罕有、稀有、史詩和傳奇五個階級  
 
   
-![](WordPress/3-2-1-1024x654.png)  
+![](post_assets/3-2-1-1024x654.png)  
 
   
 品質可提高物品生命值和能力。  
@@ -50,7 +50,7 @@ Your browser does not support the video tag.
   
 
   
-![](WordPress/4-8.png)  
+![](post_assets/4-8.png)  
 
   
 品質模組用於提高物品品質，品質提升的機率與模組品質和階級相關。  
@@ -67,13 +67,13 @@ Your browser does not support the video tag.
 品質系統的引入改變了遊戲內容，玩家需要在橫向和垂直發展之間取得平衡。  
 
   
-![](WordPress/5-5.png)  
+![](post_assets/5-5.png)  
 
   
 品質模組和品質系統需要在遊戲中研發，不同星球有不同的品質上限。  
 
   
-![](WordPress/6-3.png)  
+![](post_assets/6-3.png)  
 
   
 2.0版本將引入品質系統，不再支援1.x版本，並且擴充包內容需要額外購買。  

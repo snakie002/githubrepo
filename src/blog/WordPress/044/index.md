@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-通貨"
   - "裝備買賣"
   - "遊戲攻略"
-coverImage: "thumbnail1-13.jpg"
+coverImage: "post_assets/thumbnail1-13.jpg"
 ---
 
 ### 【POE】POE 通識 – POE 致富之道 | 完全新手食用教程 經濟篇 (1) 新手教學  
@@ -85,7 +85,7 @@ TFT Discord 連結
 先上圖片，簡單解釋相關交易部份：  
 
   
-![](WordPress/TFT-LIST-910x1024.jpg)  
+![](post_assets/TFT-LIST-910x1024.jpg)  
 
   
 **有效瀏覽ＴＦＴ**  
@@ -111,7 +111,7 @@ TFT Discord 連結
 **基本上新手是完全沒有作用，****因為都不可以直接換錢，ＴＦＴ就把這個問題減少一點點，****其實是有玩家需要的，只需要你懂得去在適當的地方銷售，****找到對的賣場就可以了，只要夠便宜，總有瘋子接貨的；**  
 
   
- **![](WordPress/2-9-232x300.png) ![](WordPress/3-7-298x300.png)**   
+ **![](post_assets/2-9-232x300.png) ![](post_assets/3-7-298x300.png)**   
 
   
 **ＰＯＥ真正致富之道（初階版）**  
@@ -142,7 +142,7 @@ TFT Discord 連結
 這些東西都是不經不覺就儲到一個可以賣到好價錢的地步；  
 
   
-![](WordPress/1-13.png)  
+![](post_assets/1-13.png)  
 
   
 所以綜合來說，  

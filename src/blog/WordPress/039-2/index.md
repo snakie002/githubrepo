@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-聖宗"
   - "流亡黯道-衛士"
   - "遊戲攻略"
-coverImage: "thumbnail2-1.jpg"
+coverImage: "post_assets/thumbnail2-1.jpg"
 ---
 
 ### 【POE】3.15三大防砍拓荒推薦 衛士盾靈投擲 文字補完版本
@@ -86,10 +86,10 @@ coverImage: "thumbnail2-1.jpg"
    
 
   
-![](WordPress/Capture-12.png)  
+![](post_assets/Capture-12.png)  
 
   
-![](WordPress/1-9-1024x1005.png)  
+![](post_assets/1-9-1024x1005.png)  
 
   
 綁定昇華，先拿流血拿點傷害，中期拿格檔，  
@@ -99,7 +99,7 @@ coverImage: "thumbnail2-1.jpg"
 不行的也只是繼續用上普通近戰技直到２８換上盾投就可以了  
 
   
-![](WordPress/3-3.png)  
+![](post_assets/3-3.png)  
 
   
    
@@ -128,7 +128,7 @@ coverImage: "thumbnail2-1.jpg"
 所以大後期的資金也不便宜，高護甲盾也很貴，所以要有農的決心了！  
 
   
-![](WordPress/4-3.png)  
+![](post_assets/4-3.png)  
 
   
 **技能連結**盾靈投擲—殘虐輔助—猛毒投射物輔助—致命異常輔助—極速苦痛輔助—無邊異能輔助  

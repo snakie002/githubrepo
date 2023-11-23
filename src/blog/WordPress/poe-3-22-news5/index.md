@@ -32,7 +32,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "title-4.jpg"
+coverImage: "post_assets/title-4.jpg"
 ---
 
 # \[POE 3.22 消息\] Guardian’s Blessing 輔助 & 3.22 Patch Note  
@@ -48,13 +48,13 @@ coverImage: "title-4.jpg"
    
 
   
-![](WordPress/1-PN-Old-Ascendecy-Node-to-Tree-1024x576.jpg)  
+![](post_assets/1-PN-Old-Ascendecy-Node-to-Tree-1024x576.jpg)  
 
   
    
 
   
-![](WordPress/5-Ruthless-1024x576.jpg)  
+![](post_assets/5-Ruthless-1024x576.jpg)  
 
   
    
@@ -72,7 +72,7 @@ coverImage: "title-4.jpg"
    
 
   
-![](WordPress/2-Guardians-Blessing--1024x576.jpg)  
+![](post_assets/2-Guardians-Blessing--1024x576.jpg)  
 
   
    
@@ -98,10 +98,10 @@ coverImage: "title-4.jpg"
    
 
   
-![](WordPress/7-Like-4-1024x576.jpg)  
+![](post_assets/7-Like-4-1024x576.jpg)  
 
   
-![](WordPress/7-Like-3-1024x576.jpg)  
+![](post_assets/7-Like-3-1024x576.jpg)  
 
   
 另外一樣東西就是新的輿圖關鍵天賦  
@@ -117,8 +117,8 @@ coverImage: "title-4.jpg"
    
 
   
-![](WordPress/7-Like-6-1024x576.jpg)  
-![](WordPress/7-Like-1-1024x576.jpg)  
+![](post_assets/7-Like-6-1024x576.jpg)  
+![](post_assets/7-Like-1-1024x576.jpg)  
 
   
    
@@ -152,10 +152,10 @@ coverImage: "title-4.jpg"
    
 
   
-![](WordPress/3-Free-Box-1024x576.jpg)  
+![](post_assets/3-Free-Box-1024x576.jpg)  
 
   
-![](WordPress/7-Like-1-1024x576.jpg)  
+![](post_assets/7-Like-1-1024x576.jpg)  
 
   
    

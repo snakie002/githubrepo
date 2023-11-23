@@ -31,7 +31,7 @@ tags:
   - "流亡黯道-攻略"
   - "流亡黯道-教學"
   - "遊戲攻略"
-coverImage: "thumbnail-31.jpg"
+coverImage: "post_assets/thumbnail-31.jpg"
 ---
 
 ### 【POE】3.12 聖宗冰霜脈衝圖騰 Hierophant Freezing Pulse Totem Build | 圖騰優缺解說  
@@ -65,7 +65,7 @@ Pastebin: [https://pastebin.com/kE4yD1ye](https://pastebin.com/kE4yD1ye)
 天賦樹縮圖:  
 
   
-![](WordPress/mistake.jpg)  
+![](post_assets/mistake.jpg)  
 
   
    
@@ -99,7 +99,7 @@ Pastebin: [https://pastebin.com/kE4yD1ye](https://pastebin.com/kE4yD1ye)
 待等級上升後才把該換的換上吧！  
 
   
-![](WordPress/Arctic_Freezing_Pulse_Effect_inventory_icon.png) ![](WordPress/Arcane_Tome_Totem_Skin_inventory_icon.png)  
+![](post_assets/Arctic_Freezing_Pulse_Effect_inventory_icon.png) ![](post_assets/Arcane_Tome_Totem_Skin_inventory_icon.png)  
 
   
    
@@ -177,7 +177,7 @@ Pastebin: [https://pastebin.com/kE4yD1ye](https://pastebin.com/kE4yD1ye)
 但，還是那一句，是個人選擇，可按自己打法調配  
 
   
-![](WordPress/Pylon_of_Pain_Totem_Skin_inventory_icon.png) ![](WordPress/Tiki_Totem_Skin_inventory_icon.png)  
+![](post_assets/Pylon_of_Pain_Totem_Skin_inventory_icon.png) ![](post_assets/Tiki_Totem_Skin_inventory_icon.png)  
 
   
    

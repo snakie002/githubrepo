@@ -22,7 +22,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "thumbnail-57.jpg"
+coverImage: "post_assets/thumbnail-57.jpg"
 ---
 
 ### 【小品推薦】Vampire Survivors 遊戲介紹實機解說 | 超值兩鎂精神時光屋 | 進化武器 遊戲攻略 角色解鎖
@@ -47,7 +47,7 @@ coverImage: "thumbnail-57.jpg"
 **先補上相關進化武器需要的材料****:**  
 
   
-![](WordPress/2-23-718x1024.png)  
+![](post_assets/2-23-718x1024.png)  
 
   
 目前為止還是有武器是沒有進化版本，  
@@ -58,10 +58,10 @@ coverImage: "thumbnail-57.jpg"
 才可以完美湊成最理想裝備！  
 
   
-![](WordPress/4-12-863x1024.png)  
+![](post_assets/4-12-863x1024.png)  
 
   
-![](WordPress/3-19.png)  
+![](post_assets/3-19.png)  
 
   
 成就方面就不特別多說了，  
@@ -71,7 +71,7 @@ coverImage: "thumbnail-57.jpg"
 全都解鎖後就會比較好做裝備，不然的話可能會卡一點點防具！  
 
   
-![](WordPress/2022-01-22-13-02-41.mp4_snapshot_01.54.01.750-1024x576.jpg)  
+![](post_assets/2022-01-22-13-02-41.mp4_snapshot_01.54.01.750-1024x576.jpg)  
 
   
 其中彩鳥的成本十分大，需要２４級才完美升滿，  
@@ -88,7 +88,7 @@ coverImage: "thumbnail-57.jpg"
 運氣影響很多遊戲數值，特別打燭台會超多雞腿，也算是一個不錯的角色！  
 
   
-![](WordPress/5-4-1024x865.png)  
+![](post_assets/5-4-1024x865.png)  
 
   
 另外一個會直接增加當前金幣，實際數字不清楚了，  

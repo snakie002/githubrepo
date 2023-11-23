@@ -33,7 +33,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評價"
-coverImage: "thumbnail-2.jpg"
+coverImage: "post_assets/thumbnail-2.jpg"
 ---
 
 ### 【火炬之光：無限】S3新技能 賓 飛箭英靈全通 輕鬆20億 對戰持律人  
@@ -80,18 +80,18 @@ Any肥希望可以幫助各位有興趣了解炸彈飛箭英靈的朋友們！
 以下為附圖方便各位：  
 
   
-![](WordPress/P1-1024x576.jpg)  
-![](WordPress/P2-1024x576.jpg)  
-![](WordPress/P3-1024x576.jpg)  
-![](WordPress/P4-1024x576.jpg)  
-![](WordPress/P5-1024x576.jpg)  
-![](WordPress/P6-1024x576.jpg)  
-![](WordPress/P12-1024x576.jpg)  
-![](WordPress/P11-1024x576.jpg)  
-![](WordPress/P10-1024x576.jpg)  
-![](WordPress/P9-1024x576.jpg)  
-![](WordPress/P8-1024x576.jpg)  
-![](WordPress/P7-1024x576.jpg)  
+![](post_assets/P1-1024x576.jpg)  
+![](post_assets/P2-1024x576.jpg)  
+![](post_assets/P3-1024x576.jpg)  
+![](post_assets/P4-1024x576.jpg)  
+![](post_assets/P5-1024x576.jpg)  
+![](post_assets/P6-1024x576.jpg)  
+![](post_assets/P12-1024x576.jpg)  
+![](post_assets/P11-1024x576.jpg)  
+![](post_assets/P10-1024x576.jpg)  
+![](post_assets/P9-1024x576.jpg)  
+![](post_assets/P8-1024x576.jpg)  
+![](post_assets/P7-1024x576.jpg)  
 
   
 因為新賽季加入了七巧板，  
@@ -123,10 +123,10 @@ Any肥希望可以幫助各位有興趣了解炸彈飛箭英靈的朋友們！
 遺物拿出英雄效果就好！  
 
   
-![](WordPress/H5-1024x576.jpg)  
-![](WordPress/H4-1024x576.jpg)  
-![](WordPress/H3-1024x576.jpg)  
-![](WordPress/H2-1024x576.jpg)  
+![](post_assets/H5-1024x576.jpg)  
+![](post_assets/H4-1024x576.jpg)  
+![](post_assets/H3-1024x576.jpg)  
+![](post_assets/H2-1024x576.jpg)  
 
   
 **技能連結**  
@@ -145,15 +145,15 @@ Any肥希望可以幫助各位有興趣了解炸彈飛箭英靈的朋友們！
 其他可按個人要求改動！  
 
   
-![](WordPress/S9-1024x576.jpg)  
-![](WordPress/S1-1-1024x576.jpg)  
-![](WordPress/S4-1-1024x576.jpg)  
-![](WordPress/S2-1-1024x576.jpg)  
-![](WordPress/S3-1-1024x576.jpg)  
-![](WordPress/S5-1-1024x576.jpg)  
-![](WordPress/S8-1-1024x576.jpg)  
-![](WordPress/S7-1-1024x576.jpg)  
-![](WordPress/S6-1-1024x576.jpg)  
+![](post_assets/S9-1024x576.jpg)  
+![](post_assets/S1-1-1024x576.jpg)  
+![](post_assets/S4-1-1024x576.jpg)  
+![](post_assets/S2-1-1024x576.jpg)  
+![](post_assets/S3-1-1024x576.jpg)  
+![](post_assets/S5-1-1024x576.jpg)  
+![](post_assets/S8-1-1024x576.jpg)  
+![](post_assets/S7-1-1024x576.jpg)  
+![](post_assets/S6-1-1024x576.jpg)  
 
   
    
@@ -178,9 +178,9 @@ Any肥希望可以幫助各位有興趣了解炸彈飛箭英靈的朋友們！
    
 
   
-![](WordPress/G1-1024x576.jpg)  
-![](WordPress/G3-1024x576.jpg)  
-![](WordPress/G2-1024x576.jpg)  
+![](post_assets/G1-1024x576.jpg)  
+![](post_assets/G3-1024x576.jpg)  
+![](post_assets/G2-1024x576.jpg)  
 
   
 **感想心得**  
@@ -221,10 +221,10 @@ Any肥希望可以幫助各位有興趣了解炸彈飛箭英靈的朋友們！
 如果Ｓ４能夠把經濟部份再處理得更好就好了！  
 
   
-![](WordPress/1-1-1024x576.jpg)  
+![](post_assets/1-1-1024x576.jpg)  
 
   
-![](WordPress/2-1-1024x576.jpg)  
+![](post_assets/2-1-1024x576.jpg)  
 
   
 差不多這樣了，希望可以幫到各位有興趣的玩家！  

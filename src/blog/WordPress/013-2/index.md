@@ -34,7 +34,7 @@ tags:
   - "流亡黯道-永恆屍布"
   - "流亡黯道-解說"
   - "遊戲攻略"
-coverImage: "thumbnail-32.jpg"
+coverImage: "post_assets/thumbnail-32.jpg"
 ---
 
 ### 【POE】3.12 詐欺師聖怒星空套裝 Trickster The Eternity Shroud Divine Ire Build | 永恆屍布詳細解說  
@@ -70,7 +70,7 @@ Pastebin: https://pastebin.com/Xa3xkbCf
 天賦樹縮圖:  
 
   
-![](WordPress/PT-1024x463.png)  
+![](post_assets/PT-1024x463.png)  
 
   
    
@@ -108,7 +108,7 @@ Pastebin: https://pastebin.com/Xa3xkbCf
 引用影片的例子  
 
   
-![](WordPress/1-1.png)  
+![](post_assets/1-1.png)  
 
   
 如果把額外火焰傷害計算內外的話，  
@@ -133,7 +133,7 @@ Pastebin: https://pastebin.com/Xa3xkbCf
 引用影片例子  
 
   
-![](WordPress/2-1-1024x382.png)  
+![](post_assets/2-1-1024x382.png)  
 
   
 這個就容易理解多了，就是把星空的５０％增加到５８％，  
@@ -201,7 +201,7 @@ Pastebin: https://pastebin.com/Xa3xkbCf
 **總傷害** **= 299.34****相比原來的****227****總傷害****提高了****72****點**  
 
   
-![](WordPress/036.mp4_snapshot_02.54.434-1024x576.jpg)  
+![](post_assets/036.mp4_snapshot_02.54.434-1024x576.jpg)  
 
   
 因此總結一下,  

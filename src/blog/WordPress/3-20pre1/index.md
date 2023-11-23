@@ -35,7 +35,7 @@ tags:
   - "流亡黯道-處刑者"
   - "流亡黯道-詐欺師"
   - "流亡黯道盾投"
-coverImage: "thumbnail-1.jpg"
+coverImage: "post_assets/thumbnail-1.jpg"
 ---
 
 大家好，又是我Snakie何師傅。  
@@ -92,10 +92,10 @@ coverImage: "thumbnail-1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-1-480x1024.png)  
+![](post_assets/1-1-480x1024.png)  
 
   
-![](WordPress/2.png)  
+![](post_assets/2.png)  
 
   
    
@@ -171,10 +171,10 @@ coverImage: "thumbnail-1.jpg"
    
 
   
-**![](WordPress/3-1.png)**  
+**![](post_assets/3-1.png)**  
 
   
-![](WordPress/4-1.png)  
+![](post_assets/4-1.png)  
 
   
    

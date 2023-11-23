@@ -39,7 +39,7 @@ tags:
   - "流亡黯道-衛士"
   - "遊戲介紹"
   - "遊戲評測"
-coverImage: "thumbnail1-9.jpg"
+coverImage: "post_assets/thumbnail1-9.jpg"
 ---
 
 ### 【POE】3.15 絕望聯盟 首三日簡短進度報告 衛士盾投之悲報 | 拓圖極簡易講解  
@@ -72,7 +72,7 @@ coverImage: "thumbnail1-9.jpg"
 分別是**難度，傷害及魔力****問題，****遊戲後期及掉落改動，流派選擇**  
 
   
-![](WordPress/1.mp4_snapshot_00.24.082-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_00.24.082-1024x576.jpg)  
 
   
 **難度，傷害及魔力****問題**實際更新後，第一章相信各位已經感受到官方的舉動，  
@@ -101,7 +101,7 @@ coverImage: "thumbnail1-9.jpg"
 這就是現在的事實；  
 
   
-![](WordPress/1.mp4_snapshot_13.10.619-1024x576.jpg)  
+![](post_assets/1.mp4_snapshot_13.10.619-1024x576.jpg)  
 
   
 **遊戲後期及掉落改動**  
@@ -133,7 +133,7 @@ coverImage: "thumbnail1-9.jpg"
 那是極度勸退的局面，造成玩家很難有玩下去的衝動；  
 
   
-![](WordPress/WhatsApp-Image-2021-07-26-at-3.45.25-PM-1.jpeg)  
+![](post_assets/WhatsApp-Image-2021-07-26-at-3.45.25-PM-1.jpeg)  
 
   
 **流派選擇**如前文所說，流派的選擇要更慎重，  

@@ -11,7 +11,7 @@ tags:
   - "遊戲介紹"
   - "遊戲攻略"
   - "遊戲評測"
-coverImage: "download.jpg"
+coverImage: "post_assets/download.jpg"
 ---
 
 ### 【遊戲評測】XGP 會員免費！冒險動作遊戲《TUNIC》小狐狸 X 類魂遊戲
@@ -22,10 +22,10 @@ coverImage: "download.jpg"
 並首日同步登陸 Xbox Games Pass，推出兩天亦得到90%的極度好評！  
 
   
-![](WordPress/photo01.png)  
+![](post_assets/photo01.png)  
 
   
-![](WordPress/unknown.png)  
+![](post_assets/unknown.png)  
 
   
 小師弟對這遊戲的第一感覺是畫面很可愛，但玩下去就發覺不簡單，  
@@ -33,20 +33,20 @@ coverImage: "download.jpg"
 要求微控，高難度，死亡懲罰極高，以及豐厚的地圖探索獎勵，《TUNIC》這款小遊戲都包含以上類魂元素！  
 
   
-![](WordPress/photo02-1024x576.png)  
+![](post_assets/photo02-1024x576.png)  
 
   
-![](WordPress/photo03-1024x576.png)  
+![](post_assets/photo03-1024x576.png)  
 
   
 玩家於遊戲內將會操作一隻可愛的小狐狸於神秘的國度探險，  
 剛開始只能拿著小樹枝作戰 面對強大的敵人小師弟很快便迎來第一次死亡！  
 
   
-![](WordPress/photo04-1024x576.png)  
+![](post_assets/photo04-1024x576.png)  
 
   
-![](WordPress/photo05-1024x576.png)  
+![](post_assets/photo05-1024x576.png)  
 
   
 第一次死亡後會將玩家傳送到另一個世界，一直向前走就會見到一名大狐狸，  
@@ -56,10 +56,10 @@ coverImage: "download.jpg"
 雖然回血，但所有都會重啟一樣！  
 
   
-![](WordPress/photo06-1024x576.png)  
+![](post_assets/photo06-1024x576.png)  
 
   
-![](WordPress/photo07-1024x576.png)  
+![](post_assets/photo07-1024x576.png)  
 
   
 遊戲內的文字是使用了神秘文字 十分特別，有很少部份是內置翻譯，但小師弟遇到的大部份都沒有；  
@@ -67,16 +67,16 @@ coverImage: "download.jpg"
 碎片式的感覺也有魂系一樣的感覺，就不知道是不是連語言也是這樣了，到底能不能好好溝通；  
 
   
-![](WordPress/photo08-1024x576.png)  
+![](post_assets/photo08-1024x576.png)  
 
   
-![](WordPress/photo09-1024x576.png)  
+![](post_assets/photo09-1024x576.png)  
 
   
 隨著玩家的探索 會於遊戲內撿到一些類似說明書的分頁，一路收集就會漸漸發現遊戲內更多的內容操作以及提示等等；  
 
   
-![](WordPress/photo10-1024x576.png)  
+![](post_assets/photo10-1024x576.png)  
 
 # **小師弟遊後感想💭**
 

@@ -37,7 +37,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "Title-LE.jpg"
+coverImage: "post_assets/Title-LE.jpg"
 ---
 
 # \[Last Epoch\] 0.9.2F 語言包改善? 漢化問題依然存在 | 最後紀元 | 0.9.2 | Runes of Power
@@ -46,7 +46,7 @@ coverImage: "Title-LE.jpg"
    
 
   
-![](WordPress/1-2-1024x202.png)  
+![](post_assets/1-2-1024x202.png)  
 
   
 昨天的更新裡面說了有個語言包改善  
@@ -54,45 +54,45 @@ coverImage: "Title-LE.jpg"
 玩家能否依靠官方的漢化理解得到遊戲?  
 
   
-![](WordPress/2-3.png)  
+![](post_assets/2-3.png)  
 
   
 首先登入畫面不再都是離線遊戲  
 設置裡面好像都漢化了  
 
   
-![](WordPress/3-4.png)  
+![](post_assets/3-4.png)  
 
   
 不過在創造角色裡面  
 自力依然是"已找到"  
 
   
-![](WordPress/4-1.png)  
+![](post_assets/4-1.png)  
 
   
 範圍標籤還是韓文  
 
   
-![](WordPress/5-1.png)  
+![](post_assets/5-1.png)  
 
   
 遊戲內中文字之間依然有奇怪的間格  
 
   
-![](WordPress/6-1.png)  
+![](post_assets/6-1.png)  
 
   
 有些地方依然是英文, 未有漢化  
 
   
-![](WordPress/7.png)  
+![](post_assets/7.png)  
 
   
 詞彙上也有很多不統一的地方  
 
   
-![](WordPress/8.png)  
+![](post_assets/8.png)  
 
   
 或者是難以理解的詞彙  
@@ -102,7 +102,7 @@ coverImage: "Title-LE.jpg"
 距離單靠漢化還有一段漫長的道路  
 
   
-![](WordPress/9.png)  
+![](post_assets/9.png)  
 
   
 不過官方也致力盡行改善  

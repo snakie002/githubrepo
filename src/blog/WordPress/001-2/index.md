@@ -25,7 +25,7 @@ tags:
   - "技能連結"
   - "裝備買賣"
   - "遊戲攻略"
-coverImage: "thumbnail-21.jpg"
+coverImage: "post_assets/thumbnail-21.jpg"
 ---
 
 ### 【POE】POE 通識 - 完全新手食用教程 (1) | 遊戲流程 技能連結 裝備買賣 | Fresh Beginners Guide  
@@ -71,20 +71,20 @@ POE PASTEBIN網上版　（方便對照天賦）
    
 
   
-![](WordPress/4-1024x576.jpg)  
+![](post_assets/4-1024x576.jpg)  
 
   
-![](WordPress/6-1024x576.jpg)  
+![](post_assets/6-1024x576.jpg)  
 
   
-![](WordPress/3-1024x576.jpg)  
+![](post_assets/3-1024x576.jpg)  
 
   
-![](WordPress/2-1024x576.jpg)  
-![](WordPress/1-1024x576.jpg)  
+![](post_assets/2-1024x576.jpg)  
+![](post_assets/1-1024x576.jpg)  
 
   
-![](WordPress/5-1024x576.jpg)  
+![](post_assets/5-1024x576.jpg)  
 
   
 文字補完：  

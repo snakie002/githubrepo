@@ -37,7 +37,7 @@ tags:
   - "流亡黯道-流血"
   - "流亡黯道-漩渦"
   - "遊戲攻略"
-coverImage: "thumbnail-47.jpg"
+coverImage: "post_assets/thumbnail-47.jpg"
 ---
 
 ### 【POE】三大爆炸拓荒推薦 衛士流血弓 秘術家漩渦 元素師印卜薩 | 自帶爆炸 有效拓荒農通貨  
@@ -57,13 +57,13 @@ coverImage: "thumbnail-47.jpg"
 文字補完 (關於影片沒有提供的內容)：  
 
   
-![](WordPress/PIC2-1024x576.jpg)  
+![](post_assets/PIC2-1024x576.jpg)  
 
   
-![](WordPress/pic0-1024x576.jpg)  
+![](post_assets/pic0-1024x576.jpg)  
 
   
-![](WordPress/pic1-1-1024x576.jpg)  
+![](post_assets/pic1-1-1024x576.jpg)  
 
   
 先附上三個不同的詳細文字補完版本：  

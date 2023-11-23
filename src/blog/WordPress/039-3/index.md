@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-聖宗"
   - "流亡黯道-衛士"
   - "遊戲攻略"
-coverImage: "thumbnail3-1.jpg"
+coverImage: "post_assets/thumbnail3-1.jpg"
 ---
 
 ### 【POE】3.15三大防砍拓荒推薦 破壞者冰凍陷阱 文字補完版本
@@ -74,10 +74,10 @@ coverImage: "thumbnail3-1.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/1-10-1024x767.png)  
+![](post_assets/1-10-1024x767.png)  
 
   
-![](WordPress/2-6.png)  
+![](post_assets/2-6.png)  
 
   
 基本上昇華的1 2 3對傷害都十分重要，同時４的防禦也很明顯，  
@@ -87,7 +87,7 @@ coverImage: "thumbnail3-1.jpg"
 ４號在打圖時就會發揮續航力，  
 所以基本上沒甚麼可以選擇的地方，  
 順著點就好！  
-![](WordPress/3-4.png)  
+![](post_assets/3-4.png)  
 
   
 **裝備選擇**陷阱在低等級的時候已經有很好的傷害，  
@@ -113,7 +113,7 @@ coverImage: "thumbnail3-1.jpg"
 要特別留意！  
 
   
-![](WordPress/4-4.png)  
+![](post_assets/4-4.png)  
 
   
 **技能連結**冰凍陷阱—散彈陷阱輔助—陷阱及地雷傷害輔助—啟發／急凍—陷阱充能輔助—覺醒附加冰冷  

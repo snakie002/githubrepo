@@ -17,7 +17,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評測"
   - "遊戲雜談"
-coverImage: "thumbnail-11.jpg"
+coverImage: "post_assets/thumbnail-11.jpg"
 ---
 
 ### 【異度神劍 終極版】90小時遊玩後感 舊作內容套入現代系統 | 經典JRPG不容錯失  
@@ -32,10 +32,10 @@ Xenoblade Chronicles: Definitive Edition
    
 
   
-![](WordPress/MAP.jpg)  
+![](post_assets/MAP.jpg)  
 
   
-![](WordPress/WOW.jpg)  
+![](post_assets/WOW.jpg)  
 
   
 ９０小時其實是包括八十多小時的本傳及四小時的休閒新故事，特別要感謝一下各位巴友的文章才可以讓小弟完成一周目  

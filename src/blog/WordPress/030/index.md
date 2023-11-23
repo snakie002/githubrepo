@@ -40,7 +40,7 @@ tags:
   - "流亡黯道-秘術家-漩渦"
   - "流亡黯道-貧血"
   - "遊戲攻略"
-coverImage: "thumbnail-51.jpg"
+coverImage: "post_assets/thumbnail-51.jpg"
 ---
 
 ### 【POE】秘術家漩渦 懶人拓荒 一鍵漩渦到爆機 Occultist Vortex  
@@ -80,10 +80,10 @@ coverImage: "thumbnail-51.jpg"
 以下為附圖方便各位：  
 
   
-![](WordPress/PASSIVE-7-1024x664.png)  
+![](post_assets/PASSIVE-7-1024x664.png)  
 
   
-![](WordPress/ASCEND.png)  
+![](post_assets/ASCEND.png)  
 
   
    
@@ -97,7 +97,7 @@ coverImage: "thumbnail-51.jpg"
    
 
   
-![](WordPress/Path-of-Exile-Black-Hole-Vortex.mp4_snapshot_00.12.446-1024x576.jpg)  
+![](post_assets/Path-of-Exile-Black-Hole-Vortex.mp4_snapshot_00.12.446-1024x576.jpg)  
 
   
 **技能連結****主技能組—４Ｂ２Ｇ****漩渦—元素集中—精準破壞—急凍—效能輔助—極速苦痛輔助**  
@@ -173,7 +173,7 @@ coverImage: "thumbnail-51.jpg"
 請自行調配到理想狀態！  
 
   
-![](WordPress/ITEM.png)  
+![](post_assets/ITEM.png)  
 
   
    
@@ -326,7 +326,7 @@ coverImage: "thumbnail-51.jpg"
 謝謝你！  
 
   
-![](WordPress/poe-witch-art-wallpaper-1920x1080-001_46-1024x576.jpg)  
+![](post_assets/poe-witch-art-wallpaper-1920x1080-001_46-1024x576.jpg)  
 
   
 By Snakie何師傅  

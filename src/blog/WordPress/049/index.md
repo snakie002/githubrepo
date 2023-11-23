@@ -27,7 +27,7 @@ tags:
   - "破曉傳奇-遊玩後感"
   - "遊戲介紹"
   - "遊戲評測"
-coverImage: "thumbnail1-18.jpg"
+coverImage: "post_assets/thumbnail1-18.jpg"
 ---
 
 ### 【破曉傳奇】60小時遊玩後感 劇情部份 戰鬥系統 遊戲感想  
@@ -63,10 +63,10 @@ coverImage: "thumbnail1-18.jpg"
 影片以外還有以下兩點想作點補充：  
 
   
-![](WordPress/2021-09-25-01-04-20.mp4_snapshot_01.31.12.009-1024x576.jpg)  
+![](post_assets/2021-09-25-01-04-20.mp4_snapshot_01.31.12.009-1024x576.jpg)  
 
   
-![](WordPress/2021-09-25-01-04-20.mp4_snapshot_01.31.10.378-1024x576.jpg)  
+![](post_assets/2021-09-25-01-04-20.mp4_snapshot_01.31.10.378-1024x576.jpg)  
 
   
 **ＲＰＧ遊戲變化 Ｘ 市場需求**  
@@ -88,10 +88,10 @@ coverImage: "thumbnail1-18.jpg"
    
 
   
-![](WordPress/2021-09-25-01-04-20.mp4_snapshot_01.31.01.492-1024x576.jpg)  
+![](post_assets/2021-09-25-01-04-20.mp4_snapshot_01.31.01.492-1024x576.jpg)  
 
   
-![](WordPress/2021-09-24-05-05-06.mp4_snapshot_37.20.509-1024x576.jpg)  
+![](post_assets/2021-09-24-05-05-06.mp4_snapshot_37.20.509-1024x576.jpg)  
 
   
 除了廠商的變化，遊戲設計上也有很大的變化，  
@@ -113,10 +113,10 @@ coverImage: "thumbnail1-18.jpg"
 **而破曉傳奇正正就把這個部份做到恰到好處，****用動畫跟華麗畫面配合爽快連擊吸引大眾玩家，****再用小量大後期內容留住重度玩家，****所以商業上來說破曉傳奇的確非常成功**  
 
   
-![](WordPress/2021-09-24-00-44-58.mp4_snapshot_00.27.06.092-1024x576.jpg)  
+![](post_assets/2021-09-24-00-44-58.mp4_snapshot_00.27.06.092-1024x576.jpg)  
 
   
-![](WordPress/2021-09-25-01-04-20.mp4_snapshot_01.31.25.859-1024x576.jpg)  
+![](post_assets/2021-09-25-01-04-20.mp4_snapshot_01.31.25.859-1024x576.jpg)  
 
   
 **不能滿分的原因**  
@@ -150,7 +150,7 @@ coverImage: "thumbnail1-18.jpg"
    
 
   
-![](WordPress/2021-09-24-00-44-58.mp4_snapshot_00.18.44.879-1024x576.jpg)  
+![](post_assets/2021-09-24-00-44-58.mp4_snapshot_00.18.44.879-1024x576.jpg)  
 
   
    

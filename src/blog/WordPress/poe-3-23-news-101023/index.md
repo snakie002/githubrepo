@@ -40,7 +40,7 @@ tags:
   - "遊戲攻略"
   - "遊戲評價"
   - "香港"
-coverImage: "maxresdefault.jpg"
+coverImage: "post_assets/maxresdefault.jpg"
 ---
 
 # \[POE 3.23 消息\] 3.23 延遲 & 3.23 發佈會預告. 11月份將會有季尾活動! | 流亡黯道 | Path of Exile
@@ -49,7 +49,7 @@ coverImage: "maxresdefault.jpg"
    
 
   
-![](WordPress/1-1.jpg)  
+![](post_assets/1-1.jpg)  
 
   
 今天GGG公佈了  
@@ -59,7 +59,7 @@ coverImage: "maxresdefault.jpg"
 詳情稍後再作通知  
 
   
-![](WordPress/2-5-1024x576.png)  
+![](post_assets/2-5-1024x576.png)  
 
   
 11月底的發佈會內不容錯過  
