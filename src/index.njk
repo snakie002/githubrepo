@@ -18,10 +18,15 @@ layout: layouts/base.njk
     {% include "./_includes/components/postslist.njk" %}
   </div>
   <div class="min-w-[350px] w-[350px]">
-    <div class="sticky top-20">
-      {% set postslistTitle = "最近更新" %}
-      {% set postslist = collections.recentPosts %}
-      {% include "./_includes/components/side-postslist.njk" %}
+    <div class="sticky top-20 flex flex-col space-y-6">
+      <div>
+        {% include "./_includes/components/category-list.njk" %}
+      </div>
+      <div>
+        {% set postslistTitle = "最近更新" %}
+        {% set postslist = collections.recentPosts %}
+        {% include "./_includes/components/side-postslist.njk" %}
+      </div>
     </div>
   </div>
 </div>

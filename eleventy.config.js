@@ -275,7 +275,10 @@ module.exports = function (eleventyConfig) {
 			.getAll()
 			.reverse()
 			.forEach((item) => {
-				item.data.categories?.forEach((category) => {
+				item.data.categories?.forEach((category, i) => {
+					if (typeof category !== "string") {
+						return;
+					}
 					if (!categories[category]) {
 						categories[category] = [];
 					}
