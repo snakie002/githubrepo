@@ -17,7 +17,7 @@
         <style>{% getBundle "css" %}</style>
     </head>
     <body>
-        <div class="py-8 bg-base-200">
+        <div class="py-8 bg-base-200" id="site">
             <div class="py-4 lg:py-8 px-1 lg:px-4 container max-w-[1200px] mx-auto">
                 {% include "../components/topnav.njk" %}
             </div>
@@ -27,5 +27,45 @@
             </main>
         </div>
         <!-- Current page: {{ page.url | htmlBaseUrl }} -->
+
+        {% block js %}
+          <script>
+            document.addEventListener('DOMContentLoaded', function () {
+              // Postlist infinite scroll
+              var wrap = document.querySelector('#site');
+              var spinner = document.querySelector('.spinner');
+              var checking = false;
+
+              function checkPostlist() {
+                if (checking) {
+                  return;
+                }
+                checking = true;
+                var hiddenPostlist = document.querySelectorAll(".postlist.hidden");
+
+                if (hiddenPostlist.length > 0) {
+                  spinner.classList.remove('hidden');
+
+                  setTimeout(() => {
+                    for (var i = 0; i < hiddenPostlist.length; i++) {
+                      if (i < 10) {
+                        var post = hiddenPostlist[i];
+                        hiddenPostlist[i].classList.remove('hidden');
+                      }
+                    }
+                    spinner.classList.add('hidden');
+                    checking = false;
+                  }, 250)
+                }
+              }
+
+              window.onscroll = function(ev) {
+                if ((window.innerHeight + window.pageYOffset + 20) >= wrap.offsetHeight) {
+                  checkPostlist();
+                }
+              };
+            });
+          </script>
+        {% endblock %}
     </body>
 </html>
