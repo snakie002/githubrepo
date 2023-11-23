@@ -3,7 +3,9 @@
         <ul class="splide__list">
             {% for featuredPost in collections.featuredPosts %}
                 {% if featuredPost.data.coverImage %}
-                    <li class="splide__slide">{% coverimage featuredPost, featuredPost.data.title %}</li>
+                    <li class="splide__slide">
+                        <a href="{{ featuredPost.url | url }}">{% coverimage featuredPost, featuredPost.data.title %}</a>
+                    </li>
                 {% endif %}
             {% endfor %}
         </ul>
