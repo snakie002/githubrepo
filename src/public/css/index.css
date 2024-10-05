@@ -91,3 +91,8 @@ body {
 .post-content .image-with-caption {
 	@apply my-16;
 }
+
+.post-content .videof, .videot {
+    width: 100%;  
+    height: 100%;
+ }
