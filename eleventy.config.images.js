@@ -36,18 +36,22 @@ module.exports = (eleventyConfig) => {
 		}
 	);
 
-	eleventyConfig.addAsyncShortcode(
-		"coverimage",
-		async function coverImageShortcode(post, alt, widths, sizes) {
-			try {
-				const src = `${process.env.MEDIA_SERVER}/${path.join(
-					post.filePathStem.replace("/blog/", "").replace("/index", ""),
-					post.data.coverImage
-				)}`;
-				return `<img loading="lazy" src="${src}" />`;
-			} catch (err) {
-				console.error(err);
-			}
+    eleventyConfig.addAsyncShortcode(
+        "coverimage",
+        async function coverImageShortcode(post, filePathStem, coverImage2) {
+            try {
+                const filepath = post?.filePathStem || filePathStem;
+                const coverImage = post?.data.coverImage || coverImage2;
+                const serverUrl = process.env.MEDIA_SERVER;
+				
+                const src = `${serverUrl}/${path.join(
+                    filepath.replace("/blog/", "").replace("/index", ""),
+                    coverImage
+                )}`;
+                return `<img loading="lazy" src="${src}" />`;
+            } catch (err) {
+                console.error(err);
+            }
 
 			// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
 			// Warning: Avif can be resource-intensive so take care!

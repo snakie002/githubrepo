@@ -54,8 +54,8 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.addFilter("timeAgo", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toRelative();
-	});
+		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat("yyyy-MM-dd");
+	  });
 
 	eleventyConfig.addFilter("htmlDateString", (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -136,6 +136,11 @@ module.exports = function (eleventyConfig) {
 		}
 		const cat = categories.find((cat) => cat.slug === category);
 		return cat ? cat.name : category;
+	});
+
+	eleventyConfig.addFilter("sortByDateDesc", (arr) => {
+		arr.sort((a, b) => new Date(b.date) - new Date(a.date)); // Ensure dates are compared as Date objects
+		return arr;
 	});
 
 	function renderCaption(md) {
@@ -270,29 +275,46 @@ module.exports = function (eleventyConfig) {
 
 	// Categories collection
 	eleventyConfig.addCollection("categories", function (collection) {
-		const categories = {};
-		collection
-			.getAll()
-			.reverse()
-			.forEach((item) => {
-				item.data.categories?.forEach((category, i) => {
-					if (typeof category !== "string") {
-						return;
-					}
-					if (!categories[category]) {
-						categories[category] = [];
-					}
-					categories[category].push(item);
-				});
-			});
-		return categories;
-	});
+        const translatedCategories = JSON.parse(JSON.stringify(categories)); // Clone cateogires object
+        const cats = {};
+
+        collection
+            .getAll()
+            .reverse()
+            .forEach((item) => {
+                item.data.categories?.forEach((category, i) => {
+                    if (typeof category !== "string") {
+                        return;
+                    }
+                    if (!cats[category]) {
+                        cats[category] = [];
+                    }
+                    cats[category].push(item);
+                });
+            });
+
+        translatedCategories.sort((a, b) => {
+            return ('' + a.name).localeCompare(b.name);
+        });
+		let logged = false;
+		if(!logged) {
+			console.log(categories);
+		}
+
+		logged = true;
+        let sortedCategories = {};
+        translatedCategories.forEach((category) => {
+            sortedCategories[category.slug] = cats[category.slug] || [];
+        });
+
+        return sortedCategories;
+    });
 
 	eleventyConfig.addCollection("recentPosts", function (collectionApi) {
 		const posts = collectionApi
 			.getFilteredByTag("posts")
 			.reverse()
-			.splice(0, 6);
+			.splice(0, 10);
 		return posts;
 	});
 

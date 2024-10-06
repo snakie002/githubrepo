@@ -1,12 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
-
 <div class="flex flex-col lg:flex-row space-x-6">
   <div>
     <main class="post-content">
 
-      <h1>{{ title }}</h1>
+{% coverimage post, page.filePathStem, coverImage %}
+<h1>{{ title }}</h1>
+
       <div class="post-metadata mt-4 mb-8 space-y-2">
         <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
         <div>
@@ -29,7 +30,11 @@ layout: layouts/base.njk
 
     {% include "../components/related.njk" %}
   </div>
-  <div class="min-w-[350px] w-[350px] hidden lg:block">
+    <div class="min-w-[350px] w-[350px]">
+    <div class="sticky top-20 flex flex-col space-y-6">
+      <div>
+        {% include "..//components/category-list.njk" %}
+      </div>
     <div class="sticky top-20">
       {% set postslistTitle = "最近更新" %}
       {% set postslist = collections.recentPosts %}

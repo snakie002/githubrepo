@@ -1,0 +1,28 @@
+Embed
+
+
+<iframe width="100%" height="440"src="https://www.youtube.com/embed/VdC8V3NSSpM"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://cdn.factorio.com/assets/blog-sync/fff-398-tour-city.mp4" frameborder="0" allowfullscreen></iframe>
+
+E:\Blog\on9games\snakie002-blog-11ty
+
+https://youtu.be/VdC8V3NSSpM
+
+- "POE 攻略"
+  - "POE 教學"
+  - "POE 新手"
+  - "何師傅"
+  - "流亡黯道"
+  - "流亡黯道 攻略"
+ 
+
+Folder:
+YYMMDD-TITLE
+
+
+Tags:
+- 何師傅 / author

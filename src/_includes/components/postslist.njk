@@ -1,6 +1,7 @@
 <div class="flex flex-col space-y-1">
   <h1 class="text-2xl font-bold">{{ postslistTitle }}</h1>
-  {% for post in postslist %}
+  {% set sortedPosts = postslist | sortByDateDesc %}
+  {% for post in sortedPosts %}
     <div class="postlist {{ "hidden" if loop.index0 > 10 }}">
       <div class="divider"></div>
       <div class="card card-compact lg:card-normal">

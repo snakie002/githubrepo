@@ -12,6 +12,13 @@
               {% endif %}
             </div>
           </div>
+          <div class="flex flex-col grow">
+            <div class="mb-1">
+              {% include "./category-badge.njk" %}
+            </div>
+            <a href="{{ post.url | url }}" class="flex flex-col grow">
+              <div class="card-title text-5xl">
+              </div>
           <div>
             <div class="card-title text-sm">
               <h4 class="line-clamp-3">{{ post.data.title }}</h4>

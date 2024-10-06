@@ -1,3 +1,5 @@
+<h1 class="text-2xl mb-4 font-bold">精選文章</h1>
+
 {% css %}
 .embla {
   overflow: hidden;
@@ -16,7 +18,12 @@
     {% for featuredPost in collections.featuredPosts %}
         {% if featuredPost.data.coverImage %}
             <div class="embla__slide">
-                <a href="{{ featuredPost.url | url }}">{% coverimage featuredPost, featuredPost.data.title %}</a>
+                <a href="{{ featuredPost.url | url }}">{% coverimage featuredPost, featuredPost.data.title %}
+                    <h1 class="text-3xl font-bold leading-tight">
+                    <a href="{{ featuredPost.url | url }}">
+                    {{ featuredPost.data.title }}
+                </a>
+                    </h1>
             </div>
         {% endif %}
     {% endfor %}
@@ -46,6 +53,7 @@
                     </li>
                 {% endif %}
             {% endfor %}
+        
         </ul>
     </div>
 </section> #}
